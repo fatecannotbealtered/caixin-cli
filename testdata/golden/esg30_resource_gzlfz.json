@@ -1,0 +1,1452 @@
+{
+  "_untrusted": true,
+  "arbitrary_text_not_extracted": true,
+  "article_details_not_fetched": true,
+  "complete_listing_verified": false,
+  "description_not_extracted": true,
+  "directory_only": true,
+  "downloads": [
+    {
+      "access": "ssr_download_candidate",
+      "content_not_fetched": true,
+      "expected_mime_type": "application/pdf",
+      "rendered_visibility_not_verified": true,
+      "title": "2025金融消费洞察 金融为民：让生活更有温度 下载报告",
+      "url": "https://promote.caixin.com/upload/jrxfqsdc2025.pdf"
+    },
+    {
+      "access": "ssr_download_candidate",
+      "content_not_fetched": true,
+      "expected_mime_type": "application/pdf",
+      "rendered_visibility_not_verified": true,
+      "title": "出海新加坡：把握东南亚投资机遇 助力中国企业从新加坡出发，把握明日机遇 下载报告",
+      "url": "https://promote.caixin.com/upload/Ebook2025.pdf"
+    },
+    {
+      "access": "ssr_download_candidate",
+      "content_not_fetched": true,
+      "expected_mime_type": "application/pdf",
+      "rendered_visibility_not_verified": true,
+      "title": "2024中国ESG发展白皮书 把脉ESG发展大势 下载报告",
+      "url": "https://promote.caixin.com/upload/esg30whitepaper2024.pdf"
+    },
+    {
+      "access": "ssr_download_candidate",
+      "content_not_fetched": true,
+      "expected_mime_type": "application/pdf",
+      "rendered_visibility_not_verified": true,
+      "title": "2024高质量金融人才职业发展报告 专业引领，立征未来 下载报告",
+      "url": "https://promote.caixin.com/upload/gzljrrc2024.pdf"
+    }
+  ],
+  "downloads_count": 4,
+  "downloads_not_fetched": true,
+  "esg30_branded_resource": false,
+  "external_links_count": 1,
+  "external_links_not_fetched": true,
+  "external_stylesheets_applied": false,
+  "external_stylesheets_not_fetched": true,
+  "forms_count": 0,
+  "forms_not_submitted": true,
+  "iframes_count": 0,
+  "iframes_ignored": true,
+  "items_count": 54,
+  "javascript_executed": false,
+  "kind": "esg30_resource",
+  "latest_article_date": "2025-07-28",
+  "linked_pages_not_fetched": true,
+  "media_elements_count": 72,
+  "media_not_downloaded": true,
+  "modules": [
+    {
+      "items": [
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2025-07-28/102345792.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2025-07-28/102345792.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2025-07-28/102345792.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-28",
+          "summary": null,
+          "title": "美国与欧盟达成贸易协定 欧盟被课15%关税并承诺7500亿美元能源采购 冯德莱恩称，和特朗普持续了大约一个小时的谈判“是非常艰难的”，但她认为“最终双方达成了对彼此都有益的结果” 更多详情",
+          "url": "https://international.caixin.com/2025-07-28/102345792.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2025-07-21/102343623.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2025-07-21/102343623.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2025-07-21/102343623.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-21",
+          "summary": null,
+          "title": "商务部：上半年消费对GDP增长贡献过半 社零增速5.1% 以旧换新推动家电3C、汽车销量增长；服务零售额增长5.3% 更多详情",
+          "url": "https://www.caixin.com/2025-07-21/102343623.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://economy.caixin.com/2025-07-27/102345684.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://economy.caixin.com/2025-07-27/102345684.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://economy.caixin.com/2025-07-27/102345684.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-27",
+          "summary": null,
+          "title": "6月工业企业利润同比降幅收窄至4.3% 装备制造业利润转增 当月营业收入同比增长1.0%；企业经营成本、应收账回收期环比微降、同比仍明显增加 更多详情",
+          "url": "https://economy.caixin.com/2025-07-27/102345684.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2025-07-19/102343039.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2025-07-19/102343039.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2025-07-19/102343039.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-19",
+          "summary": null,
+          "title": "6月劳密产品出口回升 家电出口不景气｜贸易月报 华泰证券预计，考虑到“抢出口”可能部分透支需求、美国关税税率上行，三季度整体出口同比增速可能小幅下降 更多详情",
+          "url": "https://companies.caixin.com/2025-07-19/102343039.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2025-07-19/102343071.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2025-07-19/102343071.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2025-07-19/102343071.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-19",
+          "summary": null,
+          "title": "低空经济投资升温 国家发改委关注低效重复建设 各地应从当地客观实际出发，推动低空经济发展，不能盲目跟风 更多详情",
+          "url": "https://companies.caixin.com/2025-07-19/102343071.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2025-07-27/102345660.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2025-07-27/102345660.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2025-07-27/102345660.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-27",
+          "summary": null,
+          "title": "中国倡议成立世界人工智能合作组织 总部拟设上海 中国愿与世界各国，特别是南方国家，共享发展经验和技术产品；同各国联合开展技术攻关，加大开源开放力度 更多详情",
+          "url": "https://www.caixin.com/2025-07-27/102345660.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2025-07-25/102344923.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2025-07-25/102344923.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2025-07-25/102344923.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-25",
+          "summary": null,
+          "title": "两部门发放养老服务消费券 中度及以上失能老人可领用 项目先试点后推广，2025年底前在试点以外省份组织实施，各个地区的项目实施期限为12个自然月 更多详情",
+          "url": "https://www.caixin.com/2025-07-25/102344923.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2025-07-24/102344787.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2025-07-24/102344787.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2025-07-24/102344787.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-24",
+          "summary": null,
+          "title": "公安部强调“智驾”不是“自动驾驶” 法律框架仍以稳健为主 公安部正在探索将自动驾驶分级标准、辅助驾驶的操作规范纳入到驾驶人教育培训和考试范围 更多详情",
+          "url": "https://companies.caixin.com/2025-07-24/102344787.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2025-07-23/102344108.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2025-07-23/102344108.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2025-07-23/102344108.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-23",
+          "summary": null,
+          "title": "外汇局：科创企业外汇便利化将扩容 本外币一体化管理逐步深化 外汇局将会同中国人民银行在更大范围内逐步深化本外币一体化管理，对本币和外币实施“相同业务、相同管理”，让银企更好理解执行政策，让跨境资金运营管理更高效 更多详情",
+          "url": "https://finance.caixin.com/2025-07-23/102344108.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2025-07-23/102344242.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2025-07-23/102344242.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2025-07-23/102344242.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-23",
+          "summary": null,
+          "title": "深圳推动债市“科技板”落地 9家主体发行科创债超200亿元 截至2025年7月15日，人行深圳分行推动辖内9家科技型企业和股权投资机构在银行间市场发行了14笔科技创新债券，募资规模合计207.5亿元 更多详情",
+          "url": "https://finance.caixin.com/2025-07-23/102344242.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2025-07-19/102343075.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2025-07-19/102343075.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2025-07-19/102343075.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-19",
+          "summary": null,
+          "title": "新央企中国雅江集团成立 将投资1.2万亿元建超级水电工程 该工程将建设5座梯级电站，总投资约1.2万亿元；而这一巨大的投资额，也将使其成为全球最大的基建项目 更多详情",
+          "url": "https://companies.caixin.com/2025-07-19/102343075.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2025-07-21/102343645.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2025-07-21/102343645.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2025-07-21/102343645.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-21",
+          "summary": null,
+          "title": "雅下水电工程万亿投资引燃A股 基建、西藏板块多股涨停 文文文文、文文文文、文文文文、文文文文文x文文文文文，文文文文文文文文文文00%。文文文文文文，文文文文文文文文，文文文文文文文文文文文文文文文文，文文文文文文文文文、文文、文文文文文文文文文文文文 更多详情",
+          "url": "https://companies.caixin.com/2025-07-21/102343645.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2025-07-25/102344970.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2025-07-25/102344970.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2025-07-25/102344970.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-25",
+          "summary": null,
+          "title": "光伏“抢装潮”回落 6月新增装机环比降85% 上半年国内新增光伏装机共计212.21GW，同比翻倍；但6月光伏新增装机14.36GW，同比下降38%，环比大幅回落85% 更多详情",
+          "url": "https://www.caixin.com/2025-07-25/102344970.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2025-07-26/102345328.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2025-07-26/102345328.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2025-07-26/102345328.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-26",
+          "summary": null,
+          "title": "宋志平：恶性竞争毁灭价值 企业应通过创新提升竞争力 以低于成本的价格去抢市场，就是“内卷式”竞争，是一种恶性竞争。 从红海迈向蓝海，企业应通过创新提升产品价值 更多详情",
+          "url": "https://www.caixin.com/2025-07-26/102345328.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2025-07-26/102345403.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2025-07-26/102345403.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2025-07-26/102345403.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-26",
+          "summary": null,
+          "title": "国产AI芯片与阶跃星辰结盟 抵御英伟达芯片进口冲击 阶跃星辰认为，只有让国产大模型去适应国产芯片，才能更好地发挥国产芯片的性价比优势 更多详情",
+          "url": "https://www.caixin.com/2025-07-26/102345403.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2025-07-22/102343962.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2025-07-22/102343962.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2025-07-22/102343962.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-22",
+          "summary": null,
+          "title": "联想创投：初创具身智能公司需展现产品商业能力 王光熙说，企业上市成功是一种很大的优势，但如果企业融资特别猛、估值拉特别高，也会面临一系列压力 更多详情",
+          "url": "https://www.caixin.com/2025-07-22/102343962.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2025-07-22/102343911.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2025-07-22/102343911.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2025-07-22/102343911.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-22",
+          "summary": null,
+          "title": "投资2025｜AI产业链爆火 战投和资本投什么？ 联想创投近年来投资了超过70个AI项目，主要分为AI基础设施、模型及平台、应用、具身智能四大类 更多详情",
+          "url": "https://www.caixin.com/2025-07-22/102343911.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2025-07-26/102345332.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2025-07-26/102345332.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2025-07-26/102345332.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-26",
+          "summary": null,
+          "title": "上半年中国光伏产品出口额“两连降” 海外竞争加剧 中国光伏出口的支柱产品组件出现“量价齐跌”，全球新增需求增速放缓、海外本土化提速，多重压力叠加下，中国光伏出海面临新挑战 更多详情",
+          "url": "https://www.caixin.com/2025-07-26/102345332.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2025-07-23/102344429.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2025-07-23/102344429.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2025-07-23/102344429.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-23",
+          "summary": null,
+          "title": "英国最大电力公司联合比亚迪推进车网互动应用 能源聚合商与车企联手，推动车网互动，用户不再是单纯的能源终端消费者，而是角色灵活切换的产销者 更多详情",
+          "url": "https://companies.caixin.com/2025-07-23/102344429.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2025-07-22/102344006.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2025-07-22/102344006.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2025-07-22/102344006.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-22",
+          "summary": null,
+          "title": "“股旺债冷”债券收益率上行 7月以来128只信用债取消发行 市场人士指出，可将信用债视为风险偏好的信号，若市场投资者对利率下行的预期有所减弱，非利率债品种的买盘力度将会下降 更多详情",
+          "url": "https://finance.caixin.com/2025-07-22/102344006.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2025-07-22/102344001.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2025-07-22/102344001.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2025-07-22/102344001.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-22",
+          "summary": null,
+          "title": "二季度末房地产贷款增速回升 个人住房贷款余额同比降幅收窄 房地产贷款余额同比增速已连续两个季度正增长；贷款投向统计报告的各项贷款余额指标中，目前只有个人住房贷款余额同比增速为负，且连续九个季度为负 更多详情",
+          "url": "https://finance.caixin.com/2025-07-22/102344001.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2025-07-23/102344323.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2025-07-23/102344323.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2025-07-23/102344323.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-23",
+          "summary": null,
+          "title": "香港金管局：稳定币概念炒作泡沫化值得关注 有必要降温 金管局将于下周公布稳定币发行人发牌制度摘要说明 更多详情",
+          "url": "https://finance.caixin.com/2025-07-23/102344323.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2025-07-24/102344523.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2025-07-24/102344523.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2025-07-24/102344523.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-24",
+          "summary": null,
+          "title": "反洗钱监管升级 支付宝、财付通等27家机构将由央行总行直管 在业内人士看来，这一分级监管模式，既提升了重点机构的监管效能，也优化了整体监管资源配置 更多详情",
+          "url": "https://finance.caixin.com/2025-07-24/102344523.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2025-07-24/102344692.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2025-07-24/102344692.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2025-07-24/102344692.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-24",
+          "summary": null,
+          "title": "【财新时间】美元、黄金、稳定币与人民币——全球货币体系变革中的新机遇 文文文文文、文文文文文文、文文文文文文文文……文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文。文文文文文文文文文、文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文，文文文文文文，文文文文文文文文文文文文文文文文 更多详情",
+          "url": "https://video.caixin.com/2025-07-24/102344692.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-07-22/102343953.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-07-22/102343953.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-07-22/102343953.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-22",
+          "summary": null,
+          "title": "名家 | 刘元春：下半年经济怎么看 有机构认为中国经济可能在年中出现转折点，需求端出现“断崖式下滑”，这种判断引发了激烈讨论，值得深入研究 更多详情",
+          "url": "https://opinion.caixin.com/2025-07-22/102343953.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-07-25/102345080.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-07-25/102345080.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-07-25/102345080.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-25",
+          "summary": null,
+          "title": "名家 | 伍戈：三个维度看上半年宏观经济 能否打破“政策脉冲—内生重力”循环，使经济在缺乏强力刺激时仍能平稳运行，关键在于能否令价格指标由负转正 更多详情",
+          "url": "https://opinion.caixin.com/2025-07-25/102345080.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-07-22/102343875.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-07-22/102343875.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-07-22/102343875.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-22",
+          "summary": null,
+          "title": "名家 | 1.2万亿雅下投资，怎么看 参照经验，预计雅下水电工程建设周期约10年，每年投入约1200亿元，年均投资占比0.85%，后期占比逐年小幅降低，预计年均拉动基建投资多增0.8% 更多详情",
+          "url": "https://opinion.caixin.com/2025-07-22/102343875.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-07-21/102343526.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-07-21/102343526.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-07-21/102343526.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-21",
+          "summary": null,
+          "title": "名家 | 关税战如何影响中国物价 下半年物价走势主要取决于国内大力提振消费、扩大有效投资、综合整治“内卷式”竞争等政策的效果，但关税战等外部冲击的影响仍不容忽视 更多详情",
+          "url": "https://opinion.caixin.com/2025-07-21/102343526.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-07-25/102345173.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-07-25/102345173.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-07-25/102345173.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-25",
+          "summary": null,
+          "title": "名家 | 全球变局下的中国汽车出海 要向海外大型市场要增量，向属地化生产要增量，向新能源汽车要增量 更多详情",
+          "url": "https://opinion.caixin.com/2025-07-25/102345173.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-07-21/102343439.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-07-21/102343439.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-07-21/102343439.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-21",
+          "summary": null,
+          "title": "名家 | 王喆：财新PMI十年秘辛 0000文0文文0000文0文，文文文文文文文xxx文文文文文文文文文xxx文文文文文文文。文文文0000文文文文文文文文文文文文文文文，文文文文文文文xxx文文文文文 更多详情",
+          "url": "https://opinion.caixin.com/2025-07-21/102343439.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-07-21/102343322.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-07-21/102343322.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-07-21/102343322.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-21",
+          "summary": null,
+          "title": "名家 | 促消费，要让青年人对未来有憧憬 将“投资于人”进一步聚焦于青年人，当务之急是大幅度提高政府转移支付力度，提高服务业整体工资水平，形成“收入—预期”的良性循环 更多详情",
+          "url": "https://opinion.caixin.com/2025-07-21/102343322.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-07-24/102344495.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-07-24/102344495.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-07-24/102344495.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-24",
+          "summary": null,
+          "title": "名家 | 7月出口会再超预期吗 综合考虑出口货运指标、出口链生产以及加工贸易进口，预计7月出口回升至8%左右，但需警惕9月“抢出口”结束后出口读数的下行风险 更多详情",
+          "url": "https://opinion.caixin.com/2025-07-24/102344495.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-07-23/102344179.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-07-23/102344179.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-07-23/102344179.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-23",
+          "summary": null,
+          "title": "名家 | 海外如何“反内卷” 鼓励行业兼并重组，提高行业标准，加强市场化出清以及匹配相应托底政策，或是可行的政策组合 更多详情",
+          "url": "https://opinion.caixin.com/2025-07-23/102344179.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-07-24/102344536.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-07-24/102344536.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-07-24/102344536.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-24",
+          "summary": null,
+          "title": "名家 | 黄金配置：多资产的定量框架 在低利率、高债务、地缘政治冲突频发的宏观背景下，黄金的战略配置价值进一步凸显 更多详情",
+          "url": "https://opinion.caixin.com/2025-07-24/102344536.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-07-24/102344642.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-07-24/102344642.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-07-24/102344642.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-24",
+          "summary": null,
+          "title": "名家 | 美联储主席危机与美元信用风险 美元再度走弱并抹平“大美丽法案”财政刺激对美元的利好，与其说是市场对美联储失去独立性和公信力的担忧，不如说是市场对美元信用风险失控的恐惧 更多详情",
+          "url": "https://opinion.caixin.com/2025-07-24/102344642.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-07-22/102343788.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-07-22/102343788.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-07-22/102343788.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-22",
+          "summary": null,
+          "title": "聚焦 | 银行股上涨是因为高分红吗 文文文文文文文文文文文文文文文文文。文文文文文文文文文文文文文文，文文文文文文文文文文文文文文，文文文文文文文文文文文文文文，文文文文文文文文文文文文文文，文文文文文文文文文文 更多详情",
+          "url": "https://opinion.caixin.com/2025-07-22/102343788.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-07-21/102343451.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-07-21/102343451.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-07-21/102343451.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-21",
+          "summary": null,
+          "title": "聚焦 | 张文魁：“十五五”国企发展改革将如何推进 “十五五”期间国企发展与改革的部署与走向，将对中国未来五年以及更长时期经济社会发展产生整体影响；而国有经济的表现，也会牵动中国社会主义现代化的进程 更多详情",
+          "url": "https://opinion.caixin.com/2025-07-21/102343451.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2025-07-26/102345349.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2025-07-26/102345349.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2025-07-26/102345349.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-26",
+          "summary": null,
+          "title": "专栏｜美国缺位后全球如何应对气候危机 新兴发展中经济体排放量占全球的三分之二，欧盟可以以身作则，引领建立新型合作框架，兼顾全球减排目标与新兴经济体的发展诉求 更多详情",
+          "url": "https://weekly.caixin.com/2025-07-26/102345349.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2025-07-26/102345394.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2025-07-26/102345394.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2025-07-26/102345394.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-26",
+          "summary": null,
+          "title": "专栏｜贸易碎片化的代价 在各经济体调整能力有限的极端贸易碎片化情景下，损失可能高达全球GDP的7% 更多详情",
+          "url": "https://weekly.caixin.com/2025-07-26/102345394.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://database.caixin.com/2025-07-19/102343064.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://database.caixin.com/2025-07-19/102343064.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://database.caixin.com/2025-07-19/102343064.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-19",
+          "summary": null,
+          "title": "全球贸易8月将迎新局面 特朗普各行业关税进展一览 美国总统特朗普准备在未来两周内推进针对特定行业的新一轮关税计划，以重塑美国在全球贸易体系中的地位 更多详情",
+          "url": "https://database.caixin.com/2025-07-19/102343064.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2025-07-25/102345126.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2025-07-25/102345126.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2025-07-25/102345126.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-25",
+          "summary": null,
+          "title": "光模块的激增需求和亮眼业绩/海南封关带来哪些行情 文文文文文文文文文；文文文文文文文；文文文文文xxx文文文文文文；文文文文文文0文文文文文文文文；xxxxxxxx文文文文文文文文文文文文文；文文文文文xxx文文文文文；xxx文文文文文文文文文文文文文文文文文 更多详情",
+          "url": "https://finance.caixin.com/2025-07-25/102345126.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2025-07-24/102344760.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2025-07-24/102344760.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2025-07-24/102344760.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-24",
+          "summary": null,
+          "title": "A股上涨未减债市乐观情绪/泡泡玛特尾盘拉涨背后 文文文文文文文文文文文；文文文文文文文文文文文；文文文文文文文文文00%；文文文文文文文文文；文文文文文文文文文文文文文文文；文文文文文文“文文文”；文文文文文文文文文文文文文文文 更多详情",
+          "url": "https://finance.caixin.com/2025-07-24/102344760.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2025-07-23/102344380.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2025-07-23/102344380.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2025-07-23/102344380.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-23",
+          "summary": null,
+          "title": "数据解析餐饮白酒的艰难时世/猛涨后创新药还能加仓吗 水电大工程让多少股票“起飞”；马来西亚CPI增速放缓；日元套利交易再度受欢迎；贝森特称谈贸易协议美国不着急 更多详情",
+          "url": "https://finance.caixin.com/2025-07-23/102344380.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://database.caixin.com/2025-07-23/102344125.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://database.caixin.com/2025-07-23/102344125.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://database.caixin.com/2025-07-23/102344125.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-23",
+          "summary": null,
+          "title": "高速光模块需求激增 龙头中报超预期行业竞争升级 两家公司都得益于全球头部云厂商算力基建扩张下，800G等高速光模块的需求激增，定位国内市场的光模块上市公司亦有不俗业绩 更多详情",
+          "url": "https://database.caixin.com/2025-07-23/102344125.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2025-07-22/102343979.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2025-07-22/102343979.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2025-07-22/102343979.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-22",
+          "summary": null,
+          "title": "猪价下半年还会跌吗/起底香港中环“钱多多”的新生意 “硬科技”IPO盛宴回归；6月彩票销售小幅下滑；北京社零同比降幅扩大；欧盟一季度储蓄率降至五年来低位；美丽大法案的经济账 更多详情",
+          "url": "https://finance.caixin.com/2025-07-22/102343979.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://database.caixin.com/2025-07-23/102344113.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://database.caixin.com/2025-07-23/102344113.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://database.caixin.com/2025-07-23/102344113.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-23",
+          "summary": null,
+          "title": "港股创新药板块估值是否已有泡沫？ 反弹后的选股至关重要，交银国际建议优选中长期基本面稳健、短期催化剂相对丰富、估值仍有较大上升空间的标的，警惕内资过度抱团的个别标的 更多详情",
+          "url": "https://database.caixin.com/2025-07-23/102344113.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2025-07-21/102343539.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2025-07-21/102343539.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2025-07-21/102343539.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-21",
+          "summary": null,
+          "title": "贝莱德谈下半年债市方向/美元资产还能维持哪些优势 美股本周财报密集发布；家电出口近期不景气；6月原油加工提速；阿根廷连续六月财政盈余；韩国最新出口数据不错；华尔街的“鲍威尔对冲”策略 更多详情",
+          "url": "https://finance.caixin.com/2025-07-21/102343539.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://database.caixin.com/2025-07-21/102343229.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://database.caixin.com/2025-07-21/102343229.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://database.caixin.com/2025-07-21/102343229.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-21",
+          "summary": null,
+          "title": "联博：美债收益以票息优势为主 美股上涨有盈利支撑 联博认为，受益于美元走弱与强劲AI资本支出，美国科技巨头在今年下半年成长态势或仍相对强劲 更多详情",
+          "url": "https://database.caixin.com/2025-07-21/102343229.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://database.caixin.com/2025-07-24/102344805.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://database.caixin.com/2025-07-24/102344805.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://database.caixin.com/2025-07-24/102344805.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-24",
+          "summary": null,
+          "title": "华尔街原声：科技股仍能上涨 市场未充分定价AI发展 文文文文文文xxxxxxx xxxxxxxxxx文文文文文xxx xxxx文文，文文文文文文文文“文文文文”文文文文文，xx文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文文 更多详情",
+          "url": "https://database.caixin.com/2025-07-24/102344805.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://database.caixin.com/2025-07-26/102345353.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://database.caixin.com/2025-07-26/102345353.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://database.caixin.com/2025-07-26/102345353.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-26",
+          "summary": null,
+          "title": "光伏过剩产能危如累卵 让谁出局？ 企业被过剩产能逼到墙角，从何处破局? 更多详情",
+          "url": "https://database.caixin.com/2025-07-26/102345353.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://database.caixin.com/2025-07-26/102345371.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://database.caixin.com/2025-07-26/102345371.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://database.caixin.com/2025-07-26/102345371.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-26",
+          "summary": null,
+          "title": "普惠金融逆势高增 有何隐忧？ 政策激励银行逆周期投放普惠贷款，遭遇不良率攀升，以及贷款低利率催生的套利乱象 更多详情",
+          "url": "https://database.caixin.com/2025-07-26/102345371.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://database.caixin.com/2025-07-26/102345340.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://database.caixin.com/2025-07-26/102345340.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://database.caixin.com/2025-07-26/102345340.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-26",
+          "summary": null,
+          "title": "破解中年失业：政策、社会、企业与个人均需调整 从“被优化”到“再出发”，中年职场突围卡在哪儿? 更多详情",
+          "url": "https://database.caixin.com/2025-07-26/102345340.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://database.caixin.com/2025-07-22/102343905.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://database.caixin.com/2025-07-22/102343905.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://database.caixin.com/2025-07-22/102343905.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-22",
+          "summary": null,
+          "title": "【权益周观察】A股延续强势 大盘成长风格占优 算力链等低位科技股中报业绩预告超预期后补涨，支持市场风格短期向科技成长切换 更多详情",
+          "url": "https://database.caixin.com/2025-07-22/102343905.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://database.caixin.com/2025-07-22/102343888.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://database.caixin.com/2025-07-22/102343888.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://database.caixin.com/2025-07-22/102343888.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "item_kind": "article",
+          "published_at": "2025-07-22",
+          "summary": null,
+          "title": "【债市周观察】债市收益率先下后上 风险偏好抬升冲击几何？ 上周出炉的二季度各项经济数据基本未超预期，而资金面受税期影响整体收敛，债市中短端表现强于长端 更多详情",
+          "url": "https://database.caixin.com/2025-07-22/102343888.html"
+        }
+      ],
+      "key": "microsite.esg30_resource.articles",
+      "lane": "main",
+      "name": "SSR 文章目录候选",
+      "order": 0,
+      "state": "server_rendered"
+    }
+  ],
+  "modules_count": 1,
+  "ok": true,
+  "page_navigation_not_extracted": true,
+  "pagination": "none_static_html",
+  "promote_directory_resource": true,
+  "rendered_visibility_not_verified": true,
+  "rendered_visibility_verified": false,
+  "resource_body_not_extracted": true,
+  "schema_version": 1,
+  "scripts_count": 10,
+  "scripts_not_executed": true,
+  "section_profile": {
+    "title": "行稳致远 谋高质量发展2025.07.04专题",
+    "url": "https://promote.caixin.com/gzlfz/"
+  },
+  "session_used": false,
+  "source": {
+    "canonical_url": "https://promote.caixin.com/gzlfz/",
+    "discovered_from": "https://promote.caixin.com/",
+    "discovery_root": "https://promote.caixin.com/",
+    "fetched_at": "2026-08-08T08:48:47+00:00",
+    "final_url": "https://promote.caixin.com/gzlfz/",
+    "requested_url": "https://promote.caixin.com/gzlfz/"
+  },
+  "source_mode": "server_html",
+  "sponsored": true,
+  "stale_content": true,
+  "subdirectories": [],
+  "title": "高质量发展新专题_特别呈现_财新网",
+  "title_source": "anonymous_ssr_metadata",
+  "unique_urls_count": 54
+}

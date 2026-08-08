@@ -1,0 +1,1189 @@
+{
+  "_untrusted": true,
+  "article_details_not_fetched": true,
+  "complete_listing_verified": false,
+  "continuation_available": true,
+  "continuation_not_followed": true,
+  "directory_only": true,
+  "directory_title": "社评",
+  "external_stylesheets_applied": false,
+  "items_count": 42,
+  "javascript_executed": false,
+  "kind": "section_directory",
+  "latest_article_date": "2026-08-06",
+  "linked_pages_not_fetched": true,
+  "modules": [
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2024-02-17/102166174.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2024-02-17/102166174.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2024-02-17/102166174.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-12-23/170329222157074_145_97.jpg",
+          "published_at": "2024年02月17日",
+          "summary": "努力建设规范、透明、开放、有活力、有韧性的证券市场，才是监管者的正业，也才是对投资者最好的保护",
+          "title": "社论｜法治是对投资者最好的保护",
+          "url": "https://opinion.caixin.com/2024-02-17/102166174.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2024-02-03/102163378.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2024-02-03/102163378.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2024-02-03/102163378.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-02-03/170694127754995_145_97.jpg",
+          "published_at": "2024年02月03日",
+          "summary": "高质量发展，归根结底要依靠深化改革、扩大开放，使市场在资源配置中起决定性作用，更好地发挥政府作用",
+          "title": "社论｜把“GDP锦标赛”化作高质量发展竞赛",
+          "url": "https://opinion.caixin.com/2024-02-03/102163378.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2024-01-27/102161027.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2024-01-27/102161027.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2024-01-27/102161027.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-01-27/170632770918333_145_97.jpg",
+          "published_at": "2024年01月27日",
+          "summary": "地方债表面看是财政金融问题，深层次则是国家治理问题",
+          "title": "社论｜地方债问题须标本兼治",
+          "url": "https://opinion.caixin.com/2024-01-27/102161027.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2024-01-20/102158579.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2024-01-20/102158579.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2024-01-20/102158579.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-01-16/170541530410149_145_97.jpg",
+          "published_at": "2024年01月20日",
+          "summary": "不管世界形势如何变化，中国都将坚持对外开放的基本国策，开放的大门只会越开越大",
+          "title": "社论｜重建信任的现实途径",
+          "url": "https://opinion.caixin.com/2024-01-20/102158579.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2024-01-13/102155985.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2024-01-13/102155985.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2024-01-13/102155985.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-01-09/170481201451086_145_97.jpg",
+          "published_at": "2024年01月13日",
+          "summary": "应切实推动市场办足球、社会办足球，早日实现中国足球价值回归",
+          "title": "中国足球系列腐败寻租案的反思｜观点精选",
+          "url": "https://opinion.caixin.com/2024-01-13/102155985.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2024-01-06/102153699.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2024-01-06/102153699.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2024-01-06/102153699.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-01-06/170451228414082_145_97.jpg",
+          "published_at": "2024年01月06日",
+          "summary": "希望修订后的公司法能够给企业松绑赋能，力促中国经济保持朝气蓬勃的气象",
+          "title": "社论｜以法治激活市场动能",
+          "url": "https://opinion.caixin.com/2024-01-06/102153699.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-12-30/102151491.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-12-30/102151491.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-12-30/102151491.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-12-30/170390900865894_145_97.jpg",
+          "published_at": "2023年12月30日",
+          "summary": "拒绝盲目乐观，也不接受末日预言，而应以清醒诚笃的态度去迎接一切可能",
+          "title": "社论｜AI的启示：清醒诚笃地面对未来",
+          "url": "https://opinion.caixin.com/2023-12-30/102151491.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-12-16/102146644.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-12-16/102146644.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-12-16/102146644.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-12-16/170269336857413_145_97.jpg",
+          "published_at": "2023年12月16日",
+          "summary": "关键是要有体制保障，令扼制经济社会活力的言行无法得逞",
+          "title": "社论｜经济活力何处寻",
+          "url": "https://opinion.caixin.com/2023-12-16/102146644.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-12-09/102144297.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-12-09/102144297.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-12-09/102144297.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-12-09/170209097085586_145_97.jpg",
+          "published_at": "2023年12月09日",
+          "summary": "以直面现实难题的胆识来解疑释惑，以改革开放的可信承诺来提振信心，以思想解放来激发创造活力",
+          "title": "社论｜预期管理何以有效",
+          "url": "https://opinion.caixin.com/2023-12-09/102144297.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-12-02/102142192.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-12-02/102142192.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-12-02/102142192.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-12-02/170148853585898_145_97.jpg",
+          "published_at": "2023年12月02日",
+          "summary": "应认真准确评估政策实施效果，哪些落在实处，哪些放了空炮哑炮，并反思原因何在",
+          "title": "社论｜激发民企金融需求",
+          "url": "https://opinion.caixin.com/2023-12-02/102142192.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-11-25/102139307.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-11-25/102139307.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-11-25/102139307.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-11-25/170088224214754_145_97.jpg",
+          "published_at": "2023年11月25日",
+          "summary": "金融业健康发展，是增强其服务实体经济能力的前提",
+          "title": "社论｜辩证看待经济与金融的“实”与“虚”",
+          "url": "https://opinion.caixin.com/2023-11-25/102139307.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-11-18/102137073.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-11-18/102137073.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-11-18/102137073.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-11-18/170028972098011_145_97.jpg",
+          "published_at": "2023年11月18日",
+          "summary": "维护全球产业链供应链稳定畅通，诚意和决心必不可少",
+          "title": "社论｜中美合作：以双边带动多边",
+          "url": "https://opinion.caixin.com/2023-11-18/102137073.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-11-11/102134722.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-11-11/102134722.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-11-11/102134722.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-11-11/169968948500781_145_97.jpg",
+          "published_at": "2023年11月11日",
+          "summary": "中国扩大开放，不仅有利于稳外资、稳外贸，更将促进中国高质量发展",
+          "title": "社论｜开放的要义是共赢",
+          "url": "https://opinion.caixin.com/2023-11-11/102134722.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-11-04/102124638.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-11-04/102124638.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-11-04/102124638.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-11-04/169907836521056_145_97.jpg",
+          "published_at": "2023年11月04日",
+          "summary": "回首中共十八届三中全会召开十年，改革开放才是信心的终极来源",
+          "title": "社论｜改革亟须新突破",
+          "url": "https://opinion.caixin.com/2023-11-04/102124638.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-10-28/102121345.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-10-28/102121345.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-10-28/102121345.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-10-28/169847563062725_145_97.jpg",
+          "published_at": "2023年10月28日",
+          "summary": "糟糕的中美经贸关系不会有赢家，“脱钩”对两国都是灾难性的，还不可避免地会殃及世界经济",
+          "title": "社论｜倍加珍惜中美关系发展成果",
+          "url": "https://opinion.caixin.com/2023-10-28/102121345.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-10-21/102119029.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-10-21/102119029.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-10-21/102119029.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-10-21/169785960366687_145_97.jpg",
+          "published_at": "2023年10月21日",
+          "summary": "随着深化改革、扩大开放，政策调控应尽快走出风险应对模式，使中国经济重新走上高质量可持续发展之路",
+          "title": "社论｜GDP“保5”无忧后当图长策",
+          "url": "https://opinion.caixin.com/2023-10-21/102119029.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-10-14/102116692.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-10-14/102116692.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-10-14/102116692.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-10-14/169726250399236_145_97.jpg",
+          "published_at": "2023年10月14日",
+          "summary": "“吃改革饭、走开放路”是最有效的“定心丸”",
+          "title": "社论｜优化民营经济法治环境",
+          "url": "https://opinion.caixin.com/2023-10-14/102116692.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-10-07/102114526.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-10-07/102114526.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-10-07/102114526.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-10-07/169664913348190_145_97.jpg",
+          "published_at": "2023年10月07日",
+          "summary": "全过程开门立法无疑应当是“全过程人民民主”的重要体现",
+          "title": "社论｜开门立法须更进一步",
+          "url": "https://opinion.caixin.com/2023-10-07/102114526.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-09-23/102111653.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-09-23/102111653.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-09-23/102111653.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-09-23/169543621957111_145_97.jpg",
+          "published_at": "2023年09月23日",
+          "summary": "法律共同体是公、检、法、律师共同解决法律问题的集体，目的是经过共同努力，使人民群众在每一个案件中感受到公平正义",
+          "title": "社论｜侵犯律师权益事件不应频发",
+          "url": "https://opinion.caixin.com/2023-09-23/102111653.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-09-16/102104263.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-09-16/102104263.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-09-16/102104263.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-09-16/169483817573454_145_97.jpg",
+          "published_at": "2023年09月16日",
+          "summary": "政府过紧日子的要义就是“好钢用在刀刃上”，把有限的资源用好，基本民生必须确保",
+          "title": "社论｜基本民生仍须保",
+          "url": "https://opinion.caixin.com/2023-09-16/102104263.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-09-09/102102039.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-09-09/102102039.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-09-09/102102039.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-09-09/169423414243556_145_97.jpg",
+          "published_at": "2023年09月09日",
+          "summary": "根本之策是加快土地产权制度变革，从体制机制上扩大房地产供给",
+          "title": "社论｜稳楼市 防风险",
+          "url": "https://opinion.caixin.com/2023-09-09/102102039.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-09-02/102099651.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-09-02/102099651.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-09-02/102099651.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-09-02/169362394828635_145_97.jpg",
+          "published_at": "2023年09月02日",
+          "summary": "监管部门应保持定力，坚持市场化改革方向，坚持“建制度、不干预、零容忍”九字方针，夯实已有的改革成果",
+          "title": "社论｜推动注册制改革走深走实",
+          "url": "https://opinion.caixin.com/2023-09-02/102099651.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-08-26/102097026.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-08-26/102097026.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-08-26/102097026.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2022-03-17/164750456153732_145_97.jpg",
+          "published_at": "2023年08月26日",
+          "summary": "行政诉讼法修正草案终止，为立法者、司法者提供了一次理性总结、深入反思的契机",
+          "title": "社论｜期待“民告官”再出发",
+          "url": "https://opinion.caixin.com/2023-08-26/102097026.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-08-19/102094609.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-08-19/102094609.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-08-19/102094609.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-08-19/169241795707727_145_97.jpg",
+          "published_at": "2023年08月19日",
+          "summary": "按照竞争中性原则，平等对待包括外资在内的各类所有制企业，有力扭转经济社会内向化趋势。有此，外资将会不求稳而稳",
+          "title": "社论｜吸引外资重在“更加有效”",
+          "url": "https://opinion.caixin.com/2023-08-19/102094609.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2023-08-12/102092461.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2023-08-12/102092461.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2023-08-12/102092461.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2023-08-12/169181832654780_145_97.jpg",
+          "published_at": "2023年08月12日",
+          "summary": "公立医院管理机制、医疗服务价格、医疗人员薪酬体系，既是改革的难点，也是堵点。须以反腐为改革开路，减少改革阻力，又以改革稳固反腐成果",
+          "title": "社论｜医药反腐何以标本兼治",
+          "url": "https://opinion.caixin.com/2023-08-12/102092461.html"
+        }
+      ],
+      "key": "section-directory.articles",
+      "lane": "main",
+      "name": "栏目文章",
+      "order": 0,
+      "state": "server_rendered"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471865.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471865.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471865.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-06/178600536992032_145_97.jpg",
+          "source_state": "visible",
+          "summary": null,
+          "title": "湖北宜昌局部短时降雨128毫米 紧急转移近4000人",
+          "url": "https://photos.caixin.com/2026-08-06/102471865.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "湖北宜昌局部短时降雨128毫米 紧急转移近4000人"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-31/102469828.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-06/178600536992032_145_97.jpg",
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471865.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471865.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471865.html",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://photos.caixin.com/2026-08-06/102471865.html",
+          "link_mismatch": true,
+          "source_state": "visible",
+          "summary": "湖北宜昌局部短时降雨128毫米 紧急转移近4000人",
+          "title": "显影｜瓜农的漫长等待",
+          "url": "https://weekly.caixin.com/2026-07-31/102469828.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-06/102471650.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-06/102471650.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-06/102471650.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "独家",
+          "url": "https://international.caixin.com/2026-08-06/102471650.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "金融"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-06/102471670.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "在岸人民币兑美元汇率连日升破6.75",
+          "url": "https://finance.caixin.com/2026-08-06/102471670.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "金融我闻"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-08-06/102471632.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-08-06/102471632.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-08-06/102471632.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "资管掌舵人更替 百年人寿僵局何解",
+          "url": "https://wenews.caixin.com/2026-08-06/102471632.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "能源"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-06/102471836.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-06/102471836.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-06/102471836.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "多国出台光伏新政加速转型",
+          "url": "https://www.caixin.com/2026-08-06/102471836.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "财新周刊"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-31/102469823.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-31/102469823.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-31/102469823.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "【封面报道】电力现货市场元年突进",
+          "url": "https://weekly.caixin.com/2026-07-31/102469823.html"
+        }
+      ],
+      "key": "section-directory.recommended",
+      "lane": "sidebar",
+      "name": "编辑推荐",
+      "order": 0,
+      "state": "server_rendered"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-06/102472074.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-06/102472074.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-06/102472074.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "21:01",
+          "title": "北京化工大学发生实验室安全事故 一学生手部严重受伤",
+          "url": "https://china.caixin.com/2026-08-06/102472074.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-06/102472062.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-06/102472062.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-06/102472062.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "20:22",
+          "title": "油气市场剧烈波动现套利空间 嘉能可上半年扭亏、净利增超50亿美元",
+          "url": "https://www.caixin.com/2026-08-06/102472062.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-06/102471937.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-06/102471937.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-06/102471937.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "17:26",
+          "title": "贝恩资本宣布收购贡茶 在中国大陆无法注册商标后退出市场",
+          "url": "https://www.caixin.com/2026-08-06/102471937.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-06/102471931.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-06/102471931.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-06/102471931.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "17:16",
+          "title": "电动汽车需求高涨驱动澳洲车市增长 中国品牌表现强劲｜出海·汽车",
+          "url": "https://www.caixin.com/2026-08-06/102471931.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-08-06/102471832.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-08-06/102471832.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-08-06/102471832.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "17:00",
+          "title": "普渡机器人张涛：机器人规模化靠技术、渠道和产品共同突破",
+          "url": "https://video.caixin.com/2026-08-06/102471832.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://economy.caixin.com/2026-08-06/102471913.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://economy.caixin.com/2026-08-06/102471913.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://economy.caixin.com/2026-08-06/102471913.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "16:56",
+          "title": "财新调查｜7月消费或有反弹、出口维持强劲 受哪些因素带动？",
+          "url": "https://economy.caixin.com/2026-08-06/102471913.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-06/102471879.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-06/102471879.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-06/102471879.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "16:42",
+          "title": "生态环境法典将施行 最高法明确新旧法衔接与追责规则",
+          "url": "https://china.caixin.com/2026-08-06/102471879.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-06/102471845.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-06/102471845.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-06/102471845.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "15:10",
+          "title": "看空消费的“三大误区”",
+          "url": "https://opinion.caixin.com/2026-08-06/102471845.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-06/102471836.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-06/102471836.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-06/102471836.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "14:59",
+          "title": "中东局势催化东南亚能源焦虑 多国出台光伏新政加速转型",
+          "url": "https://www.caixin.com/2026-08-06/102471836.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-06/102471767.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-06/102471767.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-06/102471767.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "14:05",
+          "title": "分析｜贝森特操盘稳日元，操作巧思能否撬动美日货币基本面",
+          "url": "https://international.caixin.com/2026-08-06/102471767.html"
+        }
+      ],
+      "key": "section-directory.latest",
+      "lane": "sidebar",
+      "name": "最新文章",
+      "order": 1,
+      "state": "server_rendered"
+    }
+  ],
+  "modules_count": 3,
+  "ok": true,
+  "page": 1,
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "scripts_not_executed": true,
+  "session_used": false,
+  "source": {
+    "canonical_url": "https://opinion.caixin.com/editorial/",
+    "discovered_from": "https://opinion.caixin.com/",
+    "fetched_at": "2026-08-06T14:32:45+00:00",
+    "final_url": "https://opinion.caixin.com/editorial/",
+    "requested_url": "https://opinion.caixin.com/editorial/"
+  },
+  "source_mode": "server_html",
+  "stale_content": false,
+  "title": "社评_观点频道_财新网",
+  "unique_urls_count": 41
+}

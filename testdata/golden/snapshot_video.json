@@ -1,0 +1,1619 @@
+{
+  "_untrusted": true,
+  "article_details_not_fetched": true,
+  "complete_listing_verified": false,
+  "directory_only": true,
+  "external_stylesheets_applied": false,
+  "items_count": 55,
+  "javascript_executed": false,
+  "latest_article_date": "2026-08-06",
+  "media_not_downloaded": true,
+  "media_streams_not_fetched": true,
+  "modules": [
+    {
+      "active_item_index": 0,
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "短视频",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-08-04/102471196.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-08-04/102471196.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-08-04/102471196.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-04/178583686447497.jpg",
+          "summary": null,
+          "title": "【特别呈现】深耕中国·共启新味——恒天然如何践行“长期主义”",
+          "url": "https://video.caixin.com/2026-08-04/102471196.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "财新时间 / Who's time",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-08-04/102471092.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-08-04/102471092.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-08-04/102471092.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-04/178581819001293.jpg",
+          "summary": null,
+          "title": "【财新时间】对话普渡张涛：具身智能的热望与现实",
+          "url": "https://video.caixin.com/2026-08-04/102471092.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "短视频",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-07-08/102461980.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-07-08/102461980.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-07-08/102461980.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-08/178348087758816.jpg",
+          "summary": null,
+          "title": "陆晓娅：把“原子化”的老人重新接入社会网络",
+          "url": "https://video.caixin.com/2026-07-08/102461980.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "短视频",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-07-08/102461971.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-07-08/102461971.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-07-08/102461971.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-08/178349640804871.jpg",
+          "summary": null,
+          "title": "【特别呈现】澳门全力探索葡语国家新渠道",
+          "url": "https://video.caixin.com/2026-07-08/102461971.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "短视频",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-08-03/102470849.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-08-03/102470849.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-08-03/102470849.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-03/178574596909556.jpg",
+          "summary": null,
+          "title": "【预告】《财新时间》对话普渡张涛",
+          "url": "https://video.caixin.com/2026-08-03/102470849.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "短视频",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-06-22/102455413.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-06-22/102455413.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-06-22/102455413.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-06-18/178176700455086.jpg",
+          "summary": null,
+          "title": "【推广】走进第四届链博会，让数智科技“链”接产业",
+          "url": "https://video.caixin.com/2026-06-22/102455413.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "短视频",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-07-08/102461948.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-07-08/102461948.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-07-08/102461948.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-08/178348087670627.jpg",
+          "summary": null,
+          "title": "王宇科：康养服务体系是基于“以人为本”的多学科协作体系",
+          "url": "https://video.caixin.com/2026-07-08/102461948.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "短视频",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-07-08/102461896.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-07-08/102461896.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-07-08/102461896.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-08/178348087582217.jpg",
+          "summary": null,
+          "title": "党俊武：理想的养老要回归对“生命哲学”的探讨",
+          "url": "https://video.caixin.com/2026-07-08/102461896.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "短视频",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-07-07/102461673.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-07-07/102461673.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-07-07/102461673.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-07/178341305922274.jpg",
+          "summary": null,
+          "title": "王宇科：中国养老市场产业化空间广阔",
+          "url": "https://video.caixin.com/2026-07-07/102461673.html"
+        }
+      ],
+      "key": "video.hero",
+      "lane": "lead",
+      "name": "焦点视频",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "video-section",
+            "canonical_url": "https://video.caixin.com/shulisj/",
+            "command": [
+              "caixin-cli",
+              "video-section",
+              "https://video.caixin.com/shulisj/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://video.caixin.com/shulisj/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "section_navigation",
+          "source_state": "visible",
+          "summary": null,
+          "title": "财新时间",
+          "url": "https://video.caixin.com/shulisj/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "video-section",
+            "canonical_url": "https://video.caixin.com/2024/whxl/",
+            "command": [
+              "caixin-cli",
+              "video-section",
+              "https://video.caixin.com/2024/whxl/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://video.caixin.com/2024/whxl/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "section_navigation",
+          "source_state": "visible",
+          "summary": null,
+          "title": "文化系列",
+          "url": "https://video.caixin.com/2024/whxl/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "video-section",
+            "canonical_url": "https://video.caixin.com/2023/sjwz/",
+            "command": [
+              "caixin-cli",
+              "video-section",
+              "https://video.caixin.com/2023/sjwz/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://video.caixin.com/2023/sjwz/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "section_navigation",
+          "source_state": "visible",
+          "summary": null,
+          "title": "时间为证",
+          "url": "https://video.caixin.com/2023/sjwz/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "video-section",
+            "canonical_url": "https://video.caixin.com/2019/neweconomy/",
+            "command": [
+              "caixin-cli",
+              "video-section",
+              "https://video.caixin.com/2019/neweconomy/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://video.caixin.com/2019/neweconomy/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "section_navigation",
+          "source_state": "visible",
+          "summary": null,
+          "title": "新经济",
+          "url": "https://video.caixin.com/2019/neweconomy/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "video-section",
+            "canonical_url": "https://video.caixin.com/cxxwcsp/",
+            "command": [
+              "caixin-cli",
+              "video-section",
+              "https://video.caixin.com/cxxwcsp/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://video.caixin.com/cxxwcsp/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "section_navigation",
+          "source_state": "visible",
+          "summary": null,
+          "title": "商旅对话",
+          "url": "https://video.caixin.com/cxxwcsp/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "video-section",
+            "canonical_url": "https://video.caixin.com/notesonnow/",
+            "command": [
+              "caixin-cli",
+              "video-section",
+              "https://video.caixin.com/notesonnow/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://video.caixin.com/notesonnow/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "section_navigation",
+          "source_state": "visible",
+          "summary": null,
+          "title": "商旅纪录",
+          "url": "https://video.caixin.com/notesonnow/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2022-11-17/101966223.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2022-11-17/101966223.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2022-11-17/101966223.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article_navigation",
+          "source_state": "visible",
+          "summary": null,
+          "title": "广汽丰田",
+          "url": "https://video.caixin.com/2022-11-17/101966223.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "video-section",
+            "canonical_url": "https://video.caixin.com/2026/xiansheng/",
+            "command": [
+              "caixin-cli",
+              "video-section",
+              "https://video.caixin.com/2026/xiansheng/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://video.caixin.com/2026/xiansheng/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "section_navigation",
+          "source_state": "visible",
+          "summary": null,
+          "title": "先声",
+          "url": "https://video.caixin.com/2026/xiansheng/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "video-section",
+            "canonical_url": "https://video.caixin.com/2024/ruidu/",
+            "command": [
+              "caixin-cli",
+              "video-section",
+              "https://video.caixin.com/2024/ruidu/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://video.caixin.com/2024/ruidu/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "section_navigation",
+          "source_state": "visible",
+          "summary": null,
+          "title": "锐度",
+          "url": "https://video.caixin.com/2024/ruidu/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "video-section",
+            "canonical_url": "https://video.caixin.com/co_recomment/",
+            "command": [
+              "caixin-cli",
+              "video-section",
+              "https://video.caixin.com/co_recomment/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://video.caixin.com/co_recomment/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "section_navigation",
+          "source_state": "visible",
+          "summary": null,
+          "title": "合作专区",
+          "url": "https://video.caixin.com/co_recomment/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "video-section",
+            "canonical_url": "https://video.caixin.com/2021/ibmyqzl/",
+            "command": [
+              "caixin-cli",
+              "video-section",
+              "https://video.caixin.com/2021/ibmyqzl/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://video.caixin.com/2021/ibmyqzl/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "section_navigation",
+          "source_state": "visible",
+          "summary": null,
+          "title": "云起智来",
+          "url": "https://video.caixin.com/2021/ibmyqzl/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "video-section",
+            "canonical_url": "https://video.caixin.com/dr/",
+            "command": [
+              "caixin-cli",
+              "video-section",
+              "https://video.caixin.com/dr/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://video.caixin.com/dr/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "section_navigation",
+          "source_state": "visible",
+          "summary": null,
+          "title": "达人合作专区",
+          "url": "https://video.caixin.com/dr/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "video-section",
+            "canonical_url": "https://video.caixin.com/cxcy/",
+            "command": [
+              "caixin-cli",
+              "video-section",
+              "https://video.caixin.com/cxcy/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://video.caixin.com/cxcy/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "section_navigation",
+          "source_state": "visible",
+          "summary": null,
+          "title": "CX创意",
+          "url": "https://video.caixin.com/cxcy/"
+        }
+      ],
+      "key": "video.navigation",
+      "lane": "navigation",
+      "name": "频道导航",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "短视频",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-08-06/102471832.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-08-06/102471832.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-08-06/102471832.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-06/178599835131494_660_440.png",
+          "meta": "08-06 17:00",
+          "summary": null,
+          "title": "普渡机器人张涛：机器人规模化靠技术、渠道和产品共同突破",
+          "url": "https://video.caixin.com/2026-08-06/102471832.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "短视频",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-08-05/102471442.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-08-05/102471442.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-08-05/102471442.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-05/178591087883128_300_200.png",
+          "meta": "08-05 17:00",
+          "summary": null,
+          "title": "普渡机器人张涛：机器人走向规模化，要先回到客户需求",
+          "url": "https://video.caixin.com/2026-08-05/102471442.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "短视频",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-08-04/102471196.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-08-04/102471196.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-08-04/102471196.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-04/178583684476959_300_200.jpg",
+          "meta": "08-04 17:47",
+          "summary": null,
+          "title": "【特别呈现】深耕中国·共启新味——恒天然如何践行“长期主义”",
+          "url": "https://video.caixin.com/2026-08-04/102471196.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "财新时间 / Who's time",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-08-04/102471092.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-08-04/102471092.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-08-04/102471092.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-04/178581818717789_300_200.jpg",
+          "meta": "08-04 12:36",
+          "summary": null,
+          "title": "【财新时间】对话普渡张涛：具身智能的热望与现实",
+          "url": "https://video.caixin.com/2026-08-04/102471092.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "短视频",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-08-03/102470849.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-08-03/102470849.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-08-03/102470849.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-03/178574596999043_300_200.jpg",
+          "meta": "08-03 17:00",
+          "summary": null,
+          "title": "【预告】《财新时间》对话普渡张涛",
+          "url": "https://video.caixin.com/2026-08-03/102470849.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "CX创意",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-07-10/102461913.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-07-10/102461913.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-07-10/102461913.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-08/178348210056854_300_200.jpg",
+          "meta": "07-10 15:00",
+          "summary": null,
+          "title": "【特别呈现】寻找100种有意思的生活方式·第三对",
+          "url": "https://video.caixin.com/2026-07-10/102461913.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "短视频",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-07-08/102461980.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-07-08/102461980.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-07-08/102461980.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-08/178348057231759_300_200.jpg",
+          "meta": "07-08 15:48",
+          "summary": null,
+          "title": "陆晓娅：把“原子化”的老人重新接入社会网络",
+          "url": "https://video.caixin.com/2026-07-08/102461980.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "短视频",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-07-08/102461971.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-07-08/102461971.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-07-08/102461971.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-08/178349640867184_300_200.jpg",
+          "meta": "07-08 15:40",
+          "summary": null,
+          "title": "【特别呈现】澳门全力探索葡语国家新渠道",
+          "url": "https://video.caixin.com/2026-07-08/102461971.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "短视频",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-07-08/102461948.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-07-08/102461948.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-07-08/102461948.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-08/178348057039898_300_200.jpg",
+          "meta": "07-08 14:35",
+          "summary": null,
+          "title": "王宇科：康养服务体系是基于“以人为本”的多学科协作体系",
+          "url": "https://video.caixin.com/2026-07-08/102461948.html"
+        }
+      ],
+      "key": "video.latest",
+      "lane": "main",
+      "name": "最新视频",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "CX创意",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-04-10/102184081.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-04-10/102184081.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-04-10/102184081.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-04-09/171264653451484_480_320.jpg",
+          "meta": "04-10 12:00",
+          "summary": null,
+          "title": "【特别呈现】《偏向茶山行》｜在茶里的民族探历史的宝藏",
+          "url": "https://video.caixin.com/2024-04-10/102184081.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "CX创意",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-04-26/102190022.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-04-26/102190022.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-04-26/102190022.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-04-25/171402540693471_480_320.jpg",
+          "meta": "04-26 14:00",
+          "summary": null,
+          "title": "新声计划｜邹雅琦：正视自己的欲望并拒绝一切剥削",
+          "url": "https://video.caixin.com/2024-04-26/102190022.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "财新时间 / Who's time",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-04-29/102191472.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-04-29/102191472.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-04-29/102191472.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-04-29/171437415416322_480_320.jpg",
+          "meta": "04-29 17:00",
+          "summary": null,
+          "title": "【财新时间】田沁鑫：希望我的戏别太端着，可有哲思，也可市井",
+          "url": "https://video.caixin.com/2024-04-29/102191472.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "CX创意",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-05-01/102192025.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-05-01/102192025.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-05-01/102192025.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-04-30/171446174388963_480_320.jpg",
+          "meta": "05-01 12:00",
+          "summary": null,
+          "title": "【特别呈现】《偏向茶山行》丨千年文明杯中行",
+          "url": "https://video.caixin.com/2024-05-01/102192025.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "财新时间 / Who's time",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-04-05/102182916.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-04-05/102182916.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-04-05/102182916.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-04-03/171214956862886_480_320.jpg",
+          "meta": "04-05 17:00",
+          "summary": null,
+          "title": "【财新时间】徐高：经济“上策”在收入分配改革，仍需“慎破”传统增长引擎",
+          "url": "https://video.caixin.com/2024-04-05/102182916.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "CX创意",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-04-17/102186702.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-04-17/102186702.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-04-17/102186702.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-04-16/171324376790036_480_320.jpg",
+          "meta": "04-17 12:00",
+          "summary": null,
+          "title": "【特别呈现】《偏向茶山行》｜在一席一盏间开启美学的漫游",
+          "url": "https://video.caixin.com/2024-04-17/102186702.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "CX创意",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-04-08/102183366.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-04-08/102183366.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-04-08/102183366.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-04-07/171245674051369_480_320.jpg",
+          "meta": "04-08 12:00",
+          "summary": null,
+          "title": "【特别呈现】《偏向茶山行》｜山的答案，是行出来的",
+          "url": "https://video.caixin.com/2024-04-08/102183366.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "CX创意",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-04-24/102189530.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-04-24/102189530.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-04-24/102189530.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-04-24/171393221843417_480_320.jpg",
+          "meta": "04-24 15:00",
+          "summary": null,
+          "title": "【特别呈现】《深圳不回家》｜凡有所愿，都有归处",
+          "url": "https://video.caixin.com/2024-04-24/102189530.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "CX创意",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-05-10/102194710.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-05-10/102194710.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-05-10/102194710.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-05-10/171531195065367_480_320.jpg",
+          "meta": "05-10 15:00",
+          "summary": null,
+          "title": "【特别呈现】《龙中对》第三季第六对 马立安：为城市立心",
+          "url": "https://video.caixin.com/2024-05-10/102194710.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "CX创意",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-04-24/102189210.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-04-24/102189210.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-04-24/102189210.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-04-23/171385568637558_480_320.jpg",
+          "meta": "04-24 12:00",
+          "summary": null,
+          "title": "【特别呈现】《偏向茶山行》｜洞见茶的赛博新纪元",
+          "url": "https://video.caixin.com/2024-04-24/102189210.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "CX创意",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-04-12/102184783.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-04-12/102184783.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-04-12/102184783.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-04-11/171280280090134_480_320.jpg",
+          "meta": "04-12 14:00",
+          "summary": null,
+          "title": "新声计划｜马灵丽：以艺术的形式，窥见自我，窥探世界",
+          "url": "https://video.caixin.com/2024-04-12/102184783.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "CX创意",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-04-09/102183728.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-04-09/102183728.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-04-09/102183728.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-04-08/171255913233964_480_320.jpg",
+          "meta": "04-09 12:00",
+          "summary": null,
+          "title": "【特别呈现】最是人间四月天，不如喝茶聊聊天",
+          "url": "https://video.caixin.com/2024-04-09/102183728.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-07-08/102461971.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-07-08/102461971.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-07-08/102461971.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2026-07-08/178349640867184_660_440.jpg",
+          "promoted_slot": true,
+          "summary": null,
+          "title": "【特别呈现】澳门全力探索葡语国家新渠道",
+          "url": "https://video.caixin.com/2026-07-08/102461971.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-07-08/102461980.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-07-08/102461980.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-07-08/102461980.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2026-07-08/178348057231759_660_440.jpg",
+          "promoted_slot": true,
+          "summary": null,
+          "title": "陆晓娅：把“原子化”的老人重新接入社会网络",
+          "url": "https://video.caixin.com/2026-07-08/102461980.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-07-07/102461673.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-07-07/102461673.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-07-07/102461673.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2026-07-07/178341338678176_660_440.jpg",
+          "promoted_slot": true,
+          "summary": null,
+          "title": "王宇科：中国养老市场产业化空间广阔",
+          "url": "https://video.caixin.com/2026-07-07/102461673.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-07-06/102461187.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-07-06/102461187.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-07-06/102461187.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2026-07-06/178331736271335_660_440.jpg",
+          "promoted_slot": true,
+          "summary": null,
+          "title": "【不唯一答案】不止“养老”",
+          "url": "https://video.caixin.com/2026-07-06/102461187.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-08-04/102471196.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-08-04/102471196.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-08-04/102471196.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2026-08-04/178583684476959_660_440.jpg",
+          "promoted_slot": true,
+          "summary": null,
+          "title": "【特别呈现】深耕中国·共启新味——恒天然如何践行“长期主义”",
+          "url": "https://video.caixin.com/2026-08-04/102471196.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-08-04/102471092.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-08-04/102471092.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-08-04/102471092.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2026-08-04/178581818717789_660_440.jpg",
+          "promoted_slot": true,
+          "summary": null,
+          "title": "【财新时间】对话普渡张涛：具身智能的热望与现实",
+          "url": "https://video.caixin.com/2026-08-04/102471092.html"
+        }
+      ],
+      "key": "video.hot",
+      "lane": "main",
+      "name": "最热视频",
+      "order": 1,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "CX创意",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2025-04-11/102308251.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2025-04-11/102308251.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2025-04-11/102308251.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2025-04-11/174433923307366_480_320.jpg",
+          "meta": "04-11 15:00",
+          "summary": null,
+          "title": "【特别呈现】《龙中对》第四季特别版｜《趣龙岗·有意思》",
+          "url": "https://video.caixin.com/2025-04-11/102308251.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "CX创意",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-06-26/102457843.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-06-26/102457843.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-06-26/102457843.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-06-26/178245364313470_480_320.jpg",
+          "meta": "06-26 15:00",
+          "summary": null,
+          "title": "【特别呈现】寻找100种有意思的生活方式·第二对",
+          "url": "https://video.caixin.com/2026-06-26/102457843.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "CX创意",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-06-18/102455128.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-06-18/102455128.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-06-18/102455128.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-06-17/178168976707186_480_320.jpg",
+          "meta": "06-18 20:00",
+          "summary": null,
+          "title": "【特别呈现】《东莞，人间便利店》倾情上线",
+          "url": "https://video.caixin.com/2026-06-18/102455128.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "CX创意",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2025-02-12/102287149.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2025-02-12/102287149.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2025-02-12/102287149.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2025-02-11/173925556466347_480_320.jpg",
+          "meta": "02-12 15:00",
+          "summary": null,
+          "title": "【特别呈现】《龙中对》第四季第二对 上田义彦：写真是无法再次重现的奇迹",
+          "url": "https://video.caixin.com/2025-02-12/102287149.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "CX创意",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-10-31/102250903.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-10-31/102250903.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-10-31/102250903.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-10-29/173017134111498_480_320.png",
+          "meta": "10-31 10:00",
+          "summary": null,
+          "title": "【特别呈现】《寻找创新答案》第三集｜“碳”索明天（下）",
+          "url": "https://video.caixin.com/2024-10-31/102250903.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "CX创意",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-10-30/102250716.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-10-30/102250716.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-10-30/102250716.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-10-29/173016965806922_480_320.png",
+          "meta": "10-30 10:00",
+          "summary": null,
+          "title": "【特别呈现】《寻找创新答案》第三集｜“碳”索明天（上）",
+          "url": "https://video.caixin.com/2024-10-30/102250716.html"
+        }
+      ],
+      "key": "video.partners",
+      "lane": "main",
+      "name": "合作专区",
+      "order": 2,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 5,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "video-section",
+        "canonical_url": "https://video.caixin.com/topics/",
+        "command": [
+          "caixin-cli",
+          "video-section",
+          "https://video.caixin.com/topics/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://video.caixin.com/topics/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "视频专题",
+      "url": "https://video.caixin.com/topics/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "video-section",
+        "canonical_url": "https://video.caixin.com/financialexpress/",
+        "command": [
+          "caixin-cli",
+          "video-section",
+          "https://video.caixin.com/financialexpress/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://video.caixin.com/financialexpress/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "短视频",
+      "url": "https://video.caixin.com/financialexpress/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "video-section",
+        "canonical_url": "https://video.caixin.com/2021/caixinshow/",
+        "command": [
+          "caixin-cli",
+          "video-section",
+          "https://video.caixin.com/2021/caixinshow/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://video.caixin.com/2021/caixinshow/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "财新脱口秀",
+      "url": "https://video.caixin.com/2021/caixinshow/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "video-section",
+        "canonical_url": "https://video.caixin.com/2022/boaolundao/",
+        "command": [
+          "caixin-cli",
+          "video-section",
+          "https://video.caixin.com/2022/boaolundao/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://video.caixin.com/2022/boaolundao/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "博鳌论道",
+      "url": "https://video.caixin.com/2022/boaolundao/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "video-section",
+        "canonical_url": "https://video.caixin.com/2022/ibmgcxx/",
+        "command": [
+          "caixin-cli",
+          "video-section",
+          "https://video.caixin.com/2022/ibmgcxx/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://video.caixin.com/2022/ibmgcxx/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "共创·向新",
+      "url": "https://video.caixin.com/2022/ibmgcxx/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "video-section",
+        "canonical_url": "https://video.caixin.com/2021/lhzy/",
+        "command": [
+          "caixin-cli",
+          "video-section",
+          "https://video.caixin.com/2021/lhzy/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://video.caixin.com/2021/lhzy/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "两会智言",
+      "url": "https://video.caixin.com/2021/lhzy/"
+    }
+  ],
+  "navigation_count": 6,
+  "ok": true,
+  "page_kind": "video-index",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-06T14:32:40+00:00",
+    "final_url": "https://video.caixin.com/",
+    "requested_url": "https://video.caixin.com/"
+  },
+  "source_mode": "server_html",
+  "stale_content": false,
+  "title": "财新视频_有价值 有价值观",
+  "unique_urls_count": 44
+}

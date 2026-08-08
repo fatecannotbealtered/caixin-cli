@@ -1,0 +1,908 @@
+{
+  "_untrusted": true,
+  "article_details_not_fetched": true,
+  "complete_listing_verified": false,
+  "directory_only": true,
+  "downloads": [
+    {
+      "access": "ssr_download_candidate",
+      "consumer": {
+        "_untrusted": true,
+        "boundary": "download_asset",
+        "input_url": "https://promote.caixin.com/upload/esg30whitepaper2025.pdf",
+        "ok": true,
+        "reason": "PDF 仅作为下载候选元数据返回，当前不抓取文件内容。",
+        "supported": false
+      },
+      "content_not_fetched": true,
+      "expected_mime_type": "application/pdf",
+      "rendered_visibility_not_verified": true,
+      "title": null,
+      "url": "https://promote.caixin.com/upload/esg30whitepaper2025.pdf"
+    },
+    {
+      "access": "ssr_download_candidate",
+      "consumer": {
+        "_untrusted": true,
+        "boundary": "download_asset",
+        "input_url": "https://promote.caixin.com/upload/esgnewsletter184.pdf",
+        "ok": true,
+        "reason": "PDF 仅作为下载候选元数据返回，当前不抓取文件内容。",
+        "supported": false
+      },
+      "content_not_fetched": true,
+      "expected_mime_type": "application/pdf",
+      "rendered_visibility_not_verified": true,
+      "title": " 获取样刊",
+      "url": "https://promote.caixin.com/upload/esgnewsletter184.pdf"
+    },
+    {
+      "access": "ssr_download_candidate",
+      "consumer": {
+        "_untrusted": true,
+        "boundary": "download_asset",
+        "input_url": "https://promote.caixin.com/upload/esg30-young-scholars-2024-lcl.pdf",
+        "ok": true,
+        "reason": "PDF 仅作为下载候选元数据返回，当前不抓取文件内容。",
+        "supported": false
+      },
+      "content_not_fetched": true,
+      "expected_mime_type": "application/pdf",
+      "rendered_visibility_not_verified": true,
+      "title": " 点击阅读",
+      "url": "https://promote.caixin.com/upload/esg30-young-scholars-2024-lcl.pdf"
+    },
+    {
+      "access": "ssr_download_candidate",
+      "consumer": {
+        "_untrusted": true,
+        "boundary": "download_asset",
+        "input_url": "https://promote.caixin.com/upload/transitionfinance2024.pdf",
+        "ok": true,
+        "reason": "PDF 仅作为下载候选元数据返回，当前不抓取文件内容。",
+        "supported": false
+      },
+      "content_not_fetched": true,
+      "expected_mime_type": "application/pdf",
+      "rendered_visibility_not_verified": true,
+      "title": " 点击阅读",
+      "url": "https://promote.caixin.com/upload/transitionfinance2024.pdf"
+    },
+    {
+      "access": "ssr_download_candidate",
+      "consumer": {
+        "_untrusted": true,
+        "boundary": "download_asset",
+        "input_url": "https://promote.caixin.com/upload/inclusivefinancing.pdf",
+        "ok": true,
+        "reason": "PDF 仅作为下载候选元数据返回，当前不抓取文件内容。",
+        "supported": false
+      },
+      "content_not_fetched": true,
+      "expected_mime_type": "application/pdf",
+      "rendered_visibility_not_verified": true,
+      "title": " 点击阅读",
+      "url": "https://promote.caixin.com/upload/inclusivefinancing.pdf"
+    }
+  ],
+  "downloads_count": 5,
+  "external_stylesheets_applied": false,
+  "items_count": 25,
+  "javascript_executed": false,
+  "kind": "esg30",
+  "latest_article_date": "2026-07-17",
+  "modules": [
+    {
+      "items": [
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [
+            "ESG30",
+            "研究"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://promote.caixin.com/2026-06-26/102457788.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://promote.caixin.com/2026-06-26/102457788.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://promote.caixin.com/2026-06-26/102457788.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": "2026-06-26",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "ESG知行探索之旅（大湾区场）回顾：探索规则重塑下的新型发展模式",
+          "url": "https://promote.caixin.com/2026-06-26/102457788.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://promote.caixin.com/2025-11-15/102383511.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://promote.caixin.com/2025-11-15/102383511.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://promote.caixin.com/2025-11-15/102383511.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2025-11-18/176343667444928.jpg",
+          "item_kind": "article",
+          "published_at": null,
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "ESG30",
+          "url": "https://promote.caixin.com/2025-11-15/102383511.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [
+            "ESG30",
+            "机构观察"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://promote.caixin.com/2026-07-17/102465058.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://promote.caixin.com/2026-07-17/102465058.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://promote.caixin.com/2026-07-17/102465058.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": "2026-07-21",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "机构动态 | ESG30青年学者走进Sun Life永明：看见长期主义",
+          "url": "https://promote.caixin.com/2026-07-17/102465058.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [
+            "ESG30",
+            "机构观察"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://promote.caixin.com/2026-06-29/102458683.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://promote.caixin.com/2026-06-29/102458683.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://promote.caixin.com/2026-06-29/102458683.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": "2026-06-29",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "机构动态 | 三项气候韧性产品在浦东首发",
+          "url": "https://promote.caixin.com/2026-06-29/102458683.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [
+            "ESG30",
+            "研究"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://promote.caixin.com/2026-05-06/102440810.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://promote.caixin.com/2026-05-06/102440810.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://promote.caixin.com/2026-05-06/102440810.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": "2026-05-06",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "ESG知行探索之旅（华东场）回顾：多方联动创新机制与合力路径",
+          "url": "https://promote.caixin.com/2026-05-06/102440810.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [
+            "ESG30",
+            "机构观察"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://promote.caixin.com/2026-04-24/102437529.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://promote.caixin.com/2026-04-24/102437529.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://promote.caixin.com/2026-04-24/102437529.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": "2026-04-24",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "机构动态 | 2026北京国际可持续大会成功举办 共议ISSB准则跨境高质量采用与实施",
+          "url": "https://promote.caixin.com/2026-04-24/102437529.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [
+            "ESG30",
+            "机构观察"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://promote.caixin.com/2026-04-15/102434234.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://promote.caixin.com/2026-04-15/102434234.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://promote.caixin.com/2026-04-15/102434234.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": "2026-04-15",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "机构动态 | 给地球“降温”的正确方式：在消博会喝一杯正谷碳中和瑰夏咖啡",
+          "url": "https://promote.caixin.com/2026-04-15/102434234.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [
+            "ESG30",
+            "机构观察"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://promote.caixin.com/2026-03-31/102429548.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://promote.caixin.com/2026-03-31/102429548.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://promote.caixin.com/2026-03-31/102429548.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": "2026-03-31",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "机构动态 | 2026企业碳中和峰会暨第五届碳中和行动联盟成员大会成功召开，共推碳市场提质增效、共筑绿色发展新格局",
+          "url": "https://promote.caixin.com/2026-03-31/102429548.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [
+            "ESG30",
+            "研究"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://promote.caixin.com/2026-02-28/102416755.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://promote.caixin.com/2026-02-28/102416755.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://promote.caixin.com/2026-02-28/102416755.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": "2026-03-02",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "ESG30青年学者计划第二期（2025-2026）入选课题公布",
+          "url": "https://promote.caixin.com/2026-02-28/102416755.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://index.caixin.com/2023-11-10/102223483.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://index.caixin.com/2023-11-10/102223483.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://index.caixin.com/2023-11-10/102223483.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": null,
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "专家伙伴 ",
+          "url": "https://index.caixin.com/2023-11-10/102223483.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-11-09/102255272.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-11-09/102255272.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-11-09/102255272.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2024-12-16/173431631594654.jpg",
+          "item_kind": "article",
+          "published_at": null,
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "ESG二十年——从全球到中国 | 视频",
+          "url": "https://video.caixin.com/2024-11-09/102255272.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-10-30/102250716.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-10-30/102250716.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-10-30/102250716.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2025-01-13/173674962316426.jpg",
+          "item_kind": "article",
+          "published_at": null,
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "“碳”索明天（上） | 视频",
+          "url": "https://video.caixin.com/2024-10-30/102250716.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-10-31/102250903.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-10-31/102250903.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-10-31/102250903.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2025-01-13/173675009861955.jpg",
+          "item_kind": "article",
+          "published_at": null,
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "“碳”索明天（下） | 视频",
+          "url": "https://video.caixin.com/2024-10-31/102250903.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2022-11-21/101968422.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2022-11-21/101968422.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2022-11-21/101968422.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2022-12-16/167116256657169.jpg",
+          "item_kind": "article",
+          "published_at": null,
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "RCEP启航录",
+          "url": "https://video.caixin.com/2022-11-21/101968422.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2022-10-28/101956683.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2022-10-28/101956683.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2022-10-28/101956683.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2022-11-03/166745622223796.jpg",
+          "item_kind": "article",
+          "published_at": null,
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "双碳行动家",
+          "url": "https://video.caixin.com/2022-10-28/101956683.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2021-04-30/101704309.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2021-04-30/101704309.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2021-04-30/101704309.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2022-09-05/166234502973722.jpg",
+          "item_kind": "article",
+          "published_at": null,
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "样本观察",
+          "url": "https://opinion.caixin.com/2021-04-30/101704309.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2021-11-03/101795426.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2021-11-03/101795426.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2021-11-03/101795426.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2021-11-09/163644677008091.jpg",
+          "item_kind": "article",
+          "published_at": null,
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "财新对话",
+          "url": "https://video.caixin.com/2021-11-03/101795426.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://promote.caixin.com/2025-05-12/102318723.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://promote.caixin.com/2025-05-12/102318723.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://promote.caixin.com/2025-05-12/102318723.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2025-05-12/174701594521665.jpg",
+          "item_kind": "article",
+          "published_at": null,
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "ESG30走进易方达基金暨资本市场高质量发展下的ESG投资实践研讨会",
+          "url": "https://promote.caixin.com/2025-05-12/102318723.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://promote.caixin.com/2025-05-07/102317183.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://promote.caixin.com/2025-05-07/102317183.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://promote.caixin.com/2025-05-07/102317183.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2025-05-12/174702090150965.jpg",
+          "item_kind": "article",
+          "published_at": null,
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "ESG30青年学者计划知行探索之旅（华南场）",
+          "url": "https://promote.caixin.com/2025-05-07/102317183.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://promote.caixin.com/2025-04-30/102315516.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://promote.caixin.com/2025-04-30/102315516.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://promote.caixin.com/2025-04-30/102315516.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2025-05-06/174650192166913.jpg",
+          "item_kind": "article",
+          "published_at": null,
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "ESG30青年学者计划知行探索之旅（华北场）",
+          "url": "https://promote.caixin.com/2025-04-30/102315516.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://promote.caixin.com/2025-03-13/102297639.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://promote.caixin.com/2025-03-13/102297639.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://promote.caixin.com/2025-03-13/102297639.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com//2025-03-13/174185500265471.jpg",
+          "item_kind": "article",
+          "published_at": null,
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "ESG30青年学者计划知行探索之旅（华东场）",
+          "url": "https://promote.caixin.com/2025-03-13/102297639.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://index.caixin.com/2022-10-11/101950151.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://index.caixin.com/2022-10-11/101950151.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://index.caixin.com/2022-10-11/101950151.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": null,
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "平台优势 ",
+          "url": "https://index.caixin.com/2022-10-11/101950151.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://index.caixin.com/2022-10-11/101950157.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://index.caixin.com/2022-10-11/101950157.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://index.caixin.com/2022-10-11/101950157.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": null,
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "大事记 ",
+          "url": "https://index.caixin.com/2022-10-11/101950157.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2022-07-10/101911052.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2022-07-10/101911052.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2022-07-10/101911052.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": null,
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "ESG2.0倡议",
+          "url": "https://www.caixin.com/2022-07-10/101911052.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://index.caixin.com/2022-10-11/101950159.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://index.caixin.com/2022-10-11/101950159.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://index.caixin.com/2022-10-11/101950159.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": null,
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "合作机构 ",
+          "url": "https://index.caixin.com/2022-10-11/101950159.html"
+        }
+      ],
+      "key": "public-directory.esg30-articles",
+      "lane": "main",
+      "name": "ESG30 资讯",
+      "order": 0,
+      "state": "server_rendered"
+    }
+  ],
+  "modules_count": 1,
+  "ok": true,
+  "page": 1,
+  "rendered_visibility_not_verified": true,
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "scripts_not_executed": true,
+  "session_used": false,
+  "source": {
+    "canonical_url": "https://index.caixin.com/esg30/",
+    "fetched_at": "2026-08-06T14:33:05+00:00",
+    "final_url": "https://index.caixin.com/esg30/",
+    "requested_url": "https://index.caixin.com/esg30/"
+  },
+  "source_mode": "server_html",
+  "stale_content": false,
+  "subdirectories": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "esg30-subdirectory",
+        "canonical_url": "https://index.caixin.com/news/",
+        "command": [
+          "caixin-cli",
+          "esg30-subdirectory",
+          "https://index.caixin.com/news/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://index.caixin.com/news/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "rendered_visibility_not_verified": true,
+      "title": "更多文章",
+      "url": "https://index.caixin.com/news/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "esg30-subdirectory",
+        "canonical_url": "https://index.caixin.com/esg30focus/",
+        "command": [
+          "caixin-cli",
+          "esg30-subdirectory",
+          "https://index.caixin.com/esg30focus/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://index.caixin.com/esg30focus/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "rendered_visibility_not_verified": true,
+      "title": "更多",
+      "url": "https://index.caixin.com/esg30focus/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "esg30-subdirectory",
+        "canonical_url": "https://index.caixin.com/esg30event/",
+        "command": [
+          "caixin-cli",
+          "esg30-subdirectory",
+          "https://index.caixin.com/esg30event/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://index.caixin.com/esg30event/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "rendered_visibility_not_verified": true,
+      "title": "更多",
+      "url": "https://index.caixin.com/esg30event/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "esg30-subdirectory",
+        "canonical_url": "https://index.caixin.com/esg30report/",
+        "command": [
+          "caixin-cli",
+          "esg30-subdirectory",
+          "https://index.caixin.com/esg30report/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://index.caixin.com/esg30report/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "rendered_visibility_not_verified": true,
+      "title": "更多",
+      "url": "https://index.caixin.com/esg30report/"
+    }
+  ],
+  "title": "中国ESG30人论坛",
+  "unique_urls_count": 25
+}

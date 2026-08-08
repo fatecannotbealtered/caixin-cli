@@ -1,0 +1,3596 @@
+{
+  "_untrusted": true,
+  "archive_cards_count": 124,
+  "archive_unique_issue_urls_count": 124,
+  "article_entries_count": 6,
+  "complete_listing_verified": false,
+  "current_issue": {
+    "consumer": {
+      "_untrusted": true,
+      "adapter": "issue",
+      "canonical_url": "https://cnreform.caixin.com/2026/cr448/",
+      "command": [
+        "caixin-cli",
+        "issue",
+        "https://cnreform.caixin.com/2026/cr448/"
+      ],
+      "content_access_not_implied": true,
+      "discovery_required": false,
+      "input_url": "https://cnreform.caixin.com/2026/cr448/",
+      "ok": true,
+      "supported": true
+    },
+    "cover_image": "https://img.caixin.com//2026-07-06/178332690779282.jpg",
+    "fetch_supported": true,
+    "issue_number": 448,
+    "lead": {
+      "access": "directory_visible",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "article",
+        "canonical_url": "https://cnreform.caixin.com/2026-07-06/102461246.html",
+        "command": [
+          "caixin-cli",
+          "article",
+          "https://cnreform.caixin.com/2026-07-06/102461246.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://cnreform.caixin.com/2026-07-06/102461246.html",
+        "ok": true,
+        "supported": true
+      },
+      "kind": "article",
+      "summary": "《文文文文文文文文文文文文》（文文《文文》）文0000文0文0文文文文。《文文》文文文，文文文文文文，文文文文文文文文，文文文文文文文文文文文文文，文文文文文文文、文文文文文。文文《文文文文》文文文文文文文文文文文文",
+      "title": "对外投资新规面面观",
+      "url": "https://cnreform.caixin.com/2026-07-06/102461246.html"
+    },
+    "published_at": null,
+    "url": "https://cnreform.caixin.com/2026/cr448/"
+  },
+  "directory_only": true,
+  "external_stylesheets_applied": false,
+  "featured_articles": [
+    {
+      "access": "directory_visible",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "article",
+        "canonical_url": "https://cnreform.caixin.com/2026-07-06/102461250.html",
+        "command": [
+          "caixin-cli",
+          "article",
+          "https://cnreform.caixin.com/2026-07-06/102461250.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://cnreform.caixin.com/2026-07-06/102461250.html",
+        "ok": true,
+        "supported": true
+      },
+      "summary": null,
+      "title": "如何管理优势产业技术扩散和产线外迁",
+      "url": "https://cnreform.caixin.com/2026-07-06/102461250.html"
+    },
+    {
+      "access": "directory_visible",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "article",
+        "canonical_url": "https://cnreform.caixin.com/2026-07-06/102461253.html",
+        "command": [
+          "caixin-cli",
+          "article",
+          "https://cnreform.caixin.com/2026-07-06/102461253.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://cnreform.caixin.com/2026-07-06/102461253.html",
+        "ok": true,
+        "supported": true
+      },
+      "summary": null,
+      "title": "中国对外投资迈入“全周期监管与服务”时代",
+      "url": "https://cnreform.caixin.com/2026-07-06/102461253.html"
+    },
+    {
+      "access": "directory_visible",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "article",
+        "canonical_url": "https://cnreform.caixin.com/2026-07-06/102461228.html",
+        "command": [
+          "caixin-cli",
+          "article",
+          "https://cnreform.caixin.com/2026-07-06/102461228.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://cnreform.caixin.com/2026-07-06/102461228.html",
+        "ok": true,
+        "supported": true
+      },
+      "summary": null,
+      "title": "中外国债利率大分流及应对",
+      "url": "https://cnreform.caixin.com/2026-07-06/102461228.html"
+    },
+    {
+      "access": "directory_visible",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "article",
+        "canonical_url": "https://cnreform.caixin.com/2026-07-06/102461349.html",
+        "command": [
+          "caixin-cli",
+          "article",
+          "https://cnreform.caixin.com/2026-07-06/102461349.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://cnreform.caixin.com/2026-07-06/102461349.html",
+        "ok": true,
+        "supported": true
+      },
+      "summary": null,
+      "title": "AI冲击就业，如何构建 “互动补偿”公共政策机制",
+      "url": "https://cnreform.caixin.com/2026-07-06/102461349.html"
+    },
+    {
+      "access": "directory_visible",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "article",
+        "canonical_url": "https://cnreform.caixin.com/2026-07-06/102461377.html",
+        "command": [
+          "caixin-cli",
+          "article",
+          "https://cnreform.caixin.com/2026-07-06/102461377.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://cnreform.caixin.com/2026-07-06/102461377.html",
+        "ok": true,
+        "supported": true
+      },
+      "summary": null,
+      "title": "互联网金融监管涌动新浪潮",
+      "url": "https://cnreform.caixin.com/2026-07-06/102461377.html"
+    }
+  ],
+  "issue_entries_count": 125,
+  "issues_count": 124,
+  "items_count": 124,
+  "javascript_executed": false,
+  "latest_issue_date": null,
+  "latest_issue_url": "https://cnreform.caixin.com/2026/cr448/",
+  "modules": [
+    {
+      "continuation_available": false,
+      "initially_visible_count": 3,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2026/cr447/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2026/cr447/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2026/cr447/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2026-05-09/177831375617061.jpg",
+          "published_at": "2026-05-01",
+          "source_state": "initial",
+          "title": "化债攻坚克难",
+          "total_issue": 447,
+          "url": "https://cnreform.caixin.com/2026/cr447/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2026/cr446/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2026/cr446/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2026/cr446/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2026-03-06/177278853399945.jpg",
+          "published_at": "2026-03-01",
+          "source_state": "initial",
+          "title": "“十五五”启航",
+          "total_issue": 446,
+          "url": "https://cnreform.caixin.com/2026/cr446/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2026/cr445/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2026/cr445/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2026/cr445/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2026-01-12/176820809185245.jpg",
+          "published_at": "2026-01-01",
+          "source_state": "initial",
+          "title": "韧性耐心何处寻",
+          "total_issue": 445,
+          "url": "https://cnreform.caixin.com/2026/cr445/"
+        }
+      ],
+      "key": "cnreform-index.2026",
+      "lane": "main",
+      "name": "2026",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2025/cr444/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2025/cr444/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2025/cr444/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2025-11-06/176241754560659.jpg",
+          "published_at": "2025-11-01",
+          "source_state": "initial",
+          "title": "农村养老补短板",
+          "total_issue": 444,
+          "url": "https://cnreform.caixin.com/2025/cr444/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2025/cr443/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2025/cr443/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2025/cr443/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2025-09-09/175739972543823.jpg",
+          "published_at": "2025-09-01",
+          "source_state": "initial",
+          "title": "创新中的开放生态与技术扩散",
+          "total_issue": 443,
+          "url": "https://cnreform.caixin.com/2025/cr443/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2025/cr442/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2025/cr442/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2025/cr442/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2025-07-02/175144851073685.jpg",
+          "published_at": "2025-07-01",
+          "source_state": "initial",
+          "title": "着力解决养老急难愁盼",
+          "total_issue": 442,
+          "url": "https://cnreform.caixin.com/2025/cr442/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2025/cr441/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2025/cr441/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2025/cr441/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2025-05-13/174712073002848.jpg",
+          "published_at": "2025-05-01",
+          "source_state": "initial",
+          "title": "关税战犹酣",
+          "total_issue": 441,
+          "url": "https://cnreform.caixin.com/2025/cr441/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2025/cr440/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2025/cr440/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2025/cr440/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2025-03-11/174168455413241.jpg",
+          "published_at": "2025-03-01",
+          "source_state": "initial",
+          "title": "知识产权·科技创新·AI时代",
+          "total_issue": 440,
+          "url": "https://cnreform.caixin.com/2025/cr440/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2025/cr439/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2025/cr439/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2025/cr439/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2025-01-13/173675858369332.jpg",
+          "published_at": "2025-01-01",
+          "source_state": "initial",
+          "title": "寻方于变革时代",
+          "total_issue": 439,
+          "url": "https://cnreform.caixin.com/2025/cr439/"
+        }
+      ],
+      "key": "cnreform-index.2025",
+      "lane": "main",
+      "name": "2025",
+      "order": 1,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2024/cr438/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2024/cr438/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2024/cr438/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2024-11-15/173163437115059.jpg",
+          "published_at": "2024-11-01",
+          "source_state": "initial",
+          "title": "环球货币政策凉热",
+          "total_issue": 438,
+          "url": "https://cnreform.caixin.com/2024/cr438/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2024/cr437/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2024/cr437/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2024/cr437/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2024-09-09/172585594466329.jpg",
+          "published_at": "2024-09-01",
+          "source_state": "initial",
+          "title": "走进人工智能时代",
+          "total_issue": 437,
+          "url": "https://cnreform.caixin.com/2024/cr437/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2024/cr436/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2024/cr436/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2024/cr436/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2024-07-11/172066368789263.jpg",
+          "published_at": "2024-07-01",
+          "source_state": "initial",
+          "title": "直面养老真问题",
+          "total_issue": 436,
+          "url": "https://cnreform.caixin.com/2024/cr436/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2024/cr435/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2024/cr435/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2024/cr435/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2024-05-14/171569415693936.jpg",
+          "published_at": "2024-05-01",
+          "source_state": "initial",
+          "title": "开放的转型与升级",
+          "total_issue": 435,
+          "url": "https://cnreform.caixin.com/2024/cr435/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2024/cr434/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2024/cr434/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2024/cr434/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2024-03-14/171040638002370.jpg",
+          "published_at": "2024-03-01",
+          "source_state": "initial",
+          "title": "把脉2024年经济走势",
+          "total_issue": 434,
+          "url": "https://cnreform.caixin.com/2024/cr434/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2024/cr433/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2024/cr433/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2024/cr433/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2024-01-12/170502372324659.jpg",
+          "published_at": "2024-01-01",
+          "source_state": "initial",
+          "title": "共解全球问题",
+          "total_issue": 433,
+          "url": "https://cnreform.caixin.com/2024/cr433/"
+        }
+      ],
+      "key": "cnreform-index.2024",
+      "lane": "main",
+      "name": "2024",
+      "order": 2,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2023/cr432/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2023/cr432/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2023/cr432/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2023-11-03/169900022027048.jpg",
+          "published_at": "2023-11-01",
+          "source_state": "initial",
+          "title": "回首十八届三中全会",
+          "total_issue": 432,
+          "url": "https://cnreform.caixin.com/2023/cr432/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2023/cr431/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2023/cr431/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2023/cr431/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2023-09-04/169381940221481.jpg",
+          "published_at": "2023-09-01",
+          "source_state": "initial",
+          "title": "“一带一路”若干经济分析",
+          "total_issue": 431,
+          "url": "https://cnreform.caixin.com/2023/cr431/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2023/cr430/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2023/cr430/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2023/cr430/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2023-07-12/168913419700533.jpg",
+          "published_at": "2023-07-01",
+          "source_state": "initial",
+          "title": "求解“老有所养”难题",
+          "total_issue": 430,
+          "url": "https://cnreform.caixin.com/2023/cr430/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2023/cr429/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2023/cr429/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2023/cr429/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2023-05-10/168370465220997.jpg",
+          "published_at": "2023-05-01",
+          "source_state": "initial",
+          "title": "外贸外资阴晴",
+          "total_issue": 429,
+          "url": "https://cnreform.caixin.com/2023/cr429/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2023/cr428/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2023/cr428/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2023/cr428/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2023-03-06/167809063376336.jpg",
+          "published_at": "2023-03-01",
+          "source_state": "initial",
+          "title": "中江举帆待潮生：2023中国经济展望",
+          "total_issue": 428,
+          "url": "https://cnreform.caixin.com/2023/cr428/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2023/cr427/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2023/cr427/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2023/cr427/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2023-01-04/167280846770037.jpg",
+          "published_at": "2023-01-01",
+          "source_state": "initial",
+          "title": "共享发展新机遇",
+          "total_issue": 427,
+          "url": "https://cnreform.caixin.com/2023/cr427/"
+        }
+      ],
+      "key": "cnreform-index.2023",
+      "lane": "main",
+      "name": "2023",
+      "order": 3,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2022/cr426/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2022/cr426/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2022/cr426/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2022-11-03/166745533209259.jpg",
+          "published_at": "2022-11-01",
+          "source_state": "initial",
+          "title": "缓解地方财政困难",
+          "total_issue": 426,
+          "url": "https://cnreform.caixin.com/2022/cr426/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2022/cr425/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2022/cr425/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2022/cr425/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2022-09-07/166253069273060.jpg",
+          "published_at": "2022-09-01",
+          "source_state": "initial",
+          "title": "城乡变奏",
+          "total_issue": 425,
+          "url": "https://cnreform.caixin.com/2022/cr425/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2022/cr424/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2022/cr424/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2022/cr424/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2022-07-06/165709518109758.jpg",
+          "published_at": "2022-07-01",
+          "source_state": "initial",
+          "title": "中国外储安危",
+          "total_issue": 424,
+          "url": "https://cnreform.caixin.com/2022/cr424/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2022/cr423/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2022/cr423/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2022/cr423/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2022-05-09/165206734063620.jpg",
+          "published_at": "2022-05-01",
+          "source_state": "initial",
+          "title": "俄乌冲突经济冲击波",
+          "total_issue": 423,
+          "url": "https://cnreform.caixin.com/2022/cr423/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2022/cr422/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2022/cr422/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2022/cr422/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2022-03-07/164665061491821.jpg",
+          "published_at": "2022-03-01",
+          "source_state": "initial",
+          "title": "聚焦“十四五”公共服务供给侧",
+          "total_issue": 422,
+          "url": "https://cnreform.caixin.com/2022/cr422/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2022/cr421/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2022/cr421/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2022/cr421/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2022-01-07/164152411660241.jpg",
+          "published_at": "2022-01-01",
+          "source_state": "initial",
+          "title": "为了命运共同体",
+          "total_issue": 421,
+          "url": "https://cnreform.caixin.com/2022/cr421/"
+        }
+      ],
+      "key": "cnreform-index.2022",
+      "lane": "main",
+      "name": "2022",
+      "order": 4,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2021/cr420/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2021/cr420/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2021/cr420/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2021-11-08/163637307058280.jpg",
+          "published_at": "2021-11-01",
+          "source_state": "initial",
+          "title": "中国房地产下一程",
+          "total_issue": 420,
+          "url": "https://cnreform.caixin.com/2021/cr420/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2021/cr419/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2021/cr419/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2021/cr419/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2021-09-13/1631534534752566.jpg",
+          "published_at": "2021-09-01",
+          "source_state": "initial",
+          "title": "眺望“双碳”征程",
+          "total_issue": 419,
+          "url": "https://cnreform.caixin.com/2021/cr419/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2021/cr418/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2021/cr418/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2021/cr418/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2021-07-06/1625536402286568.jpg",
+          "published_at": "2021-07-01",
+          "source_state": "initial",
+          "title": "中共建党百年 追寻富强",
+          "total_issue": 418,
+          "url": "https://cnreform.caixin.com/2021/cr418/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2021/cr417/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2021/cr417/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2021/cr417/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2021-05-06/1620271250486628.jpg",
+          "published_at": "2021-05-01",
+          "source_state": "initial",
+          "title": "平台经济关键时期的治理",
+          "total_issue": 417,
+          "url": "https://cnreform.caixin.com/2021/cr417/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2021/cr416/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2021/cr416/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2021/cr416/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2021-03-05/1614911231160851.jpg",
+          "published_at": "2021-03-01",
+          "source_state": "initial",
+          "title": "求解南北差距",
+          "total_issue": 416,
+          "url": "https://cnreform.caixin.com/2021/cr416/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2021/cr415/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2021/cr415/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2021/cr415/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2021-01-12/1610411607439767.jpg",
+          "published_at": "2021-01-01",
+          "source_state": "initial",
+          "title": "重建全球信任",
+          "total_issue": 415,
+          "url": "https://cnreform.caixin.com/2021/cr415/index.html"
+        }
+      ],
+      "key": "cnreform-index.2021",
+      "lane": "main",
+      "name": "2021",
+      "order": 5,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 5,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2020/cr414/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2020/cr414/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2020/cr414/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2020-11-10/1604975434154587.jpg",
+          "published_at": "2020-11-01",
+          "source_state": "initial",
+          "title": "驱动“双循环”",
+          "total_issue": 414,
+          "url": "https://cnreform.caixin.com/2020/cr414/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2020/cr413/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2020/cr413/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2020/cr413/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2020-09-04/1599207013914630.jpg",
+          "published_at": "2020-09-01",
+          "source_state": "initial",
+          "title": "近观“十四五”",
+          "total_issue": 413,
+          "url": "https://cnreform.caixin.com/2020/cr413/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2020/cr412/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2020/cr412/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2020/cr412/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2020-07-09/1594275401466891.jpg",
+          "published_at": "2020-07-01",
+          "source_state": "initial",
+          "title": "疫情下的经济转型",
+          "total_issue": 412,
+          "url": "https://cnreform.caixin.com/2020/cr412/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2020/cr410411/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2020/cr410411/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2020/cr410411/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2020-03-18/1584537456963197.jpg",
+          "published_at": "2020-03-18",
+          "source_state": "initial",
+          "title": "新冠刻度",
+          "total_issue": 410,
+          "url": "https://cnreform.caixin.com/2020/cr410411/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2019/cr409/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2019/cr409/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2019/cr409/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2019-12-30/1577693163033626.jpg",
+          "published_at": "2020-01-01",
+          "source_state": "initial",
+          "title": "开放的中国与世界",
+          "total_issue": 409,
+          "url": "https://cnreform.caixin.com/2019/cr409/"
+        }
+      ],
+      "key": "cnreform-index.2020",
+      "lane": "main",
+      "name": "2020",
+      "order": 6,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2019/cr408/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2019/cr408/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2019/cr408/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2019-11-04/1572841669003463.jpg",
+          "published_at": "2019-11-01",
+          "source_state": "initial",
+          "title": "“中国制造”坐标",
+          "total_issue": 408,
+          "url": "https://cnreform.caixin.com/2019/cr408/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2019/cr407/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2019/cr407/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2019/cr407/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2019-09-10/1568097892429675.jpg",
+          "published_at": "2019-09-01",
+          "source_state": "initial",
+          "title": "市场主体“退路”",
+          "total_issue": 407,
+          "url": "https://cnreform.caixin.com/2019/cr407/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2019/cr406/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2019/cr406/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2019/cr406/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2019-07-04/1562232458827962.jpg",
+          "published_at": "2019-07-01",
+          "source_state": "initial",
+          "title": "城乡融合寻路",
+          "total_issue": 406,
+          "url": "https://cnreform.caixin.com/2019/cr406/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2019/cr405/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2019/cr405/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2019/cr405/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2019-04-29/1556526924195143.jpg",
+          "published_at": "2019-05-01",
+          "source_state": "initial",
+          "title": "减税降费进行时",
+          "total_issue": 405,
+          "url": "https://cnreform.caixin.com/2019/cr405/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2019/cr404/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2019/cr404/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2019/cr404/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2019-02-27/1551231634559053.jpg",
+          "published_at": "2019-03-01",
+          "source_state": "initial",
+          "title": "2019中国经济前瞻",
+          "total_issue": 404,
+          "url": "https://cnreform.caixin.com/2019/cr404/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2019/cr403/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2019/cr403/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2019/cr403/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2019-01-18/1547779538856692.jpg",
+          "published_at": "2019-01-01",
+          "source_state": "initial",
+          "title": "改革惊回首",
+          "total_issue": 403,
+          "url": "https://cnreform.caixin.com/2019/cr403/"
+        }
+      ],
+      "key": "cnreform-index.2019",
+      "lane": "main",
+      "name": "2019",
+      "order": 7,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2018/cr402/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2018/cr402/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2018/cr402/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2018-11-01/1541061367068631.jpg",
+          "published_at": "2018-11-01",
+          "source_state": "initial",
+          "title": "改革开放再探路",
+          "total_issue": 402,
+          "url": "https://cnreform.caixin.com/2018/cr402/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2018/cr401/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2018/cr401/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2018/cr401/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2018-08-31/1535677268053869.jpg",
+          "published_at": "2018-09-01",
+          "source_state": "initial",
+          "title": "供给侧改革：回顾与展望",
+          "total_issue": 401,
+          "url": "https://cnreform.caixin.com/2018/cr401/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2018/cr400/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2018/cr400/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2018/cr400/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2018-07-04/1530692456294655.jpg",
+          "published_at": "2018-07-01",
+          "source_state": "initial",
+          "title": "宏观经济政策年中探路",
+          "total_issue": 400,
+          "url": "https://cnreform.caixin.com/2018/cr400/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2018/cr399/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2018/cr399/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2018/cr399/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2018-05-10/1525942348426911.jpg",
+          "published_at": "2018-05-01",
+          "source_state": "initial",
+          "title": "中美贸易摩擦大视野",
+          "total_issue": 399,
+          "url": "https://cnreform.caixin.com/2018/cr399/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2018/cr398/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2018/cr398/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2018/cr398/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2018-03-05/1520237887054639.jpg",
+          "published_at": "2018-03-01",
+          "source_state": "initial",
+          "title": "扶贫前路",
+          "total_issue": 398,
+          "url": "https://cnreform.caixin.com/2018/cr398/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2018/cr397/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2018/cr397/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2018/cr397/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2018-01-04/1515063594921023.jpg",
+          "published_at": "2018-01-01",
+          "source_state": "initial",
+          "title": "期待响晴——2018年中国宏观经济展望",
+          "total_issue": 397,
+          "url": "https://cnreform.caixin.com/2018/cr397/"
+        }
+      ],
+      "key": "cnreform-index.2018",
+      "lane": "main",
+      "name": "2018",
+      "order": 8,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2017/cr396/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2017/cr396/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2017/cr396/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2017-11-09/1510219300319717.jpg",
+          "published_at": "2017-11-01",
+          "source_state": "initial",
+          "title": "数字货币：理论基础和前景",
+          "total_issue": 396,
+          "url": "https://cnreform.caixin.com/2017/cr396/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2017/cr395/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2017/cr395/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2017/cr395/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2017-09-01/1504227606686665.jpg",
+          "published_at": "2017-09-01",
+          "source_state": "initial",
+          "title": "人工智能： 昨天、今天和明天",
+          "total_issue": 395,
+          "url": "https://cnreform.caixin.com/2017/cr395/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2017/cr394/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2017/cr394/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2017/cr394/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2017-07-07/1499415545251918_840_560.jpg",
+          "published_at": "2017-07-01",
+          "source_state": "initial",
+          "title": "破产法十年图变",
+          "total_issue": 394,
+          "url": "https://cnreform.caixin.com/2017/cr394/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2017/cr393/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2017/cr393/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2017/cr393/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2017-05-08/1494211460488756_840_560.jpg",
+          "published_at": "2017-05-01",
+          "source_state": "initial",
+          "title": "创新引领新经济",
+          "total_issue": 393,
+          "url": "https://cnreform.caixin.com/2017/cr393/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2017/cr392/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2017/cr392/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2017/cr392/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2017-03-01/1488353332393625.jpg",
+          "published_at": "2017-03-01",
+          "source_state": "initial",
+          "title": "七论2017年中国经济",
+          "total_issue": 392,
+          "url": "https://cnreform.caixin.com/2017/cr392/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2017/cr391/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2017/cr391/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2017/cr391/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2017-01-12/1484207663971680.jpg",
+          "published_at": "2017-01-01",
+          "source_state": "initial",
+          "title": "改革执行力",
+          "total_issue": 391,
+          "url": "https://cnreform.caixin.com/2017/cr391/"
+        }
+      ],
+      "key": "cnreform-index.2017",
+      "lane": "main",
+      "name": "2017",
+      "order": 9,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2016/cr390/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2016/cr390/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2016/cr390/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2016-11-01/1477982017035733.jpg",
+          "published_at": "2016-11-01",
+          "source_state": "initial",
+          "title": "探路美联储加息",
+          "total_issue": 390,
+          "url": "https://cnreform.caixin.com/2016/cr390/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2016/cr389/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2016/cr389/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2016/cr389/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2016-09-01/1472712390725110.jpg",
+          "published_at": "2016-09-01",
+          "source_state": "initial",
+          "title": "会诊中国医改",
+          "total_issue": 389,
+          "url": "https://cnreform.caixin.com/2016/cr389/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2016/cr388/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2016/cr388/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2016/cr388/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2016-07-05/1467704450959267.jpg",
+          "published_at": "2016-07-01",
+          "source_state": "initial",
+          "title": "农村教育 未来根基",
+          "total_issue": 388,
+          "url": "https://cnreform.caixin.com/2016/cr388/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2016/cr387/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2016/cr387/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2016/cr387/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2016-05-03/1462260779570036.jpg",
+          "published_at": "2016-05-01",
+          "source_state": "initial",
+          "title": "农业困局",
+          "total_issue": 387,
+          "url": "https://cnreform.caixin.com/2016/cr387/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2016/cr386/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2016/cr386/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2016/cr386/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2016-03-01/1456798286751662.jpg",
+          "published_at": "2016-03-01",
+          "source_state": "initial",
+          "title": "求解金融监管改革方程",
+          "total_issue": 386,
+          "url": "https://cnreform.caixin.com/2016/cr386/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2016/cr385/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2016/cr385/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2016/cr385/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2016-01-04/1451879795543018.jpg",
+          "published_at": "2016-01-01",
+          "source_state": "initial",
+          "title": "人民币“入篮”",
+          "total_issue": 385,
+          "url": "https://cnreform.caixin.com/2016/cr385/index.html"
+        }
+      ],
+      "key": "cnreform-index.2016",
+      "lane": "main",
+      "name": "2016",
+      "order": 10,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 11,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 12,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2015/cr384/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2015/cr384/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2015/cr384/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2015-12-03/1449124398804996.jpg",
+          "published_at": "2015-12-01",
+          "source_state": "initial",
+          "title": "百年耀邦",
+          "total_issue": 384,
+          "url": "https://cnreform.caixin.com/2015/cr384/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 11,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2015/cr383/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2015/cr383/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2015/cr383/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2015-10-30/1446195460823460.jpg",
+          "published_at": "2015-11-01",
+          "source_state": "initial",
+          "title": "外储转折点",
+          "total_issue": 383,
+          "url": "https://cnreform.caixin.com/2015/cr383/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 10,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2015/cr382/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2015/cr382/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2015/cr382/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2015-09-30/1443577823880829.jpg",
+          "published_at": "2015-10-01",
+          "source_state": "initial",
+          "title": "绸缪“十三五”",
+          "total_issue": 382,
+          "url": "https://cnreform.caixin.com/2015/cr382/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 9,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2015/cr381/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2015/cr381/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2015/cr381/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2015-08-28/1440743169326755.jpg",
+          "published_at": "2015-08-27",
+          "source_state": "initial",
+          "title": "黑白“网约车”",
+          "total_issue": 381,
+          "url": "https://cnreform.caixin.com/2015/cr381/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 8,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2015/cr380/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2015/cr380/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2015/cr380/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2015-08-03/1438583375490037.jpg",
+          "published_at": "2015-08-01",
+          "source_state": "initial",
+          "title": "留守儿童怎么办？",
+          "total_issue": 380,
+          "url": "https://cnreform.caixin.com/2015/cr380/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 7,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2015/cr379/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2015/cr379/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2015/cr379/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2015-07-01/1435808292384835.jpg",
+          "published_at": "2015-07-01",
+          "source_state": "initial",
+          "title": "简政放权中盘战",
+          "total_issue": 379,
+          "url": "https://cnreform.caixin.com/2015/cr379/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2015/cr378/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2015/cr378/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2015/cr378/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2015-06-01/1433162191443935.jpg",
+          "published_at": "2015-06-01",
+          "source_state": "initial",
+          "title": "牛市陷阱",
+          "total_issue": 378,
+          "url": "https://cnreform.caixin.com/2015/cr378/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2015/cr377/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2015/cr377/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2015/cr377/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2015-04-29/1430354632946416.jpg",
+          "published_at": "2015-05-01",
+          "source_state": "initial",
+          "title": "拆解地方债",
+          "total_issue": 377,
+          "url": "https://cnreform.caixin.com/2015/cr377/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2015/cr376/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2015/cr376/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2015/cr376/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2015-03-31/1427793941409823.jpg",
+          "published_at": "2015-03-31",
+          "source_state": "initial",
+          "title": "守卫增长底线",
+          "total_issue": 376,
+          "url": "https://cnreform.caixin.com/2015/cr376/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2015/cr375/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2015/cr375/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2015/cr375/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2015-02-24/1424851055808660.jpg",
+          "published_at": "2015-02-25",
+          "source_state": "initial",
+          "title": "改革“大三角”",
+          "total_issue": 375,
+          "url": "https://cnreform.caixin.com/2015/cr375/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2015/cr374/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2015/cr374/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2015/cr374/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2015-01-14/1421308283795830.jpg",
+          "published_at": "2015-01-15",
+          "source_state": "initial",
+          "title": "新常态：中国经济过大关",
+          "total_issue": 374,
+          "url": "https://cnreform.caixin.com/2015/cr374/"
+        }
+      ],
+      "key": "cnreform-index.2015",
+      "lane": "main",
+      "name": "2015",
+      "order": 11,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 12,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 12,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2014/cr373/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2014/cr373/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2014/cr373/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2014-11-28/1417169898133652.jpg",
+          "published_at": "2014-12-01",
+          "source_state": "initial",
+          "title": "深改一周年再回首",
+          "total_issue": 373,
+          "url": "https://cnreform.caixin.com/2014/cr373/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 11,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2014/cr372/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2014/cr372/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2014/cr372/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2014-11-02/1414998961418597.jpg",
+          "published_at": "2014-11-01",
+          "source_state": "initial",
+          "title": "货币政策短长策",
+          "total_issue": 372,
+          "url": "https://cnreform.caixin.com/2014/cr372/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 10,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2014/cr371/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2014/cr371/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2014/cr371/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2014-09-29/1411989203293284.jpg",
+          "published_at": "2014-10-01",
+          "source_state": "initial",
+          "title": "问诊“经济转型综合征”",
+          "total_issue": 371,
+          "url": "https://cnreform.caixin.com/2014/cr371/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 9,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2014/cr370/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2014/cr370/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2014/cr370/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2014-09-01/1409558236319714.jpg",
+          "published_at": "2014-09-01",
+          "source_state": "initial",
+          "title": "法治新常态",
+          "total_issue": 370,
+          "url": "https://cnreform.caixin.com/2014/cr370/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 8,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2014/cr369/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2014/cr369/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2014/cr369/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2014-07-30/1406789475243996.jpg",
+          "published_at": "2014-08-01",
+          "source_state": "initial",
+          "title": "海外反腐之鉴",
+          "total_issue": 369,
+          "url": "https://cnreform.caixin.com/2014/cr369/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 7,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2014/cr368/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2014/cr368/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2014/cr368/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2014-07-01/1404221346700633.jpg",
+          "published_at": "2014-07-01",
+          "source_state": "initial",
+          "title": "争议“新资本论”",
+          "total_issue": 368,
+          "url": "https://magazine.caixin.com/2014/cr368/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2014/cr367/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2014/cr367/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2014/cr367/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2014-05-29/1401350542252115.jpg",
+          "published_at": "2014-06-01",
+          "source_state": "initial",
+          "title": "反腐新格局",
+          "total_issue": 367,
+          "url": "https://magazine.caixin.com/2014/cr367/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2014/cr366/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2014/cr366/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2014/cr366/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2014-04-29/1398757336700326.jpg",
+          "published_at": "2014-05-01",
+          "source_state": "initial",
+          "title": "京津冀三合一",
+          "total_issue": 366,
+          "url": "https://magazine.caixin.com/2014/cr366/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2014/cr365/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2014/cr365/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2014/cr365/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2014-04-01/1396343538672263.jpg",
+          "published_at": "2014-04-01",
+          "source_state": "initial",
+          "title": "混合所有制试验",
+          "total_issue": 365,
+          "url": "https://magazine.caixin.com/2014/cr365/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2014/cr364/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2014/cr364/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2014/cr364/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2014-03-03/1393832782526994.jpg",
+          "published_at": "2014-03-01",
+          "source_state": "initial",
+          "title": "2014：改革新挑战",
+          "total_issue": 364,
+          "url": "https://magazine.caixin.com/2014/cr364/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2014/cr363/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2014/cr363/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2014/cr363/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2014-01-26/1390728532919737.jpg",
+          "published_at": "2014-02-01",
+          "source_state": "initial",
+          "title": "土改等待突破",
+          "total_issue": 363,
+          "url": "https://magazine.caixin.com/2014/cr363/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2013/cr362/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2013/cr362/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2013/cr362/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2013-12-28/1388234388152281.jpg",
+          "published_at": "2014-01-01",
+          "source_state": "initial",
+          "title": "【年度特刊】中国2014 直面全部问题",
+          "total_issue": 362,
+          "url": "https://magazine.caixin.com/2013/cr362/index.html"
+        }
+      ],
+      "key": "cnreform-index.2014",
+      "lane": "main",
+      "name": "2014",
+      "order": 12,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 5,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 12,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2013/cr361/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2013/cr361/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2013/cr361/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2013-12-03/1386047815598469.jpg",
+          "published_at": "2013-12-01",
+          "source_state": "initial",
+          "title": "改革换挡",
+          "total_issue": 361,
+          "url": "https://magazine.caixin.com/2013/cr361/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 11,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2013/cr360/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2013/cr360/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2013/cr360/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2013-11-01/1383268241731735.jpg",
+          "published_at": "2013-11-01",
+          "source_state": "initial",
+          "title": "土改建言",
+          "total_issue": 360,
+          "url": "https://magazine.caixin.com/2013/cr360/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 10,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2013/cr359/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2013/cr359/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2013/cr359/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2013-10-08/1381202403176322.jpg",
+          "published_at": "2013-10-01",
+          "source_state": "initial",
+          "title": "企业家冷暖时节",
+          "total_issue": 359,
+          "url": "https://magazine.caixin.com/2013/cr359/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 9,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2013/cr358/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2013/cr358/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2013/cr358/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2013-09-04/1378262375066714.jpg",
+          "published_at": "2013-09-01",
+          "source_state": "initial",
+          "title": "克强经济学辨析",
+          "total_issue": 358,
+          "url": "https://magazine.caixin.com/2013/cr358/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 8,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2013/cr357/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2013/cr357/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2013/cr357/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2013-08-05/1375670191136478.jpg",
+          "published_at": "2013-08-01",
+          "source_state": "initial",
+          "title": "建言三中全会",
+          "total_issue": 357,
+          "url": "https://magazine.caixin.com/2013/cr357/index.html"
+        }
+      ],
+      "key": "cnreform-index.2013",
+      "lane": "main",
+      "name": "2013",
+      "order": 13,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 12,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 12,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2012/cr349/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2012/cr349/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2012/cr349/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2012-11-28/201211280011.jpg",
+          "published_at": "2012-12-01",
+          "source_state": "initial",
+          "title": "改革是怎样重启的",
+          "total_issue": 349,
+          "url": "https://magazine.caixin.com/2012/cr349/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 11,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2012/cr348/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2012/cr348/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2012/cr348/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2012-10-31/201210310135.jpg",
+          "published_at": "2012-11-01",
+          "source_state": "initial",
+          "title": "回望与寄望",
+          "total_issue": 348,
+          "url": "https://magazine.caixin.com/2012/cr348/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 10,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2012/cr347/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2012/cr347/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2012/cr347/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2012-09-30/201209300012.jpg",
+          "published_at": "2012-10-01",
+          "source_state": "initial",
+          "title": "未来关键",
+          "total_issue": 347,
+          "url": "https://magazine.caixin.com/2012/cr347/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 9,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2012/cr346/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2012/cr346/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2012/cr346/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2012-08-30/201208300104.jpg",
+          "published_at": "2012-09-01",
+          "source_state": "initial",
+          "title": "为什么要支持改革",
+          "total_issue": 346,
+          "url": "https://magazine.caixin.com/2012/cr346/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 8,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2012/cr345/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2012/cr345/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2012/cr345/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2012-07-31/201207310134.jpg",
+          "published_at": "2012-08-01",
+          "source_state": "initial",
+          "title": "如何限权县委书记",
+          "total_issue": 345,
+          "url": "https://magazine.caixin.com/2012/cr345/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 7,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2012/cr344/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2012/cr344/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2012/cr344/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2012-07-01/201207010097.jpg",
+          "published_at": "2012-07-01",
+          "source_state": "initial",
+          "title": "股市手术",
+          "total_issue": 344,
+          "url": "https://magazine.caixin.com/2012/cr344/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2012/cr343/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2012/cr343/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2012/cr343/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2012-06-05/201206050134.jpg",
+          "published_at": "2012-06-01",
+          "source_state": "initial",
+          "title": "当权力侵犯权利 该如何“打黑”？",
+          "total_issue": 343,
+          "url": "https://magazine.caixin.com/2012/cr343/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2012/cr342/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2012/cr342/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2012/cr342/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2012-05-02/201205020102.jpg",
+          "published_at": "2012-05-01",
+          "source_state": "initial",
+          "title": "驱散“文革”幽魂",
+          "total_issue": 342,
+          "url": "https://magazine.caixin.com/2012/cr342/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2012/cr341/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2012/cr341/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2012/cr341/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2012-04-04/201204040069.jpg",
+          "published_at": "2012-04-01",
+          "source_state": "initial",
+          "title": "国企改革路径交锋",
+          "total_issue": 341,
+          "url": "https://magazine.caixin.com/2012/cr341/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2012/cr340/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2012/cr340/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2012/cr340/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2012-02-29/201202290047.jpg",
+          "published_at": "2012-03-01",
+          "source_state": "initial",
+          "title": "地方改革新绿",
+          "total_issue": 340,
+          "url": "https://magazine.caixin.com/2012/cr340/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2012/cr339/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2012/cr339/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2012/cr339/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2012-01-31/201201310068.jpg",
+          "published_at": "2012-02-01",
+          "source_state": "initial",
+          "title": "农民与政治",
+          "total_issue": 339,
+          "url": "https://magazine.caixin.com/2012/cr339/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2011/cr338/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2011/cr338/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2011/cr338/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-12-29/201112290082.jpg",
+          "published_at": "2012-01-01",
+          "source_state": "initial",
+          "title": "中国2012：远虑与近忧",
+          "total_issue": 338,
+          "url": "https://magazine.caixin.com/2011/cr338/"
+        }
+      ],
+      "key": "cnreform-index.2012",
+      "lane": "main",
+      "name": "2012",
+      "order": 14,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 11,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 12,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2011/cr337/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2011/cr337/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2011/cr337/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-11-30/201111300089.jpg",
+          "published_at": "2011-12-01",
+          "source_state": "initial",
+          "title": "改革需要“顶顶层设计”",
+          "total_issue": 337,
+          "url": "https://magazine.caixin.com/2011/cr337/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 11,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2011/cr336/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2011/cr336/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2011/cr336/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-10-31/201110310130.jpg",
+          "published_at": "2011-11-01",
+          "source_state": "initial",
+          "title": "保护企业家财产权利",
+          "total_issue": 336,
+          "url": "https://magazine.caixin.com/2011/cr336/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 10,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2011/cr335/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2011/cr335/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2011/cr335/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-09-29/201109290066.jpg",
+          "published_at": "2011-10-01",
+          "source_state": "initial",
+          "title": "微博论政是与非",
+          "total_issue": 335,
+          "url": "https://magazine.caixin.com/2011/cr335/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 9,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2011/cr334/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2011/cr334/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2011/cr334/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-09-01/100297189.jpg",
+          "published_at": "2011-09-01",
+          "source_state": "initial",
+          "title": "从9·11到的黎波里",
+          "total_issue": 334,
+          "url": "https://magazine.caixin.com/2011/cr334/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 8,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2011/cr333/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2011/cr333/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2011/cr333/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-08-01/100286092.jpg",
+          "published_at": "2011-08-01",
+          "source_state": "initial",
+          "title": "食品安全有解",
+          "total_issue": 333,
+          "url": "https://magazine.caixin.com/2011/cr333/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 7,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2011/cr332/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2011/cr332/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2011/cr332/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-07-04/100275580.jpg",
+          "published_at": "2011-07-01",
+          "source_state": "initial",
+          "title": "蓄势党内民主",
+          "total_issue": 332,
+          "url": "https://magazine.caixin.com/2011/cr332/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2011/cr331/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2011/cr331/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2011/cr331/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-06-01/100264856.jpg",
+          "published_at": "2011-06-01",
+          "source_state": "initial",
+          "title": "催化财政透明",
+          "total_issue": 331,
+          "url": "https://magazine.caixin.com/2011/cr331/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2011/cr330/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2011/cr330/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2011/cr330/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-05-04/100255502.jpg",
+          "published_at": "2011-05-01",
+          "source_state": "initial",
+          "title": "信访忧思",
+          "total_issue": 330,
+          "url": "https://magazine.caixin.com/2011/cr330/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2011/cr329/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2011/cr329/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2011/cr329/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-05-04/100255506.jpg",
+          "published_at": "2011-04-01",
+          "source_state": "initial",
+          "title": "铁路改革待提速",
+          "total_issue": 329,
+          "url": "https://magazine.caixin.com/2011/cr329/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2011/cr328/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2011/cr328/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2011/cr328/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-03-01/100230629.jpg",
+          "published_at": "2011-03-01",
+          "source_state": "initial",
+          "title": "中东旧邦新命",
+          "total_issue": 328,
+          "url": "https://magazine.caixin.com/2011/cr328/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cr327/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cr327/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cr327/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-12-28/100211728.jpg",
+          "published_at": "2011-01-01",
+          "source_state": "initial",
+          "title": "中国2011",
+          "total_issue": 327,
+          "url": "https://magazine.caixin.com/2010/cr327/"
+        }
+      ],
+      "key": "cnreform-index.2011",
+      "lane": "main",
+      "name": "2011",
+      "order": 15,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 11,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 12,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cr326/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cr326/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cr326/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-12-01/100203587.jpg",
+          "published_at": "2010-12-01",
+          "source_state": "initial",
+          "title": "行政性垄断",
+          "total_issue": 326,
+          "url": "https://magazine.caixin.com/2010/cr326/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 11,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cr325/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cr325/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cr325/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-10-31/100193970.jpg",
+          "published_at": "2010-11-01",
+          "source_state": "initial",
+          "title": "重庆“新经济政策”",
+          "total_issue": 325,
+          "url": "https://magazine.caixin.com/2010/cr325/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 10,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cr324/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cr324/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cr324/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-09-30/100185515.jpg",
+          "published_at": "2010-10-01",
+          "source_state": "initial",
+          "title": "走出宏观税负的误区",
+          "total_issue": 324,
+          "url": "https://magazine.caixin.com/2010/cr324/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 9,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cr323/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cr323/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cr323/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-08-31/100175618.jpg",
+          "published_at": "2010-09-01",
+          "source_state": "initial",
+          "title": "俄罗斯何处去",
+          "total_issue": 323,
+          "url": "https://magazine.caixin.com/2010/cr323/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 8,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cr322/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cr322/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cr322/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-08-03/100166454.jpg",
+          "published_at": "2010-08-01",
+          "source_state": "initial",
+          "title": "房地产税释疑",
+          "total_issue": 322,
+          "url": "https://magazine.caixin.com/2010/cr322/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 7,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cr321/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cr321/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cr321/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-07-15/100161096.jpg",
+          "published_at": "2010-07-01",
+          "source_state": "initial",
+          "title": "劳资关系新格局",
+          "total_issue": 321,
+          "url": "https://magazine.caixin.com/2010/cr321/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cr320/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cr320/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cr320/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-06-13/100152408.jpg",
+          "published_at": "2010-06-01",
+          "source_state": "initial",
+          "title": "城镇化抉择",
+          "total_issue": 320,
+          "url": "https://magazine.caixin.com/2010/cr320/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cr319/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cr319/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cr319/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-04-30/100140316.jpg",
+          "published_at": "2010-05-01",
+          "source_state": "initial",
+          "title": "“二胎”政策谋变",
+          "total_issue": 319,
+          "url": "https://magazine.caixin.com/2010/cr319/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cr318/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cr318/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cr318/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-04-30/100140317.jpg",
+          "published_at": "2010-04-01",
+          "source_state": "initial",
+          "title": "预算变法",
+          "total_issue": 318,
+          "url": "https://magazine.caixin.com/2010/cr318/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cr317/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cr317/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cr317/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-03-02/100121940.gif",
+          "published_at": "2010-03-01",
+          "source_state": "initial",
+          "title": "两会求变",
+          "total_issue": 317,
+          "url": "https://magazine.caixin.com/2010/cr317/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cr316/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cr316/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cr316/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-02-25/100120702.png",
+          "published_at": "2010-01-15",
+          "source_state": "initial",
+          "title": "中国2010",
+          "total_issue": 316,
+          "url": "https://magazine.caixin.com/2010/cr316/"
+        }
+      ],
+      "key": "cnreform-index.2010",
+      "lane": "main",
+      "name": "2010",
+      "order": 16,
+      "state": "hidden"
+    }
+  ],
+  "modules_count": 17,
+  "navigation": [],
+  "navigation_count": 0,
+  "ok": true,
+  "page_kind": "cnreform-index",
+  "publication": "cnreform",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:49:42+00:00",
+    "final_url": "https://cnreform.caixin.com/",
+    "requested_url": "https://cnreform.caixin.com/"
+  },
+  "source_mode": "server_html",
+  "title": "《中国改革》-财新网",
+  "total_entries_count": 131
+}

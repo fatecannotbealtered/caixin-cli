@@ -1,0 +1,273 @@
+{
+  "_untrusted": true,
+  "complete_listing_verified": false,
+  "external_stylesheets_applied": false,
+  "items_count": 10,
+  "javascript_executed": false,
+  "latest_article_date": "2023-08-23",
+  "modules": [
+    {
+      "items": [
+        {
+          "access": "newsletter_visible_excerpt",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://economy.caixin.com/2023-08-23/102095874.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://economy.caixin.com/2023-08-23/102095874.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://economy.caixin.com/2023-08-23/102095874.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter",
+            "ok": true,
+            "supported": true
+          },
+          "excerpt": "文｜财新 程思炜 对数据资源制定专门统一规定，解决实务中对数据资源能否作为会计上的资产确认、作为哪类资产“入表”的疑虑，并明确计量基础，有利于进一步推动数据要素资产化",
+          "image": "https://img.caixin.com/2022-05-10/165216903179028.jpg",
+          "title": "2024年起数据资产可“入表” 财政部明确会计处理规定",
+          "url": "https://economy.caixin.com/2023-08-23/102095874.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter"
+        }
+      ],
+      "key": "newsletter.lead",
+      "lane": "lead",
+      "name": "主编精选",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "newsletter_visible_excerpt",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2023-08-23/102095929.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2023-08-23/102095929.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2023-08-23/102095929.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter",
+            "ok": true,
+            "supported": true
+          },
+          "excerpt": "文｜财新 武晓蒙 自2022年国庆节前后北京银行一位原副行长被调查后，与闫冰竹相关的传闻不断，直到近期被发现已失联多日",
+          "image": "https://img.caixin.com/2023-08-23/169278725115849.jpg",
+          "title": "北京银行元老闫冰竹失联 或涉控制权安排及关联交易",
+          "url": "https://wenews.caixin.com/2023-08-23/102095929.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter"
+        },
+        {
+          "access": "newsletter_visible_excerpt",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2023-08-23/102095700.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2023-08-23/102095700.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2023-08-23/102095700.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter",
+            "ok": true,
+            "supported": true
+          },
+          "excerpt": "文｜财新 王自励 发自南非约翰内斯堡 文文文文，“文文，文文文文文00文文文文文文文文，文文文文文文文文，文文文文文文文，文文文文文文文文文文文文。文文文文文文，00文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文！”",
+          "image": "https://img.caixin.com/2023-08-23/169276127807026.jpg",
+          "title": "分析｜50多国聚首20多国表态参加 金砖机制如何撬动全球版图重构",
+          "url": "https://international.caixin.com/2023-08-23/102095700.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter"
+        },
+        {
+          "access": "newsletter_visible_excerpt",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2023-08-23/102095900.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2023-08-23/102095900.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2023-08-23/102095900.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter",
+            "ok": true,
+            "supported": true
+          },
+          "excerpt": "文｜财新 卢奕财（实习），包志明 福寿园称，随着中国出现老龄化、少子化的社会结构性改变，客户对提前定制殡葬服务的需求日趋增加，行业发展不断增长",
+          "image": "https://img.caixin.com/2023-08-23/169278572599234.jpg",
+          "title": "殡葬股上半年业绩均有所增长 老龄化刺激殡葬服务需求",
+          "url": "https://companies.caixin.com/2023-08-23/102095900.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter"
+        },
+        {
+          "access": "newsletter_visible_excerpt",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2023-08-23/102095895.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2023-08-23/102095895.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2023-08-23/102095895.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter",
+            "ok": true,
+            "supported": true
+          },
+          "excerpt": "文｜财新 赵煊 蒙西电网是国内唯一的省管电网企业，资产和营收均破千亿，近年来，蒙西电网多名高管被查",
+          "image": "https://img.caixin.com/2023-08-23/169278394309693.jpg",
+          "title": "蒙西电网副总梁景坤被调查",
+          "url": "https://www.caixin.com/2023-08-23/102095895.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter"
+        }
+      ],
+      "key": "newsletter.top",
+      "lane": "main",
+      "name": "重点阅读",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "newsletter_visible_excerpt",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2023-08-23/102095888.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2023-08-23/102095888.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2023-08-23/102095888.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter",
+            "ok": true,
+            "supported": true
+          },
+          "excerpt": "文｜财新 包云红 京东自营业务与品牌方是合作关系，商品难打价格战，调整运费则可降低用户整体费用，也是京东能自己掌控、自我消化的部分",
+          "image": null,
+          "title": "京东低价策略再进一步 自营业务首次下调包邮门槛",
+          "url": "https://www.caixin.com/2023-08-23/102095888.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter"
+        },
+        {
+          "access": "newsletter_visible_excerpt",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2023-08-23/102095572.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2023-08-23/102095572.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2023-08-23/102095572.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter",
+            "ok": true,
+            "supported": true
+          },
+          "excerpt": "文｜财新 胡暄(见习) 当选为泰国新任总理的赛塔是为泰党的前任领导人，也是泰国前总理他信及其妹妹英拉的密友",
+          "image": null,
+          "title": "泰国走出军人执政地产大亨当选新总理 他信决定结束15年流亡返泰",
+          "url": "https://international.caixin.com/2023-08-23/102095572.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter"
+        },
+        {
+          "access": "newsletter_visible_excerpt",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2023-08-23/102095915.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2023-08-23/102095915.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2023-08-23/102095915.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter",
+            "ok": true,
+            "supported": true
+          },
+          "excerpt": "文｜财新 单玉晓 文文文文0000文文文文文文文文文，文文文文文文文文文文“文文文”文文文文文文文文文文文，文文文文文文《文文文文文》文文文文文文。文文文文文文文文，文文文文文文。文文文文文文文文文文文文文文文",
+          "image": null,
+          "title": "行政诉讼法修正草案终止审议 四类“民告官”案件不再下沉",
+          "url": "https://china.caixin.com/2023-08-23/102095915.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter"
+        },
+        {
+          "access": "newsletter_visible_excerpt",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2023-08-23/102095903.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2023-08-23/102095903.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2023-08-23/102095903.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter",
+            "ok": true,
+            "supported": true
+          },
+          "excerpt": "文｜财新 祝宇欢（实习），孙嫣然 泡泡玛特董事长兼CEO王宁称，今年海外业务至少做到10个亿，明年海外业务有信心超过2019年的集团整体收入",
+          "image": null,
+          "title": "海外风向｜泡泡玛特上半年海外业务收入翻倍 今明两年重点拓展东南亚",
+          "url": "https://www.caixin.com/2023-08-23/102095903.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter"
+        },
+        {
+          "access": "newsletter_visible_excerpt",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2023-08-23/102095870.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2023-08-23/102095870.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2023-08-23/102095870.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter",
+            "ok": true,
+            "supported": true
+          },
+          "excerpt": "文｜财新 卢奕财（实习），李蓉茜 目前事故船舶尚装载6858吨柴油，需警惕油品泄漏风险，涉事海昌华去年已终止深交所IPO上市",
+          "image": null,
+          "title": "广西钦州港一油轮爆炸致2死 事故船尚有数千吨柴油待处置",
+          "url": "https://companies.caixin.com/2023-08-23/102095870.html?channel=1022&channelSource=jx_newsletter&originReferrer=jx_newsletter"
+        }
+      ],
+      "key": "newsletter.more",
+      "lane": "main",
+      "name": "更多阅读",
+      "order": 1,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 3,
+  "navigation": [],
+  "navigation_count": 0,
+  "ok": true,
+  "page_kind": "newsletter",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:49:01+00:00",
+    "final_url": "https://other.caixin.com/jx_newsletter/",
+    "requested_url": "https://other.caixin.com/jx_newsletter/"
+  },
+  "source_mode": "server_html",
+  "stale_content": true,
+  "title": "主编精选版电邮"
+}

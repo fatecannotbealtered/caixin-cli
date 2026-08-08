@@ -1,0 +1,601 @@
+{
+  "_untrusted": true,
+  "complete_listing_verified": false,
+  "external_stylesheets_applied": false,
+  "items_count": 18,
+  "javascript_executed": false,
+  "modules": [
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "microsite",
+            "canonical_url": "https://topics.caixin.com/2026/2026cxss/",
+            "command": [
+              "caixin-cli",
+              "microsite",
+              "https://topics.caixin.com/2026/2026cxss/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://topics.caixin.com/2026/2026cxss/?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-12/178122532099823_130_87.png",
+          "summary": null,
+          "title": "第九届财新夏季峰会",
+          "url": "https://topics.caixin.com/2026/2026cxss/?cxapp_link=true"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "microsite",
+            "canonical_url": "https://economy.caixin.com/2026/boao2026/",
+            "command": [
+              "caixin-cli",
+              "microsite",
+              "https://economy.caixin.com/2026/boao2026/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://economy.caixin.com/2026/boao2026/?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-24/177433571899888_130_87.png",
+          "summary": null,
+          "title": "博鳌亚洲论坛2026年年会",
+          "url": "https://economy.caixin.com/2026/boao2026/?cxapp_link=true"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "microsite",
+            "canonical_url": "https://economy.caixin.com/2026/developmentforum2026/",
+            "command": [
+              "caixin-cli",
+              "microsite",
+              "https://economy.caixin.com/2026/developmentforum2026/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://economy.caixin.com/2026/developmentforum2026/?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-22/177414157372639_130_87.jpg",
+          "summary": null,
+          "title": "中国发展高层论坛2026年年会",
+          "url": "https://economy.caixin.com/2026/developmentforum2026/?cxapp_link=true"
+        }
+      ],
+      "key": "topics.economy",
+      "lane": "main",
+      "name": "经济专题",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000001087.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000001087.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000001087.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2024-07-16/172114097416496_130_87.jpg",
+          "summary": null,
+          "title": "明天系破产清算",
+          "url": "https://deepview.caixin.com/topic/BQ02.000001087.html?cxapp_link=true"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007950.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000007950.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000007950.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-11-27/176425517830461_130_87.jpg",
+          "summary": null,
+          "title": "聚焦第三届济南科技金融论坛",
+          "url": "https://deepview.caixin.com/topic/BQ02.000007950.html?cxapp_link=true"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007951.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000007951.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000007951.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-11-28/176430739916914_130_87.jpg",
+          "summary": null,
+          "title": "新型诈骗启示录",
+          "url": "https://deepview.caixin.com/topic/BQ02.000007951.html?cxapp_link=true"
+        }
+      ],
+      "key": "topics.finance",
+      "lane": "sidebar",
+      "name": "金融专题",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "microsite",
+            "canonical_url": "https://international.caixin.com/2026/2026xjdws/",
+            "command": [
+              "caixin-cli",
+              "microsite",
+              "https://international.caixin.com/2026/2026xjdws/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026/2026xjdws/?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-23/178222000798464_130_87.jpg",
+          "summary": null,
+          "title": "2026夏季达沃斯论坛",
+          "url": "https://international.caixin.com/2026/2026xjdws/?cxapp_link=true"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000008013.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000008013.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000008013.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-13/177865430714210_130_87.jpg",
+          "summary": null,
+          "title": "全球聚焦中美元首会晤",
+          "url": "https://deepview.caixin.com/topic/BQ02.000008013.html?cxapp_link=true"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000008010.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000008010.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000008010.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-06/177806252821729_130_87.jpg",
+          "summary": null,
+          "title": "第二届财新伦敦大西洋对话",
+          "url": "https://deepview.caixin.com/topic/BQ02.000008010.html?cxapp_link=true"
+        }
+      ],
+      "key": "topics.international",
+      "lane": "main",
+      "name": "世界专题",
+      "order": 1,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000008019.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000008019.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000008019.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-08/178091156557651_130_87.jpg",
+          "summary": null,
+          "title": "美加墨世界杯来了",
+          "url": "https://deepview.caixin.com/topic/BQ02.000008019.html?cxapp_link=true"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ01.00000428.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ01.00000428.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ01.00000428.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-17/178426877927871_130_87.jpg",
+          "summary": null,
+          "title": "AI全景",
+          "url": "https://deepview.caixin.com/topic/BQ01.00000428.html?cxapp_link=true"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000006990.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000006990.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000006990.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-02-06/177036989477759_130_87.jpg",
+          "summary": null,
+          "title": "AI狂飙",
+          "url": "https://deepview.caixin.com/topic/BQ02.000006990.html?cxapp_link=true"
+        }
+      ],
+      "key": "topics.business",
+      "lane": "sidebar",
+      "name": "商业专题",
+      "order": 1,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000008007.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000008007.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000008007.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-01-19/176878461592925_130_87.jpg",
+          "summary": null,
+          "title": "给房地产寻新路",
+          "url": "https://deepview.caixin.com/topic/BQ02.000008007.html?cxapp_link=true"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007999.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000007999.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000007999.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-25/177442056352798_130_87.jpg",
+          "summary": null,
+          "title": "告别哈贝马斯",
+          "url": "https://deepview.caixin.com/topic/BQ02.000007999.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://mappv5.caixin.com/m_topic_detail/1630.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://mappv5.caixin.com/m_topic_detail/1630.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mappv5.caixin.com/m_topic_detail/1630.html?cxapp_topic=1630",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-06-27/1624801021096176_130_87.jpg",
+          "summary": null,
+          "title": "“改革老人”高尚全逝世一周年",
+          "url": "https://mappv5.caixin.com/m_topic_detail/1630.html?cxapp_topic=1630"
+        }
+      ],
+      "key": "topics.opinion",
+      "lane": "main",
+      "name": "观点专题",
+      "order": 2,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000006028.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000006028.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000006028.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-05/178062043962527_130_87.jpg",
+          "summary": null,
+          "title": "又是一年高考季",
+          "url": "https://deepview.caixin.com/topic/BQ02.000006028.html?cxapp_link=true"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007442.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000007442.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000007442.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-27/177987029125417_130_87.jpg",
+          "summary": null,
+          "title": "儿童节，我们更应关注什么？",
+          "url": "https://deepview.caixin.com/topic/BQ02.000007442.html?cxapp_link=true"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000008008.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000008008.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000008008.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-04-22/177682927126686_130_87.jpg",
+          "summary": null,
+          "title": "AI时代的教育难题",
+          "url": "https://deepview.caixin.com/topic/BQ02.000008008.html?cxapp_link=true"
+        }
+      ],
+      "key": "topics.china",
+      "lane": "sidebar",
+      "name": "政经专题",
+      "order": 2,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 6,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topics",
+        "canonical_url": "https://topics.caixin.com/economy/",
+        "command": [
+          "caixin-cli",
+          "topics",
+          "https://topics.caixin.com/economy/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/economy/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "经济专题",
+      "url": "https://topics.caixin.com/economy/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topics",
+        "canonical_url": "https://topics.caixin.com/international/",
+        "command": [
+          "caixin-cli",
+          "topics",
+          "https://topics.caixin.com/international/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/international/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "世界专题",
+      "url": "https://topics.caixin.com/international/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topics",
+        "canonical_url": "https://topics.caixin.com/opinion/",
+        "command": [
+          "caixin-cli",
+          "topics",
+          "https://topics.caixin.com/opinion/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/opinion/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "观点专题",
+      "url": "https://topics.caixin.com/opinion/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topics",
+        "canonical_url": "https://topics.caixin.com/finance/",
+        "command": [
+          "caixin-cli",
+          "topics",
+          "https://topics.caixin.com/finance/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/finance/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "金融专题",
+      "url": "https://topics.caixin.com/finance/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topics",
+        "canonical_url": "https://topics.caixin.com/business/",
+        "command": [
+          "caixin-cli",
+          "topics",
+          "https://topics.caixin.com/business/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/business/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "商业专题",
+      "url": "https://topics.caixin.com/business/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topics",
+        "canonical_url": "https://topics.caixin.com/china_sp/",
+        "command": [
+          "caixin-cli",
+          "topics",
+          "https://topics.caixin.com/china_sp/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/china_sp/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "政经专题",
+      "url": "https://topics.caixin.com/china_sp/"
+    }
+  ],
+  "navigation_count": 6,
+  "ok": true,
+  "page_kind": "topics",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:48:59+00:00",
+    "final_url": "https://topics.caixin.com/",
+    "requested_url": "https://topics.caixin.com/"
+  },
+  "source_mode": "server_html",
+  "title": "专题-财新网"
+}

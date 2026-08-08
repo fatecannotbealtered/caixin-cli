@@ -1,0 +1,2981 @@
+{
+  "_untrusted": true,
+  "archive_cards_count": 104,
+  "archive_unique_issue_urls_count": 104,
+  "article_entries_count": 0,
+  "complete_listing_verified": false,
+  "current_issue": {
+    "consumer": {
+      "_untrusted": true,
+      "adapter": "issue",
+      "canonical_url": "https://bijiao.caixin.com/2026/cs_144/",
+      "command": [
+        "caixin-cli",
+        "issue",
+        "https://bijiao.caixin.com/2026/cs_144/"
+      ],
+      "content_access_not_implied": true,
+      "discovery_required": false,
+      "input_url": "https://bijiao.caixin.com/2026/cs_144/",
+      "ok": true,
+      "supported": true
+    },
+    "cover_image": "https://img.caixin.com//2026-07-08/178349634068156.jpg",
+    "fetch_supported": true,
+    "issue_number": 144,
+    "lead": {
+      "access": "directory_visible",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "issue",
+        "canonical_url": "https://bijiao.caixin.com/2026/cs_144/",
+        "command": [
+          "caixin-cli",
+          "issue",
+          "https://bijiao.caixin.com/2026/cs_144/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://bijiao.caixin.com/2026/cs_144/",
+        "ok": true,
+        "supported": true
+      },
+      "kind": "issue_feature",
+      "summary": "文文文文文文文文文文文文文文文文：文文文文文文文文文文，文文文文文文文文文；文文文文文文文文文文，文文文文文文文文文文文文文文文文文；文文文文文文文文文文，文文文文文文文文，文文文文文文文文文文文文文文文",
+      "title": "学术生态：一个三层金字塔表述",
+      "url": "https://bijiao.caixin.com/2026/cs_144/"
+    },
+    "published_at": "2026-06-01",
+    "url": "https://bijiao.caixin.com/2026/cs_144/"
+  },
+  "directory_only": true,
+  "external_stylesheets_applied": false,
+  "featured_articles": [],
+  "issue_entries_count": 105,
+  "issues_count": 104,
+  "items_count": 104,
+  "javascript_executed": false,
+  "latest_issue_date": "2026-06-01",
+  "latest_issue_url": "https://bijiao.caixin.com/2026/cs_144/",
+  "modules": [
+    {
+      "continuation_available": false,
+      "initially_visible_count": 2,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2026/cs_143/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2026/cs_143/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2026/cs_143/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2026-05-07/177814618706164.jpg",
+          "published_at": "2026-04-01",
+          "source_state": "initial",
+          "title": "全球金融危机后的产业政策",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2026/cs_143/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2026/cs_142/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2026/cs_142/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2026/cs_142/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2026-03-12/177328944412688.jpg",
+          "published_at": "2026-02-01",
+          "source_state": "initial",
+          "title": "促进中国包容和环境友好的创新引领型增长",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2026/cs_142/"
+        }
+      ],
+      "key": "bijiao-index.2026",
+      "lane": "main",
+      "name": "2026",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2026/cs_141/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2026/cs_141/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2026/cs_141/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2026-01-04/176751326099580.jpg",
+          "published_at": "2025-12-01",
+          "source_state": "initial",
+          "title": "通过技术进步实现持续经济增长：2025年诺贝尔经济学奖学术背景介绍",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2026/cs_141/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2025/cs_140/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2025/cs_140/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2025/cs_140/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2025-11-17/176337037252295.jpg",
+          "published_at": "2025-10-01",
+          "source_state": "initial",
+          "title": "德国呼唤社会市场经济的复兴",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2025/cs_140/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2025/cs_139/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2025/cs_139/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2025/cs_139/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2025-09-02/175680747249342.jpg",
+          "published_at": "2025-08-01",
+          "source_state": "initial",
+          "title": "统一增长理论：国民财富的增长与不平等的起源",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2025/cs_139/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2025/cs_138/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2025/cs_138/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2025/cs_138/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2025-06-27/175099395682070.jpg",
+          "published_at": "2025-06-01",
+          "source_state": "initial",
+          "title": "全球化缘何助长民粹主义？经济、文化与右翼民粹主义的兴起",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2025/cs_138/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2025/cs_137/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2025/cs_137/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2025/cs_137/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2025-04-30/174599887200519.jpg",
+          "published_at": "2025-04-01",
+          "source_state": "initial",
+          "title": "欧洲未来竞争力",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2025/cs_137/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2025/cs_136/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2025/cs_136/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2025/cs_136/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2025-03-04/174107703632951.jpg",
+          "published_at": "2025-02-01",
+          "source_state": "initial",
+          "title": "产业政策的政治经济学",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2025/cs_136/"
+        }
+      ],
+      "key": "bijiao-index.2025",
+      "lane": "main",
+      "name": "2025",
+      "order": 1,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2025/cs_135/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2025/cs_135/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2025/cs_135/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2025-01-03/173587777465713.jpg",
+          "published_at": "2024-12-01",
+          "source_state": "initial",
+          "title": "制度的形成及其对经济繁荣的影响：2024年诺贝尔经济学奖学术背景介绍",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2025/cs_135/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2024/cs_134/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2024/cs_134/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2024/cs_134/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2024-10-29/173016566906491.jpg",
+          "published_at": "2024-10-01",
+          "source_state": "initial",
+          "title": "创新与社会流动性：同一枚硬币的两面",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2024/cs_134/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2024/cs_133/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2024/cs_133/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2024/cs_133/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2024-09-02/172527511498328.jpg",
+          "published_at": "2024-08-01",
+          "source_state": "initial",
+          "title": "经济危机与繁荣的杠杆周期理论",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2024/cs_133/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2024/cs_132/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2024/cs_132/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2024/cs_132/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2024-07-05/172017049719017.jpg",
+          "published_at": "2024-06-01",
+          "source_state": "initial",
+          "title": "数字时代的竞争与产业挑战",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2024/cs_132/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2024/cs_131/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2024/cs_131/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2024/cs_131/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2024-05-10/171531656244454.jpg",
+          "published_at": "2024-04-01",
+          "source_state": "initial",
+          "title": "经济衰退时期的财政政策",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2024/cs_131/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2024/cs_130/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2024/cs_130/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2024/cs_130/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2024-03-01/170928521717280.jpg",
+          "published_at": "2024-02-01",
+          "source_state": "initial",
+          "title": "官僚组织与经济发展",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2024/cs_130/"
+        }
+      ],
+      "key": "bijiao-index.2024",
+      "lane": "main",
+      "name": "2024",
+      "order": 2,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2024/cs_129/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2024/cs_129/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2024/cs_129/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2024-01-05/170443934293992.jpg",
+          "published_at": "2023-12-01",
+          "source_state": "initial",
+          "title": "克劳迪娅·戈尔丁对女性劳动力市场表现的研究贡献：2023年诺贝尔经济学奖学术背景介绍",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2024/cs_129/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2023/cs_128/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2023/cs_128/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2023/cs_128/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2023-11-14/169995366558895.jpg",
+          "published_at": "2023-10-01",
+          "source_state": "initial",
+          "title": "货币即资本：走向更繁荣社会的新货币理论",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2023/cs_128/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2023/cs_127/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2023/cs_127/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2023/cs_127/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2023-09-01/169354845746489.jpg",
+          "published_at": "2023-08-01",
+          "source_state": "initial",
+          "title": "好的经济：亚里士多德、塞万提斯和柏格森的活力论，以及康德、罗尔斯的经济正义",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2023/cs_127/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2023/cs_126/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2023/cs_126/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2023/cs_126/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2023-06-29/168800769982566.jpg",
+          "published_at": "2023-06-01",
+          "source_state": "initial",
+          "title": "从他国政策应对的得失中获得启示：《泡沫/通缩时期的日本经济与经济政策》中文版序言",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2023/cs_126/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2023/cs_125/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2023/cs_125/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2023/cs_125/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2023-05-04/168319826147245.jpg",
+          "published_at": "2023-04-01",
+          "source_state": "initial",
+          "title": "迈向2035年的中国经济：增长潜力与产业变迁",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2023/cs_125/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2023/cs_124/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2023/cs_124/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2023/cs_124/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2023-02-28/167757498714825.jpg",
+          "published_at": "2023-02-01",
+          "source_state": "initial",
+          "title": "新时代中国财政体系改革和未来展望",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2023/cs_124/"
+        }
+      ],
+      "key": "bijiao-index.2023",
+      "lane": "main",
+      "name": "2023",
+      "order": 3,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2023/cs_123/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2023/cs_123/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2023/cs_123/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2023-01-09/167323501506419.jpg",
+          "published_at": "2022-12-01",
+          "source_state": "initial",
+          "title": "关于人力资本的四个典型事实",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2023/cs_123/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2022/cs_122/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2022/cs_122/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2022/cs_122/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2022-11-22/166907678728910.jpg",
+          "published_at": "2022-10-01",
+          "source_state": "initial",
+          "title": "通向韧性和进步性治理",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2022/cs_122/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2022/cs_121/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2022/cs_121/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2022/cs_121/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2022-09-06/166244816428117.jpg",
+          "published_at": "2022-08-01",
+          "source_state": "initial",
+          "title": "现代化治理与治理现代化",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2022/cs_121/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2022/cs_120/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2022/cs_120/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2022/cs_120/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2022-07-05/165702237585286.jpg",
+          "published_at": "2022-06-01",
+          "source_state": "initial",
+          "title": "构建中国式福利国家的理论和实践依据",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2022/cs_120/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2022/cs_119/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2022/cs_119/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2022/cs_119/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2022-05-07/165192525419688.jpg",
+          "published_at": "2022-04-01",
+          "source_state": "initial",
+          "title": "金融网络中的系统性风险：一份综述",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2022/cs_119/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2022/cs_118/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2022/cs_118/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2022/cs_118/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2022-03-07/164663167603466.jpg",
+          "published_at": "2022-02-01",
+          "source_state": "initial",
+          "title": "中国经济改革中的五个关键关系",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2022/cs_118/"
+        }
+      ],
+      "key": "bijiao-index.2022",
+      "lane": "main",
+      "name": "2022",
+      "order": 4,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2022/cs_117/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2022/cs_117/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2022/cs_117/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2022-01-10/164177487061766.jpg",
+          "published_at": "2021-12-01",
+          "source_state": "initial",
+          "title": "使用观测性数据回答因果问题",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2022/cs_117/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2021/cs_116/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2021/cs_116/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2021/cs_116/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com//2021-11-03/163592627727173.jpg",
+          "published_at": "2021-10-01",
+          "source_state": "initial",
+          "title": "应对未来的三大经济挑战",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2021/cs_116/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2021/cs_115/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2021/cs_115/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2021/cs_115/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2021-09-06/1630918856964661.jpg",
+          "published_at": "2021-08-01",
+          "source_state": "initial",
+          "title": "金融服务实体经济的理念、相关政策和长期效果",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2021/cs_115/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2021/cs_114/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2021/cs_114/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2021/cs_114/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2021-07-06/1625566849807431.jpg",
+          "published_at": "2021-06-01",
+          "source_state": "initial",
+          "title": "流行的经济叙事推动美国史上最长（2009—2019年）的经济扩张",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2021/cs_114/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2021/cs_113/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2021/cs_113/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2021/cs_113/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2021-05-10/1620625460202784.jpg",
+          "published_at": "2021-04-01",
+          "source_state": "initial",
+          "title": "双侧记：人口老龄化如何影响中国经济增长？",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2021/cs_113/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2021/cs_112/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2021/cs_112/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2021/cs_112/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2021-03-02/1614692520154621.jpg",
+          "published_at": "2021-02-01",
+          "source_state": "initial",
+          "title": "把全球治理放对地方",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2021/cs_112/"
+        }
+      ],
+      "key": "bijiao-index.2021",
+      "lane": "main",
+      "name": "2021",
+      "order": 5,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2021/cs_111/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2021/cs_111/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2021/cs_111/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2021-01-08/1610090181008755.jpg",
+          "published_at": "2020-12-01",
+          "source_state": "initial",
+          "title": "拍卖理论的改进与新拍卖模式的发明",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2021/cs_111/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2020/cs_110/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2020/cs_110/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2020/cs_110/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2020-11-03/1604381919539784.jpg",
+          "published_at": "2020-10-01",
+          "source_state": "initial",
+          "title": "追寻完美拍卖",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2020/cs_110/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2020/cs_109/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2020/cs_109/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2020/cs_109/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2020-08-25/1598339755940014.jpg",
+          "published_at": "2020-08-01",
+          "source_state": "initial",
+          "title": "疏忽之罪与经济学的现状",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2020/cs_109/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2020/cs_108/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2020/cs_108/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2020/cs_108/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2020-06-18/1592459545351610.jpg",
+          "published_at": "2020-06-01",
+          "source_state": "initial",
+          "title": "政策的非预期陷阱：体制机制视角",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2020/cs_108/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2020/cs_107/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2020/cs_107/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2020/cs_107/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2020-04-24/1587708027819535.jpg",
+          "published_at": "2020-04-01",
+          "source_state": "initial",
+          "title": "养老金改革考验我们的经济学功底和智慧",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2020/cs_107/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2020/cs_106/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2020/cs_106/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2020/cs_106/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2020-02-26/1582686809094199.jpg",
+          "published_at": "2020-02-01",
+          "source_state": "initial",
+          "title": "回望通向市场经济之路",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2020/cs_106/"
+        }
+      ],
+      "key": "bijiao-index.2020",
+      "lane": "main",
+      "name": "2020",
+      "order": 6,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2020/cs_105/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2020/cs_105/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2020/cs_105/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2020-02-18/1581991387726812.jpg",
+          "published_at": "2019-12-01",
+          "source_state": "initial",
+          "title": "理解发展和减贫",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2020/cs_105/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2019/cs_104/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2019/cs_104/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2019/cs_104/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2019-10-29/1572336002085575.jpg",
+          "published_at": "2019-10-01",
+          "source_state": "initial",
+          "title": "破除城乡二元体制，推进供给侧结构性改革",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2019/cs_104/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2019/cs_103/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2019/cs_103/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2019/cs_103/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2019-09-19/1568878154614057.jpg",
+          "published_at": "2019-08-01",
+          "source_state": "initial",
+          "title": "经济史和全球化的当代挑战",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2019/cs_103/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2019/cs_102/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2019/cs_102/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2019/cs_102/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2019-06-20/1561017170718031.jpg",
+          "published_at": "2019-06-01",
+          "source_state": "initial",
+          "title": "构建有活力的资本市场",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2019/cs_102/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2019/cs_101/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2019/cs_101/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2019/cs_101/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2019-04-18/1555576795447198.jpg",
+          "published_at": "2019-04-01",
+          "source_state": "initial",
+          "title": "网络时代的政府与市场：边界重组与秩序重构",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2019/cs_101/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2019/cs_100/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2019/cs_100/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2019/cs_100/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2019-03-04/1551659037113474.jpg",
+          "published_at": "2019-02-01",
+          "source_state": "initial",
+          "title": "信贷紊乱对实体经济的影响：来自本轮全球金融危机的教训",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2019/cs_100/"
+        }
+      ],
+      "key": "bijiao-index.2019",
+      "lane": "main",
+      "name": "2019",
+      "order": 7,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2019/cs_99/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2019/cs_99/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2019/cs_99/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2019-01-22/1548142595826535.jpg",
+          "published_at": "2018-12-01",
+          "source_state": "initial",
+          "title": "经济增长、技术变革与气候变化",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2019/cs_99/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2019/cs_98/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2019/cs_98/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2019/cs_98/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2019-01-18/1547795645455738.jpg",
+          "published_at": "2018-10-01",
+          "source_state": "initial",
+          "title": "中国长期发展问题和政策选项今昔对比",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2019/cs_98/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2018/cs_97/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2018/cs_97/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2018/cs_97/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2019-01-07/1546826211679221.jpg",
+          "published_at": "2018-08-01",
+          "source_state": "initial",
+          "title": "民粹主义与全球化经济学",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2018/cs_97/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2018/cs_96/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2018/cs_96/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2018/cs_96/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2018-10-16/1539679187712660.jpg",
+          "published_at": "2018-06-01",
+          "source_state": "initial",
+          "title": "全球化：国家和公司利益的冲突",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2018/cs_96/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2018/cs_95/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2018/cs_95/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2018/cs_95/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2018-06-20/1529477889857828.jpg",
+          "published_at": "2018-04-01",
+          "source_state": "initial",
+          "title": "绿色产业政策：促进经济结构向富裕绿色经济转型",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2018/cs_95/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2018/cs_94/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2018/cs_94/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2018/cs_94/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2018-05-30/1527652651574865.jpg",
+          "published_at": "2018-02-01",
+          "source_state": "initial",
+          "title": "不破不立，不塞不流，不止不行：以出清无效产能促进增长动力转换",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2018/cs_94/"
+        }
+      ],
+      "key": "bijiao-index.2018",
+      "lane": "main",
+      "name": "2018",
+      "order": 8,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2018/cs_93/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2018/cs_93/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2018/cs_93/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2018-04-26/1524733678292072.jpg",
+          "published_at": "2017-12-01",
+          "source_state": "initial",
+          "title": "中国式增长及减速",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2018/cs_93/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2018/cs_92/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2018/cs_92/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2018/cs_92/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2018-02-28/1519800262396095.jpg",
+          "published_at": "2017-10-01",
+          "source_state": "initial",
+          "title": "创新驱动型经济增长的制度基础",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2018/cs_92/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2018/cs_91/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2018/cs_91/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2018/cs_91/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2018-02-11/1518336866872062.jpg",
+          "published_at": "2017-08-01",
+          "source_state": "initial",
+          "title": "国家的活力：本土创新理论",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2018/cs_91/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2017/cs_90/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2017/cs_90/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2017/cs_90/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2017-12-07/1512607555231222.jpg",
+          "published_at": "2017-06-01",
+          "source_state": "initial",
+          "title": "全球平等是国内平等的敌人吗？",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2017/cs_90/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2017/cs_89/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2017/cs_89/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2017/cs_89/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2017-08-28/1503906089381157.jpg",
+          "published_at": "2017-04-01",
+          "source_state": "initial",
+          "title": "治理改革与经济增长 来自经济理论的一些启发",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2017/cs_89/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2017/cs_88/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2017/cs_88/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2017/cs_88/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2017-06-05/1496653179152691.jpg",
+          "published_at": "2017-01-01",
+          "source_state": "initial",
+          "title": "新制度经济学的未来 从早期思想雏形走向新研究范式？",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2017/cs_88/"
+        }
+      ],
+      "key": "bijiao-index.2017",
+      "lane": "main",
+      "name": "2017",
+      "order": 9,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2017/cs_87/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2017/cs_87/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2017/cs_87/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2017-04-13/1492061244844279.jpg",
+          "published_at": "2016-12-01",
+          "source_state": "initial",
+          "title": "合同理论",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2017/cs_87/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2017/cs_86/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2017/cs_86/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2017/cs_86/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2017-01-12/1484192276703916.jpg",
+          "published_at": "2016-10-01",
+          "source_state": "initial",
+          "title": "理解经济学原理",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2017/cs_86/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2016/cs_85/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2016/cs_85/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2016/cs_85/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2016-10-14/1476439810804558.jpg",
+          "published_at": "2016-08-01",
+          "source_state": "initial",
+          "title": "什么是结构性改革，它为何如此重要？",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2016/cs_85/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2016/cs_84/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2016/cs_84/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2016/cs_84/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2016-08-25/1472114537843294.jpg",
+          "published_at": "2016-06-01",
+          "source_state": "initial",
+          "title": "中国新型城镇化如何成为经济增长源泉",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2016/cs_84/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2016/cs_83/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2016/cs_83/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2016/cs_83/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2016-06-16/1466068319662113.jpg",
+          "published_at": "2016-04-01",
+          "source_state": "initial",
+          "title": "结构性改革为何如此困难",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2016/cs_83/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2016/cs_82/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2016/cs_82/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2016/cs_82/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2016-03-22/1458615341734181.jpg",
+          "published_at": "2016-02-01",
+          "source_state": "initial",
+          "title": "经济增长：快与慢",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2016/cs_82/index.html"
+        }
+      ],
+      "key": "bijiao-index.2016",
+      "lane": "main",
+      "name": "2016",
+      "order": 10,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2016/cs_81/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2016/cs_81/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2016/cs_81/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2016-02-24/1456278736120761.jpg",
+          "published_at": "2015-12-01",
+          "source_state": "initial",
+          "title": "市场失灵与公共政策",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2016/cs_81/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2015/cs_80/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2015/cs_80/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2015/cs_80/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2015-12-29/1451394050006427.jpg",
+          "published_at": "2015-10-01",
+          "source_state": "initial",
+          "title": "发展和完善五支柱养老保险体制",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2015/cs_80/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2015/cs_79/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2015/cs_79/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2015/cs_79/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2015-11-24/1448351930633429.jpg",
+          "published_at": "2015-08-01",
+          "source_state": "initial",
+          "title": "从衰退走向增长",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2015/cs_79/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2015/cs_78/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2015/cs_78/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2015/cs_78/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2015-09-16/1442385630385832.jpg",
+          "published_at": "2015-06-01",
+          "source_state": "initial",
+          "title": "中高速增长的可能性及实现途径",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2015/cs_78/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2015/cs_77/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2015/cs_77/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2015/cs_77/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2015-07-21/1437469087959738.jpg",
+          "published_at": "2015-04-01",
+          "source_state": "initial",
+          "title": "对中国经济新常态的比较经济学观察",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2015/cs_77/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2015/cs_76/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2015/cs_76/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2015/cs_76/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2015-04-13/1428981583401490.jpg",
+          "published_at": "2015-02-01",
+          "source_state": "initial",
+          "title": "亚洲超高经济增速将回落至全球平均水平",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2015/cs_76/index.html"
+        }
+      ],
+      "key": "bijiao-index.2015",
+      "lane": "main",
+      "name": "2015",
+      "order": 11,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2014/cs_75/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2014/cs_75/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2014/cs_75/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2014-12-23/1419326439849423.jpg",
+          "published_at": "2014-12-01",
+          "source_state": "initial",
+          "title": "中国工业化道路的再思考：对国家或政府作用的经济学解释",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2014/cs_75/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2014/cs_74/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2014/cs_74/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2014/cs_74/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2014-10-09/1412857858344772.jpg",
+          "published_at": "2014-10-08",
+          "source_state": "initial",
+          "title": "寻求竞争力：对中国增长政策设计的启示",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2014/cs_74/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2014/cs_73/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2014/cs_73/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2014/cs_73/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2014-08-22/1408701463171849.jpg",
+          "published_at": "2014-08-19",
+          "source_state": "initial",
+          "title": "《比较》第73辑",
+          "total_issue": null,
+          "url": "https://bijiao.caixin.com/2014/cs_73/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2014/cs_72/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2014/cs_72/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2014/cs_72/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2014-06-17/1403012859264151.jpg",
+          "published_at": "2014-06-01",
+          "source_state": "initial",
+          "title": "《比较》第72辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2014/cs_72/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2014/cs_71/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2014/cs_71/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2014/cs_71/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2014-04-13/1397456561525546.jpg",
+          "published_at": "2014-04-08",
+          "source_state": "initial",
+          "title": "《比较》第71辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2014/cs_71/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2014/cs_70/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2014/cs_70/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2014/cs_70/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2014-02-13/1392271912721673.jpg",
+          "published_at": "2014-02-01",
+          "source_state": "initial",
+          "title": "《比较》第70辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2014/cs_70/index.html"
+        }
+      ],
+      "key": "bijiao-index.2014",
+      "lane": "main",
+      "name": "2014",
+      "order": 12,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2013/cs_69/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2013/cs_69/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2013/cs_69/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2013-12-09/1386570353591812.gif",
+          "published_at": "2013-12-01",
+          "source_state": "initial",
+          "title": "《比较》第69辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2013/cs_69/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2013/cs_68/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2013/cs_68/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2013/cs_68/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2013-11-14/1384417891853298.jpg",
+          "published_at": "2013-10-01",
+          "source_state": "initial",
+          "title": "《比较》第68辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2013/cs_68/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2013/cs_67/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2013/cs_67/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2013/cs_67/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2013-09-12/1378971811765837.jpg",
+          "published_at": "2013-08-01",
+          "source_state": "initial",
+          "title": "《比较》第67辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2013/cs_67/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2013/cs_66/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2013/cs_66/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2013/cs_66/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2013-06-18/1371538192237075.jpg",
+          "published_at": "2013-06-01",
+          "source_state": "initial",
+          "title": "《比较》第66辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2013/cs_66/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2013/cs_65/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2013/cs_65/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2013/cs_65/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2013-04-09/1365470357452490.jpg",
+          "published_at": "2013-04-01",
+          "source_state": "initial",
+          "title": "《比较》第65辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2013/cs_65/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2013/cs_64/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2013/cs_64/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2013/cs_64/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2013-02-21/1361411858709746.jpg",
+          "published_at": "2013-02-01",
+          "source_state": "initial",
+          "title": "《比较》第64辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2013/cs_64/"
+        }
+      ],
+      "key": "bijiao-index.2013",
+      "lane": "main",
+      "name": "2013",
+      "order": 13,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2012/cs_63/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2012/cs_63/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2012/cs_63/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2012-12-12/201212120022.jpg",
+          "published_at": "2012-12-01",
+          "source_state": "initial",
+          "title": "《比较》第63辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2012/cs_63/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2012/cs_62/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2012/cs_62/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2012/cs_62/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2012-10-08/201210080171.jpg",
+          "published_at": "2012-10-01",
+          "source_state": "initial",
+          "title": "《比较》第62辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2012/cs_62/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2012/cs_61/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2012/cs_61/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2012/cs_61/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2012-08-07/201208070106.jpg",
+          "published_at": "2012-08-01",
+          "source_state": "initial",
+          "title": "《比较》第61辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2012/cs_61/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2012/cs_60/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2012/cs_60/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2012/cs_60/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2012-06-11/201206110022.jpg",
+          "published_at": "2012-06-01",
+          "source_state": "initial",
+          "title": "《比较》第60辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2012/cs_60/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2012/cs_59/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2012/cs_59/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2012/cs_59/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2012-04-15/201204150001.jpg",
+          "published_at": "2012-04-01",
+          "source_state": "initial",
+          "title": "《比较》第59辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2012/cs_59/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2012/cs_58/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2012/cs_58/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2012/cs_58/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2012-02-07/201202070070.jpg",
+          "published_at": "2012-02-01",
+          "source_state": "initial",
+          "title": "《比较》第58辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2012/cs_58/"
+        }
+      ],
+      "key": "bijiao-index.2012",
+      "lane": "main",
+      "name": "2012",
+      "order": 14,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2011/cs_57/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2011/cs_57/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2011/cs_57/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-12-12/201112120155.jpg",
+          "published_at": "2011-12-01",
+          "source_state": "initial",
+          "title": "《比较》第57辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2011/cs_57/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2011/cs_56/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2011/cs_56/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2011/cs_56/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-10-12/201110120105.jpg",
+          "published_at": "2011-10-01",
+          "source_state": "initial",
+          "title": "《比较》第56辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2011/cs_56/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2011/cs_55/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2011/cs_55/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2011/cs_55/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-08-04/100287364.jpg",
+          "published_at": "2011-08-01",
+          "source_state": "initial",
+          "title": "《比较》第55辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2011/cs_55/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2011/cs_54/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2011/cs_54/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2011/cs_54/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-06-14/100269210.jpg",
+          "published_at": "2011-06-01",
+          "source_state": "initial",
+          "title": "《比较》第54辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2011/cs_54/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2011/cs_53/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2011/cs_53/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2011/cs_53/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-04-01/100243967.jpg",
+          "published_at": "2011-04-01",
+          "source_state": "initial",
+          "title": "《比较》第53辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2011/cs_53/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2011/cs_52/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2011/cs_52/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2011/cs_52/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-01-25/100220976.jpg",
+          "published_at": "2011-02-01",
+          "source_state": "initial",
+          "title": "《比较》第52辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2011/cs_52/"
+        }
+      ],
+      "key": "bijiao-index.2011",
+      "lane": "main",
+      "name": "2011",
+      "order": 15,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cs_51/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cs_51/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cs_51/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2011-01-12/100215975.jpg",
+          "published_at": "2010-12-28",
+          "source_state": "initial",
+          "title": "《比较》第51辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2010/cs_51/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cs_50/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cs_50/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cs_50/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-12-29/100212289.jpg",
+          "published_at": "2010-12-01",
+          "source_state": "initial",
+          "title": "《比较》第50辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2010/cs_50/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cs_49/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cs_49/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cs_49/",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-12-13/100206925.jpg",
+          "published_at": "2010-10-01",
+          "source_state": "initial",
+          "title": "《比较》第49辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2010/cs_49/"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cs_48/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cs_48/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cs_48/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-12-22/100210201.jpg",
+          "published_at": "2010-06-01",
+          "source_state": "initial",
+          "title": "《比较》第48辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2010/cs_48/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cs_47/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cs_47/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cs_47/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-12-22/100210017.jpg",
+          "published_at": "2010-04-01",
+          "source_state": "initial",
+          "title": "http://magazine.caing.com/2010-04-01/100210002.html",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2010/cs_47/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cs_46/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cs_46/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cs_46/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-12-22/100209756.jpg",
+          "published_at": "2010-02-01",
+          "source_state": "initial",
+          "title": "《比较》第46辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2010/cs_46/index.html"
+        }
+      ],
+      "key": "bijiao-index.2010",
+      "lane": "main",
+      "name": "2010",
+      "order": 16,
+      "state": "hidden"
+    },
+    {
+      "continuation_available": false,
+      "initially_visible_count": 6,
+      "items": [
+        {
+          "access": "directory_visible",
+          "annual_issue": 6,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cs_45/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cs_45/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cs_45/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-12-21/100209631.jpg",
+          "published_at": "2009-12-01",
+          "source_state": "initial",
+          "title": "《比较》第45辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2010/cs_45/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 5,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cs_44/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cs_44/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cs_44/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-12-21/100209579.jpg",
+          "published_at": "2009-10-01",
+          "source_state": "initial",
+          "title": "《比较》第44辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2010/cs_44/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 4,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cs_43/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cs_43/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cs_43/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-12-21/100209375.jpg",
+          "published_at": "2009-08-01",
+          "source_state": "initial",
+          "title": "《比较》第43辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2010/cs_43/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 3,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cs_42",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cs_42"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cs_42",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-12-17/100208285.jpg",
+          "published_at": "2009-06-01",
+          "source_state": "initial",
+          "title": "危机后全球经济的调整和政策应对",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2010/cs_42"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 2,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cs_41/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cs_41/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cs_41/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-12-18/100208761.jpg",
+          "published_at": "2009-04-01",
+          "source_state": "initial",
+          "title": "《比较》第41辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2010/cs_41/index.html"
+        },
+        {
+          "access": "directory_visible",
+          "annual_issue": 1,
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://magazine.caixin.com/2010/cs_40/index.html",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://magazine.caixin.com/2010/cs_40/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://magazine.caixin.com/2010/cs_40/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "fetch_supported": true,
+          "image": "https://img.caixin.com/2010-12-16/100207887.jpg",
+          "published_at": "2009-02-01",
+          "source_state": "initial",
+          "title": "《比较》第40辑",
+          "total_issue": null,
+          "url": "https://magazine.caixin.com/2010/cs_40/index.html"
+        }
+      ],
+      "key": "bijiao-index.2009",
+      "lane": "main",
+      "name": "2009",
+      "order": 17,
+      "state": "hidden"
+    }
+  ],
+  "modules_count": 18,
+  "navigation": [],
+  "navigation_count": 0,
+  "ok": true,
+  "page_kind": "bijiao-index",
+  "publication": "bijiao",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:49:52+00:00",
+    "final_url": "https://bijiao.caixin.com/",
+    "requested_url": "https://bijiao.caixin.com/"
+  },
+  "source_mode": "server_html",
+  "title": "《比较》- 财新网",
+  "total_entries_count": 105
+}

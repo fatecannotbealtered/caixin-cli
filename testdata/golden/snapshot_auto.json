@@ -1,0 +1,1154 @@
+{
+  "_untrusted": true,
+  "complete_listing_verified": false,
+  "external_stylesheets_applied": false,
+  "items_count": 42,
+  "javascript_executed": false,
+  "modules": [
+    {
+      "items": [
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-06/102471931.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-06/102471931.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-06/102471931.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178600795442489_145_97.jpg",
+          "summary": "澳大利亚汽车工业协会首席执行官Tony Weber称，中东冲突和汽油价格波动可能激发了消费者对电动车的兴趣",
+          "title": "电动汽车需求高涨驱动澳洲车市增长 中国品牌表现强劲｜出海·汽车",
+          "url": "https://www.caixin.com/2026-08-06/102471931.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-06/102471693.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-06/102471693.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-06/102471693.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178598553654154_145_97.jpg",
+          "summary": "徐虎雄认为，车企海外投资应该遵循从轻到重的方式，尽量以比较轻的投资方式来布局，保证转身的灵活性",
+          "title": "罗兰贝格：全球汽车市场逐渐区域化已成趋势",
+          "url": "https://www.caixin.com/2026-08-06/102471693.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-05/102471563.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-05/102471563.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-05/102471563.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178592744570959_145_97.jpg",
+          "summary": "上汽通用计划聚焦别克和凯迪拉克两大品牌在华发展，到2030年推出至少30款新能源车型",
+          "title": "上汽通用合资续约20年 雪佛兰品牌将停止在华销售(含视频)",
+          "url": "https://www.caixin.com/2026-08-05/102471563.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-05/102471479.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-05/102471479.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-05/102471479.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178591480904181_145_97.jpg",
+          "summary": "上半年，丰田在华销量同比大跌17.1%，降至69.5万辆，其中二季度销量跌幅达到28%",
+          "title": "销量和经营利润双降 丰田汽车如何应对竞争危机？",
+          "url": "https://www.caixin.com/2026-08-05/102471479.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-31/102470251.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-31/102470251.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-31/102470251.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-31/178550453324064_145_97.jpg",
+          "summary": "马斯克正在主导特斯拉转型，他多次公开称，未来特斯拉最主要的产品将是无人驾驶出租车和人形机器人",
+          "title": "马斯克称从未讨论过出售特斯拉中国业务",
+          "url": "https://www.caixin.com/2026-07-31/102470251.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-31/102470206.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-31/102470206.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-31/102470206.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-31/178549858606471_145_97.jpg",
+          "summary": "面对充满挑战的外部环境，宝马集团管理层正在批判性地审视公司业务流程，包括那些以前被认为是不可触及的核心流程和架构",
+          "title": "上半年税前利润同比下滑近三成 宝马加快推进降本措施",
+          "url": "https://www.caixin.com/2026-07-31/102470206.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-31/102470160.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-31/102470160.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-31/102470160.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-31/178549383073161_145_97.jpg",
+          "summary": "小米智能电动汽车及AI等创新业务分部在连续盈利两个季度后，于2026年一季度重新陷入亏损",
+          "title": "小米汽车入局增程赛道 聚焦家庭用车场景",
+          "url": "https://www.caixin.com/2026-07-31/102470160.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-31/102469858.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-31/102469858.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-31/102469858.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-31/178547111291534_145_97.jpg",
+          "summary": "一桩离奇案例，折射出行业潜藏的整条黑灰产业链",
+          "title": "特稿｜智能汽车遭遇黑灰产业链 车企权责边界如何把握？(含视频)",
+          "url": "https://www.caixin.com/2026-07-31/102469858.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-30/102469613.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-30/102469613.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-30/102469613.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-30/178540842145714_145_97.jpg",
+          "summary": "一些司机看到开启蓝灯的车辆，会刻意加塞、别车，试探辅助驾驶系统极限，带来安全风险",
+          "title": "滥用辅助驾驶“小蓝灯”存在安全风险 新标准正在制定",
+          "url": "https://www.caixin.com/2026-07-30/102469613.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-26/102468247.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-26/102468247.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-26/102468247.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-26/178507051046131_145_97.jpg",
+          "summary": "工信部装备工业一司称，将持续组织对汽车、摩托车生产企业及产品开展监督检查",
+          "title": "工信部现场检查埃安和小鹏 汽车行业监督检查或将常态化(含视频)",
+          "url": "https://www.caixin.com/2026-07-26/102468247.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-25/102468129.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-25/102468129.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-25/102468129.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-25/178498941274240_145_97.jpg",
+          "summary": "根据中哈两国在7月达成的协议，多个汽车本地化项目将落地哈萨克斯坦",
+          "title": "理想汽车与当地车企合作 在哈萨克斯坦实现本地化生产",
+          "url": "https://www.caixin.com/2026-07-25/102468129.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-25/102468067.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-25/102468067.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-25/102468067.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-25/178495497569775_145_97.jpg",
+          "summary": "上半年，宁德时代启动大规模产能扩张。财报显示，宁德时代现有产能为525吉瓦时（GWh），产能利用率达94.86%，在建产能为764GWh",
+          "title": "宁德时代上半年录得净利润432亿元 产能利用率达95%",
+          "url": "https://www.caixin.com/2026-07-25/102468067.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-24/102467458.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-24/102467458.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-24/102467458.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-24/178485777219457_145_97.jpg",
+          "summary": "吉利汽车计划在西班牙工厂生产两款新能源车型，首款车型将于2028年下线",
+          "title": "吉利汽车收购福特西班牙工厂34%股权 双方将合作开发新能源车型",
+          "url": "https://www.caixin.com/2026-07-24/102467458.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-23/102467383.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-23/102467383.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-23/102467383.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-23/178481367778543_145_97.jpg",
+          "summary": "马斯克称，特斯拉正进行大规模投资，2026年资本支出预计超过250亿美元，未来两至三年将持续增长",
+          "title": "特斯拉二季度营收增长利润下滑 计划筹集300亿美元加大投入",
+          "url": "https://www.caixin.com/2026-07-23/102467383.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-23/102467349.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-23/102467349.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-23/102467349.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-23/178480815357123_145_97.png",
+          "summary": "合资车企可依托外方成熟的销售、售后网络，输出国内自研产品",
+          "title": "合资车企打破单向引进模式 向海外输出中国研发制造产品",
+          "url": "https://www.caixin.com/2026-07-23/102467349.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-23/102467255.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-23/102467255.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-23/102467255.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-23/178478838333052_145_97.jpg",
+          "summary": "2025年汽车行业销售利润率只有4.1%，而在2026年前五个月，这一数字进一步降至3.4%",
+          "title": "中汽协付炳锋：上半年新车同质化问题越发严重",
+          "url": "https://www.caixin.com/2026-07-23/102467255.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-23/102467134.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-23/102467134.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-23/102467134.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-23/178476289663671_145_97.jpg",
+          "summary": "大众汽车集团软件和智能驾驶开发一波三折，选择中国企业合作展现出务实态度",
+          "title": "大众汽车集团与中国企业合作开发自动驾驶系统",
+          "url": "https://www.caixin.com/2026-07-23/102467134.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-20/102466319.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-20/102466319.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-20/102466319.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-20/178455712186858_145_97.jpg",
+          "summary": "2020年，本田汽车在华销量达到162.7万辆的高点。此后销量连续下滑，2025年仅销售64.5万辆",
+          "title": "本田与广汽续签合资协议 合作期限延长至2038年",
+          "url": "https://www.caixin.com/2026-07-20/102466319.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-19/102465978.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-19/102465978.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-19/102465978.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-19/178446548695381_145_97.jpg",
+          "summary": "伴随新能源汽车成为市场主流，“油电同权”经过长时间争论进入逐步落地阶段",
+          "title": "锂电池消费税分阶段恢复征收 汽车“油电同权”再迈一步(含视频)",
+          "url": "https://www.caixin.com/2026-07-19/102465978.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-17/102465484.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-17/102465484.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-17/102465484.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-17/178429982772684_145_97.jpg",
+          "summary": "国内市场持续“内卷”，2026年车市还遭遇逆风，车企普遍加大了出海力度",
+          "title": "新能源汽车出海提速 小鹏汽车首次尝试新车在海内外同步上市",
+          "url": "https://www.caixin.com/2026-07-17/102465484.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-16/102464845.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-16/102464845.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-16/102464845.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-16/178419814838333_145_97.jpg",
+          "summary": "2026年5月，匈牙利政府更迭，“蒂萨”党领导人毛焦尔·彼得担任新总理，西雅尔多卸任外长，保留国会议员身份",
+          "title": "匈牙利前外长加入比亚迪 比亚迪匈牙利工厂项目在其任内敲定",
+          "url": "https://www.caixin.com/2026-07-16/102464845.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-15/102464578.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-15/102464578.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-15/102464578.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-15/178411568230876_145_97.jpg",
+          "summary": "2025年度，海南省交通规费征收总额为25.6亿元，较2024年减少2.1亿元",
+          "title": "海南计划2030年禁售燃油车 道路养护费用缺口如何弥补？(含视频)",
+          "url": "https://www.caixin.com/2026-07-15/102464578.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-15/102464495.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-15/102464495.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-15/102464495.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-15/178410618166770_145_97.jpg",
+          "summary": "中国汽车技术研究中心称，居民汽车消费正从“有没有”加速转向“好不好”，个性化、场景化、体验式消费趋势明显",
+          "title": "汽车消费超预期下滑 后市场有哪些潜力可挖？",
+          "url": "https://www.caixin.com/2026-07-15/102464495.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-13/102463886.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-13/102463886.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-13/102463886.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-13/178395356375320_145_97.jpg",
+          "summary": "另一个亏损原因是，新车迭代后，企业调整资产账面价值，而新车迭代过快也是行业“通病”",
+          "title": "华为合作品牌问界由盈转亏 芯片和原材料价格上涨席卷行业",
+          "url": "https://www.caixin.com/2026-07-13/102463886.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-11/102463261.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-11/102463261.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-11/102463261.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-11/178377472623834_145_97.jpg",
+          "summary": "英国市场竞争充分，几乎是欧洲车市的“试金石”",
+          "title": "比亚迪加码英国市场 新车与“闪充”同步推进",
+          "url": "https://www.caixin.com/2026-07-11/102463261.html"
+        }
+      ],
+      "key": "auto.articles",
+      "lane": "main",
+      "name": "频道文章",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471770.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599589415867_145_97.jpg",
+          "source_state": "visible",
+          "summary": null,
+          "title": "“入侵”还是“人道危机” 难民潮撕裂西班牙飞地休达",
+          "url": "https://photos.caixin.com/2026-08-06/102471770.html"
+        },
+        {
+          "badges": [
+            "“入侵”还是“人道危机” 难民潮撕裂西班牙飞地休达"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-31/102469828.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599589415867_145_97.jpg",
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471770.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+          "link_mismatch": true,
+          "source_state": "visible",
+          "summary": "“入侵”还是“人道危机” 难民潮撕裂西班牙飞地休达",
+          "title": "显影｜瓜农的漫长等待",
+          "url": "https://weekly.caixin.com/2026-07-31/102469828.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-07/102472114.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-07/102472114.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-07/102472114.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "特稿",
+          "url": "https://www.caixin.com/2026-08-07/102472114.html"
+        },
+        {
+          "badges": [
+            "金融"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-06/102471670.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "在岸人民币兑美元汇率连日升破6.75",
+          "url": "https://finance.caixin.com/2026-08-06/102471670.html"
+        },
+        {
+          "badges": [
+            "金融我闻"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-08-06/102472068.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-08-06/102472068.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-08-06/102472068.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "艾路明及多名股东被拘",
+          "url": "https://wenews.caixin.com/2026-08-06/102472068.html"
+        },
+        {
+          "badges": [
+            "世界"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-07/102472096.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-07/102472096.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-07/102472096.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "特朗普再签两份行政令限制出生公民权",
+          "url": "https://international.caixin.com/2026-08-07/102472096.html"
+        },
+        {
+          "badges": [
+            "财新周刊"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-31/102469823.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-31/102469823.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-31/102469823.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "【封面报道】电力现货市场元年突进",
+          "url": "https://weekly.caixin.com/2026-07-31/102469823.html"
+        }
+      ],
+      "key": "auto.recommended",
+      "lane": "sidebar",
+      "name": "编辑推荐",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-08/102472618.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-08/102472618.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-08/102472618.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "15:57",
+          "title": "特朗普召开矿业圆桌会 拟向关键矿产投资超20亿美元",
+          "url": "https://www.caixin.com/2026-08-08/102472618.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-08/102472616.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-08/102472616.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-08/102472616.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "14:09",
+          "title": "美日联合干预汇率，为何影响了黄金",
+          "url": "https://opinion.caixin.com/2026-08-08/102472616.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-08/102472611.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-08/102472611.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-08/102472611.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "13:32",
+          "title": "“90后”农民工讨薪涉刑案发回重审 因部分事实不清",
+          "url": "https://china.caixin.com/2026-08-08/102472611.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-08/102472595.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-08/102472595.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-08/102472595.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "12:36",
+          "title": "贵州山脚树矿难致16人死亡近三年 矿长涉罪被罢免全国人大代表",
+          "url": "https://china.caixin.com/2026-08-08/102472595.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-08/102472553.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-08/102472553.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-08/102472553.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "11:12",
+          "title": "非京籍五环内购房社保降至一年 北京市公积金最高可贷340万元",
+          "url": "https://www.caixin.com/2026-08-08/102472553.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-08/102472531.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-08/102472531.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-08/102472531.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "11:07",
+          "title": "寒武纪上半年净利润同比翻倍 营收增速逐季放缓",
+          "url": "https://www.caixin.com/2026-08-08/102472531.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://science.caixin.com/2026-08-08/102472506.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://science.caixin.com/2026-08-08/102472506.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://science.caixin.com/2026-08-08/102472506.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "10:53",
+          "title": "对话｜邱仁宗：临床研究参与者的安全永远是第一位",
+          "url": "https://science.caixin.com/2026-08-08/102472506.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-08/102472447.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-08/102472447.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-08/102472447.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "08:06",
+          "title": "全国人大常委会：六名将领涉嫌严重违纪违法 被罢免全国人大代表",
+          "url": "https://china.caixin.com/2026-08-08/102472447.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-07/102472425.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-07/102472425.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-07/102472425.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "21:43",
+          "title": "7月美国劳动力市场意外放缓 岗位减少2.3万个失业率降至4.1%",
+          "url": "https://international.caixin.com/2026-08-07/102472425.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-07/102472411.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-07/102472411.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-07/102472411.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "20:14",
+          "title": "海外金融专才回流香港 外籍工作签证翻倍",
+          "url": "https://finance.caixin.com/2026-08-07/102472411.html"
+        }
+      ],
+      "key": "auto.latest",
+      "lane": "sidebar",
+      "name": "最新文章",
+      "order": 1,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 3,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://finance.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://finance.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://finance.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "金融",
+      "url": "https://finance.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://wenews.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://wenews.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://wenews.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "金融我闻",
+      "url": "https://wenews.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://international.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://international.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://international.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "世界",
+      "url": "https://international.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://weekly.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://weekly.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://weekly.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "财新周刊",
+      "url": "https://weekly.caixin.com/"
+    }
+  ],
+  "navigation_count": 4,
+  "ok": true,
+  "page_kind": "auto",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:49:31+00:00",
+    "final_url": "https://www.caixin.com/auto/",
+    "requested_url": "https://www.caixin.com/auto/"
+  },
+  "source_mode": "server_html",
+  "title": "汽车_财新网_财新网"
+}

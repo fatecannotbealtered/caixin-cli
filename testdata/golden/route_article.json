@@ -1,0 +1,15 @@
+{
+  "_untrusted": true,
+  "adapter": "article",
+  "canonical_url": "https://finance.caixin.com/2026-08-06/102472081.html",
+  "command": [
+    "caixin-cli",
+    "article",
+    "https://finance.caixin.com/2026-08-06/102472081.html"
+  ],
+  "content_access_not_implied": true,
+  "discovery_required": false,
+  "input_url": "https://finance.caixin.com/2026-08-06/102472081.html",
+  "ok": true,
+  "supported": true
+}

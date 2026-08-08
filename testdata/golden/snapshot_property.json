@@ -1,0 +1,1154 @@
+{
+  "_untrusted": true,
+  "complete_listing_verified": false,
+  "external_stylesheets_applied": false,
+  "items_count": 42,
+  "javascript_executed": false,
+  "modules": [
+    {
+      "items": [
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-08/102472553.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-08/102472553.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-08/102472553.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-08/178615892856794_145_97.jpg",
+          "summary": "北京楼市新政覆盖购房资格、融资支持和住房资产配置三个环节，调整后京沪深非户籍居民在限购区域购房的社保或个税门槛均降至1年",
+          "title": "非京籍五环内购房社保降至一年 北京市公积金最高可贷340万元",
+          "url": "https://www.caixin.com/2026-08-08/102472553.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-05/102471542.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-05/102471542.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-05/102471542.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178592625882652_145_97.jpg",
+          "summary": "截至2026年7月末，国内已上市产业园区公募REITs共20只，不同产品的资产区位、租户结构、出租率和价格表现并不完全一致",
+          "title": "广州开发区产业园REIT价格较发行价“腰斩” 底层资产出租率降至67%",
+          "url": "https://www.caixin.com/2026-08-05/102471542.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-03/102470836.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-03/102470836.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-03/102470836.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-03/178574482855284_145_97.jpg",
+          "summary": "2026年前七个月，排名第11至50位房企的平均销售额同比下降约20%，降幅明显大于前10名房企",
+          "title": "房企“腰部”持续收缩 前七个月300亿至1000亿元阵营仅剩六家(含视频)",
+          "url": "https://www.caixin.com/2026-08-03/102470836.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-01/102470364.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-01/102470364.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-01/102470364.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-01/178555010368955_145_97.jpg",
+          "summary": "万科方面称，徐恩利与黄宇搭档组合，契合万科的企业特点和当前形势需要，有利于持续推进公司化险与发展",
+          "title": "万科董事会与高管团队换届落定 徐恩利就任董事长",
+          "url": "https://www.caixin.com/2026-08-01/102470364.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-30/102469453.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-30/102469453.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-30/102469453.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-30/178538294589430_145_97.jpg",
+          "summary": "曾经是中国房企碧桂园最大的海外项目，也是中国买家积极参与的项目",
+          "title": "马来西亚“森林城市”再起波澜 硅谷科技社区项目突遭查封",
+          "url": "https://www.caixin.com/2026-07-30/102469453.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-29/102469332.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-29/102469332.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-29/102469332.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-29/178533205433185_145_97.jpg",
+          "summary": "房企可选择约三分之一体量实行现房销售，以换取地价分期；现房备案前，其余地块不得预售",
+          "title": "广州现房销售试点落地南沙 房企承诺“先建后售”可分期缴纳地价(含视频)",
+          "url": "https://www.caixin.com/2026-07-29/102469332.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-22/102467088.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-22/102467088.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-22/102467088.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-22/178472762917431_145_97.jpg",
+          "summary": "自2025年11月底至今，万科已经先后对十笔债券发起展期",
+          "title": "深圳地铁年初至今新增借款45亿元 供万科展期(含视频)",
+          "url": "https://www.caixin.com/2026-07-22/102467088.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-18/102465664.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-18/102465664.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-18/102465664.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-18/178434426730712_145_97.jpg",
+          "summary": "外资机构买入减少，自用企业及境内资本成为主要买家",
+          "title": "核心资产降价促成交 京沪大宗物业买方转向内资",
+          "url": "https://www.caixin.com/2026-07-18/102465664.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-16/102464744.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-16/102464744.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-16/102464744.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-16/178418136523746_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文，文文文文文文文文，文文文文文文文文文文文文文、文文文文文文文文文文文文，文文文文，文文文文文文文文文文文文文文、文文文文文文文文文文文",
+          "title": "上半年房企国内贷款同比下降逾三成 优质项目仍被银行争抢",
+          "url": "https://www.caixin.com/2026-07-16/102464744.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-15/102464446.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-15/102464446.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-15/102464446.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-15/178409922604350_145_97.jpg",
+          "summary": "上半年新房销售面积为4.01亿平方米，同比下降11.6%，销售额为3.79万亿元，同比下降13.6%",
+          "title": "6月70城新房价格环比上涨城市增至20个 二手房继续以价换量(含视频)",
+          "url": "https://www.caixin.com/2026-07-15/102464446.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-14/102464197.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-14/102464197.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-14/102464197.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-14/178402735721795_145_97.jpg",
+          "summary": "2026年上半年，深圳总共有13笔大宗交易成交，其中8笔标的是法拍类及不良资产",
+          "title": "银行、AMC与国资企业公开抛售资产 上半年深圳法拍类和不良资产交易升温",
+          "url": "https://www.caixin.com/2026-07-14/102464197.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-11/102463265.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-11/102463265.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-11/102463265.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-11/178377499747079_145_97.jpg",
+          "summary": "在万科新一届董事会提名中，六名非独立董事候选人清一色来自深圳国资体系，原万科职业经理人团队不见踪影",
+          "title": "万科新一届董事会名单“出炉” 职业经理人退位深圳国资全面主导",
+          "url": "https://www.caixin.com/2026-07-11/102463265.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-09/102462356.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-09/102462356.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-09/102462356.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-06-01/1622545139799633_145_97.jpg",
+          "summary": "第二批产品网下询价倍数回落至1倍至2.5倍区间，戴德梁行称，商业不动产REITs的定价核心回归净运营收入、租约稳定性和持续现金流",
+          "title": "第二批商业不动产REITs网下热度回落 投资人转向审查真实收益",
+          "url": "https://www.caixin.com/2026-07-09/102462356.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-08/102461989.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-08/102461989.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-08/102461989.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-08/178349903563118_145_97.jpg",
+          "summary": "2025年开年，核心城市主要通过靠前加速推地，抢收开发商；到了2026年上半年，多地供应节奏切换成“前低后高”，这一安排亦与当下的拍地情绪形成配合",
+          "title": "上半年全国卖地量价齐跌 二季度以来核心城市却频出“地王”(含视频)",
+          "url": "https://www.caixin.com/2026-07-08/102461989.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-06/102461380.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-06/102461380.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-06/102461380.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-06/178332825028672_145_97.jpg",
+          "summary": "过去两年内，京东在香港大宗交易市场频频“扫货”，累计投入资金逾60亿港元",
+          "title": "京东再次入手香港物业资产 7.5亿港元收购学生公寓(含视频)",
+          "url": "https://www.caixin.com/2026-07-06/102461380.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-03/102460362.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-03/102460362.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-03/102460362.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-03/178306649424378_145_97.jpg",
+          "summary": "黄宇的履新路径与万科新高管团队类似，他由万科董事长黄力平提名，从体制内直接“空降”",
+          "title": "地方金融监管干部黄宇“空降”万科担任总裁",
+          "url": "https://www.caixin.com/2026-07-03/102460362.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-03/102460246.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-03/102460246.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-03/102460246.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-03/178304829707881_145_97.jpg",
+          "summary": "2026年以来，深圳越来越多的甲级写字楼改造成酒店对外运营，一定程度上缓解了市场空置压力",
+          "title": "甲级写字楼改酒店推动存量消化 深圳空置率阶段性回落(含视频)",
+          "url": "https://www.caixin.com/2026-07-03/102460246.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-02/102460106.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-02/102460106.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-02/102460106.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-03/178305328692564_145_97.jpg",
+          "summary": "代表房企主要为全国化布局的头部企业，其投资布局聚焦一二线核心城市。这些企业掌握融资优势，在拿地时倾向于核心区稀缺地块，打造的产品也更加偏向高端",
+          "title": "20家代表房企销售结构生变 一线城市贡献率首次反超二线",
+          "url": "https://www.caixin.com/2026-07-02/102460106.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-02/102459954.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-02/102459954.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-02/102459954.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2023-08-31/169346237320248_145_97.jpg",
+          "summary": "相较重组后的境外债总规模，首笔利息金额有限，真正决定碧桂园后续偿债能力的，仍是销售回款、资产盘活和经营现金流修复情况",
+          "title": "碧桂园兑付1434万美元利息 年底本金摊还将考验现金流",
+          "url": "https://www.caixin.com/2026-07-02/102459954.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-01/102459806.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-01/102459806.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-01/102459806.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-01/178291211008617_145_97.jpg",
+          "summary": "上一任董事长辛杰于2025年9月失联。2026年4月29日，深圳地铁宣布，辛杰卸任公司董事长职务",
+          "title": "黄力平接任深圳地铁董事长 总经理暂时空缺",
+          "url": "https://www.caixin.com/2026-07-01/102459806.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-06-26/102457891.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-06-26/102457891.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-06-26/102457891.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-26/178246083451164_145_97.jpg",
+          "summary": "土地储备持续消耗后，部分经营稳健的龙头房企开始从“去库存”转向“补库存”，但核心地块竞争升温压缩了利润空间",
+          "title": "龙头房企“补库存” 保利发展在一线城市密集补仓(含视频)",
+          "url": "https://www.caixin.com/2026-06-26/102457891.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-06-25/102457669.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-06-25/102457669.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-06-25/102457669.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-25/178239051487555_145_97.jpg",
+          "summary": "6月25日午后，恒大物业股价大幅跳水，盘中一度跌至0.74港元/股，创下自2025年6月中旬之后新低",
+          "title": "恒大物业股权出售谈判终止 公司股价暴跌",
+          "url": "https://www.caixin.com/2026-06-25/102457669.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-06-24/102457142.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-06-24/102457142.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-06-24/102457142.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-24/178230528682344_145_97.jpg",
+          "summary": "在北京上半年成交的21宗涉宅用地中，14宗底价成交，房企更愿为去化确定性高的地块支付溢价",
+          "title": "北京上半年宅地成交额同比下降66% 收官地块刷新年内最高溢价率",
+          "url": "https://www.caixin.com/2026-06-24/102457142.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-06-18/102455641.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-06-18/102455641.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-06-18/102455641.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-18/178179238000820_145_97.jpg",
+          "summary": "在综合考虑项目融资情况、推进基础和适宜性等因素之后，各金融机构最终筛选出签约名单",
+          "title": "深圳金融顾问团首批服务项目落地 12个城市更新项目获155亿元意向融资",
+          "url": "https://www.caixin.com/2026-06-18/102455641.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-06-17/102455143.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-06-17/102455143.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-06-17/102455143.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-17/178169369559774_145_97.jpg",
+          "summary": "跨境电商扩张转为谨慎，新增供应集中放量，物流地产市场从长期供不应求转向租户主导",
+          "title": "大湾区高标仓空置率升至历史高位 2026年新增供应或翻倍",
+          "url": "https://www.caixin.com/2026-06-17/102455143.html"
+        }
+      ],
+      "key": "property.articles",
+      "lane": "main",
+      "name": "频道文章",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471770.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599589415867_145_97.jpg",
+          "source_state": "visible",
+          "summary": null,
+          "title": "“入侵”还是“人道危机” 难民潮撕裂西班牙飞地休达",
+          "url": "https://photos.caixin.com/2026-08-06/102471770.html"
+        },
+        {
+          "badges": [
+            "“入侵”还是“人道危机” 难民潮撕裂西班牙飞地休达"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-31/102469828.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599589415867_145_97.jpg",
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471770.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+          "link_mismatch": true,
+          "source_state": "visible",
+          "summary": "“入侵”还是“人道危机” 难民潮撕裂西班牙飞地休达",
+          "title": "显影｜瓜农的漫长等待",
+          "url": "https://weekly.caixin.com/2026-07-31/102469828.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-07/102472114.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-07/102472114.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-07/102472114.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "特稿",
+          "url": "https://www.caixin.com/2026-08-07/102472114.html"
+        },
+        {
+          "badges": [
+            "金融"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-06/102471670.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "在岸人民币兑美元汇率连日升破6.75",
+          "url": "https://finance.caixin.com/2026-08-06/102471670.html"
+        },
+        {
+          "badges": [
+            "金融我闻"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-08-06/102472068.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-08-06/102472068.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-08-06/102472068.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "艾路明及多名股东被拘",
+          "url": "https://wenews.caixin.com/2026-08-06/102472068.html"
+        },
+        {
+          "badges": [
+            "世界"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-07/102472096.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-07/102472096.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-07/102472096.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "特朗普再签两份行政令限制出生公民权",
+          "url": "https://international.caixin.com/2026-08-07/102472096.html"
+        },
+        {
+          "badges": [
+            "财新周刊"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-31/102469823.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-31/102469823.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-31/102469823.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "【封面报道】电力现货市场元年突进",
+          "url": "https://weekly.caixin.com/2026-07-31/102469823.html"
+        }
+      ],
+      "key": "property.recommended",
+      "lane": "sidebar",
+      "name": "编辑推荐",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-08/102472618.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-08/102472618.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-08/102472618.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "15:57",
+          "title": "特朗普召开矿业圆桌会 拟向关键矿产投资超20亿美元",
+          "url": "https://www.caixin.com/2026-08-08/102472618.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-08/102472616.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-08/102472616.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-08/102472616.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "14:09",
+          "title": "美日联合干预汇率，为何影响了黄金",
+          "url": "https://opinion.caixin.com/2026-08-08/102472616.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-08/102472611.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-08/102472611.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-08/102472611.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "13:32",
+          "title": "“90后”农民工讨薪涉刑案发回重审 因部分事实不清",
+          "url": "https://china.caixin.com/2026-08-08/102472611.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-08/102472595.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-08/102472595.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-08/102472595.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "12:36",
+          "title": "贵州山脚树矿难致16人死亡近三年 矿长涉罪被罢免全国人大代表",
+          "url": "https://china.caixin.com/2026-08-08/102472595.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-08/102472553.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-08/102472553.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-08/102472553.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "11:12",
+          "title": "非京籍五环内购房社保降至一年 北京市公积金最高可贷340万元",
+          "url": "https://www.caixin.com/2026-08-08/102472553.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-08/102472531.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-08/102472531.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-08/102472531.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "11:07",
+          "title": "寒武纪上半年净利润同比翻倍 营收增速逐季放缓",
+          "url": "https://www.caixin.com/2026-08-08/102472531.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://science.caixin.com/2026-08-08/102472506.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://science.caixin.com/2026-08-08/102472506.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://science.caixin.com/2026-08-08/102472506.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "10:53",
+          "title": "对话｜邱仁宗：临床研究参与者的安全永远是第一位",
+          "url": "https://science.caixin.com/2026-08-08/102472506.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-08/102472447.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-08/102472447.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-08/102472447.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "08:06",
+          "title": "全国人大常委会：六名将领涉嫌严重违纪违法 被罢免全国人大代表",
+          "url": "https://china.caixin.com/2026-08-08/102472447.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-07/102472425.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-07/102472425.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-07/102472425.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "21:43",
+          "title": "7月美国劳动力市场意外放缓 岗位减少2.3万个失业率降至4.1%",
+          "url": "https://international.caixin.com/2026-08-07/102472425.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-07/102472411.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-07/102472411.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-07/102472411.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "20:14",
+          "title": "海外金融专才回流香港 外籍工作签证翻倍",
+          "url": "https://finance.caixin.com/2026-08-07/102472411.html"
+        }
+      ],
+      "key": "property.latest",
+      "lane": "sidebar",
+      "name": "最新文章",
+      "order": 1,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 3,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://finance.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://finance.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://finance.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "金融",
+      "url": "https://finance.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://wenews.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://wenews.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://wenews.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "金融我闻",
+      "url": "https://wenews.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://international.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://international.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://international.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "世界",
+      "url": "https://international.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://weekly.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://weekly.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://weekly.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "财新周刊",
+      "url": "https://weekly.caixin.com/"
+    }
+  ],
+  "navigation_count": 4,
+  "ok": true,
+  "page_kind": "property",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:49:40+00:00",
+    "final_url": "https://www.caixin.com/property/",
+    "requested_url": "https://www.caixin.com/property/"
+  },
+  "source_mode": "server_html",
+  "title": "地产_财新网_财新网"
+}

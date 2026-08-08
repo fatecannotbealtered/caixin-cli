@@ -1,0 +1,436 @@
+{
+  "_untrusted": true,
+  "category": "latest",
+  "has_more": true,
+  "items": [
+    {
+      "flag": "insert",
+      "image": "https://cxdata.caixin.com/img/2026/08/06/qX6VBtv344Dxsrt.jpg",
+      "tag": "金融我闻",
+      "tag_color": "#6B509B",
+      "title": "资管掌舵人更替 百年人寿僵局何解",
+      "top": false,
+      "url": "https://wenews.caixin.com/2026-08-06/102471632.html?cxapp_link=true"
+    },
+    {
+      "flag": "insert",
+      "image": "https://cxdata.caixin.com/img/2026/08/06/JNi39S3esLrpUJm.jpg",
+      "tag": "大盘脉搏",
+      "tag_color": "#6B509B",
+      "title": "A股“冰火两重天”，煤炭爆发贵金属强势",
+      "top": false,
+      "url": "https://cxdata.caixin.com/AandH/?id=e7882b56ac834d4484f985c8d7f76fd6"
+    },
+    {
+      "flag": "insert",
+      "image": "https://cxdata.caixin.com/img/2026/08/05/jsiv6dW5H4ULgv1.jpg",
+      "tag": "金融我闻",
+      "tag_color": "#6B509B",
+      "title": "调研行踪争议 基金经理扎堆海外行谁买单",
+      "top": false,
+      "url": "https://wenews.caixin.com/2026-08-04/102471244.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785988285",
+      "has_video": true,
+      "image": "https://img.caixin.com/2026-08-06/178598869608889_145_97.jpg",
+      "labels": [],
+      "published_at": 1785988285,
+      "summary": "摩根大通首席执行官吉米·戴蒙表示，包括主经纪商、对冲基金、交易所交易基金和国债市场套利在内的市场杠杆正在冲高",
+      "tag": "华尔街原声",
+      "tag_color": "#6B509B",
+      "title": "戴蒙：市场杠杆相当高",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-06/102471704.html?cxapp_link=true"
+    },
+    {
+      "flag": "insert",
+      "image": "https://cxdata.caixin.com/img/2026/08/06/eYxGISHeKWNiREp.jpg",
+      "tag": "地缘图志",
+      "tag_color": "#6B509B",
+      "title": "商务部公布对美反制清单，黄金大涨后持续性如何",
+      "top": false,
+      "url": "https://cxdata.caixin.com/GeoFinAtlas/?id=d9b5d315c8164fe384cd59f455c31b13"
+    },
+    {
+      "display_time": "1785976744",
+      "has_video": false,
+      "image": "https://img.caixin.com/2026-06-17/178169960558095_145_97.jpg",
+      "labels": [],
+      "published_at": 1785976744,
+      "summary": "日元从四十年来的低点反弹，但交易员更关注这波涨势能持续多久",
+      "tag": "市场动态",
+      "tag_color": "#6B509B",
+      "title": "出其不意的日元保卫战 尽显贝森特对冲基金老将作风",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-06/102471648.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785974787",
+      "has_video": false,
+      "image": "https://img.caixin.com/2026-08-06/178597578016674_145_97.jpg",
+      "labels": [
+        {
+          "keyword": "保诚",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=200035464"
+        },
+        {
+          "keyword": "汇丰",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=200026654"
+        },
+        {
+          "keyword": "渣打",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=200030093"
+        }
+      ],
+      "published_at": 1785974787,
+      "summary": "消息传出后，保诚、汇丰和渣打股价下跌",
+      "tag": "市场动态",
+      "tag_color": "#6B509B",
+      "title": "中国据报道启动对境外保险收益征税 保诚、汇丰等股价大跌",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-06/102471636.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785974450",
+      "has_video": false,
+      "image": "https://img.caixin.com/2026-08-06/178597540723468_145_97.jpg",
+      "labels": [],
+      "published_at": 1785974450,
+      "summary": "在最近一个财年，OpenAI占微软AI销售额的一半以上",
+      "tag": "市场动态",
+      "tag_color": "#6B509B",
+      "title": "微软的最新披露显示其AI业务收入主要来自OpenAI",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-06/102471635.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785974400",
+      "has_video": false,
+      "image": "https://img.caixin.com/2026-08-06/178597815645030_145_97.jpg",
+      "labels": [
+        {
+          "keyword": "南京点唯信息技术有限公司",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=20027006996"
+        },
+        {
+          "keyword": "Temu",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=202032253"
+        },
+        {
+          "keyword": "拼多多",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=202032253"
+        },
+        {
+          "keyword": "AliExpress",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=200230039"
+        },
+        {
+          "keyword": "华为",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=200081369"
+        },
+        {
+          "keyword": "许仰天",
+          "type": "person",
+          "url": "https://entities.caixin.com/persons/index?id=30076645149"
+        }
+      ],
+      "published_at": 1785974400,
+      "summary": "作为持股33%的SHEIN的实际控制人，许仰天在公司上市前罕见露面，能否让面临全球强监管的跨境电商公司上市飘红？",
+      "tag": "商圈",
+      "tag_color": "#6B509B",
+      "title": "SHEIN许仰天：低调创始人高调做跨境电商",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-06/102471301.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785903346",
+      "has_video": true,
+      "image": "https://img.caixin.com/2026-08-05/178590336439382_145_97.jpg",
+      "labels": [],
+      "published_at": 1785903346,
+      "summary": "美国财长贝森特表示，单靠干预无法决定货币的走向，还需要其他政策跟进",
+      "tag": "华尔街原声",
+      "tag_color": "#6B509B",
+      "title": "贝森特：日元稳定对美国和亚洲都很重要",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-05/102471347.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785896337",
+      "has_video": false,
+      "image": "https://img.caixin.com/2026-08-05/178589699935464_145_97.jpg",
+      "labels": [],
+      "published_at": 1785896337,
+      "summary": "市场乐观预计斡旋方将能够促成协议并避免新一轮美军空袭，油价逆转早前涨势，美国国债上涨",
+      "tag": "市场动态",
+      "tag_color": "#6B509B",
+      "title": "特朗普与卡塔尔埃米尔通电话 官员对美伊达成临时协议表示乐观",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-05/102471323.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785896091",
+      "has_video": false,
+      "image": "https://img.caixin.com/2022-10-14/166572027421012_145_97.jpg",
+      "labels": [
+        {
+          "keyword": "月之暗面",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=20099556198"
+        },
+        {
+          "keyword": "DeepSeek",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=20126043469"
+        },
+        {
+          "keyword": "黄仁勋",
+          "type": "person",
+          "url": "https://entities.caixin.com/persons/index?id=304010715"
+        }
+      ],
+      "published_at": 1785896091,
+      "summary": "开放权重模型允许用户下载和定制技术",
+      "tag": "市场动态",
+      "tag_color": "#6B509B",
+      "title": "白宫据悉告知美国公司 将不对中国开放权重AI模型进行测试",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-05/102471322.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785895409",
+      "has_video": false,
+      "image": "https://img.caixin.com/2025-07-03/175154821138365_145_97.jpg",
+      "labels": [],
+      "published_at": 1785895409,
+      "summary": "越来越多来自美国、韩国等地的投资者，正把杠杆型ETF用于长期投资，这与这类产品最初为日内交易设计的用途已大相径庭",
+      "tag": "市场动态",
+      "tag_color": "#6B509B",
+      "title": "投资策略专家与韩国牙医 挑战杠杆ETF传统玩法",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-05/102471318.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785891537",
+      "has_video": false,
+      "image": "https://img.caixin.com/2026-08-05/178589281004170_145_97.jpg",
+      "labels": [],
+      "published_at": 1785891537,
+      "summary": "AI模型试图向GitHub上的一个开源软件项目植入有害代码，甚至创建虚假身份来推动代码获得批准",
+      "tag": "市场动态",
+      "tag_color": "#6B509B",
+      "title": "OpenAI与Anthropic的AI模型卷入更多网络安全事件",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-05/102471308.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785887690",
+      "has_video": false,
+      "image": "https://img.caixin.com/2026-08-05/178588817963570_145_97.jpg",
+      "labels": [],
+      "published_at": 1785887690,
+      "summary": "从OpenAI弃将变身“AI股神”，半年狂赚439%后，一个月亏掉67%，阿申布伦纳在市场逆转中没能逃过被迫去杠杆的命运",
+      "tag": "商圈",
+      "tag_color": "#6B509B",
+      "title": "阿申布伦纳：24岁“AI股神”的杠杆豪赌",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-05/102471280.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785850230",
+      "has_video": false,
+      "image": "https://img.caixin.com/2026-08-04/178585027594827_145_97.jpg",
+      "labels": [
+        {
+          "keyword": "阿里巴巴",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=200230039"
+        },
+        {
+          "keyword": "月之暗面",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=20099556198"
+        },
+        {
+          "keyword": "字节跳动",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=202030453"
+        },
+        {
+          "keyword": "DeepSeek",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=20126043469"
+        },
+        {
+          "keyword": "智谱",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=20080051932"
+        },
+        {
+          "keyword": "快手科技",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=202034570"
+        },
+        {
+          "keyword": "腾讯",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=200082668"
+        },
+        {
+          "keyword": "李开复",
+          "type": "person",
+          "url": "https://entities.caixin.com/persons/index?id=304010595"
+        }
+      ],
+      "published_at": 1785850230,
+      "summary": "AI业者若想吸引开发者，要么得在价格上击败DeepSeek，要么就在性能上超越它",
+      "tag": "市场动态",
+      "tag_color": "#6B509B",
+      "title": "中国重磅AI模型百花齐放 美国同业陷入“死亡地带”",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-04/102471249.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785849722",
+      "has_video": false,
+      "image": "https://img.caixin.com/2026-08-04/178584979576692_145_97.jpg",
+      "labels": [],
+      "published_at": 1785849722,
+      "summary": "中国驻华盛顿大使馆在接受路透采访时表示，敦促美方倾听两国商界的客观理性的声音",
+      "tag": "市场动态",
+      "tag_color": "#6B509B",
+      "title": "路透称美国起草针对中国数据中心元件的禁令",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-04/102471245.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785844977",
+      "has_video": false,
+      "image": "https://img.caixin.com/2026-08-04/178584505994949_145_97.jpg",
+      "labels": [],
+      "published_at": 1785844977,
+      "summary": "在帮助日本将日元兑美元汇率从近40年来的低点拉回的过程中，美国涉及一系列利益考量",
+      "tag": "市场动态",
+      "tag_color": "#6B509B",
+      "title": "贝森特的日元救助将加大美国对日本贸易和利率的施压",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-04/102471233.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785812499",
+      "has_video": false,
+      "image": "https://img.caixin.com/2026-08-04/178581281465651_145_97.jpg",
+      "labels": [],
+      "published_at": 1785812499,
+      "summary": "熊猫快餐展示给中国式高净值家庭的提示是：提前想清楚规则、让实业守住底线、让财富划分边界、让后代拥有选择权",
+      "tag": "家庭财富",
+      "tag_color": "#6B509B",
+      "title": "熊猫快餐：在美华人实业家族的传承样本",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-04/102471079.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785807936",
+      "has_video": false,
+      "image": "https://img.caixin.com/2026-08-04/178580875531482_145_97.jpg",
+      "labels": [],
+      "published_at": 1785807936,
+      "summary": "确凿的录音证据大幅降低了庭审抗辩空间，促使后续类似案件的被告更倾向于选择认罪协商",
+      "tag": "交易簿",
+      "tag_color": "#6B509B",
+      "title": "老虎富途案前车之鉴：Galleon内幕交易案",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-04/102471056.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785806414",
+      "has_video": false,
+      "image": "https://img.caixin.com/2026-08-04/178580718874388_145_97.jpg",
+      "labels": [],
+      "published_at": 1785806414,
+      "summary": "即便市场暂时恢复稳定，这场风波带来的政治冲击似乎才刚刚开始",
+      "tag": "市场动态",
+      "tag_color": "#6B509B",
+      "title": "从鼓励炒股到遭遇市场反噬 韩国总统李在明面临政治考验",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-04/102471039.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785805964",
+      "has_video": false,
+      "image": "https://img.caixin.com/2026-08-04/178580707865231_145_97.jpg",
+      "labels": [],
+      "published_at": 1785805964,
+      "summary": "攻击者正利用这一漏洞持续盗走价值数千万美元的加密货币",
+      "tag": "市场动态",
+      "tag_color": "#6B509B",
+      "title": "黑客攻破比特币“最安全保险箱” 持续洗劫用户资产",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-04/102471038.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785805914",
+      "has_video": false,
+      "image": "https://img.caixin.com/2026-08-04/178580697149770_145_97.jpg",
+      "labels": [],
+      "published_at": 1785805914,
+      "summary": "特朗普批评雪佛龙CEO未称颂政府的能源政策",
+      "tag": "市场动态",
+      "tag_color": "#6B509B",
+      "title": "特朗普批催促石油企业立即降价",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-04/102471037.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785805800",
+      "has_video": false,
+      "image": "https://img.caixin.com/2026-08-04/178580682321177_145_97.jpg",
+      "labels": [
+        {
+          "keyword": "埃克森美孚",
+          "type": "com",
+          "url": "https://entities.caixin.com/companies/index?id=203714039"
+        }
+      ],
+      "published_at": 1785805800,
+      "summary": "在俄罗斯供应面临风险以及美伊战争造成扰动之际，柴油正处于燃料供应紧张的核心",
+      "tag": "市场动态",
+      "tag_color": "#6B509B",
+      "title": "柴油供应危机加剧 高盛称俄罗斯“让我们非常担忧”",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-04/102471036.html?cxapp_link=true"
+    },
+    {
+      "display_time": "1785805251",
+      "has_video": false,
+      "image": "https://img.caixin.com/2026-08-04/178580568559250_145_97.jpg",
+      "labels": [],
+      "published_at": 1785805251,
+      "summary": "这一表态再次引发外界关注这两个通常保持独立运作的机构之间的关系",
+      "tag": "市场动态",
+      "tag_color": "#6B509B",
+      "title": "美国财长贝森特罕见公开呼吁美联储扩大一项流动性工具以助力捍卫日元",
+      "top": false,
+      "url": "https://database.caixin.com/2026-08-04/102471032.html?cxapp_link=true"
+    }
+  ],
+  "listing_only": true,
+  "name": "最新",
+  "ok": true,
+  "page": 1,
+  "page_size": 25,
+  "returned": 25,
+  "session_used": false,
+  "total": 30,
+  "total_pages": null,
+  "upstream_page_size": null
+}

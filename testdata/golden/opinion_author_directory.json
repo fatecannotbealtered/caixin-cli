@@ -1,0 +1,673 @@
+{
+  "_untrusted": true,
+  "article_details_not_fetched": true,
+  "complete_listing_verified": false,
+  "directory_only": true,
+  "directory_title": "推荐作者 Author",
+  "external_stylesheets_applied": false,
+  "items_count": 20,
+  "javascript_executed": false,
+  "kind": "opinion_author_directory",
+  "latest_article_date": null,
+  "linked_pages_not_fetched": true,
+  "modules": [
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/wangjiachun_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/wangjiachun_mjxx/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/wangjiachun_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "资深固收与信用研究专家。",
+          "title": "王加春",
+          "url": "https://opinion.caixin.com/wangjiachun_mjxx/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/pengwensheng_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/pengwensheng_mjxx/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/pengwensheng_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "中金公司前首席经济学家",
+          "title": "彭文生",
+          "url": "https://opinion.caixin.com/pengwensheng_mjxx/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/miaoyanliang/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/miaoyanliang/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/miaoyanliang/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "中金公司首席经济学家",
+          "title": "缪延亮",
+          "url": "https://opinion.caixin.com/miaoyanliang/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/dongximiao_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/dongximiao_mjxx/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/dongximiao_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "上海金融与发展实验室执行主任、研究员，兼任招联首席经济学家、亚洲金融合作协会专家咨询委员会委员、复旦大学金融研究院研究员等。",
+          "title": "董希淼",
+          "url": "https://opinion.caixin.com/dongximiao_mjxx/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/chlh_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/chlh_mjxx/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/chlh_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "广东省政府参事室特约研究员，广东省中华民族凝聚力研究会副会长、“远光软件”创始人",
+          "title": "陈利浩",
+          "url": "https://opinion.caixin.com/chlh_mjxx/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/lulei_zssc/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/lulei_zssc/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/lulei_zssc/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "经济学家",
+          "title": "陆磊",
+          "url": "https://opinion.caixin.com/lulei_zssc/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/xiachun_zssc/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/xiachun_zssc/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/xiachun_zssc/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "智汇集团创始人，香港国际金融学会副会长，全球价值投资协会首席经济顾问，原香港大学金融学教授博导",
+          "title": "夏春",
+          "url": "https://opinion.caixin.com/xiachun_zssc/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/shilei_zssc/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/shilei_zssc/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/shilei_zssc/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "遂玖资产合伙人",
+          "title": "石磊",
+          "url": "https://opinion.caixin.com/shilei_zssc/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/zhishenzhou_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/zhishenzhou_mjxx/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/zhishenzhou_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "“周游列城”专栏作家，财新传媒副总裁、财新创意董事长，乡村发展基金会联合创始人。",
+          "title": "周智琛",
+          "url": "https://opinion.caixin.com/zhishenzhou_mjxx/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/huyongtao_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/huyongtao_mjxx/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/huyongtao_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "部委研究所四级研究员，长期从事网络安全、密码学应用、数据安全等信息安全领域相关技术研究。",
+          "title": "胡永涛",
+          "url": "https://opinion.caixin.com/huyongtao_mjxx/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/yaoyang_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/yaoyang_mjxx/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/yaoyang_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "上海财经大学滴水湖高级金融学院院长、北京大学客座教授",
+          "title": "姚洋",
+          "url": "https://opinion.caixin.com/yaoyang_mjxx/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/lijingbing_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/lijingbing_mjxx/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/lijingbing_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "李静冰，法学博士，法律思想与司法制度研究者，北京市正见永申律师事务所高级顾问。",
+          "title": "李静冰",
+          "url": "https://opinion.caixin.com/lijingbing_mjxx/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/fuweigang_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/fuweigang_mjxx/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/fuweigang_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "财新网“城与市”专栏作家。上海金融与法律研究院研究员，研究领域为城市化、平台经济与创新政策。",
+          "title": "傅蔚冈",
+          "url": "https://opinion.caixin.com/fuweigang_mjxx/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/wuxuchu_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/wuxuchu_mjxx/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/wuxuchu_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "毕马威中国副主席暨北方区首席合伙人",
+          "title": "吴旭初",
+          "url": "https://opinion.caixin.com/wuxuchu_mjxx/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/suguojing_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/suguojing_mjxx/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/suguojing_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "中国彩票行业沙龙、亚洲责任博彩联盟创始人",
+          "title": "苏国京",
+          "url": "https://opinion.caixin.com/suguojing_mjxx/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/luting_zssc/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/luting_zssc/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/luting_zssc/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "野村中国首席经济学家",
+          "title": "陆挺",
+          "url": "https://opinion.caixin.com/luting_zssc/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/wuyue_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/wuyue_mjxx/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/wuyue_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "吴越，中国金属矿业经济研究院（五矿经济研究院）高级研究员",
+          "title": "吴越",
+          "url": "https://opinion.caixin.com/wuyue_mjxx/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/zhanglin_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/zhanglin_mjxx/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/zhanglin_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "远东资信研究院副院长、首席宏观研究员，科斯研究所（The Ronald Coase Institute）会员。",
+          "title": "张林",
+          "url": "https://opinion.caixin.com/zhanglin_mjxx/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/caijian_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/caijian_mjxx/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/caijian_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "清华大学金融学院高级研究员，清华经济管理学院高级管理创新课程教授，量子科技长三角产业创新中心首席科学家",
+          "title": "蔡剑",
+          "url": "https://opinion.caixin.com/caijian_mjxx/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/lihaiyan_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/lihaiyan_mjxx/",
+              "--discovery-source",
+              "author-directory",
+              "--directory-page",
+              "1"
+            ],
+            "content_access_not_implied": true,
+            "directory_page": 1,
+            "discovery_required": true,
+            "discovery_source": "author-directory",
+            "input_url": "https://opinion.caixin.com/lihaiyan_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "author_profile",
+          "summary": "香港艾德金融集团日本业务代表",
+          "title": "李海燕",
+          "url": "https://opinion.caixin.com/lihaiyan_mjxx/"
+        }
+      ],
+      "key": "opinion-author-directory.authors",
+      "lane": "main",
+      "name": "观点作者",
+      "order": 0,
+      "state": "server_returned"
+    }
+  ],
+  "modules_count": 1,
+  "ok": true,
+  "page": 1,
+  "pagination": {
+    "automatic_follow": false,
+    "explicit_only": true,
+    "page": 1,
+    "page_empty": false,
+    "page_size": 20
+  },
+  "rendered_visibility_verified": false,
+  "reported_total": 617,
+  "returned": 20,
+  "schema_version": 1,
+  "scripts_not_executed": true,
+  "session_used": false,
+  "source": {
+    "api_url": "https://gateway.caixin.com/api/data//cms-data/columnAuthorList",
+    "canonical_url": "https://opinion.caixin.com/columns-test/",
+    "discovered_from": "https://opinion.caixin.com/",
+    "fetched_at": "2026-08-08T08:46:08+00:00",
+    "final_url": "https://opinion.caixin.com/columns-test/",
+    "requested_url": "https://opinion.caixin.com/columns-test/",
+    "script_url": "https://file.caixin.com/webchannel/newBlog/writerlist/index.js"
+  },
+  "source_mode": "server_html_discovery_plus_json_api",
+  "stale_content": false,
+  "title": "财新名家_观点频道_财新网",
+  "unique_urls_count": 20
+}

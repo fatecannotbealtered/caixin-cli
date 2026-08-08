@@ -1,0 +1,632 @@
+{
+  "_untrusted": true,
+  "complete_listing_verified": false,
+  "external_stylesheets_applied": false,
+  "items_count": 19,
+  "javascript_executed": false,
+  "modules": [
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471770.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599589415867_840_560.jpg",
+          "item_kind": "gallery",
+          "published_at": null,
+          "source_state": "hidden",
+          "summary": null,
+          "title": "视线｜“入侵”还是“人道危机”？难民潮撕裂西班牙飞地休达",
+          "url": "https://photos.caixin.com/2026-08-06/102471770.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471754.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471754.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471754.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599514546588_840_560.jpg",
+          "item_kind": "gallery",
+          "published_at": null,
+          "source_state": "hidden",
+          "summary": null,
+          "title": "黎巴嫩贝鲁特港爆炸事件6周年 仍未等到追责结果",
+          "url": "https://photos.caixin.com/2026-08-06/102471754.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-05/102471371.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-05/102471371.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-05/102471371.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178590003015794_840_560.jpg",
+          "item_kind": "gallery",
+          "published_at": null,
+          "source_state": "hidden",
+          "summary": null,
+          "title": "视线｜被称为“蟑螂”的印度Z世代 用街头抗争将教育部长拱下台",
+          "url": "https://photos.caixin.com/2026-08-05/102471371.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-07/102472096.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-07/102472096.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-07/102472096.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "published_at": "文｜财新 曾佳 发自美国华盛顿 08月07日 07:43",
+          "source_state": "visible",
+          "summary": "根据这份行政令，美国国务卿和国土安全部可以通过拒绝发放签证、禁止入境、驱逐出境等手段，对参与生育旅游的外国人进行打击",
+          "title": "特朗普再签两份行政令限制出生公民权 意图打击生育旅游产业(含视频)",
+          "url": "https://international.caixin.com/2026-08-07/102472096.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-06/102471650.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-06/102471650.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-06/102471650.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "published_at": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "独家｜规避红海封锁 中国超大油轮停靠埃及绕行非洲",
+          "url": "https://international.caixin.com/2026-08-06/102471650.html"
+        }
+      ],
+      "key": "international.top",
+      "lane": "main",
+      "name": "头条",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-07/102472425.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-07/102472425.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-07/102472425.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178611048283837_145_97.jpg",
+          "summary": "市场预计美联储在9月加息的可能性下滑到了44%",
+          "title": "7月美国劳动力市场意外放缓 岗位减少2.3万个失业率降至4.1%",
+          "url": "https://international.caixin.com/2026-08-07/102472425.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-07/102472364.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-07/102472364.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-07/102472364.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178610055083437_145_97.jpg",
+          "summary": "他还称，美国政府将寻求对泄露相关信息的人处以“长期监禁”",
+          "title": "特朗普坚称美国防空弹药库存充足 但不会向乌克兰提供更多",
+          "url": "https://international.caixin.com/2026-08-07/102472364.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-07/102472305.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-07/102472305.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-07/102472305.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178609500184842_145_97.jpg",
+          "summary": "伤者达到22人，其中9人伤势危重，枪手已被确认死亡",
+          "title": "泰国发生致命校园枪击案至少6人死亡 枪手祖父母亦被杀",
+          "url": "https://international.caixin.com/2026-08-07/102472305.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-07/102472208.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-07/102472208.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-07/102472208.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178608554726457_145_97.jpg",
+          "summary": "9月在印度举行的第十八次金砖国家峰会，有望成为金砖这一新兴经济体合作机制成立20年来，在全球格局剧变的当下，全球南方的又一次整合努力",
+          "title": "大西洋观察｜特朗普助力金砖合作",
+          "url": "https://international.caixin.com/2026-08-07/102472208.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-07/102472096.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-07/102472096.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-07/102472096.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178606011614145_145_97.jpg",
+          "summary": "根据这份行政令，美国国务卿和国土安全部可以通过拒绝发放签证、禁止入境、驱逐出境等手段，对参与生育旅游的外国人进行打击",
+          "title": "特朗普再签两份行政令限制出生公民权 意图打击生育旅游产业(含视频)",
+          "url": "https://international.caixin.com/2026-08-07/102472096.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-06/102471842.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-06/102471842.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-06/102471842.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599977451348_145_97.jpg",
+          "summary": "中东局势持续紧张，叠加霍尔木兹海峡航运受阻，严重影响东南亚多国的能源安全",
+          "title": "中东局势催化东南亚能源焦虑 多国出台光伏新政加速转型",
+          "url": "https://international.caixin.com/2026-08-06/102471842.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-06/102471767.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-06/102471767.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-06/102471767.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2024-04-22/171375336016418_145_97.jpg",
+          "summary": "推动日本资金回流将是长期影响汇率的最有力、最直接的政策举措",
+          "title": "分析｜贝森特操盘稳日元，操作巧思能否撬动美日货币基本面",
+          "url": "https://international.caixin.com/2026-08-06/102471767.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-06/102471650.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-06/102471650.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-06/102471650.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178597724392438_145_97.jpg",
+          "summary": "红海封锁困住沙特原油。中国超大油轮停靠埃及北部港口装运管道输送的沙特油，继而将绕行整个非洲大陆",
+          "title": "独家｜规避红海封锁 中国超大油轮停靠埃及绕行非洲",
+          "url": "https://international.caixin.com/2026-08-06/102471650.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-05/102471610.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-05/102471610.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-05/102471610.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178593935634863_145_97.jpg",
+          "summary": "巴方指责，美国干预行将举行的巴西总统选举的“不当企图”显而易见",
+          "title": "美巴外交风波再升级 巴西驻美大使遭撤销美签",
+          "url": "https://international.caixin.com/2026-08-05/102471610.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-05/102471559.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-05/102471559.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-05/102471559.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178592691218083_145_97.jpg",
+          "summary": "其辩护律师此前提出保释申请，但遭法院驳回",
+          "title": "持刀闯入中国驻日使馆 日自卫队官员首度发声称“后悔”",
+          "url": "https://international.caixin.com/2026-08-05/102471559.html"
+        }
+      ],
+      "key": "international.news",
+      "lane": "main",
+      "name": "要闻",
+      "order": 1,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007991.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000007991.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000007991.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-01/177236108049949_840_560.jpg",
+          "summary": "文文文文文文文文0文00文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文文文文文文，文文文文0文00文文文0文00文，文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文文文文文文……",
+          "title": "美伊战争进行时",
+          "url": "https://deepview.caixin.com/topic/BQ02.000007991.html?cxapp_link=true"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ01.00000262.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ01.00000262.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ01.00000262.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2024-11-06/173089171134995_840_560.jpg",
+          "summary": "文文文文00文0文文文，文文文文文文、文文文文文文文文文文文文文文文文文文文文文文文——文文文文文文、文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文，文文文文文文0000文文文文文文文文，文文文文文文文文文文文文文文文“文文文文”。",
+          "title": "特朗普2.0时代：影响与变局",
+          "url": "https://deepview.caixin.com/topic/BQ01.00000262.html?cxapp_link=true"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000002152.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000002152.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000002152.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-02-24/174037866519263_840_560.jpg",
+          "summary": "文0000文0文00文文文，文文文文文文文文文文文。文0000文00文文文，文文文文文文文文文文文文文，文文文文文文文文文，0000文文文文文，文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文文文文文，文文文文文文文文文文。文文文文文文文文文文，文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文……",
+          "title": "俄乌冲突四周年",
+          "url": "https://deepview.caixin.com/topic/BQ02.000002152.html?cxapp_link=true"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ01.00000721.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ01.00000721.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ01.00000721.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2017-10-20/1508501263624935.jpg",
+          "summary": "这里汇集了近期曾与财新对话过的列国大使、政要，让我们聆听他们对中国的剀切诤言，分享他们纵观全球的犀利分析",
+          "title": "列国政要大使观天下",
+          "url": "https://deepview.caixin.com/topic/BQ01.00000721.html?cxapp_link=true"
+        }
+      ],
+      "key": "international.topics",
+      "lane": "sidebar",
+      "name": "专题",
+      "order": 0,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 3,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topics",
+        "canonical_url": "https://topics.caixin.com/international/",
+        "command": [
+          "caixin-cli",
+          "topics",
+          "https://topics.caixin.com/international/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/international/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "专题",
+      "url": "https://topics.caixin.com/international/"
+    }
+  ],
+  "navigation_count": 1,
+  "ok": true,
+  "page_kind": "international",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:49:16+00:00",
+    "final_url": "https://international.caixin.com/",
+    "requested_url": "https://international.caixin.com/"
+  },
+  "source_mode": "server_html",
+  "subdirectories": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://international.caixin.com/europe_n_north_america/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://international.caixin.com/europe_n_north_america/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://international.caixin.com/europe_n_north_america/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "欧洲北美",
+      "url": "https://international.caixin.com/europe_n_north_america/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://international.caixin.com/asia_pacific_region/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://international.caixin.com/asia_pacific_region/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://international.caixin.com/asia_pacific_region/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "亚太地区",
+      "url": "https://international.caixin.com/asia_pacific_region/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://international.caixin.com/middle_east_n_north_africa/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://international.caixin.com/middle_east_n_north_africa/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://international.caixin.com/middle_east_n_north_africa/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "更多",
+      "url": "https://international.caixin.com/middle_east_n_north_africa/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://international.caixin.com/emerging_markets/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://international.caixin.com/emerging_markets/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://international.caixin.com/emerging_markets/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "更多",
+      "url": "https://international.caixin.com/emerging_markets/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://international.caixin.com/chinese_diplomacy/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://international.caixin.com/chinese_diplomacy/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://international.caixin.com/chinese_diplomacy/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "更多",
+      "url": "https://international.caixin.com/chinese_diplomacy/"
+    }
+  ],
+  "subdirectories_count": 5,
+  "title": "世界频道-财新网"
+}

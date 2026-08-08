@@ -1,0 +1,918 @@
+{
+  "_untrusted": true,
+  "article_details_not_fetched": true,
+  "complete_listing_verified": false,
+  "directory_only": true,
+  "external_stylesheets_applied": false,
+  "items_count": 33,
+  "javascript_executed": false,
+  "latest_article_date": null,
+  "load_more_not_called": true,
+  "modules": [
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wuxiaobo.blog.caixin.com/archives/287758",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wuxiaobo.blog.caixin.com/archives/287758"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wuxiaobo.blog.caixin.com/archives/287758",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-09/178360638158237_840_560.jpg",
+          "summary": null,
+          "title": "车企巨亏，利润去哪儿了？",
+          "url": "https://wuxiaobo.blog.caixin.com/archives/287758"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://tangya.blog.caixin.com/archives/287755",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://tangya.blog.caixin.com/archives/287755"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://tangya.blog.caixin.com/archives/287755",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-15/178408989327698.jpg",
+          "summary": null,
+          "title": "中国制造进入全球资本支出周期",
+          "url": "https://tangya.blog.caixin.com/archives/287755"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://xiaochunliu.blog.caixin.com/archives/287716",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://xiaochunliu.blog.caixin.com/archives/287716"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://xiaochunliu.blog.caixin.com/archives/287716",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://pic.caixin.com/beditor/blog/upload/f74da2495fe27a5798d2f48ea5d828956129ccf02fbdbdcbfb336c825c37b73d.jpg",
+          "summary": null,
+          "title": "从弹棉花郎到老板到网约车司机",
+          "url": "https://xiaochunliu.blog.caixin.com/archives/287716"
+        }
+      ],
+      "key": "blog.focus",
+      "lane": "lead",
+      "name": "焦点",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "author": "丁金坤",
+          "author_url": "https://dingjinkun.blog.caixin.com/",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://dingjinkun.blog.caixin.com/archives/288089",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://dingjinkun.blog.caixin.com/archives/288089"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://dingjinkun.blog.caixin.com/archives/288089",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "summary": null,
+          "title": "商鞅何来法治思想？一块挂错的牌匾",
+          "url": "https://dingjinkun.blog.caixin.com/archives/288089"
+        },
+        {
+          "access": "directory_visible",
+          "author": "丁金坤",
+          "author_url": "https://dingjinkun.blog.caixin.com/",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://dingjinkun.blog.caixin.com/archives/288112",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://dingjinkun.blog.caixin.com/archives/288112"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://dingjinkun.blog.caixin.com/archives/288112",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "summary": null,
+          "title": "“竹知了”成为言论的边界",
+          "url": "https://dingjinkun.blog.caixin.com/archives/288112"
+        },
+        {
+          "access": "directory_visible",
+          "author": "丁金坤",
+          "author_url": "https://dingjinkun.blog.caixin.com/",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://dingjinkun.blog.caixin.com/archives/288142",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://dingjinkun.blog.caixin.com/archives/288142"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://dingjinkun.blog.caixin.com/archives/288142",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "summary": null,
+          "title": "竹知了与蟋蟀",
+          "url": "https://dingjinkun.blog.caixin.com/archives/288142"
+        },
+        {
+          "access": "directory_visible",
+          "author": "谷有芳",
+          "author_url": "https://guyoufang.blog.caixin.com/",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://guyoufang.blog.caixin.com/archives/288104",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://guyoufang.blog.caixin.com/archives/288104"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://guyoufang.blog.caixin.com/archives/288104",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "summary": null,
+          "title": "东野圭吾 何以解忧？",
+          "url": "https://guyoufang.blog.caixin.com/archives/288104"
+        },
+        {
+          "access": "directory_visible",
+          "author": "刘晓春",
+          "author_url": "https://xiaochunliu.blog.caixin.com/",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://xiaochunliu.blog.caixin.com/archives/288118",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://xiaochunliu.blog.caixin.com/archives/288118"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://xiaochunliu.blog.caixin.com/archives/288118",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "summary": null,
+          "title": "法定工作时间不赚钱，赚钱全靠加班时间",
+          "url": "https://xiaochunliu.blog.caixin.com/archives/288118"
+        },
+        {
+          "access": "directory_visible",
+          "author": "二湘的十一维空间",
+          "author_url": "https://erxiang11.blog.caixin.com/",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://erxiang11.blog.caixin.com/archives/288131",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://erxiang11.blog.caixin.com/archives/288131"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://erxiang11.blog.caixin.com/archives/288131",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "summary": null,
+          "title": "竹知了视频下架，如今万物皆可“嘲讽企业家” | 二湘空间",
+          "url": "https://erxiang11.blog.caixin.com/archives/288131"
+        },
+        {
+          "access": "directory_visible",
+          "author": "返朴",
+          "author_url": "https://fanpusci.blog.caixin.com/",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://fanpusci.blog.caixin.com/archives/288073",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://fanpusci.blog.caixin.com/archives/288073"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://fanpusci.blog.caixin.com/archives/288073",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "summary": null,
+          "title": "数学家汤涛专访王虹：破百年猜想，赴四十载之约",
+          "url": "https://fanpusci.blog.caixin.com/archives/288073"
+        },
+        {
+          "access": "directory_visible",
+          "author": "赛格大道",
+          "author_url": "https://saige.blog.caixin.com/",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://saige.blog.caixin.com/archives/288143",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://saige.blog.caixin.com/archives/288143"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://saige.blog.caixin.com/archives/288143",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "summary": null,
+          "title": "当乌兰察布遇见DeepSeek",
+          "url": "https://saige.blog.caixin.com/archives/288143"
+        },
+        {
+          "access": "directory_visible",
+          "author": "黄凡",
+          "author_url": "https://huangfan.blog.caixin.com/",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://huangfan.blog.caixin.com/archives/288146",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://huangfan.blog.caixin.com/archives/288146"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://huangfan.blog.caixin.com/archives/288146",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "summary": null,
+          "title": "日元持续走弱，给我们什么样的机会？",
+          "url": "https://huangfan.blog.caixin.com/archives/288146"
+        },
+        {
+          "access": "directory_visible",
+          "author": "丁金坤",
+          "author_url": "https://dingjinkun.blog.caixin.com/",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://dingjinkun.blog.caixin.com/archives/288159",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://dingjinkun.blog.caixin.com/archives/288159"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://dingjinkun.blog.caixin.com/archives/288159",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "summary": null,
+          "title": "\"我\"从未存在:方桃子代言背后的证言广告监管漏洞",
+          "url": "https://dingjinkun.blog.caixin.com/archives/288159"
+        }
+      ],
+      "key": "blog.recommended",
+      "lane": "sidebar",
+      "name": "读者推荐",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://wangdingding.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://wangdingding.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wangdingding.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2019-01-08/1546937219203342.jpg",
+          "item_kind": "author",
+          "summary": "财新传媒学术顾问",
+          "title": "汪丁丁",
+          "url": "https://wangdingding.blog.caixin.com/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://zhangwuchang.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://zhangwuchang.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://zhangwuchang.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2019-01-08/1546936903803754.jpg",
+          "item_kind": "author",
+          "summary": "著名经济学家",
+          "title": "张五常",
+          "url": "https://zhangwuchang.blog.caixin.com/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://zhouqiren.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://zhouqiren.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://zhouqiren.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2019-01-08/1546936974088973.jpg",
+          "item_kind": "author",
+          "summary": "北京大学国家发展研究院教授",
+          "title": "周其仁",
+          "url": "https://zhouqiren.blog.caixin.com/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://wangwenyong.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://wangwenyong.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wangwenyong.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2018-10-16/1539678427535419.jpg",
+          "item_kind": "author",
+          "summary": "投资人，前外交官",
+          "title": "王文勇",
+          "url": "https://wangwenyong.blog.caixin.com/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://tangya.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://tangya.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://tangya.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/006/80/23/22_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "summary": "金融学者",
+          "title": "唐涯",
+          "url": "https://tangya.blog.caixin.com/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://zhang-ming.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://zhang-ming.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://zhang-ming.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/006/64/87/98_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "summary": "中国社科院研究员",
+          "title": "张明",
+          "url": "https://zhang-ming.blog.caixin.com/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://wanzhao.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://wanzhao.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wanzhao.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2017-09-12/1505176311739050.jpg",
+          "item_kind": "author",
+          "summary": "经济学博士",
+          "title": "万钊",
+          "url": "https://wanzhao.blog.caixin.com/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://chenchong.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://chenchong.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://chenchong.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/009/53/89/77_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "summary": "影星陈冲",
+          "title": "陈冲",
+          "url": "https://chenchong.blog.caixin.com/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://huyong.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://huyong.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://huyong.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/000/01/43/85_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "summary": "北京大学新闻与传播学院教授，博士",
+          "title": "胡泳",
+          "url": "https://huyong.blog.caixin.com/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://likaifu.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://likaifu.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://likaifu.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2018-07-12/1531374440011920.jpg",
+          "item_kind": "author",
+          "summary": "创新工场董事长兼首席执行官",
+          "title": "李开复",
+          "url": "https://likaifu.blog.caixin.com/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://cunfuriji.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://cunfuriji.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cunfuriji.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2019-01-08/1546938167805794.jpg",
+          "item_kind": "author",
+          "summary": "关注大健康",
+          "title": "村夫日记",
+          "url": "https://cunfuriji.blog.caixin.com/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://jiangcaijian.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://jiangcaijian.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://jiangcaijian.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2019-01-08/1546937306355329.jpg",
+          "item_kind": "author",
+          "summary": "《知识通讯评论》发行人",
+          "title": "江才健",
+          "url": "https://jiangcaijian.blog.caixin.com/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://xuben.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://xuben.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://xuben.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2019-01-08/1546937653524651.jpg",
+          "item_kind": "author",
+          "summary": "美国加州圣玛利学院英文系教授",
+          "title": "徐贲",
+          "url": "https://xuben.blog.caixin.com/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://sunyue.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://sunyue.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://sunyue.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://www.caixin.com/upload/zhuanlan/100344853_100_100.jpg",
+          "item_kind": "author",
+          "summary": "俄罗斯文学翻译家",
+          "title": "孙越",
+          "url": "https://sunyue.blog.caixin.com/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://hansong.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://hansong.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://hansong.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2019-01-08/1546937436916134.jpg",
+          "item_kind": "author",
+          "summary": "科幻作家、新华社记者",
+          "title": "韩松",
+          "url": "https://hansong.blog.caixin.com/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://zhuyekuang.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://zhuyekuang.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://zhuyekuang.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2019-01-08/1546937928790185.jpg",
+          "item_kind": "author",
+          "summary": "作家、批评家",
+          "title": "朱也旷",
+          "url": "https://zhuyekuang.blog.caixin.com/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://yanglinyi.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://yanglinyi.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://yanglinyi.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2019-01-08/1546938045103530.jpg",
+          "item_kind": "author",
+          "summary": "法律从业者",
+          "title": "杨林毅",
+          "url": "https://yanglinyi.blog.caixin.com/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://wuzhihong.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://wuzhihong.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wuzhihong.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2018-07-12/1531378299280064.jpg",
+          "item_kind": "author",
+          "summary": "心理专栏作家",
+          "title": "武志红",
+          "url": "https://wuzhihong.blog.caixin.com/"
+        }
+      ],
+      "key": "blog.authors",
+      "lane": "sidebar",
+      "name": "博主推荐",
+      "order": 1,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://gonggaoban.blog.caixin.com/archives/74390",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://gonggaoban.blog.caixin.com/archives/74390"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://gonggaoban.blog.caixin.com/archives/74390",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "summary": null,
+          "title": "财新博客使用指南",
+          "url": "https://gonggaoban.blog.caixin.com/archives/74390"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://gonggaoban.blog.caixin.com/archives/67451",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://gonggaoban.blog.caixin.com/archives/67451"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://gonggaoban.blog.caixin.com/archives/67451",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "summary": null,
+          "title": "开通财新博客",
+          "url": "https://gonggaoban.blog.caixin.com/archives/67451"
+        }
+      ],
+      "key": "blog.announcements",
+      "lane": "sidebar",
+      "name": "博客公告",
+      "order": 2,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 4,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "bloggers-directory",
+        "canonical_url": "https://blog.caixin.com/archive/bloggers",
+        "command": [
+          "caixin-cli",
+          "bloggers-directory"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://blog.caixin.com/archive/bloggers",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "查看更多 >",
+      "url": "https://blog.caixin.com/archive/bloggers"
+    }
+  ],
+  "navigation_count": 1,
+  "ok": true,
+  "page_kind": "blog-index",
+  "pagination": "ssr_first_screen_only",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:49:08+00:00",
+    "final_url": "https://blog.caixin.com/",
+    "requested_url": "https://blog.caixin.com/"
+  },
+  "source_mode": "server_html",
+  "stale_content": null,
+  "title": "博客频道-财新网-CAIXIN.COM",
+  "unique_urls_count": 33
+}

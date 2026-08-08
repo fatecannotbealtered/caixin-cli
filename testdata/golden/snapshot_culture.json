@@ -1,0 +1,4927 @@
+{
+  "_untrusted": true,
+  "author_directory": [
+    {
+      "name": "刀尔登",
+      "url": "https://culture.caixin.com/daoerdeng/"
+    },
+    {
+      "name": "杨葵",
+      "url": "https://culture.caixin.com/2013/yangkui/"
+    },
+    {
+      "name": "梁文道",
+      "url": "https://culture.caixin.com/liangwendao/"
+    },
+    {
+      "name": "王芫",
+      "url": "https://culture.caixin.com/wangyuan/index.html"
+    },
+    {
+      "name": "于晓丹",
+      "url": "https://culture.caixin.com/yuxiaodan/index.html"
+    },
+    {
+      "name": "张钊维",
+      "url": "https://culture.caixin.com/zhangzhaowei/index.html"
+    },
+    {
+      "name": "王一方",
+      "url": "https://culture.caixin.com/wangyifang/"
+    },
+    {
+      "name": "张斌",
+      "url": "https://culture.caixin.com/zhangbin/"
+    },
+    {
+      "name": "唐映红",
+      "url": "https://culture.caixin.com/tangyinghong/"
+    },
+    {
+      "name": "张宗子",
+      "url": "https://culture.caixin.com/zhangzhongzi/"
+    },
+    {
+      "name": "资中筠",
+      "url": "https://culture.caixin.com/zizhongyun/"
+    },
+    {
+      "name": "李大卫",
+      "url": "https://culture.caixin.com/lidawei/"
+    },
+    {
+      "name": "米琴",
+      "url": "https://culture.caixin.com/2012/miqin/"
+    },
+    {
+      "name": "朱小棣",
+      "url": "https://culture.caixin.com/zhuxiaodi/"
+    },
+    {
+      "name": "徐征",
+      "url": "https://culture.caixin.com/xuzheng/"
+    },
+    {
+      "name": "杨健",
+      "url": "https://culture.caixin.com/yangjian/"
+    },
+    {
+      "name": "刘苏里",
+      "url": "https://culture.caixin.com/liusuli/index.html"
+    },
+    {
+      "name": "阮一峰",
+      "url": "https://culture.caixin.com/ruanyifeng/"
+    },
+    {
+      "name": "押沙龙",
+      "url": "https://culture.caixin.com/yashalong/index.html"
+    },
+    {
+      "name": "杨渡",
+      "url": "https://culture.caixin.com/yangdu"
+    },
+    {
+      "name": "韩松",
+      "url": "https://culture.caixin.com/hansong/index.html"
+    },
+    {
+      "name": "王焱",
+      "url": "https://culture.caixin.com/wangyan/index.html"
+    },
+    {
+      "name": "杨奎松",
+      "url": "https://culture.caixin.com/yangkuisong/index.html"
+    },
+    {
+      "name": "张明扬",
+      "url": "https://culture.caixin.com/zhangmingyang/index.html"
+    },
+    {
+      "name": "安替",
+      "url": "https://culture.caixin.com/anti/"
+    },
+    {
+      "name": "北岛",
+      "url": "https://culture.caixin.com/beidao/"
+    },
+    {
+      "name": "陈嘉映",
+      "url": "https://culture.caixin.com/chenjiaying/"
+    },
+    {
+      "name": "崔卫平",
+      "url": "https://culture.caixin.com/cuiweiping/"
+    },
+    {
+      "name": "狗子",
+      "url": "https://culture.caixin.com/zl_gouzi/"
+    },
+    {
+      "name": "胡紫微",
+      "url": "https://culture.caixin.com/huziwei/index.html"
+    },
+    {
+      "name": "黎戈",
+      "url": "https://culture.caixin.com/2012/lige/"
+    },
+    {
+      "name": "刘擎",
+      "url": "https://culture.caixin.com/liuqing/"
+    },
+    {
+      "name": "刘瑜",
+      "url": "https://culture.caixin.com/liuyu/"
+    },
+    {
+      "name": "刘仲敬",
+      "url": "https://culture.caixin.com/liuzhongjing/index.html"
+    },
+    {
+      "name": "马家辉",
+      "url": "https://culture.caixin.com/2012/majiahui/"
+    },
+    {
+      "name": "马勇",
+      "url": "https://culture.caixin.com/mayong/index.html"
+    },
+    {
+      "name": "邱立波",
+      "url": "https://culture.caixin.com/qiulibo/index.html"
+    },
+    {
+      "name": "王鼎钧",
+      "url": "https://culture.caixin.com/wangdingjun/index.html"
+    },
+    {
+      "name": "汪丁丁",
+      "url": "https://culture.caixin.com/wdingding/"
+    },
+    {
+      "name": "王晓渔",
+      "url": "https://culture.caixin.com/wangxiaoyu/index.html"
+    },
+    {
+      "name": "王昭阳",
+      "url": "https://culture.caixin.com/wangzhaoyang/"
+    },
+    {
+      "name": "吴澧",
+      "url": "https://culture.caixin.com/wuli/index.html"
+    },
+    {
+      "name": "张铁志",
+      "url": "https://culture.caixin.com/2012/zhangtiezhi/"
+    },
+    {
+      "name": "张亚璇",
+      "url": "https://culture.caixin.com/zhangyaxuan/index.html"
+    },
+    {
+      "name": "章立凡",
+      "url": "https://culture.caixin.com/zhanglifan/"
+    },
+    {
+      "name": "周濂",
+      "url": "https://culture.caixin.com/zhoulian/index.html"
+    },
+    {
+      "name": "朱大可",
+      "url": "https://culture.caixin.com/zhudake/"
+    },
+    {
+      "name": "庄秋水",
+      "url": "https://culture.caixin.com/zhuangqiushui/"
+    }
+  ],
+  "author_directory_count": 48,
+  "complete_listing_verified": false,
+  "editorial_items_count": 175,
+  "external_stylesheets_applied": false,
+  "items_count": 175,
+  "javascript_executed": false,
+  "modules": [
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-06-05/101723258.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-06-05/101723258.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-06-05/101723258.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-06-05/1622878463602374_300_200.jpg",
+          "meta_text": "文丨张斌",
+          "summary": "精神障碍与健康问题并非是人之弱点，不该有丝毫耻感，更不该以结束生命来求得解脱",
+          "title": "专栏｜金牌的重量",
+          "url": "https://weekly.caixin.com/2021-06-05/101723258.html"
+        }
+      ],
+      "key": "culture.top",
+      "lane": "lead",
+      "name": "头条",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-29/101719875.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-29/101719875.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-29/101719875.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "summary": null,
+          "title": "专栏｜盖茨离了",
+          "url": "https://weekly.caixin.com/2021-05-29/101719875.html"
+        }
+      ],
+      "key": "culture.top-related",
+      "lane": "lead",
+      "name": "头条相关",
+      "order": 1,
+      "state": "visible"
+    },
+    {
+      "continuation_available": true,
+      "continuation_evidence": "server_rendered_javascript_load_more_control",
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101671323",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-03-05/101671172.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-03-05/101671172.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-03-05/101671172.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-03-05/1614933482476975_145_97.jpg",
+          "meta_text": "文|杨旺 07月08日 18:54",
+          "section": {
+            "name": "评论",
+            "url": "https://culture.caixin.com/wh_philosophy/index.html"
+          },
+          "summary": "福原爱在32岁之后终于明白，把贤妻良母当成理想生活的，就是把自己生活的目标和标准放在他人身上，终究有风险，贤妻良母和成就自我不应是一个矛盾体",
+          "title": "体坛｜福原爱：童话醒了，诸位散了吧！",
+          "url": "https://culture.caixin.com/2021-03-05/101671172.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101723711",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-06-07/101723708.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-06-07/101723708.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-06-07/101723708.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-06-07/1623026590702478_145_97.jpg",
+          "meta_text": "文｜专栏作家 阎阳生 06月07日 08:38",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "后代无法理解，一篇作文怎么能传抄成了社会的焦点。那是文化荒漠渴望解冻的时代",
+          "title": "阎阳生：1977年我的高考作文一文成名",
+          "url": "https://culture.caixin.com/2021-06-07/101723708.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101724254",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-06-05/101724254.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-06-05/101724254.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-06-05/101724254.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-06-05/1622878463602374_145_97.jpg",
+          "meta_text": "文丨张斌 06月05日 09:02",
+          "section": {
+            "name": "评论",
+            "url": "https://culture.caixin.com/wh_philosophy/index.html"
+          },
+          "summary": "精神障碍与健康问题并非是人之弱点，不该有丝毫耻感，更不该以结束生命来求得解脱",
+          "title": "专栏｜金牌的重量",
+          "url": "https://culture.caixin.com/2021-06-05/101724254.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101723682",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-06-05/101723682.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-06-05/101723682.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-06-05/101723682.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-06-05/1622859571547865_145_97.jpg",
+          "meta_text": "文丨顾晓阳 06月05日 08:58",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "谁都不知道自己的命运，那是掌握在上帝手中的秘密，也许正因如此，我们才会从每一天寻求生活的意义",
+          "title": "随笔｜好人石田",
+          "url": "https://culture.caixin.com/2021-06-05/101723682.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101723014",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-06-04/101723002.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-06-04/101723002.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-06-04/101723002.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-06-04/1622801680918330_145_97.jpg",
+          "meta_text": "文｜杨旺 06月04日 18:05",
+          "section": {
+            "name": "评论",
+            "url": "https://culture.caixin.com/wh_philosophy/index.html"
+          },
+          "summary": "路跑产业不是该不该管的问题，而是那些该管以及怎么管的问题。我们要管的，是对于赛事的专业服务模式、管理模式、资源导入模式",
+          "title": "体坛｜中国路跑十年，偃旗息鼓还是向死而生",
+          "url": "https://culture.caixin.com/2021-06-04/101723002.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101722723",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-06-04/101722722.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-06-04/101722722.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-06-04/101722722.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-06-04/1622778362524227_145_97.jpg",
+          "meta_text": "文｜米琴 06月04日 11:34",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "母亲刚去世，丈夫就对她大发雷霆了……",
+          "title": "米琴专栏｜爱，是不能过头儿的",
+          "url": "https://culture.caixin.com/2021-06-04/101722722.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101721147",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-06-01/101721143.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-06-01/101721143.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-06-01/101721143.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-06-01/1622533695302553_145_97.jpg",
+          "meta_text": "文｜朱小棣 06月01日 15:35",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "冯唐的小说好不好另当别论，但是创作小说的热情实践，无疑为他的散文增添了真知灼见",
+          "title": "朱小棣专栏｜冯唐月色 话糙理精",
+          "url": "https://culture.caixin.com/2021-06-01/101721143.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101720526",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-31/101720525.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-31/101720525.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-31/101720525.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-31/1622443939769632_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 05月31日 14:41",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "早年遭遇过的性侵，在很多后人的意识当中造成有关她的刻板印象。她因此受害，也因此留名史册。然而她的生平事迹，远比这些丰富得多",
+          "title": "李大卫专栏｜她用画笔复仇",
+          "url": "https://culture.caixin.com/2021-05-31/101720525.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101722030",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-29/101719886.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-29/101719886.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-29/101719886.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2017-01-20/1484903290556265_145_97.jpg",
+          "meta_text": "文｜沈大园 05月29日 08:57",
+          "section": {
+            "name": "阅读",
+            "url": "https://culture.caixin.com/books/index.html"
+          },
+          "summary": "读到更多国家的故事，才知道没那么多理所应当和冥冥之中。日盛一日，是努力和时运挣来的，而如果未能虔心守护，成就的消散远比积聚容易",
+          "title": "荐书｜拉丁美洲在那里",
+          "url": "https://weekly.caixin.com/2021-05-29/101719886.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101721493",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-29/101719879.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-29/101719879.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-29/101719879.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-29/1622262839802084_145_97.jpg",
+          "meta_text": "文｜王竞 05月29日 08:49",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "在欧洲历史上，粉红色向来是男孩和少年的颜色，圣母玛利亚蓝才属于女孩和少女",
+          "title": "专栏｜被掉包的蓝与粉",
+          "url": "https://weekly.caixin.com/2021-05-29/101719879.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101720818",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-29/101719875.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-29/101719875.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-29/101719875.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-04/1620088144650066_145_97.jpg",
+          "meta_text": "文｜于永超 05月29日 08:45",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "作为世界富豪，他们居然连一份婚姻财产协议都没有，还高调聘请豪华律师团上法庭分财产，结束27年的婚姻，将是一场怎样的财富洗牌？",
+          "title": "专栏｜盖茨离了",
+          "url": "https://weekly.caixin.com/2021-05-29/101719875.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101720279",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-29/101719868.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-29/101719868.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-29/101719868.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-29/1622261784595586_145_97.jpg",
+          "meta_text": "文｜冯翔 05月29日 08:39",
+          "section": {
+            "name": "艺术",
+            "url": "https://culture.caixin.com/art/index.html"
+          },
+          "summary": "一个生在北京的朝鲜族男人，帮助了一个素不相识的东北少年，改变了他的口音、命运和思维方式，那么深，那么久",
+          "title": "随笔｜和崔健有关的青春往事",
+          "url": "https://weekly.caixin.com/2021-05-29/101719868.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101719461",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-28/101719461.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-28/101719461.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-28/101719461.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-05-24/1590282720405211_145_97.jpg",
+          "meta_text": "文｜赵景宜 05月28日 16:33",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "在死亡医学教育上，国内几乎是空白的，急需弥补。“不弥补的话，我们都要在冰冷的医疗环境中走完自己的一生。”",
+          "title": "临终病房里的生死课",
+          "url": "https://culture.caixin.com/2021-05-28/101719461.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101719314",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-28/101719314.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-28/101719314.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-28/101719314.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-28/1622177281791682_145_97.jpg",
+          "meta_text": "文｜丁建峰 05月28日 12:42",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "“文文”文文“文文”文文文文文，文文文文文文“文文文文文”，文文文文文文文文文；文文，文文文文文文文文文文文文文文文文文文文文文。文文文文文文文文文文文，文文文文",
+          "title": "何兆武回顾求学历程：“独立之精神”的由来",
+          "url": "https://culture.caixin.com/2021-05-28/101719314.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101717576",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-25/101717575.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-25/101717575.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-25/101717575.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-25/1621914349898191_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 05月25日 11:38",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "当红作家马尔科姆·格拉德威尔的新书《轰炸机帮会》，主题是美国空中作战思想史上具有决定性的一页。重温其中的某些战术思想，在当前以巴冲突的背景下，颇有启发",
+          "title": "李大卫专栏｜《轰炸机帮会》：狂轰乱炸到斩首行动",
+          "url": "https://culture.caixin.com/2021-05-25/101717575.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101718443",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-22/101716616.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-22/101716616.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-22/101716616.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-22/1621661409718113_145_97.jpg",
+          "meta_text": "图、文｜财新周刊 葛永正（实习） 图片编辑｜杜广磊 05月22日 09:07",
+          "section": {
+            "name": "艺术",
+            "url": "https://culture.caixin.com/art/index.html"
+          },
+          "summary": "文文文文文文文文文文文文，文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文，文文文文文文文文文文文。文文文文文文、文文文文，文文文文文文。文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文",
+          "title": "显影｜再见，老弄堂",
+          "url": "https://weekly.caixin.com/2021-05-22/101716616.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101717960",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-22/101716609.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-22/101716609.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-22/101716609.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-22/1621661278728452_145_97.jpg",
+          "meta_text": "文｜刀尔登 05月22日 08:55",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "汉人说：“为书之体，须入其形，若坐若行，若飞若动。”跳舞不也是这样吗？老徐学跳舞，便以在写字中得到的体会去融通",
+          "title": "乐此不疲｜广场晨昏",
+          "url": "https://weekly.caixin.com/2021-05-22/101716609.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101717464",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-22/101716608.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-22/101716608.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-22/101716608.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-22/1621661004647158_145_97.jpg",
+          "meta_text": "文｜罗新 05月22日 08:51",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "依照中国传统的道德观，成人食用人乳是应该批判的。这是正统价值观的作用，因而史料中食人乳的案例并不多，且都是旁人的观察",
+          "title": "专栏｜张苍的养生术",
+          "url": "https://weekly.caixin.com/2021-05-22/101716608.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101717011",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-22/101716606.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-22/101716606.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-22/101716606.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-22/1621657317699668_145_97.jpg",
+          "meta_text": "文｜刘宗坤 05月22日 08:47",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "父女两代人的悲欢离合让人体会到南方的温情和暧昧、偏见和无奈、责任感和依赖感、不易破解的生活密码、难以言传的潜规则、当代人已经陌生的忠诚，以及历史的冷酷印记",
+          "title": "随笔｜暧昧的南方：秘密往来60年",
+          "url": "https://weekly.caixin.com/2021-05-22/101716606.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101715966",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-21/101715965.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-21/101715965.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-21/101715965.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-21/1621570396995947_145_97.jpg",
+          "meta_text": "文｜米琴 05月21日 11:00",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "作者揭开了经济黑暗一角，也描述了当代“游牧”者的独特体验和精神世界",
+          "title": "米琴专栏｜“游牧”族的别样人生",
+          "url": "https://culture.caixin.com/2021-05-21/101715965.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101714394",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-18/101714356.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-18/101714356.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-18/101714356.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-18/1621310926357313_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 05月18日 11:47",
+          "section": {
+            "name": "艺术",
+            "url": "https://culture.caixin.com/art/index.html"
+          },
+          "summary": "判断经典艺术品的真伪，有很多线索可供查证，从材料、工具，到有无人工做旧的痕迹，还要检索历代收藏和转让记录，也就是要做到流传有序",
+          "title": "李大卫专栏｜真的，假的，可重复的",
+          "url": "https://culture.caixin.com/2021-05-18/101714356.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101715261",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-15/101713162.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-15/101713162.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-15/101713162.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-15/1621049146236365_145_97.jpg",
+          "meta_text": "文｜小庄 05月15日 08:04",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "1854年冬，当南丁格尔从慈善医院赶到军营，发现士兵因营养不良、卫生奇差、空气陈腐及过度劳累而大批死去时，她会第一时间拿起统计学和统计图形学武器",
+          "title": "科学｜统计学家南丁格尔",
+          "url": "https://weekly.caixin.com/2021-05-15/101713162.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101714759",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-15/101713159.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-15/101713159.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-15/101713159.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-15/1621049713088835_145_97.jpg",
+          "meta_text": "文｜王芫 05月15日 08:00",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "我儿子会迅速赔掉，就在于他没有攥住。他毕竟只是个高二学生，买了几只股票，就相当于买了一个电子游戏，不可能忍住不玩",
+          "title": "专栏｜认知范围外的钱",
+          "url": "https://weekly.caixin.com/2021-05-15/101713159.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101714180",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-15/101713156.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-15/101713156.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-15/101713156.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-15/1621050179643066_145_97.jpg",
+          "meta_text": "文｜杨葵 05月15日 07:54",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "韦伯的四大预言今天一一变为现实，接下来的问题是，如何看待这件事。抵触没有任何意义，感叹今不如昔更是庸人之举",
+          "title": "专栏｜百年预言成真",
+          "url": "https://weekly.caixin.com/2021-05-15/101713156.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101713555",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-15/101713150.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-15/101713150.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-15/101713150.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-15/1621048390701547_145_97.jpg",
+          "meta_text": "文｜赵姗妮 05月15日 07:48",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "在达坂顶端见到自由的风和雪，在傍晚的炉火旁看到孩子与牛羊游戏，在昆仑群山的映衬下感受生命的坚韧与坦然",
+          "title": "随笔｜春起帕米尔",
+          "url": "https://weekly.caixin.com/2021-05-15/101713150.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101712899",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-14/101712899.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-14/101712899.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-14/101712899.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-14/1620984126587224_145_97.jpg",
+          "meta_text": "文｜张冬 05月14日 17:10",
+          "section": {
+            "name": "艺术",
+            "url": "https://culture.caixin.com/art/index.html"
+          },
+          "summary": "王西麟献给鲁迅的《第五交响乐》将在汉堡易北音乐厅演出，以此纪念鲁迅诞辰140周年，恰逢其时",
+          "title": "汉堡音乐厅室内乐团首演中国作品 向全球实况播放",
+          "url": "https://culture.caixin.com/2021-05-14/101712899.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101708995",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-10/101708995.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-10/101708995.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-10/101708995.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-10/1620630588380882_145_97.jpg",
+          "meta_text": "文|徐波 05月10日 15:01",
+          "section": {
+            "name": "评论",
+            "url": "https://culture.caixin.com/wh_philosophy/index.html"
+          },
+          "summary": "拿破仑与中国存在着一定的联系，特别是他在200年前对永恒中国回归世界中心的预言，对法国、欧洲和西方社会客观冷静看待中国的和平崛起有所帮助",
+          "title": "200年前的拿破仑与我们的远和近",
+          "url": "https://culture.caixin.com/2021-05-10/101708995.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "comment_tid": "101708743",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-10/101708742.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-10/101708742.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-10/101708742.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-10/1620616784302990_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 05月10日 11:08",
+          "section": {
+            "name": "文学",
+            "url": "https://culture.caixin.com/novel/index.html"
+          },
+          "summary": "这部新剧很适合为广大爱好者提供艺术史入门知识。达芬奇一生沉浮荣辱，加上欧洲动荡多彩的背景，无需添加佐料，已经充满戏剧性",
+          "title": "李大卫专栏｜电视剧里的达芬奇",
+          "url": "https://culture.caixin.com/2021-05-10/101708742.html"
+        }
+      ],
+      "key": "culture.tab-all",
+      "lane": "main",
+      "name": "全部",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101708033",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-08/101708032.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-08/101708032.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-08/101708032.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-08/1620466164350236_145_97.jpg",
+          "meta_text": "文｜王竞 05月08日 09:01",
+          "summary": "被伊沙选中接着又被马丁译成德语的诗，还要有那么点态度，要么卸掉一切自觉不自觉的伪装，要么敢嘲讽及怀疑",
+          "title": "专栏｜中国诗里的柏林气味",
+          "url": "https://weekly.caixin.com/2021-05-08/101708032.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101708025",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-08/101708024.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-08/101708024.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-08/101708024.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-08/1620445285056886_145_97.jpg",
+          "meta_text": "文｜维舟 05月08日 08:55",
+          "summary": "正是他们捕捉到系统运动中产生的种种应激反应，如果仅仅让他们自行消化那些负能量，那最终我们其实浪费了一次次改进的机会",
+          "title": "专栏｜情绪劳动者",
+          "url": "https://weekly.caixin.com/2021-05-08/101708024.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101704814",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-01/101704793.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-01/101704793.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-01/101704793.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-01/1619857584473456_145_97.jpg",
+          "meta_text": "文｜张斌 05月01日 08:54",
+          "summary": "当苏联国歌奏响之时，维拉低垂着头，凝视着右下方，所有人都能从她的身体姿态读出不屈与抗争，这不仅仅是为了逝去的金牌",
+          "title": "专栏｜领奖台上",
+          "url": "https://weekly.caixin.com/2021-05-01/101704793.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101704283",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-04-30/101704281.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-04-30/101704281.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-04-30/101704281.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-30/1619759842749849_145_97.jpg",
+          "meta_text": "文 | 朱小棣 04月30日 12:55",
+          "summary": "当年的罗斯•特里尔，的确是从澳洲灌木丛林来到天安门广场的唯一西方人士，而如今他的《毛泽东传》已经在中国畅销100万册",
+          "title": "朱小棣专栏｜他从澳洲灌木丛林来到天安门广场",
+          "url": "https://culture.caixin.com/2021-04-30/101704281.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101699096",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-04-26/101699095.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-04-26/101699095.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-04-26/101699095.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-26/1619406115261363_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 04月26日 10:48",
+          "summary": "无论如何，当下美国相当一部分人，已经开始在心理上预习下一次“珍珠港时刻”。但愿墨菲定律在这件事上失灵",
+          "title": "李大卫专栏｜可能的冲突：脚本之一种",
+          "url": "https://culture.caixin.com/2021-04-26/101699095.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101693015",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-04-19/101693013.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-04-19/101693013.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-04-19/101693013.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-19/1618804020331823_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 04月19日 11:41",
+          "summary": "这些年来，关于博物馆的图画小说渐成风潮，包括艺术品大盗故事。然而，真实发生的艺术品窃案，极少会像故事里那么戏剧化",
+          "title": "李大卫专栏｜当代博物馆飞贼传奇",
+          "url": "https://culture.caixin.com/2021-04-19/101693013.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101692739",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-04-17/101692569.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-04-17/101692569.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-04-17/101692569.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-17/1618632390000820_145_97.jpg",
+          "meta_text": "文｜罗新 04月17日 09:53",
+          "summary": "许多朝代都有类似机构，如唐有典牧署，宋有乳酪院。“食肉饮酪”绝非游牧人的专利，中原上层社会亦沉湎其中",
+          "title": "专栏｜只有游牧人食肉饮酪吗",
+          "url": "https://weekly.caixin.com/2021-04-17/101692569.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101692740",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-04-17/101692568.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-04-17/101692568.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-04-17/101692568.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-17/1618631010711065_145_97.jpg",
+          "meta_text": "文｜于永超 04月17日 09:51",
+          "summary": "婚外出轨馈赠情人，既以钱财偿付着情债，又以钱财伤害着亲情。一个债务，两厢债主；一个行为，双重伤害",
+          "title": "专栏｜情人馈赠",
+          "url": "https://weekly.caixin.com/2021-04-17/101692568.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101689927",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-04-12/101689733.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-04-12/101689733.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-04-12/101689733.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-12/1618209521844131_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 04月12日 14:28",
+          "summary": "贝宁铜雕一旦交还，将会对德国乃至西方很多其他博物馆产生巨大影响",
+          "title": "李大卫专栏丨展示和归还",
+          "url": "https://culture.caixin.com/2021-04-12/101689733.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101688561",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-04-10/101688381.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-04-10/101688381.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-04-10/101688381.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2019-08-31/1567261011923152_145_97.jpg",
+          "meta_text": "文｜王芫 04月10日 09:17",
+          "summary": "以前听到贬低作家的言论，我总不服气，现在发现确实文学最好混。有时间可以写篇高质量的文章，没时间胡乱拽几句，至少也能得个B",
+          "title": "专栏｜人到中年读本科",
+          "url": "https://weekly.caixin.com/2021-04-10/101688381.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101688560",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-04-10/101688380.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-04-10/101688380.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-04-10/101688380.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-10/1618028341413192_145_97.jpg",
+          "meta_text": "文｜维舟 04月10日 09:13",
+          "summary": "匆匆修建的无障碍设施，既未真正考虑使用者的便利，验收者也不懂，反倒导致了许多不规范，乃至有潜在危险",
+          "title": "专栏｜无障碍别变“无障害”",
+          "url": "https://weekly.caixin.com/2021-04-10/101688380.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101685691",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-04-03/101685555.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-04-03/101685555.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-04-03/101685555.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-03/1617432267681035_145_97.jpg",
+          "meta_text": "文｜王竞 04月03日 09:59",
+          "summary": "8000多万人口的德国民众里，如今只剩下4万名裸协会员，且以老者为主，年轻人对这份自由毫无兴趣",
+          "title": "专栏｜这天体不是那天体",
+          "url": "https://weekly.caixin.com/2021-04-03/101685555.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101685690",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-04-03/101685554.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-04-03/101685554.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-04-03/101685554.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-12-06/1607226992441178_145_97.jpg",
+          "meta_text": "文｜杨葵 04月03日 09:58",
+          "summary": "所谓大音希声，五色令人盲，人的能耐如此之大，选择如此之多，反而越来越喜欢躲进小楼成一统，忙着锱铢必较去了",
+          "title": "专栏｜树木与森林",
+          "url": "https://weekly.caixin.com/2021-04-03/101685554.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101684557",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-04-01/101684557.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-04-01/101684557.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-04-01/101684557.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-01/1617258989227164_145_97.jpg",
+          "meta_text": "文|张维迎 04月01日 14:28",
+          "summary": "文文文文文，文文文，文文文，文文文，文文文，文文文文文文文文。文文文文文，文文文文文文文文文、文文、文文文文、文文文文、文文文文、文文文，文文文文文文文文。文文文文文文文文文“文文文文文文文”",
+          "title": "张维迎：非典型官员王六和他的陕北民谚研究",
+          "url": "https://culture.caixin.com/2021-04-01/101684557.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101681527",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-03-27/101681345.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-03-27/101681345.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-03-27/101681345.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-03-27/1616816493389680_145_97.jpg",
+          "meta_text": "文｜冯翔 03月27日 09:30",
+          "summary": "一代代先人都走了自己的路，既为了追求个人志趣，也为了自食其力。有些时候，这两者互为保证。我相信，我从他们身上至少继承了这一点",
+          "title": "随笔｜一个东北家族的百年小史",
+          "url": "https://weekly.caixin.com/2021-03-27/101681345.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101681528",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-03-27/101681344.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-03-27/101681344.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-03-27/101681344.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-03-27/1616843121678950_145_97.jpg",
+          "meta_text": "文｜张斌 03月27日 09:28",
+          "summary": "米丽雅特的雕像被请进法国奥委会总部，距其不远处便是顾拜旦的雕像。这个场景一定会被世人视为现实、有趣、有美感和适宜的",
+          "title": "专栏｜只为女子举办的奥运会",
+          "url": "https://weekly.caixin.com/2021-03-27/101681344.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101681529",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-03-27/101681343.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-03-27/101681343.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-03-27/101681343.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-03-27/1616835171118645_145_97.jpg",
+          "meta_text": "文｜刀尔登 03月27日 09:27",
+          "summary": "要是相信依据经验归纳出一点先见之明，可以让我们指着一个人的鼻子说，他一定是那么想的，他一定会那么做的，这种信心的危险，至少在从前和目前，远远超过无知的风险",
+          "title": "乐此不疲｜火与石",
+          "url": "https://weekly.caixin.com/2021-03-27/101681343.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101680708",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-03-26/101680707.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-03-26/101680707.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-03-26/101680707.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-03-26/1616731562511195_145_97.jpg",
+          "meta_text": "文|米琴 03月26日 11:50",
+          "summary": "剧中的推销员把自己未能实现的梦想，在造假包装后，又推销给了儿子",
+          "title": "米琴专栏｜《推销员之死》中的“销售”梦",
+          "url": "https://culture.caixin.com/2021-03-26/101680707.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101678591",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-03-22/101678590.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-03-22/101678590.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-03-22/101678590.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-03-22/1616408481179732_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 03月22日 18:10",
+          "summary": "达格戴尔的政治立场，乃至行动方式，更多地折射出那个动荡时代的精神气质。在她之前，艺术盗窃就像系列凶杀，主谋都是男性。她的出现改写了历史",
+          "title": "李大卫专栏｜一个贵族女强梁的画像",
+          "url": "https://culture.caixin.com/2021-03-22/101678590.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101675250",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-03-15/101675249.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-03-15/101675249.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-03-15/101675249.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-03-15/1615779518591376_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 03月15日 11:32",
+          "summary": "天才的特征之一，就是永远处于纠结当中，不论幸或是不幸",
+          "title": "李大卫专栏｜一个你不知道的艾米莉·狄金森",
+          "url": "https://culture.caixin.com/2021-03-15/101675249.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101674869",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-03-13/101674864.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-03-13/101674864.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-03-13/101674864.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-03-13/1615612947475950_145_97.jpg",
+          "meta_text": "文｜于永超 03月13日 09:34",
+          "summary": "一份净身出户的承诺就能让过错方裸奔？且不说婚外情取证之难，即便实锤铁证，一纸承诺也难以“斩立决”",
+          "title": "专栏｜忠诚协议难保净身出户",
+          "url": "https://weekly.caixin.com/2021-03-13/101674864.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101672068",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-03-06/101672068.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-03-06/101672068.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-03-06/101672068.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-03-07/1615126071561236_145_97.jpg",
+          "meta_text": "文|张维迎 03月06日 22:54",
+          "summary": "东征训人、骂人，但东征不冤枉人，那些被他骂的人，都是做了该骂的事。东征也不记仇，骂了，过后也就忘了",
+          "title": "张维迎：东征还是村主任",
+          "url": "https://culture.caixin.com/2021-03-06/101672068.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101672038",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-03-05/101672038.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-03-05/101672038.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-03-05/101672038.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-03-07/1615093949183458_145_97.jpg",
+          "meta_text": "文|张维迎 03月05日 17:38",
+          "summary": "我最近一直在想：东征究竟是个什么样的人？想来想去，他就是辛庄村的特朗普！",
+          "title": "张维迎：村主任霍东征",
+          "url": "https://culture.caixin.com/2021-03-05/101672038.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101668221",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-02-27/101668043.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-02-27/101668043.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-02-27/101668043.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2017-11-15/1510744289043531_145_97.jpg",
+          "meta_text": "文｜张斌 02月27日 09:44",
+          "summary": "纷纷扬扬数月，易帜更名，所谓职业化进化历程中的必然举措，至今尚无法让各方心平气和接受",
+          "title": "专栏｜名字无小事",
+          "url": "https://weekly.caixin.com/2021-02-27/101668043.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101668220",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-02-27/101668042.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-02-27/101668042.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-02-27/101668042.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://image1.caixin.com/2021-02-16/1613474231053641_145_97.jpg",
+          "meta_text": "文｜杨葵 02月27日 09:42",
+          "summary": "别老以为自己是个多么先进的现代人，千丝万缕的旧礼教、旧文化的影响力比我们想象得要大很多，没那么容易摆脱",
+          "title": "专栏｜乡愁与籍贯",
+          "url": "https://weekly.caixin.com/2021-02-27/101668042.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101665165",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-02-20/101664976.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-02-20/101664976.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-02-20/101664976.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-02-20/1613790058386648_145_97.jpg",
+          "meta_text": "文｜王竞 02月20日 09:07",
+          "summary": "在军营旁，在大门外，立着一盏路灯，我们想要再见面，相拥相抱路灯旁，跟你莉莉玛莲，跟你莉莉玛莲",
+          "title": "专栏｜莉莉玛莲",
+          "url": "https://weekly.caixin.com/2021-02-20/101664976.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101665166",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-02-20/101664974.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-02-20/101664974.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-02-20/101664974.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-02-20/1613790263951429_145_97.jpg",
+          "meta_text": "文｜罗新 02月20日 09:05",
+          "summary": "历史上在长白山巅见到天池的人不会少。对长白山进行具有近代科学意义的实地考察，一般认为最早来自光绪十二年的三个英国人",
+          "title": "专栏｜清代的长白山考察",
+          "url": "https://weekly.caixin.com/2021-02-20/101664974.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101664710",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-02-19/101664710.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-02-19/101664710.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-02-19/101664710.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-02-19/1613724162968540_145_97.jpg",
+          "meta_text": "文|杨旺 02月19日 16:18",
+          "summary": "作为一个现代人，我们面对电竞要有两种勇气：第一是有勇气面对现实，第二是有勇气兴利除弊",
+          "title": "体坛｜电子竞技VS体育：拥抱还是劝退",
+          "url": "https://culture.caixin.com/2021-02-19/101664710.html"
+        }
+      ],
+      "key": "culture.tab-column",
+      "lane": "main",
+      "more_url": "https://culture.caixin.com/zhuanlan/",
+      "name": "专栏",
+      "order": 1,
+      "state": "hidden"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101723711",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-06-07/101723708.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-06-07/101723708.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-06-07/101723708.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-06-07/1623026590702478_145_97.jpg",
+          "meta_text": "文｜专栏作家 阎阳生 06月07日 08:38",
+          "summary": "后代无法理解，一篇作文怎么能传抄成了社会的焦点。那是文化荒漠渴望解冻的时代",
+          "title": "阎阳生：1977年我的高考作文一文成名",
+          "url": "https://culture.caixin.com/2021-06-07/101723708.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101723682",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-06-05/101723682.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-06-05/101723682.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-06-05/101723682.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-06-05/1622859571547865_145_97.jpg",
+          "meta_text": "文丨顾晓阳 06月05日 08:58",
+          "summary": "谁都不知道自己的命运，那是掌握在上帝手中的秘密，也许正因如此，我们才会从每一天寻求生活的意义",
+          "title": "随笔｜好人石田",
+          "url": "https://culture.caixin.com/2021-06-05/101723682.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101722723",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-06-04/101722722.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-06-04/101722722.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-06-04/101722722.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-06-04/1622778362524227_145_97.jpg",
+          "meta_text": "文｜米琴 06月04日 11:34",
+          "summary": "母亲刚去世，丈夫就对她大发雷霆了……",
+          "title": "米琴专栏｜爱，是不能过头儿的",
+          "url": "https://culture.caixin.com/2021-06-04/101722722.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101721147",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-06-01/101721143.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-06-01/101721143.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-06-01/101721143.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-06-01/1622533695302553_145_97.jpg",
+          "meta_text": "文｜朱小棣 06月01日 15:35",
+          "summary": "冯唐的小说好不好另当别论，但是创作小说的热情实践，无疑为他的散文增添了真知灼见",
+          "title": "朱小棣专栏｜冯唐月色 话糙理精",
+          "url": "https://culture.caixin.com/2021-06-01/101721143.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101720526",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-31/101720525.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-31/101720525.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-31/101720525.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-31/1622443939769632_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 05月31日 14:41",
+          "summary": "早年遭遇过的性侵，在很多后人的意识当中造成有关她的刻板印象。她因此受害，也因此留名史册。然而她的生平事迹，远比这些丰富得多",
+          "title": "李大卫专栏｜她用画笔复仇",
+          "url": "https://culture.caixin.com/2021-05-31/101720525.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101721493",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-29/101719879.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-29/101719879.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-29/101719879.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-29/1622262839802084_145_97.jpg",
+          "meta_text": "文｜王竞 05月29日 08:49",
+          "summary": "在欧洲历史上，粉红色向来是男孩和少年的颜色，圣母玛利亚蓝才属于女孩和少女",
+          "title": "专栏｜被掉包的蓝与粉",
+          "url": "https://weekly.caixin.com/2021-05-29/101719879.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101720818",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-29/101719875.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-29/101719875.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-29/101719875.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-04/1620088144650066_145_97.jpg",
+          "meta_text": "文｜于永超 05月29日 08:45",
+          "summary": "作为世界富豪，他们居然连一份婚姻财产协议都没有，还高调聘请豪华律师团上法庭分财产，结束27年的婚姻，将是一场怎样的财富洗牌？",
+          "title": "专栏｜盖茨离了",
+          "url": "https://weekly.caixin.com/2021-05-29/101719875.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101719461",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-28/101719461.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-28/101719461.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-28/101719461.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-05-24/1590282720405211_145_97.jpg",
+          "meta_text": "文｜赵景宜 05月28日 16:33",
+          "summary": "在死亡医学教育上，国内几乎是空白的，急需弥补。“不弥补的话，我们都要在冰冷的医疗环境中走完自己的一生。”",
+          "title": "临终病房里的生死课",
+          "url": "https://culture.caixin.com/2021-05-28/101719461.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101719314",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-28/101719314.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-28/101719314.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-28/101719314.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-28/1622177281791682_145_97.jpg",
+          "meta_text": "文｜丁建峰 05月28日 12:42",
+          "summary": "“文文”文文“文文”文文文文文，文文文文文文“文文文文文”，文文文文文文文文文；文文，文文文文文文文文文文文文文文文文文文文文文。文文文文文文文文文文文，文文文文",
+          "title": "何兆武回顾求学历程：“独立之精神”的由来",
+          "url": "https://culture.caixin.com/2021-05-28/101719314.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101717576",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-25/101717575.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-25/101717575.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-25/101717575.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-25/1621914349898191_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 05月25日 11:38",
+          "summary": "当红作家马尔科姆·格拉德威尔的新书《轰炸机帮会》，主题是美国空中作战思想史上具有决定性的一页。重温其中的某些战术思想，在当前以巴冲突的背景下，颇有启发",
+          "title": "李大卫专栏｜《轰炸机帮会》：狂轰乱炸到斩首行动",
+          "url": "https://culture.caixin.com/2021-05-25/101717575.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101717960",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-22/101716609.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-22/101716609.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-22/101716609.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-22/1621661278728452_145_97.jpg",
+          "meta_text": "文｜刀尔登 05月22日 08:55",
+          "summary": "汉人说：“为书之体，须入其形，若坐若行，若飞若动。”跳舞不也是这样吗？老徐学跳舞，便以在写字中得到的体会去融通",
+          "title": "乐此不疲｜广场晨昏",
+          "url": "https://weekly.caixin.com/2021-05-22/101716609.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101717464",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-22/101716608.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-22/101716608.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-22/101716608.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-22/1621661004647158_145_97.jpg",
+          "meta_text": "文｜罗新 05月22日 08:51",
+          "summary": "依照中国传统的道德观，成人食用人乳是应该批判的。这是正统价值观的作用，因而史料中食人乳的案例并不多，且都是旁人的观察",
+          "title": "专栏｜张苍的养生术",
+          "url": "https://weekly.caixin.com/2021-05-22/101716608.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101717011",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-22/101716606.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-22/101716606.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-22/101716606.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-22/1621657317699668_145_97.jpg",
+          "meta_text": "文｜刘宗坤 05月22日 08:47",
+          "summary": "父女两代人的悲欢离合让人体会到南方的温情和暧昧、偏见和无奈、责任感和依赖感、不易破解的生活密码、难以言传的潜规则、当代人已经陌生的忠诚，以及历史的冷酷印记",
+          "title": "随笔｜暧昧的南方：秘密往来60年",
+          "url": "https://weekly.caixin.com/2021-05-22/101716606.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101715966",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-21/101715965.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-21/101715965.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-21/101715965.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-21/1621570396995947_145_97.jpg",
+          "meta_text": "文｜米琴 05月21日 11:00",
+          "summary": "作者揭开了经济黑暗一角，也描述了当代“游牧”者的独特体验和精神世界",
+          "title": "米琴专栏｜“游牧”族的别样人生",
+          "url": "https://culture.caixin.com/2021-05-21/101715965.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101715261",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-15/101713162.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-15/101713162.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-15/101713162.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-15/1621049146236365_145_97.jpg",
+          "meta_text": "文｜小庄 05月15日 08:04",
+          "summary": "1854年冬，当南丁格尔从慈善医院赶到军营，发现士兵因营养不良、卫生奇差、空气陈腐及过度劳累而大批死去时，她会第一时间拿起统计学和统计图形学武器",
+          "title": "科学｜统计学家南丁格尔",
+          "url": "https://weekly.caixin.com/2021-05-15/101713162.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101714759",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-15/101713159.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-15/101713159.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-15/101713159.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-15/1621049713088835_145_97.jpg",
+          "meta_text": "文｜王芫 05月15日 08:00",
+          "summary": "我儿子会迅速赔掉，就在于他没有攥住。他毕竟只是个高二学生，买了几只股票，就相当于买了一个电子游戏，不可能忍住不玩",
+          "title": "专栏｜认知范围外的钱",
+          "url": "https://weekly.caixin.com/2021-05-15/101713159.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101714180",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-15/101713156.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-15/101713156.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-15/101713156.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-15/1621050179643066_145_97.jpg",
+          "meta_text": "文｜杨葵 05月15日 07:54",
+          "summary": "韦伯的四大预言今天一一变为现实，接下来的问题是，如何看待这件事。抵触没有任何意义，感叹今不如昔更是庸人之举",
+          "title": "专栏｜百年预言成真",
+          "url": "https://weekly.caixin.com/2021-05-15/101713156.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101713555",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-15/101713150.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-15/101713150.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-15/101713150.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-15/1621048390701547_145_97.jpg",
+          "meta_text": "文｜赵姗妮 05月15日 07:48",
+          "summary": "在达坂顶端见到自由的风和雪，在傍晚的炉火旁看到孩子与牛羊游戏，在昆仑群山的映衬下感受生命的坚韧与坦然",
+          "title": "随笔｜春起帕米尔",
+          "url": "https://weekly.caixin.com/2021-05-15/101713150.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101708743",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-10/101708742.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-10/101708742.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-10/101708742.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-10/1620616784302990_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 05月10日 11:08",
+          "summary": "这部新剧很适合为广大爱好者提供艺术史入门知识。达芬奇一生沉浮荣辱，加上欧洲动荡多彩的背景，无需添加佐料，已经充满戏剧性",
+          "title": "李大卫专栏｜电视剧里的达芬奇",
+          "url": "https://culture.caixin.com/2021-05-10/101708742.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101708016",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-08/101708015.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-08/101708015.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-08/101708015.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-08/1620441934401220_145_97.jpg",
+          "meta_text": "文｜许知远 05月08日 08:48",
+          "summary": "身处陌生环境，危险随时到来，人会有一种恒定的焦灼。一种亲密与慰藉，变得如此诱人。它带来抚慰、暂时的逃离",
+          "title": "随笔｜恋爱中的梁启超",
+          "url": "https://weekly.caixin.com/2021-05-08/101708015.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101707621",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-07/101707620.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-07/101707620.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-07/101707620.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-07/1620358367302389_145_97.jpg",
+          "meta_text": "文｜米琴 05月07日 11:13",
+          "summary": "小说表现了亲情与事业的冲突、人性与革命性的矛盾，而母亲始终把亲情和人性置于更高地位",
+          "title": "米琴专栏｜《母亲》中的母亲泪",
+          "url": "https://culture.caixin.com/2021-05-07/101707620.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101705755",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-06/101705754.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-06/101705754.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-06/101705754.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-06/1620276107818150_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 05月06日 12:35",
+          "summary": "这位有过谍报经历的英国小说家，也是两副不同的人格面孔，很难分清孰真孰伪",
+          "title": "李大卫专栏｜格雷厄姆·格林的两重人生",
+          "url": "https://culture.caixin.com/2021-05-06/101705754.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101704813",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-01/101704786.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-01/101704786.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-01/101704786.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-01/1619854922125459_145_97.jpg",
+          "meta_text": "文｜贾亚男 05月01日 08:47",
+          "summary": "枕在地板上，一夜无眠，昏黄的灯光从铁栏缝隙中透出，耳边蚊群的嗡鸣衬得这个夜晚格外安静。看着墙上斑驳的光影，我用力想我是否真在狱中",
+          "title": "随笔｜加德满都日记",
+          "url": "https://weekly.caixin.com/2021-05-01/101704786.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101698444",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-04-24/101698443.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-04-24/101698443.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-04-24/101698443.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-24/1619245765565816_145_97.jpg",
+          "meta_text": "文｜刀尔登 04月24日 09:02",
+          "summary": "有一个棋迷说，天堂就是可以天天下棋的地方；另一个棋迷说，天堂就是不用天天下棋的地方。他们谁说的对呢？我不知道。我只知道，我在乎输赢",
+          "title": "乐此不疲｜象棋与围棋",
+          "url": "https://weekly.caixin.com/2021-04-24/101698443.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101698445",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-04-24/101698442.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-04-24/101698442.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-04-24/101698442.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-24/1619246193170051_145_97.jpg",
+          "meta_text": "文｜王竞 04月24日 09:00",
+          "summary": "他属于不抱怨的那一代人，一干就是七十年。菲利普亲王度过这样的一生，今天流行的政治正确又能拿他怎么样呢？",
+          "title": "专栏｜世界上最有名的非重要人士",
+          "url": "https://weekly.caixin.com/2021-04-24/101698442.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101698441",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-04-24/101698440.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-04-24/101698440.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-04-24/101698440.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-24/1619246553941632_145_97.jpg",
+          "meta_text": "文｜施展 04月24日 08:58",
+          "summary": "在你与世隔绝的时候，偏见让你坐井观天；但在你与外部世界高度互动的时候，偏见就变成了你背在身上的“井”",
+          "title": "专栏｜人文学科没有用吗",
+          "url": "https://weekly.caixin.com/2021-04-24/101698440.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101698439",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-04-24/101698438.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-04-24/101698438.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-04-24/101698438.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-24/1619237885153269_145_97.jpg",
+          "meta_text": "文｜刘宗坤 04月24日 08:55",
+          "summary": "警察过度使用暴力和结构性歧视在美国由来已久。时至今日，法律和政治上的制度性歧视大多被废除了，但渗透到社会生活方方面面的结构性歧视仍然根深蒂固",
+          "title": "随笔｜弗洛伊德案：难有赢家的审判",
+          "url": "https://weekly.caixin.com/2021-04-24/101698438.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101697960",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-04-23/101697959.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-04-23/101697959.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-04-23/101697959.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-23/1619149958462948_145_97.jpg",
+          "meta_text": "文｜米琴 04月23日 11:48",
+          "summary": "苏斯博士鼓励小朋友挑战大人的权威，并坚持自己应有的权利和自由",
+          "title": "米琴专栏｜苏斯博士童书的政治寓意",
+          "url": "https://culture.caixin.com/2021-04-23/101697959.html"
+        }
+      ],
+      "key": "culture.tab-literature",
+      "lane": "main",
+      "more_url": "https://culture.caixin.com/novel/",
+      "name": "文学",
+      "order": 2,
+      "state": "hidden"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101720279",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-29/101719868.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-29/101719868.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-29/101719868.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-29/1622261784595586_145_97.jpg",
+          "meta_text": "文｜冯翔 05月29日 08:39",
+          "summary": "一个生在北京的朝鲜族男人，帮助了一个素不相识的东北少年，改变了他的口音、命运和思维方式，那么深，那么久",
+          "title": "随笔｜和崔健有关的青春往事",
+          "url": "https://weekly.caixin.com/2021-05-29/101719868.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101718443",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-22/101716616.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-22/101716616.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-22/101716616.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-22/1621661409718113_145_97.jpg",
+          "meta_text": "图、文｜财新周刊 葛永正（实习） 图片编辑｜杜广磊 05月22日 09:07",
+          "summary": "文文文文文文文文文文文文，文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文，文文文文文文文文文文文。文文文文文文、文文文文，文文文文文文。文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文",
+          "title": "显影｜再见，老弄堂",
+          "url": "https://weekly.caixin.com/2021-05-22/101716616.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101714394",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-18/101714356.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-18/101714356.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-18/101714356.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-18/1621310926357313_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 05月18日 11:47",
+          "summary": "判断经典艺术品的真伪，有很多线索可供查证，从材料、工具，到有无人工做旧的痕迹，还要检索历代收藏和转让记录，也就是要做到流传有序",
+          "title": "李大卫专栏｜真的，假的，可重复的",
+          "url": "https://culture.caixin.com/2021-05-18/101714356.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101712899",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-14/101712899.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-14/101712899.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-14/101712899.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-14/1620984126587224_145_97.jpg",
+          "meta_text": "文｜张冬 05月14日 17:10",
+          "summary": "王西麟献给鲁迅的《第五交响乐》将在汉堡易北音乐厅演出，以此纪念鲁迅诞辰140周年，恰逢其时",
+          "title": "汉堡音乐厅室内乐团首演中国作品 向全球实况播放",
+          "url": "https://culture.caixin.com/2021-05-14/101712899.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101655107",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-01-23/101654679.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-01-23/101654679.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-01-23/101654679.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-01-23/1611379528088334_145_97.jpg",
+          "meta_text": "图、文｜财新周刊 丁刚 01月23日 09:45",
+          "summary": "文文文文文文文文文文文文文文文“文文文”，文文文文文，文文文文文文文文文，文文文文文文文文文。文文文文文文文文文文，文文文文文文文，文文文文文文文文文文文文文文文文文，文文文文。文文文文文文文文文、文文文文文文文文文，文文文文文文文文文文文文文文",
+          "title": "显影｜洞庭湖里挖藕人",
+          "url": "https://weekly.caixin.com/2021-01-23/101654679.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101648537",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-01-09/101648537.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-01-09/101648537.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-01-09/101648537.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-01-09/1610160880275171_145_97.jpg",
+          "meta_text": "图｜财新周刊 丁刚 蔡颖莉 文｜财新周刊 丁刚 01月09日 09:17",
+          "summary": "文文文文00文文文文文文文文文，0000文0文0文文文，文文文文-00.0℃，文0000文文文文文文文。文文文文，文文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文",
+          "title": "显影｜极寒动物园",
+          "url": "https://culture.caixin.com/2021-01-09/101648537.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101638000",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-12-10/101637768.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-12-10/101637768.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-12-10/101637768.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-12-10/1607584672883319_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 12月10日 14:59",
+          "summary": "今天成为圈内话题的虚拟在线博物馆的破壁姿态，多少让人想到安德烈·马尔罗的想象博物馆，只是新技术的出现，让它有了实现的可能",
+          "title": "李大卫专栏|无非都是像素",
+          "url": "https://culture.caixin.com/2020-12-10/101637768.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101633538",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-11-28/101633538.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-11-28/101633538.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-11-28/101633538.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-11-28/1606533665255672_145_97.jpg",
+          "meta_text": "文｜王竞 11月28日 08:44",
+          "summary": "《文文·文文文文00文文》文文文文文文文：“00文文文文文文文00文文文文文文文文。”文文文文，文文文文，文文文文文文文文文文文文文文文文文文文文文，文文，文文文",
+          "title": "随笔｜汉娜·阿伦特：有温度的世纪化身",
+          "url": "https://culture.caixin.com/2020-11-28/101633538.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101627793",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-11-14/101627793.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-11-14/101627793.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-11-14/101627793.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-11-14/1605326846656850_145_97.jpg",
+          "meta_text": "文｜赵越胜 11月14日 08:51",
+          "summary": "“文文文文文文文，文文文文文文文文文文，文文文文文文文文文文。文文文文文文文文文文文，文文文文文文文文文，文文文文文文文文文文文文文文文。”文文文文文文文文文文，文文文文文文文文文文文文",
+          "title": "随笔｜声响诗人徐亚英",
+          "url": "https://culture.caixin.com/2020-11-14/101627793.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101624534",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-11-08/101624534.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-11-08/101624534.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-11-08/101624534.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-11-08/1604848255735558_145_97.jpg",
+          "meta_text": "记者 胡越 11月08日 23:01",
+          "summary": "30年中国证券市场风云浓缩于话剧舞台，谁是大赢家？",
+          "title": "话剧《大赢家》将开演 纪念中国资本市场30周年",
+          "url": "https://culture.caixin.com/2020-11-08/101624534.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101601680",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-09-05/101601680.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-09-05/101601680.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-09-05/101601680.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-09-05/1599272400072473_145_97.jpg",
+          "meta_text": "文｜徐征 09月05日 09:05",
+          "summary": "和《汉密尔顿》最春风得意的时候相比，世界早已是另一番模样。好在我们还有讲故事的人。历史停在一瞬，只有讲述、文字、艺术，承载着无数个瞬间继续流淌",
+          "title": "艺术｜《汉密尔顿》：国父在街头",
+          "url": "https://culture.caixin.com/2020-09-05/101601680.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101587691",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2020-08-01/101587484.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2020-08-01/101587484.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2020-08-01/101587484.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-08-01/1596264739150997_145_97.jpg",
+          "meta_text": "文｜傅肃 08月01日 09:34",
+          "summary": "汤姆•汉克斯的历史观混合着理想主义和现实主义。明星、媒体人可以比政客、知识分子对社会施加更为巨大的影响",
+          "title": "艺术｜好莱坞重新发现历史",
+          "url": "https://weekly.caixin.com/2020-08-01/101587484.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101584514",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2020-07-25/101584513.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2020-07-25/101584513.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2020-07-25/101584513.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-07-25/1595647064005652_145_97.jpg",
+          "meta_text": "文｜朱桂英 07月25日 09:37",
+          "summary": "她在人群前抱着吉他独自弹唱的样子，凝结为一个固定的意象，被无数人认定是理想主义散发不朽荣光的明证",
+          "title": "艺术｜琼·贝兹：在时代灰烬中燃灯点火",
+          "url": "https://weekly.caixin.com/2020-07-25/101584513.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101581561",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2020-07-18/101581560.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2020-07-18/101581560.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2020-07-18/101581560.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-07-18/1595042170277137_145_97.jpg",
+          "meta_text": "文｜陈冠中 07月18日 09:18",
+          "summary": "文文文文文文文文文文文文文文文文文，文文文文文文文文文，文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文，文文文文文。文文，文文文文文文文文文文文文文文文文",
+          "title": "艺术｜我的文艺时代",
+          "url": "https://weekly.caixin.com/2020-07-18/101581560.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101563899",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2020-06-06/101563890.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2020-06-06/101563890.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2020-06-06/101563890.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-06-06/1591412285937561_145_97.jpg",
+          "meta_text": "文｜钱浩 06月06日 09:42",
+          "summary": "文文文文文文文文文文文文文文文文文文文文文文，文文文文文文文，文文文文文文文文文文文文文文文，文文文文、文文、文文文文文文文文文文文文文文文文文、文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文文文",
+          "title": "艺术｜贝多芬何以成圣？",
+          "url": "https://weekly.caixin.com/2020-06-06/101563890.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101554792",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2020-05-16/101554791.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2020-05-16/101554791.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2020-05-16/101554791.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-05-16/1589599408768078_145_97.jpg",
+          "meta_text": "文｜王竞 05月16日 09:27",
+          "summary": "我们真的活在历史性的至暗时刻吗？埃贡·西勒经历的灾难难道不比我们的境况更混乱更绝望？",
+          "title": "艺术｜埃贡·西勒：“战争结束了，我也要走了”",
+          "url": "https://weekly.caixin.com/2020-05-16/101554791.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101552417",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2020-05-09/101551890.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2020-05-09/101551890.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2020-05-09/101551890.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-05-09/1588995254768158_145_97.jpg",
+          "meta_text": "图、文｜财新周刊 陈亮 05月09日 09:43",
+          "summary": "文文文文文文文文，文文文文文文文文文文文文0.0文文“文文文”文文，文文文文文文、文文文文文，文文文文文文文文文，文文文文文文文文文。文文文文文文文文文文文文，文“文文”文文文文文文文文文文文。文文文文，文文文文文文文，文文文文文文文文文文文文文文",
+          "title": "显影｜小人国的黄金周",
+          "url": "https://weekly.caixin.com/2020-05-09/101551890.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101535643",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-03-30/101535643.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-03-30/101535643.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-03-30/101535643.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-03-29/1585452340695140_145_97.jpg",
+          "meta_text": "文丨顾月华 03月30日 07:03",
+          "summary": "3月27日的日历终于翻过去了一页。这一天，纽约还在，但没有蓝蓝的纽约日记了",
+          "title": "远行的蓝蓝",
+          "url": "https://culture.caixin.com/2020-03-30/101535643.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101516595",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-02-15/101516595.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-02-15/101516595.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-02-15/101516595.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-02-15/1581747597419162_145_97.jpg",
+          "meta_text": "文｜伯樵 02月15日 09:40",
+          "summary": "文文文文文文文文文文，文文文文文文文文文文，文文文文文文文文文文，文文文文文文文文文文文文文文文文——文文，文文文文文。文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文、文文文文文文文",
+          "title": "艺术｜奥斯卡：变了天地还是换了人间",
+          "url": "https://culture.caixin.com/2020-02-15/101516595.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101503253",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2020-01-11/101503102.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2020-01-11/101503102.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2020-01-11/101503102.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-01-11/1578723800055042_145_97.jpg",
+          "meta_text": "图丨财新周刊 郭现中 蔡颖莉 陈亮 丁刚 梁莹菲 张浩 杜广磊 ，王伟哲（实习） 文丨财新周刊 杜广磊 01月11日 09:09",
+          "summary": "文文文文，文文文文文文文文文文文文文，“文文”文文文文文文文文文文文“文文”。文文文文文文文，文文文文文文文文文文文，文文文文文文文文文文、文文、文文文文文。文文文文，文文文文文文",
+          "title": "显影｜低头族手握的不是手机，而是整个世界",
+          "url": "https://weekly.caixin.com/2020-01-11/101503102.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101500958",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2020-01-03/101500957.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2020-01-03/101500957.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2020-01-03/101500957.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-01-04/1578104480533746_145_97.jpg",
+          "meta_text": "文｜小庄 01月03日 23:55",
+          "summary": "尽管和牛顿吵了一辈子的罗伯特·胡克才是用显微镜进行科学观察的第一人，但真正用显微镜观察到微生物活体的人，却是非科班出身的列文虎克",
+          "title": "科学｜列文虎克显微镜下的世界",
+          "url": "https://weekly.caixin.com/2020-01-03/101500957.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101489202",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2019-11-30/101489119.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2019-11-30/101489119.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2019-11-30/101489119.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2019-11-30/1575088276447585_145_97.jpg",
+          "meta_text": "文｜小庄 11月30日 10:34",
+          "summary": "波洛克的画作绝不是材料流变性导致的随机结果，而是在精密控制下的严格操作。正是波洛克使用工具的独特技法，才导致了那些图像独一无二的特征",
+          "title": "科学｜波洛克的绘画物理实验",
+          "url": "https://weekly.caixin.com/2019-11-30/101489119.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101484175",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2019-11-16/101484050.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2019-11-16/101484050.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2019-11-16/101484050.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2019-11-16/1573879006701179_145_97.jpg",
+          "meta_text": "文｜霜子 11月16日 08:58",
+          "summary": "每个人都面临着存在之忧：我们是谁？土耳其的锡兰、哥伦比亚的马尔克斯、俄罗斯的陀思妥耶夫斯基都是描绘这种忧伤的大师，因为它是人类共同的境遇",
+          "title": "艺术｜锡兰的呼愁",
+          "url": "https://weekly.caixin.com/2019-11-16/101484050.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101478137",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2019-11-02/101478136.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2019-11-02/101478136.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2019-11-02/101478136.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2019-11-02/1572663850754346_145_97.jpg",
+          "meta_text": "文｜小庄 11月02日 09:13",
+          "summary": "全世界女性的职业化之路发生了历史性变化，但不同性别无法同工同酬的问题依然在很多领域存在，甚至高学历都无法对此略有改观",
+          "title": "女天文学家的加薪之路",
+          "url": "https://weekly.caixin.com/2019-11-02/101478136.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101457364",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2019-08-31/101457210.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2019-08-31/101457210.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2019-08-31/101457210.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2019-08-31/1567226825593462_145_97.jpg",
+          "meta_text": "文｜伯樵 08月31日 08:46",
+          "summary": "音乐是萨尔茨堡的门面，在一些时候也偶然成为它的内在。它不仅是奥地利文化人希冀开拓艺术视野的试验场，也是纳粹野心家们神化德意志文化的舞台",
+          "title": "艺术｜萨尔茨堡的夏天",
+          "url": "https://weekly.caixin.com/2019-08-31/101457210.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101454535",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2019-08-24/101454534.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2019-08-24/101454534.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2019-08-24/101454534.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2019-08-24/1566611560085927_145_97.jpg",
+          "meta_text": "文｜小庄 08月24日 08:06",
+          "summary": "一百多年后的科学发现可能会让谢弗勒尔吃惊：人对于颜色的感知会受到大脑错觉的干扰，事实上，我们所看到的颜色本身就是一种错觉",
+          "title": "科学｜灰色是不敢说，蓝色是犹豫",
+          "url": "https://weekly.caixin.com/2019-08-24/101454534.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101444410",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2019-07-27/101444409.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2019-07-27/101444409.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2019-07-27/101444409.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2019-07-27/1564197207106963_145_97.jpg",
+          "meta_text": "文｜小庄 07月27日 07:24",
+          "summary": "对歌德来说，霍华德分类的伟大之处在于，它解释了云形成的物质力量，同时又兼容诗歌的非物质力量",
+          "title": "科学｜以云的名字呼唤天空",
+          "url": "https://weekly.caixin.com/2019-07-27/101444409.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101442068",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2019-07-20/101442068.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2019-07-20/101442068.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2019-07-20/101442068.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2019-07-20/1563597191755062_145_97.jpg",
+          "meta_text": "文｜云也退 07月20日 09:35",
+          "summary": "他既是脸色铁青的贝克特，隐匿起所有个人信息，只让人在其戏剧面前感受逼视的目光；也是身披东欧羽翼的犹太人，深知人生真实的味道既非苦也非甜，而是刚想笑却流出泪的酸涩",
+          "title": "艺术｜只有一只眼含泪时，另一只眼才能含笑",
+          "url": "https://culture.caixin.com/2019-07-20/101442068.html"
+        }
+      ],
+      "key": "culture.tab-art",
+      "lane": "main",
+      "more_url": "https://culture.caixin.com/art/",
+      "name": "艺术",
+      "order": 3,
+      "state": "hidden"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101722030",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-29/101719886.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-29/101719886.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-29/101719886.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2017-01-20/1484903290556265_145_97.jpg",
+          "meta_text": "文｜沈大园 05月29日 08:57",
+          "summary": "读到更多国家的故事，才知道没那么多理所应当和冥冥之中。日盛一日，是努力和时运挣来的，而如果未能虔心守护，成就的消散远比积聚容易",
+          "title": "荐书｜拉丁美洲在那里",
+          "url": "https://weekly.caixin.com/2021-05-29/101719886.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101708046",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-08/101708045.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-08/101708045.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-08/101708045.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-08/1620467365429131_145_97.jpg",
+          "meta_text": "文｜孔考拉 05月08日 09:18",
+          "summary": "有意思的是，当她写作时用“妈妈”一词代替“母亲”，很多日常生动的情节自动涌来。然而，我们都在不自觉地遗忘藏在称呼背后的那个女人",
+          "title": "阅读｜别以为她天生就是妈妈",
+          "url": "https://weekly.caixin.com/2021-05-08/101708045.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101704817",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-01/101704801.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-01/101704801.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-01/101704801.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-01/1619853963753581_145_97.jpg",
+          "meta_text": "文｜财新周刊 李佳钰 05月01日 08:58",
+          "summary": "地理空间的变换是个特别有益的刺激，就好像有时只有身在异地才能了然自己对故乡的情义，有时则需借助他者的视角才愿重新审视脚下的土地",
+          "title": "荐书｜走出去，记下来",
+          "url": "https://weekly.caixin.com/2021-05-01/101704801.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101688559",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-04-10/101688378.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-04-10/101688378.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-04-10/101688378.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2018-04-20/1524206910534658_145_97.jpg",
+          "meta_text": "文｜沈大园 04月10日 09:10",
+          "summary": "真实对应法治，不得弄虚作假是底线，底线问题是法律问题；讲求叙事技巧暗含的是平等，作者与读者平等，才需要仰仗技巧",
+          "title": "荐书｜非虚构繁荣可期",
+          "url": "https://weekly.caixin.com/2021-04-10/101688378.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101685692",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-04-03/101685556.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-04-03/101685556.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-04-03/101685556.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-03/1617433021928687_145_97.jpg",
+          "meta_text": "文｜萧瀚 04月03日 10:01",
+          "summary": "《西游记》写到女妖们的悲惨结局时常显露出内心的不忍，并时常让唐僧来表达。这股超越伦理的坚定温情在古代中国文学史上并不常见",
+          "title": "阅读｜是神是魔，是仙是妖",
+          "url": "https://weekly.caixin.com/2021-04-03/101685556.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101674866",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-03-13/101674865.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-03-13/101674865.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-03-13/101674865.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-03-13/1615612962922228_145_97.jpg",
+          "meta_text": "文｜黄小骑 03月13日 09:36",
+          "summary": "文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文文文文文文。文文文文文文文文文文文文文文文文文文文文文文，文文文文文文文文文文，文文文文文文文文文文文",
+          "title": "阅读|你属于宇宙",
+          "url": "https://weekly.caixin.com/2021-03-13/101674865.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101671574",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-03-06/101671568.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-03-06/101671568.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-03-06/101671568.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-03-06/1615006124380430_145_97.jpg",
+          "meta_text": "文｜沈大园 03月06日 09:05",
+          "summary": "关于国家如何变成如今的形式，重要的是蜕变历程，考虑到各个国家不同历史，答案就变得尤其精彩",
+          "title": "荐书|各有答案",
+          "url": "https://weekly.caixin.com/2021-03-06/101671568.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101665163",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-02-20/101664978.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-02-20/101664978.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-02-20/101664978.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-02-20/1613789810105942_145_97.jpg",
+          "meta_text": "文｜小庄 02月20日 09:10",
+          "summary": "实验结果显示，聪明的人拍子也可能打得更好。从这个意义上来讲，一个乐队想要获得更好的发展，不妨多听听鼓手的意见",
+          "title": "科学｜进击的鼓手和他们的时间知觉",
+          "url": "https://weekly.caixin.com/2021-02-20/101664978.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101661460",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-02-06/101661238.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-02-06/101661238.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-02-06/101661238.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-02-06/1612581233827297_145_97.jpg",
+          "meta_text": "文｜西闪 02月06日 09:10",
+          "summary": "在凯博文的观念中，照护不应该仅仅是医护伦理，更应该成为社会的一般伦理。因为人之为人，是在终其一生的社会互动中完成的",
+          "title": "阅读|照护不可缺失",
+          "url": "https://weekly.caixin.com/2021-02-06/101661238.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101658273",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-01-30/101658107.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-01-30/101658107.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-01-30/101658107.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2018-04-20/1524206910534658_145_97.jpg",
+          "meta_text": "文｜沈大园 01月30日 09:20",
+          "summary": "我没走文学之路，当然主要是天分不足又努力不够，但也想明白了两点：一是新媒介奔涌而来，文字时代已经式微；二是少年时代并不是热爱文学，只是热爱成功",
+          "title": "荐书|文学新生代",
+          "url": "https://weekly.caixin.com/2021-01-30/101658107.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101651549",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-01-16/101651549.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-01-16/101651549.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-01-16/101651549.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-01-16/1610768502751021_145_97.jpg",
+          "meta_text": "文｜小庄 01月16日 09:50",
+          "summary": "科学界对纳粹没能造出原子弹的解释重点就是他们没有足够的铀，而一度流落巴伐利亚小镇的400多块铀立方渐渐从各地浮出水面，给出了故事的另一面",
+          "title": "科学|海森堡、铀立方和龙尾巴",
+          "url": "https://culture.caixin.com/2021-01-16/101651549.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101648528",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-01-09/101648528.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-01-09/101648528.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-01-09/101648528.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-01-09/1610160830810499_145_97.jpg",
+          "meta_text": "文｜伯樵 01月09日 09:10",
+          "summary": "生老病死的禁忌文化为何最终没能形成对保险业的阻碍？保险从业者们使用了怎样的“买卖口”，让国人最终接受了这门生老病死的生意？",
+          "title": "阅读|在中国如何经营生死",
+          "url": "https://culture.caixin.com/2021-01-09/101648528.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101648165",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-01-08/101648165.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-01-08/101648165.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-01-08/101648165.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-01-08/1610087845241436_145_97.jpg",
+          "meta_text": "文|乔治•帕克 01月08日 14:33",
+          "summary": "《下沉年代》中，乔治•帕克通过四个阶层的视角，描述美国过去三十余年的历史变迁，全景还原经济、政治及文化上的流动，展现美国社会结构的解体和下沉",
+          "title": "带着问题去读书|美国社会何以一步步走向今日之乱局？",
+          "url": "https://culture.caixin.com/2021-01-08/101648165.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101646066",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-01-02/101646066.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-01-02/101646066.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-01-02/101646066.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "meta_text": "文｜沈大园 01月02日 09:05",
+          "summary": "如果运气不济，漫画可能永远无法证明自己还能别有一副面目。好在我们还可以看到别处的作品，新的媒介土壤也孕育了新生的本土作品",
+          "title": "荐书|谁都可以看漫画",
+          "url": "https://culture.caixin.com/2021-01-02/101646066.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101638552",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-12-12/101638552.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-12-12/101638552.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-12-12/101638552.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-12-12/1607739930072335_145_97.jpg",
+          "meta_text": "文｜孔考拉 12月12日 09:03",
+          "summary": "生育是一个社会的问题。我们希望无人是孤独的，前提是没有一方是免责的",
+          "title": "阅读|欢迎来到真实的生育现场",
+          "url": "https://culture.caixin.com/2020-12-12/101638552.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101635990",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-12-05/101635990.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-12-05/101635990.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-12-05/101635990.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "meta_text": "文｜沈大园 12月05日 09:22",
+          "summary": "我们最初以为自己只是应付了事，那些嘴上说说的话并不会存在心中。但这些观念其实并不难扎下根，尤其是在我们并不专长的领域",
+          "title": "荐书|重读大宋",
+          "url": "https://culture.caixin.com/2020-12-05/101635990.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101631076",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-11-21/101631076.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-11-21/101631076.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-11-21/101631076.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-11-21/1605942335873851_145_97.jpg",
+          "meta_text": "文｜小庄 11月21日 09:59",
+          "summary": "近年已有数位后辈同行站出来表示，他们发现奥杜邦画作中有明显无法确认的物种，有可能是他创作了其实根本没有存在过的鸟",
+          "title": "科学｜奥杜邦造假",
+          "url": "https://culture.caixin.com/2020-11-21/101631076.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101627805",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-11-14/101627805.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-11-14/101627805.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-11-14/101627805.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "meta_text": "文｜徐兆正 11月14日 09:04",
+          "summary": "硬汉派作家关心的是人心与境遇。他们与读者生活在同一个理性消隐的城市，忍受着，愤慨着，也都想过或尝试着将罪恶之都掀翻",
+          "title": "阅读|硬汉派的世界",
+          "url": "https://culture.caixin.com/2020-11-14/101627805.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101627199",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-11-13/101627196.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-11-13/101627196.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-11-13/101627196.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-11-13/1605239989391012_145_97.jpg",
+          "meta_text": "文|朱小棣 11月13日 11:51",
+          "summary": "文文文文文文文文文文文，文文文文文文文文文文《文文文文文》文文文文文，文文文文文文文文文文文文文：“文文文文文文文文文文文，文文文文文，文文文文文文文文文文文。”",
+          "title": "朱小棣专栏|毛尖一寸灰",
+          "url": "https://culture.caixin.com/2020-11-13/101627196.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101623507",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-11-05/101623507.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-11-05/101623507.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-11-05/101623507.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-11-05/1604572304773985_145_97.jpg",
+          "meta_text": "文|斯图尔特·罗素 11月05日 18:23",
+          "summary": "她已经有半个身子埋在金字塔里了，而不是站在金字塔的顶端。随着沙子逐渐填满金字塔的空间，她的角色消失只是时间问题",
+          "title": "带着问题去读书|如何破解人机共存密码，让AI获得新生？",
+          "url": "https://culture.caixin.com/2020-11-05/101623507.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101620962",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-10-31/101620962.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-10-31/101620962.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-10-31/101620962.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "meta_text": "文｜沈大园 10月31日 08:55",
+          "summary": "理解印度不是容易的事，它似乎处处是谜团。不过有些事之所以成谜，经常是因为我们对自身的理解还不够",
+          "title": "荐书|印度之谜",
+          "url": "https://culture.caixin.com/2020-10-31/101620962.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101613353",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-10-10/101613353.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-10-10/101613353.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-10-10/101613353.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "meta_text": "文｜柏琳 10月10日 08:54",
+          "summary": "约翰•契弗时而是局外人，时而是见证人，时而是亲历者，用多变的视角切入中产生活的横断面，透过闪耀的表象，进入濒临溃烂的内里",
+          "title": "阅读|中产生活图景：钻石与灰烬",
+          "url": "https://culture.caixin.com/2020-10-10/101613353.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101609871",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-09-26/101609871.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-09-26/101609871.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-09-26/101609871.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "meta_text": "文｜沈大园 09月26日 08:52",
+          "summary": "我们总是要借助他者才能更好认识自己。去旅行，去和别的世界碰撞，无论在哪个时代，这种意义都不会消失",
+          "title": "荐书｜继续旅行，继续写作",
+          "url": "https://culture.caixin.com/2020-09-26/101609871.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101604470",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-09-12/101604470.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-09-12/101604470.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-09-12/101604470.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "meta_text": "文｜小庄 09月12日 09:49",
+          "summary": "那个自称发现2500种以上的鱼并对其中近一半进行命名的人，可能至死也不会想到，他的海量工作促成了这个领域的完结",
+          "title": "科学｜一个男人和一千种鱼",
+          "url": "https://culture.caixin.com/2020-09-12/101604470.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101601686",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-09-05/101601686.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-09-05/101601686.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-09-05/101601686.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-09-05/1599272489944166_145_97.jpg",
+          "meta_text": "文｜郑科鹏 09月05日 09:14",
+          "summary": "某种程度上，刘子超的旅行和写作，正是在试图劈开崇高的幻象，揭示历史的错位，直抵这片被遗忘的土地上被遗忘的对象：人",
+          "title": "阅读|对世界的巨大沉默唱复调",
+          "url": "https://culture.caixin.com/2020-09-05/101601686.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101599970",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-09-01/101599970.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-09-01/101599970.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-09-01/101599970.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-09-01/1598957580811084_145_97.jpg",
+          "meta_text": "文|艾伦·甘尼特 09月01日 18:39",
+          "summary": "一个人是否具有创意，与年龄无关，而那些最具有创造力的人，往往也并不年轻",
+          "title": "带着问题去读书|创造力难道专属于那些天才吗？",
+          "url": "https://culture.caixin.com/2020-09-01/101599970.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101598620",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-08-29/101598620.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-08-29/101598620.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-08-29/101598620.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "meta_text": "文｜沈大园 08月29日 08:54",
+          "summary": "复盘第三帝国的崛起之路，我们现在都能轻易看出希特勒是个疯子，德国正在走向毁灭，但对于当时大部分德国人来说，未来明明是另一幅图景",
+          "title": "荐书｜第三帝国的到来",
+          "url": "https://culture.caixin.com/2020-08-29/101598620.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101593091",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-08-15/101593091.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-08-15/101593091.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-08-15/101593091.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-08-15/1597461154237165_145_97.jpg",
+          "meta_text": "文｜西闪 08月15日 09:23",
+          "summary": "疯癫是最个人的也是最社会化的疾病，只要人性没有终极定义，它也不会被定义",
+          "title": "阅读|精神疾病是虚构出来的吗？",
+          "url": "https://culture.caixin.com/2020-08-15/101593091.html"
+        }
+      ],
+      "key": "culture.tab-reading",
+      "lane": "main",
+      "more_url": "https://culture.caixin.com/books/",
+      "name": "阅读",
+      "order": 4,
+      "state": "hidden"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101671323",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-03-05/101671172.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-03-05/101671172.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-03-05/101671172.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-03-05/1614933482476975_145_97.jpg",
+          "meta_text": "文|杨旺 03月05日 16:24",
+          "summary": "福原爱在32岁之后终于明白，把贤妻良母当成理想生活的，就是把自己生活的目标和标准放在他人身上，终究有风险，贤妻良母和成就自我不应是一个矛盾体",
+          "title": "体坛｜福原爱：童话醒了，诸位散了吧！",
+          "url": "https://culture.caixin.com/2021-03-05/101671172.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101724254",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-06-05/101724254.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-06-05/101724254.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-06-05/101724254.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-06-05/1622878463602374_145_97.jpg",
+          "meta_text": "文丨张斌 06月05日 09:02",
+          "summary": "精神障碍与健康问题并非是人之弱点，不该有丝毫耻感，更不该以结束生命来求得解脱",
+          "title": "专栏｜金牌的重量",
+          "url": "https://culture.caixin.com/2021-06-05/101724254.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101723014",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-06-04/101723002.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-06-04/101723002.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-06-04/101723002.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-06-04/1622801680918330_145_97.jpg",
+          "meta_text": "文｜杨旺 06月04日 18:05",
+          "summary": "路跑产业不是该不该管的问题，而是那些该管以及怎么管的问题。我们要管的，是对于赛事的专业服务模式、管理模式、资源导入模式",
+          "title": "体坛｜中国路跑十年，偃旗息鼓还是向死而生",
+          "url": "https://culture.caixin.com/2021-06-04/101723002.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101708995",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-05-10/101708995.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-05-10/101708995.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-05-10/101708995.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-10/1620630588380882_145_97.jpg",
+          "meta_text": "文|徐波 05月10日 15:01",
+          "summary": "拿破仑与中国存在着一定的联系，特别是他在200年前对永恒中国回归世界中心的预言，对法国、欧洲和西方社会客观冷静看待中国的和平崛起有所帮助",
+          "title": "200年前的拿破仑与我们的远和近",
+          "url": "https://culture.caixin.com/2021-05-10/101708995.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101687262",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-04-08/101687261.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-04-08/101687261.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-04-08/101687261.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-08/1617862887528490_145_97.jpg",
+          "meta_text": "文｜杨旺 04月08日 14:10",
+          "summary": "留给中国花样滑的时间，已经不多了",
+          "title": "体坛｜拿什么拯救你，我的花样滑",
+          "url": "https://culture.caixin.com/2021-04-08/101687261.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101685976",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-04-06/101685975.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-04-06/101685975.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-04-06/101685975.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-06/1617675167279690_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 04月06日 10:06",
+          "summary": "很长时间以来，人的在线活动一直都是热门话题，但在虚构文学作品中得到表达和阐释，却要等到劳伦·奥伊勒的小说《假账号》问世",
+          "title": "李大卫专栏丨假账号或是假自我",
+          "url": "https://culture.caixin.com/2021-04-06/101685975.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101687245",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-04-04/101685753.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-04-04/101685753.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-04-04/101685753.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-04/1617505963280759_145_97.jpg",
+          "meta_text": "文｜杨旺 04月04日 11:02",
+          "summary": "缺难度，少竞争，一次次上演伤仲永的故事，留给中国花样滑的时间已经不多了",
+          "title": "体坛｜走向十字路口的女单花滑",
+          "url": "https://culture.caixin.com/2021-04-04/101685753.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101685110",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-04-02/101685109.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-04-02/101685109.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-04-02/101685109.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-04-02/1617348424554366_145_97.jpg",
+          "meta_text": "文|朱小棣 04月02日 15:19",
+          "summary": "菡子散文的灵魂，又何尝不是淳朴与正直",
+          "title": "朱小棣专栏丨“不能写脏了自己的一支笔！”",
+          "url": "https://culture.caixin.com/2021-04-02/101685109.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101668692",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-03-01/101668691.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-03-01/101668691.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-03-01/101668691.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-03-01/1614586077068652_145_97.jpg",
+          "meta_text": "文|朱小棣 03月01日 15:57",
+          "summary": "这本写于抗战烽火连绵中的文集，其思想之开阔与超前，让我惊愕，不仅远胜20世纪八九十年代中国知识界的反思，也更契合于21世纪的当下",
+          "title": "朱小棣专栏｜旧书新思想 前浪胜后浪",
+          "url": "https://culture.caixin.com/2021-03-01/101668691.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101668655",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-03-01/101668654.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-03-01/101668654.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-03-01/101668654.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-03-01/1614583809058518_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 03月01日 15:12",
+          "summary": "艺术品通常属于一种脆弱而被动的存在，它可以被赞助，被破坏，而一旦其价值被确定，又会成为掠夺的对象",
+          "title": "李大卫专栏｜艺术和权力",
+          "url": "https://culture.caixin.com/2021-03-01/101668654.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101660865",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-02-05/101660864.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-02-05/101660864.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-02-05/101660864.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-02-05/1612513278680064_145_97.jpg",
+          "meta_text": "文|杨旺 02月05日 16:14",
+          "summary": "今年3月，将是决定东京奥运会举办与否的最后期限。无论是日本政府，还是国际奥委会，在面对东京奥运会的时候做的都是一道经济题。很少有人从运动员的角度，去思考这个问题",
+          "title": "体坛｜东京奥运会“咏叹调”",
+          "url": "https://culture.caixin.com/2021-02-05/101660864.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101660695",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-02-05/101660694.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-02-05/101660694.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-02-05/101660694.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-02-05/1612494955554758_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 02月05日 11:09",
+          "summary": "在历代艺术家当中，埃舍尔有一点与众不同，就是作品特别受到科学界推崇，然而他的生平和思想，就像他笔下迷宫般的画面，让人们不得其门而入",
+          "title": "李大卫专栏｜倒错空间的素材",
+          "url": "https://culture.caixin.com/2021-02-05/101660694.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101657527",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-01-29/101657526.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-01-29/101657526.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-01-29/101657526.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-01-29/1611893092443040_145_97.jpg",
+          "meta_text": "文|朱小棣 01月29日 11:30",
+          "summary": "文文文文，文文文文文文文文文、文文文文文文文文文文文文文文文文。文文文文文文文，文文文文文文文。文文文，文文文文文文文文文文文文文文文。文文文文，文文文，文文文文文文",
+          "title": "朱小棣专栏｜文清字洁 举重若轻",
+          "url": "https://culture.caixin.com/2021-01-29/101657526.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101657492",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-01-29/101657491.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-01-29/101657491.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-01-29/101657491.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-01-29/1611889094771182_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 01月29日 10:49",
+          "summary": "一个后现代文学老兵的写作，不能在叙事过程中迎合读者，而是让他们的心理预期落空，即使作为反讽，也是约定俗成的惯则",
+          "title": "李大卫专栏｜数字时代的惊悚故事",
+          "url": "https://culture.caixin.com/2021-01-29/101657491.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101655102",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-01-23/101654678.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-01-23/101654678.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-01-23/101654678.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-01-23/1611379127851386_145_97.jpg",
+          "meta_text": "文｜刀尔登 01月23日 09:42",
+          "summary": "除了和钓鱼有关的，什么也不想，既不想念鱼龙百戏，也不操心鱼烂如燬，垫在股下的是阃内之令，抛在脑后的是婚外之情，总之钓就是钓，鱼就是鱼，钓鱼就是钓鱼",
+          "title": "乐此不疲｜钓鱼与打猎",
+          "url": "https://weekly.caixin.com/2021-01-23/101654678.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101655103",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-01-23/101654677.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-01-23/101654677.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-01-23/101654677.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-01-23/1611391205523086_145_97.jpg",
+          "meta_text": "文｜韩浩月 01月23日 09:39",
+          "summary": "爱会让一个人干净，哪怕他生活在被尘土、浓烟、粪坑味道包围的环境中，也会散发着清洁的气息",
+          "title": "随笔｜我把这干净也洗掉",
+          "url": "https://weekly.caixin.com/2021-01-23/101654677.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101654244",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-01-22/101654215.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-01-22/101654215.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-01-22/101654215.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-01-22/1611301651294950_145_97.jpg",
+          "meta_text": "文|杨旺 01月22日 15:25",
+          "summary": "文文文文文文，文文文文文文文文文文文文文文，文“文”文文文文文文文文文文文文文文文文文。文文文文文文文文文文文，文文文文文文文文，文文文文文文文文文文文文文文文文",
+          "title": "体坛｜足协改名新政，切断的是球迷的青春",
+          "url": "https://culture.caixin.com/2021-01-22/101654215.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101651543",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-01-16/101651543.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-01-16/101651543.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-01-16/101651543.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-01-16/1610768517475986_145_97.jpg",
+          "meta_text": "文｜杨莉莉 唐学鹏 01月16日 09:39",
+          "summary": "关注社交摄影，是关注上传到社交网络上的图像背后的社会关系和社会意识。地理标签能帮助我们了解一个特定区域发生的事情。当然，发布者也是想表明他们正在“现场”",
+          "title": "随笔｜谁会在“贫民窟”发自拍？",
+          "url": "https://culture.caixin.com/2021-01-16/101651543.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101648524",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-01-09/101648524.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-01-09/101648524.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-01-09/101648524.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "meta_text": "文｜于永超 01月09日 09:07",
+          "summary": "法律影响财富的安危，认知决定财富的距离。家企角色认知、配偶身份定位、公私财务隔离，实为不可或缺的三大原则",
+          "title": "专栏｜家企有别",
+          "url": "https://culture.caixin.com/2021-01-09/101648524.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101645817",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-01-01/101645816.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-01-01/101645816.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-01-01/101645816.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-12-06/1607226992441178_145_97.jpg",
+          "meta_text": "文|朱小棣 01月01日 08:57",
+          "summary": "曾经有人说过，要寻新思想，可以从读旧书中获取",
+          "title": "朱小棣专栏｜新年读旧文",
+          "url": "https://culture.caixin.com/2021-01-01/101645816.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101641207",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-12-19/101641207.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-12-19/101641207.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-12-19/101641207.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-12-19/1608360152400417_145_97.jpg",
+          "meta_text": "文｜小庄 12月19日 09:09",
+          "summary": "在宣布牛顿犯有破坏皇家学会财产的罪名之前，需要考虑的问题其实更应该是，胡克到底有没有肖像留下",
+          "title": "科学｜胡克，没有肖像的人",
+          "url": "https://culture.caixin.com/2020-12-19/101641207.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101632133",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-11-25/101632132.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-11-25/101632132.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-11-25/101632132.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-11-25/1606274906726041_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 11月25日 11:23",
+          "summary": "《艾米莉在巴黎》与生活现实没半毛钱关系。假如这样一个连环画般的世界可以存在，“黄背心”之类的抗议运动也就不会发生了",
+          "title": "李大卫专栏|巴黎攻略",
+          "url": "https://culture.caixin.com/2020-11-25/101632132.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101627204",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-11-13/101627203.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-11-13/101627203.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-11-13/101627203.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-07-20/1595239918561324_145_97.jpg",
+          "meta_text": "文|杨旺 11月13日 11:57",
+          "summary": "一次规模小的单项赛事，能否成为我们对东京奥运会乐观的理由？从现在看，还有待观察",
+          "title": "体坛|体操之叹，东京奥运之忧",
+          "url": "https://culture.caixin.com/2020-11-13/101627203.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101627189",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-11-13/101627188.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-11-13/101627188.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-11-13/101627188.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-11-10/1605003920957932_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 11月13日 11:37",
+          "summary": "瓦格纳的野心，是所谓的全能艺术。这位音乐天才认为，艺术可以成为一种准宗教，使社会得以拯救",
+          "title": "李大卫专栏|瓦格纳风",
+          "url": "https://culture.caixin.com/2020-11-13/101627188.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101623759",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-11-06/101623758.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-11-06/101623758.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-11-06/101623758.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-11-06/1604641806829441_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 11月06日 13:44",
+          "summary": "对于任何艺术家，尤其是亚洲艺术家，武器库里不能只有国际化的家当",
+          "title": "李大卫专栏|奈良美智的唱片，还有大头娃娃们",
+          "url": "https://culture.caixin.com/2020-11-06/101623758.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101623617",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-11-05/101623362.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-11-05/101623362.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-11-05/101623362.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-11-05/1604558377039722_145_97.jpg",
+          "meta_text": "图文|阎阳生 11月05日 14:47",
+          "summary": "停战当晚，在漫天烟花中举行庆祝盛大演出和舞会。无数探照灯划过夜空，交织成美丽的图案，再也不用怕飞机的轰炸",
+          "title": "阎阳生专栏|老父百年回首：朝鲜战争中美谈判轶事",
+          "url": "https://culture.caixin.com/2020-11-05/101623362.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101620597",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-10-30/101620596.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-10-30/101620596.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-10-30/101620596.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-10-30/1604045925785064_145_97.jpg",
+          "meta_text": "特约文化记者 李大卫 10月30日 16:03",
+          "summary": "所谓欧洲科学的出现，并不要等到哥白尼、伽利略。在长达千年所谓“黑暗时代”，并非没有值得一提的文明成就",
+          "title": "李大卫专栏|光明时代？黑暗时代？",
+          "url": "https://culture.caixin.com/2020-10-30/101620596.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101620594",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2020-10-30/101620593.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2020-10-30/101620593.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2020-10-30/101620593.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2020-10-30/1604045152410635_145_97.jpg",
+          "meta_text": "文|杨旺 10月30日 16:01",
+          "summary": "无法全部开放的军事体育，只能算是特殊时代的产物，有着政策护盘，编制优势，而它的集体退场，也是时代的进步",
+          "title": "体坛|八一军体告别，是时代的进步",
+          "url": "https://culture.caixin.com/2020-10-30/101620593.html"
+        }
+      ],
+      "key": "culture.tab-comment",
+      "lane": "main",
+      "more_url": "https://culture.caixin.com/wh_philosophy/",
+      "name": "评论",
+      "order": 5,
+      "state": "hidden"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101772393",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-09-13/101772393.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-09-13/101772393.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-09-13/101772393.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-09-13/1631512895716488_145_97.jpg",
+          "meta_text": "记者 关聪 09月13日 13:56",
+          "summary": "新片《陪你很久很久》《宝可梦：皮卡丘和可可的冒险》表现平平",
+          "title": "票房｜中秋十一档期前“片荒” 周票房疲软",
+          "url": "https://culture.caixin.com/2021-09-13/101772393.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101769289",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-09-06/101769289.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-09-06/101769289.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-09-06/101769289.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-09-06/1630894507490657_145_97.jpg",
+          "meta_text": "记者 关聪 09月06日 10:07",
+          "summary": "因疫情撤出暑期档的《长津湖》《五个扑水的少年》空降“十一”假期",
+          "title": "票房｜《失控玩家》蝉联周冠军 11部新片定档国庆假期",
+          "url": "https://culture.caixin.com/2021-09-06/101769289.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "comment_tid": "101723873",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://culture.caixin.com/2021-06-07/101723873.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://culture.caixin.com/2021-06-07/101723873.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/2021-06-07/101723873.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-06-07/1623040225898138_145_97.jpg",
+          "meta_text": "记者 关聪 06月07日 12:25",
+          "summary": "五部新片冲入票房前十榜单，但市场表现不及预期，票房均未突破2000万元",
+          "title": "票房｜五部新片上榜 周票房环比降27%",
+          "url": "https://culture.caixin.com/2021-06-07/101723873.html"
+        }
+      ],
+      "key": "culture.trends",
+      "lane": "sidebar",
+      "name": "文化风向",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "culture-section",
+            "canonical_url": "https://culture.caixin.com/chilong/",
+            "command": [
+              "caixin-cli",
+              "culture-section",
+              "https://culture.caixin.com/chilong/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://culture.caixin.com/chilong/",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2017-06-29/1498725512639741.png",
+          "summary": null,
+          "title": "明朝历史传奇小说《赤龙》",
+          "url": "https://culture.caixin.com/chilong/"
+        }
+      ],
+      "key": "culture.fiction",
+      "lane": "sidebar",
+      "name": "小说界",
+      "order": 1,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2021-05-29/101719894.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2021-05-29/101719894.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2021-05-29/101719894.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-05-29/1622262052879144_145_97.jpg",
+          "summary": "袁隆平（1930—2021）农业科学家",
+          "title": "逝者｜愿天下人都有饱饭吃",
+          "url": "https://weekly.caixin.com/2021-05-29/101719894.html"
+        }
+      ],
+      "key": "culture.obituary",
+      "lane": "sidebar",
+      "name": "逝者",
+      "order": 2,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 11,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "culture-section",
+        "canonical_url": "https://culture.caixin.com/newculture/",
+        "command": [
+          "caixin-cli",
+          "culture-section",
+          "https://culture.caixin.com/newculture/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://culture.caixin.com/newculture/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "文化风向",
+      "url": "https://culture.caixin.com/newculture/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "culture-section",
+        "canonical_url": "https://culture.caixin.com/dead/",
+        "command": [
+          "caixin-cli",
+          "culture-section",
+          "https://culture.caixin.com/dead/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://culture.caixin.com/dead/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "逝者",
+      "url": "https://culture.caixin.com/dead/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "culture-section",
+        "canonical_url": "https://culture.caixin.com/columns/",
+        "command": [
+          "caixin-cli",
+          "culture-section",
+          "https://culture.caixin.com/columns/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://culture.caixin.com/columns/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "专栏作家",
+      "url": "https://culture.caixin.com/columns/"
+    }
+  ],
+  "navigation_count": 3,
+  "ok": true,
+  "page_kind": "culture",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-06T14:32:38+00:00",
+    "final_url": "https://culture.caixin.com/",
+    "requested_url": "https://culture.caixin.com/"
+  },
+  "source_mode": "server_html",
+  "title": "文化频道-财新网",
+  "total_entries_count": 223
+}

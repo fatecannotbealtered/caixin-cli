@@ -1,0 +1,1753 @@
+{
+  "_untrusted": true,
+  "complete_listing_verified": false,
+  "external_stylesheets_applied": false,
+  "items_count": 49,
+  "javascript_executed": false,
+  "modules": [
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-07-15/102464279.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-07-15/102464279.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-07-15/102464279.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-15/178407485711288_840_560.jpg",
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-05-11/102442851.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-05-11/102442851.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-05-11/102442851.html",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/2026-05-11/102442851.html",
+          "link_mismatch": true,
+          "summary": null,
+          "title": "中国出口持续高增的动力与隐忧",
+          "url": "https://opinion.caixin.com/2026-07-15/102464279.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-03-27/102427893.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-03-27/102427893.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-03-27/102427893.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-27/177458150517522_840_560.jpg",
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-11-05/102379378.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-11-05/102379378.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-11-05/102379378.html",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/2025-11-05/102379378.html",
+          "link_mismatch": true,
+          "summary": "钱军辉：此次是史无前例的供给侧冲击，油价短期能涨到多高，对全球经济和金融市场的冲击力究竟有多大",
+          "title": "能源危机至暗时刻尚未到来",
+          "url": "https://opinion.caixin.com/2026-03-27/102427893.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-03-27/102427874.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-03-27/102427874.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-03-27/102427874.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-27/177457989503032_840_560.jpg",
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-09-22/102364780.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-09-22/102364780.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-09-22/102364780.html",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/2025-09-22/102364780.html",
+          "link_mismatch": true,
+          "summary": "伍戈：二季度油价出现阶段性拐点是基准预期。不过即使供给开始修复，油价中枢的回落也将是滞后过程",
+          "title": "停不下来的价格？",
+          "url": "https://opinion.caixin.com/2026-03-27/102427874.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-03-06/102419989.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-03-06/102419989.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-03-06/102419989.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-06/177276355113251_840_560.jpg",
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-11-04/102379227.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-11-04/102379227.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-11-04/102379227.html",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/2025-11-04/102379227.html",
+          "link_mismatch": true,
+          "summary": "罗志恒：既着眼于当下财政促消费扩投资稳增长、保障基层财政运转、化解债务风险、支持全国统一大市场建设，又着眼于中长期激发地方政府积极性、提高财政可持续性",
+          "title": "如何理解2026年财政政策安排",
+          "url": "https://opinion.caixin.com/2026-03-06/102419989.html"
+        }
+      ],
+      "key": "opinion.focus",
+      "lane": "main",
+      "name": "焦点",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-03-04/102419387.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-03-04/102419387.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-03-04/102419387.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-04/177261604718090_840_560.jpg",
+          "summary": "林羿：性别储蓄差距、低收入覆盖不足、税收优惠公平性、退休阶段保障产品短缺等问题，仍是深层困境",
+          "title": "澳大利亚多支柱养老保险体系：现状、问题与改革",
+          "url": "https://opinion.caixin.com/2026-03-04/102419387.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-03-05/102419758.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-03-05/102419758.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-03-05/102419758.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-05/177269426956095_840_560.jpg",
+          "summary": "陈利浩：企业命运要与科技自强、绿色转型和民生福祉的国家大局深度绑定",
+          "title": "政府工作报告对企业家的启示",
+          "url": "https://opinion.caixin.com/2026-03-05/102419758.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-03-06/102420013.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-03-06/102420013.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-03-06/102420013.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-06/177276740558560_840_560.jpg",
+          "summary": "包特：如果说过去的教育是训练学生找到正确答案，那么在人工智能时代，教育也许更像是在训练一种判断力",
+          "title": "当AI给出最优解后，大学经济学课还能教些什么",
+          "url": "https://opinion.caixin.com/2026-03-06/102420013.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-03-03/102418956.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-03-03/102418956.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-03-03/102418956.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-03/177252173252052_840_560.jpg",
+          "summary": "罗志恒：2025年主要经济大省财政收入排名不变，湖北财政收入跻身全国前十，安徽、山西、内蒙古排名下滑",
+          "title": "1949—2025年中国各省份财政收入排名变迁",
+          "url": "https://opinion.caixin.com/2026-03-03/102418956.html"
+        }
+      ],
+      "key": "opinion.recommended",
+      "lane": "main",
+      "name": "推荐",
+      "order": 1,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-06/102471845.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-06/102471845.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-06/102471845.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/zhaowei_zssc/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/zhaowei_zssc/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/zhaowei_zssc/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/zhaowei_zssc/",
+          "link_mismatch": true,
+          "summary": "居民、限额以下、非以旧换新领域消费仍有韧性；限额以上、以旧换新商品零售“超额下行”，主因企业消费较弱",
+          "title": "看空消费的“三大误区”",
+          "url": "https://opinion.caixin.com/2026-08-06/102471845.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-06/102471765.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-06/102471765.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-06/102471765.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/linyi_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/linyi_mjxx/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/linyi_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/linyi_mjxx/",
+          "link_mismatch": true,
+          "summary": "美国纯财富管理行业的发展路径，对处于成长阶段的中国财富管理机构具有若干借鉴意义",
+          "title": "从美国“最新十佳”看纯财富管理公司发展路径",
+          "url": "https://opinion.caixin.com/2026-08-06/102471765.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-06/102471733.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-06/102471733.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-06/102471733.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178601394921873_145_97.jpg",
+          "summary": "官方通报过于简略，缺失了大量细节，而且，这起舞弊事件的潜在受益者更是彻底隐身，有待后续调查和处理，给公众一个交代",
+          "title": "火线评论｜广东雷州“特教老师招聘违规”很雷，仍有诸多疑点",
+          "url": "https://opinion.caixin.com/2026-08-06/102471733.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-06/102471728.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-06/102471728.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-06/102471728.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/wuxuchu_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/wuxuchu_mjxx/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/wuxuchu_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/wuxuchu_mjxx/",
+          "link_mismatch": true,
+          "summary": "控制岗位的膨胀，表面上是一个成本管理问题，深层是一个组织病理问题。当一个组织中的控制岗位成为最难被调整的部分时，这个组织的弹性就从根本上被削弱了",
+          "title": "控制陷阱：组织为什么会越管越胖",
+          "url": "https://opinion.caixin.com/2026-08-06/102471728.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-06/102471690.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-06/102471690.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-06/102471690.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/shengsongcheng_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/shengsongcheng_mjxx/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/shengsongcheng_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/shengsongcheng_mjxx/",
+          "link_mismatch": true,
+          "summary": "“楼宇经济”是以商务楼宇为载体，通过开发、出租、引入企业集聚，形成税源并带动区域经济发展的一种新型经济形态",
+          "title": "盛松成：房地产转型发展应把握好楼宇经济机遇",
+          "url": "https://opinion.caixin.com/2026-08-06/102471690.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-06/102471682.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-06/102471682.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-06/102471682.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/zhangtao_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/zhangtao_mjxx/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/zhangtao_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/zhangtao_mjxx/",
+          "link_mismatch": true,
+          "summary": "有一点是确定的，无论沃什是否采取行动、采取什么行动，美债市场的波动一定还会加剧，相应金融市场的脆弱性也一定还会上升",
+          "title": "美联储观察（46）：美债市场对沃什的考验",
+          "url": "https://opinion.caixin.com/2026-08-06/102471682.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-06/102471661.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-06/102471661.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-06/102471661.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/zhihuayan_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/zhihuayan_mjxx/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/zhihuayan_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/zhihuayan_mjxx/",
+          "link_mismatch": true,
+          "summary": "文文文文文文文文文文文“文文文文”文文文文文，文文文文文文文，文文文文文文文文文文文文文文文文文文，文文“文文文”文文文“文文文”。文文文文，文文文文文文文文文文、文文文，文文文文文文文文文文文文文文文文文",
+          "title": "“竹知了”事件背后的舆情根源",
+          "url": "https://opinion.caixin.com/2026-08-06/102471661.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-05/102471572.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-05/102471572.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-05/102471572.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/hebin_shwx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/hebin_shwx/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/hebin_shwx/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/hebin_shwx/",
+          "link_mismatch": true,
+          "summary": "华为竹知了事件，是一场企业公关灾难，而这一事件背后存在两个陷阱：传统文化和建构主义迷思，而后者更加致命",
+          "title": "竹知了事件：传统文化和建构主义迷思",
+          "url": "https://opinion.caixin.com/2026-08-05/102471572.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-05/102471477.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-05/102471477.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-05/102471477.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/wangjiachun_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/wangjiachun_mjxx/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/wangjiachun_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/wangjiachun_mjxx/",
+          "link_mismatch": true,
+          "summary": "要防止“科创债”沦为平台“换马甲”的融资工具。科创债的“科创”属性在部分城投主体手中尚未实质落地，资金用途的穿透监管仍需加强",
+          "title": "科创债扩容能否为城投转型提供出路",
+          "url": "https://opinion.caixin.com/2026-08-05/102471477.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-05/102471439.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-05/102471439.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-05/102471439.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/wangjun/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/wangjun/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/wangjun/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/wangjun/",
+          "link_mismatch": true,
+          "summary": "文文文文文文文文文文文文文，文文文文文文文文文文文文文文，文文文文文文文文文文。文文文文文文文文文文文文文、文文文文文文，文文文文文文文文文文文文文文文文文文文文文文",
+          "title": "王君：没有“健康根据地”，强推分级诊疗为何注定失败",
+          "url": "https://opinion.caixin.com/2026-08-05/102471439.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-05/102471359.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-05/102471359.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-05/102471359.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/yihuan/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/yihuan/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/yihuan/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/yihuan/",
+          "link_mismatch": true,
+          "summary": "联合干预通常能够在短期内扭转日元的单边走势，但能否形成中期拐点仍取决于利差和政策基本面",
+          "title": "美日联合干预日元的启示",
+          "url": "https://opinion.caixin.com/2026-08-05/102471359.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-05/102471326.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-05/102471326.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-05/102471326.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/liuxinhai_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/liuxinhai_mjxx/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/liuxinhai_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/liuxinhai_mjxx/",
+          "link_mismatch": true,
+          "summary": "公众如果分不清自己遇到的究竟是哪一种信用问题，就可能找错部门、走错渠道，甚至成为“征信洗白”“信用修复代理”等灰色产业的目标",
+          "title": "“信用中国”包治所有信用问题？",
+          "url": "https://opinion.caixin.com/2026-08-05/102471326.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-05/102471319.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-05/102471319.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-05/102471319.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/zhoujunzhi_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/zhoujunzhi_mjxx/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/zhoujunzhi_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/zhoujunzhi_mjxx/",
+          "link_mismatch": true,
+          "summary": "当前并非宏观流动性收紧引发的资产负债表全面收缩，而是低利率环境下居民资产再配置催生的结构性行情，在内外部科技交易共振逆转后出现的一轮拥挤度再平衡",
+          "title": "A股去杠杆到哪一步",
+          "url": "https://opinion.caixin.com/2026-08-05/102471319.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-05/102471313.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-05/102471313.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-05/102471313.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/zhanghuafang/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/zhanghuafang/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/zhanghuafang/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/zhanghuafang/",
+          "link_mismatch": true,
+          "summary": "第二个301关税的不确定性是否会引发又一轮的赶货呢",
+          "title": "美线旺季结束了？",
+          "url": "https://opinion.caixin.com/2026-08-05/102471313.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-04/102471205.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-04/102471205.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-04/102471205.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178591225641770_145_97.jpg",
+          "summary": "文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文文。文文文文文文文文，文文文文文文文文文文文文文、文文文文文文文文文文文",
+          "title": "火线评论｜索贿加骚扰，执行局长如此“执行”背后的三重扭曲",
+          "url": "https://opinion.caixin.com/2026-08-04/102471205.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-04/102471161.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-04/102471161.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-04/102471161.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-04/178583329474094_145_97.jpg",
+          "summary": "应以人身权与财产权并重来修改《刑事诉讼法》，落实《宪法》对财产权平等保护的要求",
+          "title": "涉案财产问题应为刑诉法修改重中之重",
+          "url": "https://opinion.caixin.com/2026-08-04/102471161.html"
+        }
+      ],
+      "key": "opinion.latest",
+      "lane": "main",
+      "name": "最新",
+      "order": 2,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/wuge_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/wuge_mjxx/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/wuge_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://www.caixin.com/upload/zhuanlan/100949515_100_100.jpg",
+          "summary": "长江证券首席经济学家",
+          "title": "伍戈",
+          "url": "https://opinion.caixin.com/wuge_mjxx/"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/lianghong/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/lianghong/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/lianghong/",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://www.caixin.com/upload/zhuanlan/100751110_100_100.jpg",
+          "summary": "中金公司研究部负责人、首席经济学家、董事总经理",
+          "title": "梁红",
+          "url": "https://opinion.caixin.com/lianghong/"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/shenjianguang_zssc/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/shenjianguang_zssc/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/shenjianguang_zssc/",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://www.caixin.com/upload/zhuanlan/100324366_100_100.jpg",
+          "summary": "京东数字科技副总裁、首席经济学家",
+          "title": "沈建光",
+          "url": "https://opinion.caixin.com/shenjianguang_zssc/"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/zhongzhengsheng/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/zhongzhengsheng/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/zhongzhengsheng/",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://www.caixin.com/upload/zhuanlan/100742170_100_100.jpg",
+          "summary": "原财新智库莫尼塔研究董事长兼首席经济学家",
+          "title": "钟正生",
+          "url": "https://opinion.caixin.com/zhongzhengsheng/"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/lincaiyi_zeld/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/lincaiyi_zeld/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/lincaiyi_zeld/",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://www.caixin.com/upload/zhuanlan/100401152_100_100.jpg",
+          "summary": "华安基金首席经济学家",
+          "title": "林采宜",
+          "url": "https://opinion.caixin.com/lincaiyi_zeld/"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/gaozhanjun_zssc/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/gaozhanjun_zssc/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/gaozhanjun_zssc/",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://www.caixin.com/upload/zhuanlan/100324365_100_100.jpg",
+          "summary": "哈佛大学访问学者，原中信证券董事总经理",
+          "title": "高占军",
+          "url": "https://opinion.caixin.com/gaozhanjun_zssc/"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/wangtao/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/wangtao/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/wangtao/",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://www.caixin.com/upload/zhuanlan/100000152_100_100.jpg",
+          "summary": "瑞银亚洲经济研究主管",
+          "title": "汪涛",
+          "url": "https://opinion.caixin.com/wangtao/"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/xulin_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/xulin_mjxx/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/xulin_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://www.caixin.com/upload/zhuanlan/101180653_100_100.jpg",
+          "summary": "国家发展和改革委员会城市和小城镇改革发展中心主任",
+          "title": "徐林",
+          "url": "https://opinion.caixin.com/xulin_mjxx/"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/wuqianli_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/wuqianli_mjxx/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://opinion.caixin.com/wuqianli_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://www.caixin.com/upload/zhuanlan/100414320_100_100.jpg",
+          "summary": "美国某基金经理",
+          "title": "吴谦立",
+          "url": "https://opinion.caixin.com/wuqianli_mjxx/"
+        }
+      ],
+      "key": "opinion.authors",
+      "lane": "sidebar",
+      "name": "推荐作者",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://cnreform.caixin.com/2026/cr448/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://cnreform.caixin.com/2026/cr448/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2026/cr448/",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com//2026-07-06/178332690779282_300_200.jpg",
+          "source_state": "visible",
+          "summary": null,
+          "title": "对外投资新规面面观",
+          "url": "https://cnreform.caixin.com/2026/cr448/"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://cnreform.caixin.com/2026-07-06/102461261.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://cnreform.caixin.com/2026-07-06/102461261.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2026-07-06/102461261.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "对外投资新规与世界同步立法",
+          "url": "https://cnreform.caixin.com/2026-07-06/102461261.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://cnreform.caixin.com/2026-07-06/102461258.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://cnreform.caixin.com/2026-07-06/102461258.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2026-07-06/102461258.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "智能体时代的信任",
+          "url": "https://cnreform.caixin.com/2026-07-06/102461258.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://cnreform.caixin.com/2026-07-06/102461349.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://cnreform.caixin.com/2026-07-06/102461349.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2026-07-06/102461349.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "AI冲击就业，如何构建 “互动补偿”公共政策机制",
+          "url": "https://cnreform.caixin.com/2026-07-06/102461349.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://cnreform.caixin.com/2026-07-06/102461351.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://cnreform.caixin.com/2026-07-06/102461351.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2026-07-06/102461351.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "从安全到安心：完善食品安全治理体系",
+          "url": "https://cnreform.caixin.com/2026-07-06/102461351.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://cnreform.caixin.com/2026-07-06/102461330.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://cnreform.caixin.com/2026-07-06/102461330.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cnreform.caixin.com/2026-07-06/102461330.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "对外投资新规影响几何",
+          "url": "https://cnreform.caixin.com/2026-07-06/102461330.html"
+        }
+      ],
+      "key": "opinion.cnreform",
+      "lane": "sidebar",
+      "name": "中国改革",
+      "order": 1,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "issue",
+            "canonical_url": "https://bijiao.caixin.com/2026/cs_144/",
+            "command": [
+              "caixin-cli",
+              "issue",
+              "https://bijiao.caixin.com/2026/cs_144/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2026/cs_144/",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com//2026-07-08/178349634068156_300_200.jpg",
+          "source_state": "hidden",
+          "summary": null,
+          "title": "《比较》第144辑",
+          "url": "https://bijiao.caixin.com/2026/cs_144/"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://bijiao.caixin.com/2026-07-07/102461678.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://bijiao.caixin.com/2026-07-07/102461678.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2026-07-07/102461678.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "hidden",
+          "summary": null,
+          "title": "福利制度的可见成本与隐性收益",
+          "url": "https://bijiao.caixin.com/2026-07-07/102461678.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://bijiao.caixin.com/2026-07-07/102461679.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://bijiao.caixin.com/2026-07-07/102461679.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2026-07-07/102461679.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "hidden",
+          "summary": null,
+          "title": "重新审视房价收入比：认知流变、国际大城市比较及政策启示",
+          "url": "https://bijiao.caixin.com/2026-07-07/102461679.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://bijiao.caixin.com/2026-07-07/102461696.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://bijiao.caixin.com/2026-07-07/102461696.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2026-07-07/102461696.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "hidden",
+          "summary": null,
+          "title": "持久经济不平等的起源(下)",
+          "url": "https://bijiao.caixin.com/2026-07-07/102461696.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://bijiao.caixin.com/2026-07-07/102461672.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://bijiao.caixin.com/2026-07-07/102461672.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://bijiao.caixin.com/2026-07-07/102461672.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "hidden",
+          "summary": null,
+          "title": "迈向21世纪经济新共识",
+          "url": "https://bijiao.caixin.com/2026-07-07/102461672.html"
+        }
+      ],
+      "key": "opinion.bijiao",
+      "lane": "sidebar",
+      "name": "比较",
+      "order": 2,
+      "state": "hidden"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007999.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000007999.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000007999.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com//2026-04-03/177519109741548_266_177.jpg",
+          "summary": null,
+          "title": "告别哈贝马斯",
+          "url": "https://deepview.caixin.com/topic/BQ02.000007999.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000008007.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000008007.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000008007.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "summary": null,
+          "title": "给房地产寻新路",
+          "url": "https://deepview.caixin.com/topic/BQ02.000008007.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://mappv5.caixin.com/m_topic_detail/1630.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://mappv5.caixin.com/m_topic_detail/1630.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mappv5.caixin.com/m_topic_detail/1630.html?cxapp_topic=1630",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "summary": null,
+          "title": "“改革老人”高尚全逝世一周年",
+          "url": "https://mappv5.caixin.com/m_topic_detail/1630.html?cxapp_topic=1630"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://mappv5.caixin.com/m_topic_detail/1491.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://mappv5.caixin.com/m_topic_detail/1491.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mappsv5.caixin.com/m_topic_detail/1491.html?cxapp_topic=1491",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "summary": null,
+          "title": "张文宏新冠疫情观察",
+          "url": "https://mappsv5.caixin.com/m_topic_detail/1491.html?cxapp_topic=1491"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://mappv5.caixin.com/m_topic_detail/1577.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://mappv5.caixin.com/m_topic_detail/1577.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mappsv5.caixin.com/m_topic_detail/1577.html?cxapp_topic=1577",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "summary": null,
+          "title": "傅高义辞世：一代学人的背影",
+          "url": "https://mappsv5.caixin.com/m_topic_detail/1577.html?cxapp_topic=1577"
+        }
+      ],
+      "key": "opinion.topics",
+      "lane": "sidebar",
+      "name": "热点专题",
+      "order": 3,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 7,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "opinion-columns",
+        "canonical_url": "https://opinion.caixin.com/columns/",
+        "command": [
+          "caixin-cli",
+          "opinion-columns",
+          "https://opinion.caixin.com/columns/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://opinion.caixin.com/columns/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "名家",
+      "url": "https://opinion.caixin.com/columns/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "opinion-upfront",
+        "canonical_url": "https://opinion.caixin.com/upfront/",
+        "command": [
+          "caixin-cli",
+          "opinion-upfront",
+          "https://opinion.caixin.com/upfront/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://opinion.caixin.com/upfront/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "火线评论",
+      "url": "https://opinion.caixin.com/upfront/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "opinion-author-directory",
+        "canonical_url": "https://opinion.caixin.com/columns-test/",
+        "command": [
+          "caixin-cli",
+          "opinion-author-directory",
+          "https://opinion.caixin.com/columns-test/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://opinion.caixin.com/columns-test/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "推荐作者 Author",
+      "url": "https://opinion.caixin.com/columns-test/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://cnreform.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://cnreform.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://cnreform.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "《中国改革》",
+      "url": "https://cnreform.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://bijiao.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://bijiao.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://bijiao.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "《比较》",
+      "url": "https://bijiao.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topics",
+        "canonical_url": "https://topics.caixin.com/opinion/",
+        "command": [
+          "caixin-cli",
+          "topics",
+          "https://topics.caixin.com/opinion/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/opinion/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "热点专题 Hot Topics",
+      "url": "https://topics.caixin.com/opinion/"
+    }
+  ],
+  "navigation_count": 6,
+  "ok": true,
+  "page_kind": "opinion",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-06T14:32:35+00:00",
+    "final_url": "https://opinion.caixin.com/",
+    "requested_url": "https://opinion.caixin.com/"
+  },
+  "source_mode": "server_html",
+  "subdirectories": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://opinion.caixin.com/opinion_leader/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://opinion.caixin.com/opinion_leader/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://opinion.caixin.com/opinion_leader/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "意见领袖",
+      "url": "https://opinion.caixin.com/opinion_leader/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://opinion.caixin.com/editorial/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://opinion.caixin.com/editorial/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://opinion.caixin.com/editorial/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "社评",
+      "url": "https://opinion.caixin.com/editorial/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://opinion.caixin.com/wyll/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://opinion.caixin.com/wyll/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://opinion.caixin.com/wyll/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "聚焦",
+      "url": "https://opinion.caixin.com/wyll/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://opinion.caixin.com/opinion_video/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://opinion.caixin.com/opinion_video/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://opinion.caixin.com/opinion_video/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "视听",
+      "url": "https://opinion.caixin.com/opinion_video/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://opinion.caixin.com/think_tank/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://opinion.caixin.com/think_tank/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://opinion.caixin.com/think_tank/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "智库",
+      "url": "https://opinion.caixin.com/think_tank/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://opinion.caixin.com/sxjx/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://opinion.caixin.com/sxjx/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://opinion.caixin.com/sxjx/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "思想精选",
+      "url": "https://opinion.caixin.com/sxjx/"
+    }
+  ],
+  "subdirectories_count": 6,
+  "title": "观点频道-财新网"
+}

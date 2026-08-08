@@ -1,0 +1,521 @@
+{
+  "_untrusted": true,
+  "article_details_not_fetched": true,
+  "complete_listing_verified": false,
+  "directory_only": true,
+  "directory_title": "财新名家",
+  "external_stylesheets_applied": false,
+  "items_count": 7,
+  "javascript_executed": false,
+  "kind": "opinion_columns",
+  "latest_article_date": "2026-08-08",
+  "linked_pages_not_fetched": true,
+  "modules": [
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "author": "吴金铎",
+          "author_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/wujinduo_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/wujinduo_mjxx/",
+              "--discovery-source",
+              "columns"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "discovery_source": "columns",
+            "input_url": "https://opinion.caixin.com/wujinduo_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "author_url": "https://opinion.caixin.com/wujinduo_mjxx/",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-08/102472616.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-08/102472616.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-08/102472616.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/wujinduo_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/wujinduo_mjxx/",
+              "--discovery-source",
+              "columns"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "discovery_source": "columns",
+            "input_url": "https://opinion.caixin.com/wujinduo_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/wujinduo_mjxx/",
+          "published_at": "08月08日 14:09",
+          "summary": "美日联合干预日元汇率，叠加弱于预期的美国劳动力数据，显著提振了国际黄金价格",
+          "title": "美日联合干预汇率，为何影响了黄金",
+          "url": "https://opinion.caixin.com/2026-08-08/102472616.html"
+        },
+        {
+          "access": "directory_visible",
+          "author": "罗志恒",
+          "author_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/luozhiheng_zssc/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/luozhiheng_zssc/",
+              "--discovery-source",
+              "columns"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "discovery_source": "columns",
+            "input_url": "https://opinion.caixin.com/luozhiheng_zssc/",
+            "ok": true,
+            "supported": true
+          },
+          "author_url": "https://opinion.caixin.com/luozhiheng_zssc/",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-07/102472406.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-07/102472406.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-07/102472406.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/luozhiheng_zssc/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/luozhiheng_zssc/",
+              "--discovery-source",
+              "columns"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "discovery_source": "columns",
+            "input_url": "https://opinion.caixin.com/luozhiheng_zssc/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/luozhiheng_zssc/",
+          "published_at": "08月07日 19:51",
+          "summary": "0000文文文，文文文文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文。文文文文文文文文文xx文文文文文文文文文文文文文文文文，文文文文文文文文文文",
+          "title": "7月进出口增速高位放缓，价格驱动还能持续多久",
+          "url": "https://opinion.caixin.com/2026-08-07/102472406.html"
+        },
+        {
+          "access": "directory_visible",
+          "author": "叶翔",
+          "author_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/yexiang_zssc/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/yexiang_zssc/",
+              "--discovery-source",
+              "columns"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "discovery_source": "columns",
+            "input_url": "https://opinion.caixin.com/yexiang_zssc/",
+            "ok": true,
+            "supported": true
+          },
+          "author_url": "https://opinion.caixin.com/yexiang_zssc/",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-07/102472259.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-07/102472259.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-07/102472259.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/yexiang_zssc/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/yexiang_zssc/",
+              "--discovery-source",
+              "columns"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "discovery_source": "columns",
+            "input_url": "https://opinion.caixin.com/yexiang_zssc/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/yexiang_zssc/",
+          "published_at": "08月07日 16:44",
+          "summary": "如果美国的AI产业不能在一段时间内显示出足够的商业价值，资本市场不再忍受，AI的发展可能会停滞，并引起美国经济增长大幅放缓，甚至衰退，失业率提高，企业盈利下降",
+          "title": "美国的AI投资、利率与经济",
+          "url": "https://opinion.caixin.com/2026-08-07/102472259.html"
+        },
+        {
+          "access": "directory_visible",
+          "author": "吴旭初",
+          "author_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/wuxuchu_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/wuxuchu_mjxx/",
+              "--discovery-source",
+              "columns"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "discovery_source": "columns",
+            "input_url": "https://opinion.caixin.com/wuxuchu_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "author_url": "https://opinion.caixin.com/wuxuchu_mjxx/",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-07/102472226.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-07/102472226.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-07/102472226.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/wuxuchu_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/wuxuchu_mjxx/",
+              "--discovery-source",
+              "columns"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "discovery_source": "columns",
+            "input_url": "https://opinion.caixin.com/wuxuchu_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/wuxuchu_mjxx/",
+          "published_at": "08月07日 15:21",
+          "summary": "AI把归纳伪装成演绎，把概率伪装成必然，把“很可能是这样”伪装成“必然是这样”。那人的价值在哪里？在那些反常的东西里",
+          "title": "AI不是镜子，是蒸馏器",
+          "url": "https://opinion.caixin.com/2026-08-07/102472226.html"
+        },
+        {
+          "access": "directory_visible",
+          "author": "包特",
+          "author_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/baote_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/baote_mjxx/",
+              "--discovery-source",
+              "columns"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "discovery_source": "columns",
+            "input_url": "https://opinion.caixin.com/baote_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "author_url": "https://opinion.caixin.com/baote_mjxx/",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-07/102472168.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-07/102472168.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-07/102472168.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/baote_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/baote_mjxx/",
+              "--discovery-source",
+              "columns"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "discovery_source": "columns",
+            "input_url": "https://opinion.caixin.com/baote_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/baote_mjxx/",
+          "published_at": "08月07日 11:56",
+          "summary": "终身教职真正保护的，也许不是教授的一份工作，而是大学作为一种组织存在的理由",
+          "title": "当大学教授变临时工，大学还是大学吗",
+          "url": "https://opinion.caixin.com/2026-08-07/102472168.html"
+        },
+        {
+          "access": "directory_visible",
+          "author": "杨庆宏",
+          "author_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/yangqinghong_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/yangqinghong_mjxx/",
+              "--discovery-source",
+              "columns"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "discovery_source": "columns",
+            "input_url": "https://opinion.caixin.com/yangqinghong_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "author_url": "https://opinion.caixin.com/yangqinghong_mjxx/",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-07/102472144.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-07/102472144.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-07/102472144.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/yangqinghong_mjxx/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/yangqinghong_mjxx/",
+              "--discovery-source",
+              "columns"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "discovery_source": "columns",
+            "input_url": "https://opinion.caixin.com/yangqinghong_mjxx/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/yangqinghong_mjxx/",
+          "published_at": "08月07日 10:53",
+          "summary": "金融杠杆放大的不只是收益，也包括路径上的每一次颠簸。用高杠杆支持长期投资策略，无异于穿着短跑钉鞋去跑马拉松，短期加速再猛，也难以坚持到最后",
+          "title": "439%之后的6天：被硅谷和华尔街追捧的天才，为何走入杠杆误区",
+          "url": "https://opinion.caixin.com/2026-08-07/102472144.html"
+        },
+        {
+          "access": "directory_visible",
+          "author": "陈龙",
+          "author_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/chenlong_zssc/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/chenlong_zssc/",
+              "--discovery-source",
+              "columns"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "discovery_source": "columns",
+            "input_url": "https://opinion.caixin.com/chenlong_zssc/",
+            "ok": true,
+            "supported": true
+          },
+          "author_url": "https://opinion.caixin.com/chenlong_zssc/",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-07/102472138.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-07/102472138.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-07/102472138.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "opinion-author",
+            "canonical_url": "https://opinion.caixin.com/chenlong_zssc/",
+            "command": [
+              "caixin-cli",
+              "opinion-author",
+              "https://opinion.caixin.com/chenlong_zssc/",
+              "--discovery-source",
+              "columns"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "discovery_source": "columns",
+            "input_url": "https://opinion.caixin.com/chenlong_zssc/",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://opinion.caixin.com/chenlong_zssc/",
+          "published_at": "08月07日 10:07",
+          "summary": "未来市场不会是简单的单向替代，而是会演化出由高性价比模型与前沿高端模型协同构成的模型矩阵与智能路由体系；在未来，超级大企业和超级个体，这两类组织形态将会长期并存",
+          "title": "陈龙：Token时代的商业与组织",
+          "url": "https://opinion.caixin.com/2026-08-07/102472138.html"
+        }
+      ],
+      "key": "opinion-columns.articles",
+      "lane": "main",
+      "name": "财新名家文章",
+      "order": 0,
+      "state": "server_rendered"
+    }
+  ],
+  "modules_count": 1,
+  "ok": true,
+  "page": 1,
+  "pagination": {
+    "automatic_follow": false,
+    "contract": {
+      "control": "loadMoreNewses",
+      "count": 7,
+      "endpoint": "https://gateway.caixin.com/api/extapi/homeInterface.jsp",
+      "identifier": "100000091",
+      "parameter": "subject",
+      "picdim": "_145_97",
+      "script_url": "https://file.caixin.com/webjs/channel/index_cxmingjia_loadMore.js",
+      "type": 2
+    },
+    "control_present": true,
+    "explicit_only": true,
+    "next_page": 2,
+    "supported": true
+  },
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "scripts_not_executed": true,
+  "session_used": false,
+  "source": {
+    "canonical_url": "https://opinion.caixin.com/columns/",
+    "discovered_from": "https://opinion.caixin.com/",
+    "fetched_at": "2026-08-08T08:47:16+00:00",
+    "final_url": "https://opinion.caixin.com/columns/",
+    "requested_url": "https://opinion.caixin.com/columns/"
+  },
+  "source_mode": "server_html",
+  "stale_content": false,
+  "title": "财新名家-财新网-CAIXIN.COM",
+  "unique_urls_count": 7
+}

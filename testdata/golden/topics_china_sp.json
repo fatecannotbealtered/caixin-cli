@@ -1,0 +1,717 @@
+{
+  "_untrusted": true,
+  "category": "china",
+  "directory_only": true,
+  "has_more": true,
+  "items": [
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000006028.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000006028.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000006028.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "101723724",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2026-06-05/178062043962527_266_177.jpg",
+      "published_at": "2026-06-02 14:12:06",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "又是一年高考季",
+      "url": "https://deepview.caixin.com/topic/BQ02.000006028.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "收费文章",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007442.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000007442.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000007442.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "101720919",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2026-05-27/177987029125417_266_177.jpg",
+      "published_at": "2026-05-13 14:30:50",
+      "reported_attr": 5,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "儿童节，我们更应关注什么？",
+      "url": "https://deepview.caixin.com/topic/BQ02.000007442.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000008008.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000008008.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000008008.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102436674",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2026-04-22/177682927126686_266_177.jpg",
+      "published_at": "2026-04-22 14:09:07",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "AI时代的教育难题",
+      "url": "https://deepview.caixin.com/topic/BQ02.000008008.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "收费文章",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "microsite",
+        "canonical_url": "https://topics.caixin.com/2026/2026lhzt/",
+        "command": [
+          "caixin-cli",
+          "microsite",
+          "https://topics.caixin.com/2026/2026lhzt/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/2026/2026lhzt/?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102419004",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2026-03-03/177252981017988_266_177.jpg",
+      "published_at": "2026-03-25 14:40:54",
+      "reported_attr": 5,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "2026全国两会报道",
+      "url": "https://topics.caixin.com/2026/2026lhzt/?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "收费文章",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007994.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000007994.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000007994.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102419649",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2023-03-16/167896445466441_266_177.jpg",
+      "published_at": "2026-03-25 14:40:43",
+      "reported_attr": 5,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "2026年政府工作报告解读",
+      "url": "https://deepview.caixin.com/topic/BQ02.000007994.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007441.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000007441.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000007441.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "101672328",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2021-03-08/1615184553992589_266_177.jpg",
+      "published_at": "2026-02-16 15:59:17",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "又逢妇女节 我们应关注哪些话题？",
+      "url": "https://deepview.caixin.com/topic/BQ02.000007441.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "收费文章",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007980.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000007980.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000007980.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102403424",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2026-01-13/176831671965982_266_177.jpg",
+      "published_at": "2026-02-03 09:47:00",
+      "reported_attr": 5,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "2026年反腐大片",
+      "url": "https://deepview.caixin.com/topic/BQ02.000007980.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007949.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000007949.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000007949.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102387380",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2025-11-26/176416718141087_266_177.jpg",
+      "published_at": "2025-11-27 15:14:10",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "香港大埔重大火灾事故追踪",
+      "url": "https://deepview.caixin.com/topic/BQ02.000007949.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007334.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000007334.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000007334.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102205924",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2024-06-14/171834601842394_266_177.jpg",
+      "published_at": "2025-10-25 08:54:35",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "养老算账",
+      "url": "https://deepview.caixin.com/topic/BQ02.000007334.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007874.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000007874.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000007874.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102354128",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2025-08-21/175575049175310_266_177.jpg",
+      "published_at": "2025-10-22 15:19:37",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "社保算账",
+      "url": "https://deepview.caixin.com/topic/BQ02.000007874.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "收费文章",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000006359.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000006359.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000006359.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "101775093",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2021-09-18/1631933678704614_266_177.jpg",
+      "published_at": "2025-10-07 08:00:00",
+      "reported_attr": 5,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "八月十五 话中秋",
+      "url": "https://deepview.caixin.com/topic/BQ02.000006359.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000001566.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000001566.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000001566.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "101771264",
+      "content_not_fetched": true,
+      "image": "https://image1.caixin.com/2021-09-10/1631258432052561_266_177.jpg",
+      "published_at": "2025-08-13 19:22:20",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "又逢教师节，教师从业生态几何？",
+      "url": "https://deepview.caixin.com/topic/BQ02.000001566.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "注册阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007859.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000007859.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000007859.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102348280",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2025-08-03/175421304778598_266_177.jpg",
+      "published_at": "2025-08-03 17:24:13",
+      "reported_attr": 4,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "基孔肯雅热来袭",
+      "url": "https://deepview.caixin.com/topic/BQ02.000007859.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007779.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000007779.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000007779.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102325331",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2025-05-29/174851452099987_266_177.jpg",
+      "published_at": "2025-05-29 12:31:26",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "拍案惊奇录",
+      "url": "https://deepview.caixin.com/topic/BQ02.000007779.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000005982.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000005982.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000005982.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "101894305",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2022-06-03/165421489444114_266_177.jpg",
+      "published_at": "2025-04-03 09:26:04",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "五月五 话端午",
+      "url": "https://deepview.caixin.com/topic/BQ02.000005982.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007439.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000007439.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000007439.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "101708561",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2021-05-09/1620528512277080_266_177.jpg",
+      "published_at": "2025-04-03 09:25:02",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "母亲节，阅读关于母亲的叙事",
+      "url": "https://deepview.caixin.com/topic/BQ02.000007439.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "microsite",
+        "canonical_url": "https://topics.caixin.com/2025/2025lhzt/",
+        "command": [
+          "caixin-cli",
+          "microsite",
+          "https://topics.caixin.com/2025/2025lhzt/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/2025/2025lhzt/?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102293954",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2025-03-03/174098627579462_266_177.jpg",
+      "published_at": "2025-03-05 10:09:05",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "2025全国两会报道",
+      "url": "https://topics.caixin.com/2025/2025lhzt/?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000002236.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000002236.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000002236.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102294690",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2025-03-05/174114040707983_266_177.jpg",
+      "published_at": "2025-03-05 10:07:24",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "解读2025年政府工作报告",
+      "url": "https://deepview.caixin.com/topic/BQ02.000002236.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "收费文章",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000005760.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000005760.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000005760.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102286797",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2025-02-10/173916599519197_266_177.jpg",
+      "published_at": "2025-02-10 13:40:09",
+      "reported_attr": 5,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "“集采”冲击波",
+      "url": "https://deepview.caixin.com/topic/BQ02.000005760.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007438.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000007438.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000007438.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102168062",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2022-02-12/164462742349812_266_177.jpg",
+      "published_at": "2025-02-09 16:10:28",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "元宵节趣话",
+      "url": "https://deepview.caixin.com/topic/BQ02.000007438.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "收费文章",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000000427.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000000427.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000000427.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102275597",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2024-12-19/173458311838573_266_177.jpg",
+      "published_at": "2025-01-06 14:02:18",
+      "reported_attr": 5,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "十年反腐大片回顾",
+      "url": "https://deepview.caixin.com/topic/BQ02.000000427.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007636.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000007636.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000007636.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102272672",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2024-12-27/173527590492390_266_177.jpg",
+      "published_at": "2025-01-06 14:00:57",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "留学申请造假乱象",
+      "url": "https://deepview.caixin.com/topic/BQ02.000007636.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "收费文章",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007639.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000007639.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000007639.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102275881",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2024-12-31/173563842793043_266_177.jpg",
+      "published_at": "2025-01-06 13:58:24",
+      "reported_attr": 5,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "营养餐之困",
+      "url": "https://deepview.caixin.com/topic/BQ02.000007639.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000006183.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000006183.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000006183.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102242719",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2024-10-07/172831241681879_266_177.jpg",
+      "published_at": "2024-10-07 23:01:25",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "原司法厅长的现实版“狂飙”",
+      "url": "https://deepview.caixin.com/topic/BQ02.000006183.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "microsite",
+        "canonical_url": "https://topics.caixin.com/2024/75zn/",
+        "command": [
+          "caixin-cli",
+          "microsite",
+          "https://topics.caixin.com/2024/75zn/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/2024/75zn/?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102241854",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2024-09-30/172768736039278_266_177.jpg",
+      "published_at": "2024-09-30 17:09:30",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "庆祝中华人民共和国成立75周年",
+      "url": "https://topics.caixin.com/2024/75zn/?cxapp_link=true"
+    }
+  ],
+  "name": "政经专题",
+  "ok": true,
+  "page": 1,
+  "page_size": 25,
+  "returned": 25,
+  "start": 0,
+  "subject": 100303642,
+  "total": 258,
+  "url": "https://topics.caixin.com/china_sp/"
+}

@@ -1,0 +1,529 @@
+{
+  "_untrusted": true,
+  "article_details_not_fetched": true,
+  "complete_listing_verified": false,
+  "directory_only": true,
+  "external_stylesheets_applied": false,
+  "items_count": 17,
+  "javascript_executed": false,
+  "latest_article_date": "2026-08-07",
+  "modules": [
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-08-07/102472368.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-08-07/102472368.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-08-07/102472368.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-07/178610091678070_300_200.jpg",
+          "meta": "文｜财新 刘冉",
+          "summary": "嘉事堂为何两任董秘接连非正常辞职？十余名中高层管理人员缘何被查？",
+          "title": "光大旗下上市公司出售背后隐情 多人卷入医疗腐败案被查",
+          "url": "https://wenews.caixin.com/2026-08-07/102472368.html"
+        }
+      ],
+      "key": "wenews.headline",
+      "lane": "lead",
+      "name": "金融我闻-最新文章",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-08-07/102472368.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-08-07/102472368.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-08-07/102472368.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-07/178610091678070_145_97.jpg",
+          "meta": "文｜财新 刘冉 2026年08月07日 19:06",
+          "summary": "嘉事堂为何两任董秘接连非正常辞职？十余名中高层管理人员缘何被查？",
+          "title": "光大旗下上市公司出售背后隐情 多人卷入医疗腐败案被查",
+          "url": "https://wenews.caixin.com/2026-08-07/102472368.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-08-06/102472068.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-08-06/102472068.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-08-06/102472068.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-06/178602066897985_145_97.jpg",
+          "meta": "文｜财新 王娟娟 2026年08月06日 20:49",
+          "summary": "无论是当代集团债务危机爆发，还是创始人被追刑责，导火索均是非法集资风险的集中暴露",
+          "title": "艾路明及多名股东被拘 当代系创始人因何此时被清算",
+          "url": "https://wenews.caixin.com/2026-08-06/102472068.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-08-06/102471632.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-08-06/102471632.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-08-06/102471632.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-06/178597275061298_145_97.jpg",
+          "meta": "文｜财新 任蕙兰 2026年08月06日 07:10",
+          "summary": "百年人寿的公司治理仍处僵局，风险寿企的帽子还未摘下，旗下重要子公司百年资管面临换将",
+          "title": "资管掌舵人更替 百年人寿僵局何解",
+          "url": "https://wenews.caixin.com/2026-08-06/102471632.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-08-04/102471244.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-08-04/102471244.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-08-04/102471244.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-04/178584981540562_145_97.jpg",
+          "meta": "文｜财新 刘冉 2026年08月04日 21:21",
+          "summary": "动辄三五百万元的差旅费和专家费水分几何？能否改由从基金公司的管理费用中支出，而非由佣金变相返点？",
+          "title": "调研行踪争议 基金经理扎堆海外行谁买单",
+          "url": "https://wenews.caixin.com/2026-08-04/102471244.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-08-03/102470964.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-08-03/102470964.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-08-03/102470964.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-03/178575694037939_145_97.jpg",
+          "meta": "文｜财新 丁锋 2026年08月03日 19:34",
+          "summary": "在这一轮地方化债中，为何这笔债务在逾期六年多、法院判决五年多后仍未能收回本金？",
+          "title": "一笔贵州非标债务的六年化债路 “一揽子化债”困难重重",
+          "url": "https://wenews.caixin.com/2026-08-03/102470964.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-07-31/102470175.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-07-31/102470175.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-07-31/102470175.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-31/178549514266719_145_97.jpg",
+          "meta": "文｜财新 朱亮韬 余聪 2026年07月31日 18:44",
+          "summary": "“财税补贴毕竟还有一定限度，也会有三五年期限的动态调整，但地方国资借钱搞基金招商的风险是巨大的”",
+          "title": "哪吒汽车破产重整草案表决二次延期 地方国资基金招商风险再审视(含视频)",
+          "url": "https://wenews.caixin.com/2026-07-31/102470175.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-07-29/102469328.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-07-29/102469328.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-07-29/102469328.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-29/178533097458441_145_97.jpg",
+          "meta": "文｜财新 岳跃 2026年07月29日 21:12",
+          "summary": "一项在中国私募行业并不鲜见的T+0合作业务，为何将高盛前分析师及其创办的百亿级量化私募送上刑事审判席",
+          "title": "百亿量化私募触犯刑法 千惠资产T+0分仓案一审落槌",
+          "url": "https://wenews.caixin.com/2026-07-29/102469328.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-07-28/102468922.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-07-28/102468922.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-07-28/102468922.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-28/178525144252645_145_97.jpg",
+          "meta": "文｜财新 王娟娟 岳跃 2026年07月28日 23:09",
+          "summary": "此前拖延了一段时间的人事安排落定，相关人员已相继到岗，涉及会机关、交易所和会管单位",
+          "title": "证监体系多名中层干部完成调整 有人履新有人调离",
+          "url": "https://wenews.caixin.com/2026-07-28/102468922.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-07-28/102468589.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-07-28/102468589.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-07-28/102468589.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-28/178520597414736_145_97.jpg",
+          "meta": "文｜财新 刘冉 张宇哲 2026年07月28日 07:14",
+          "summary": "利率回归法定水平的同时，助贷行业与平台的关系、风险控制等方面应做怎样的调整？",
+          "title": "助贷新规酝酿“打补丁” 平台分润比例多少更合理？",
+          "url": "https://wenews.caixin.com/2026-07-28/102468589.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-07-25/102468018.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-07-25/102468018.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-07-25/102468018.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-25/178494930024165_145_97.jpg",
+          "meta": "文｜财新 王娟娟 2026年07月25日 11:15",
+          "summary": "海归精英学霸，浮沉中国官场多年，退休两年后落马，究竟为何？",
+          "title": "证监会前副主席再落马 海归高官方星海其人其事",
+          "url": "https://wenews.caixin.com/2026-07-25/102468018.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-07-23/102467395.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-07-23/102467395.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-07-23/102467395.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-23/178481760569577_145_97.jpg",
+          "meta": "文｜财新 岳跃 2026年07月23日 22:37",
+          "summary": "在创始人去世后，本就深陷债务泥潭的总部基地，不得不把原来的写字楼项目转为包括学生公寓在内的其他用途",
+          "title": "中资在英最大写字楼项目烂尾转向 总部基地爆发家族遗产争夺案",
+          "url": "https://wenews.caixin.com/2026-07-23/102467395.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-07-22/102467097.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-07-22/102467097.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-07-22/102467097.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-22/178473073813684_145_97.jpg",
+          "meta": "文｜财新 武晓蒙 2026年07月22日 22:15",
+          "summary": "此人早年深耕之地，多位分行领导此前已被查",
+          "title": "“宇宙行”直属分行副行长任上“失联” 线索指向何方",
+          "url": "https://wenews.caixin.com/2026-07-22/102467097.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-07-22/102466846.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-07-22/102466846.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-07-22/102466846.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-22/178467565269291_145_97.jpg",
+          "meta": "文｜财新 程思炜 2026年07月22日 07:15",
+          "summary": "完成土地增值税清算并已退税的地产项目，为何不到三年后被重新检查并要求补税？背后有什么特殊安排？",
+          "title": "从“配合少退税”到补税 房企土增税清算争议",
+          "url": "https://wenews.caixin.com/2026-07-22/102466846.html"
+        }
+      ],
+      "key": "wenews.latest",
+      "lane": "main",
+      "name": "金融我闻最新文章",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-07/102472123.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-07/102472123.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-07/102472123.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "meta": "08月07日 09:29",
+          "summary": "沪指开盘报3896.49点；深成指报14152.78点",
+          "title": "今日开盘：沪指报3896.49点 跌幅0.10%",
+          "url": "https://finance.caixin.com/2026-08-07/102472123.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-06/102471665.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-06/102471665.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-06/102471665.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "meta": "08月06日 09:29",
+          "summary": "沪指开盘报3864.27点，跌幅0.36%；深成指报13981.44点，跌幅1.15%",
+          "title": "今日开盘：两市双双低开 沪指跌幅0.36%",
+          "url": "https://finance.caixin.com/2026-08-06/102471665.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-05/102471311.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-05/102471311.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-05/102471311.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "meta": "08月05日 09:29",
+          "summary": "沪指开盘报3815.12点，跌幅0.19%；深成指报13644.83点，跌幅1.73%",
+          "title": "今日开盘：两市双双低开 沪指跌幅0.19%",
+          "url": "https://finance.caixin.com/2026-08-05/102471311.html"
+        }
+      ],
+      "key": "wenews.market",
+      "lane": "sidebar",
+      "name": "金融市场",
+      "order": 0,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 3,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://finance.caixin.com/market/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://finance.caixin.com/market/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://finance.caixin.com/market/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "金融市场",
+      "url": "https://finance.caixin.com/market/"
+    }
+  ],
+  "navigation_count": 1,
+  "ok": true,
+  "page_kind": "wenews-index",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:49:03+00:00",
+    "final_url": "https://wenews.caixin.com/",
+    "requested_url": "https://wenews.caixin.com/"
+  },
+  "source_mode": "server_html",
+  "stale_content": false,
+  "title": "金融我闻频道-财新网",
+  "unique_urls_count": 16
+}

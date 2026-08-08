@@ -1,0 +1,264 @@
+{
+  "_untrusted": true,
+  "categories": [
+    {
+      "code": "20",
+      "id": 119,
+      "name": "综合",
+      "sorts": [
+        {
+          "name": "智能排序",
+          "value": 3
+        },
+        {
+          "name": "时间倒序",
+          "value": 0
+        },
+        {
+          "name": "时间正序",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "code": "21",
+      "id": 120,
+      "name": "杂志",
+      "sorts": [
+        {
+          "name": "时间倒序",
+          "value": 0
+        },
+        {
+          "name": "时间正序",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "code": "23",
+      "id": 122,
+      "name": "财新数据通",
+      "sorts": [
+        {
+          "name": "时间倒序",
+          "value": 0
+        },
+        {
+          "name": "时间正序",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "code": "22",
+      "id": 121,
+      "name": "金融我闻",
+      "sorts": [
+        {
+          "name": "时间倒序",
+          "value": 0
+        },
+        {
+          "name": "时间正序",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "code": "24",
+      "id": 123,
+      "name": "财新mini+",
+      "sorts": [
+        {
+          "name": "时间倒序",
+          "value": 0
+        },
+        {
+          "name": "时间正序",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "code": "25",
+      "id": 124,
+      "name": "博客",
+      "sorts": [
+        {
+          "name": "时间倒序",
+          "value": 0
+        },
+        {
+          "name": "时间正序",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "code": "26",
+      "id": 125,
+      "name": "视频",
+      "sorts": [
+        {
+          "name": "时间倒序",
+          "value": 0
+        },
+        {
+          "name": "时间正序",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "code": "27",
+      "id": 126,
+      "name": "图片",
+      "sorts": [
+        {
+          "name": "时间倒序",
+          "value": 0
+        },
+        {
+          "name": "时间正序",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "code": "28",
+      "id": 127,
+      "name": "数字说",
+      "sorts": [
+        {
+          "name": "时间倒序",
+          "value": 0
+        },
+        {
+          "name": "时间正序",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "code": "29",
+      "id": 128,
+      "name": "专题",
+      "sorts": [
+        {
+          "name": "时间倒序",
+          "value": 0
+        },
+        {
+          "name": "时间正序",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "code": "41",
+      "id": 180,
+      "name": "会议",
+      "sorts": [
+        {
+          "name": "时间倒序",
+          "value": 0
+        },
+        {
+          "name": "时间正序",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "code": "30",
+      "id": 129,
+      "name": "话题",
+      "sorts": [
+        {
+          "name": "时间倒序",
+          "value": 0
+        },
+        {
+          "name": "时间正序",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "code": "31",
+      "id": 130,
+      "name": "特别呈现",
+      "sorts": [
+        {
+          "name": "时间倒序",
+          "value": 0
+        },
+        {
+          "name": "时间正序",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "code": "32",
+      "id": 131,
+      "name": "私房课",
+      "sorts": [
+        {
+          "name": "时间倒序",
+          "value": 0
+        },
+        {
+          "name": "时间正序",
+          "value": 1
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "name": "全文",
+      "value": "all"
+    },
+    {
+      "name": "正文",
+      "value": "text"
+    },
+    {
+      "name": "作者",
+      "value": "author"
+    },
+    {
+      "name": "标题",
+      "value": "title"
+    }
+  ],
+  "ok": true,
+  "time_ranges": [
+    {
+      "name": "时间不限",
+      "value": 0
+    },
+    {
+      "name": "一天内",
+      "value": 1
+    },
+    {
+      "name": "一周内",
+      "value": 2
+    },
+    {
+      "name": "一月内",
+      "value": 3
+    },
+    {
+      "name": "一年内",
+      "value": 4
+    },
+    {
+      "name": "选择时间",
+      "value": 5
+    }
+  ]
+}

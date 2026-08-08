@@ -1,0 +1,448 @@
+{
+  "_untrusted": true,
+  "complete_listing_verified": false,
+  "external_stylesheets_applied": false,
+  "items_count": 12,
+  "javascript_executed": false,
+  "modules": [
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-05/102471274.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-05/102471274.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-05/102471274.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-03-22/174260826404395_840_560.jpg",
+          "published_at": "文｜财新 周信达 08月05日 07:10",
+          "source_state": "visible",
+          "summary": "集采中标率提高，叠加以中选价定额报销政策试水，原研药可能进入一段降价区间",
+          "title": "10款原研药中标集采 患者用药有何变化？",
+          "url": "https://www.caixin.com/2026-08-05/102471274.html"
+        }
+      ],
+      "key": "health.top",
+      "lane": "main",
+      "name": "头条",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-05/102471274.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-05/102471274.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-05/102471274.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-03-22/174260826404395_145_97.jpg",
+          "summary": "集采中标率提高，叠加以中选价定额报销政策试水，原研药可能进入一段降价区间",
+          "title": "10款原研药中标集采 患者用药有何变化？",
+          "url": "https://www.caixin.com/2026-08-05/102471274.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-03/102470695.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-03/102470695.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-03/102470695.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-03/178571634607241_145_97.jpg",
+          "summary": "跨国药企重视中国罕见病市场，中国以政策扶持FIC药品，在此基础上，奥泽悦在中国实现全球最先申报、最先获批具有一定代表性",
+          "title": "解药｜一款罕见病药物，为何在中国实现最先申报、最先获批？",
+          "url": "https://www.caixin.com/2026-08-03/102470695.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-02/102470560.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-02/102470560.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-02/102470560.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-02/178564358021924_145_97.jpg",
+          "summary": "截至2026年二季度末，非医药主题公募基金重仓持股中，医药股持仓比例较一季度仍有所下降",
+          "title": "医药板块7月收涨，“基因编辑概念股”一日跌超19%｜医药股周报",
+          "url": "https://www.caixin.com/2026-08-02/102470560.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-31/102469745.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-31/102469745.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-31/102469745.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-31/178545415241541_145_97.jpg",
+          "summary": "在覆盖药品全生命周期的安全管理体系中，药物警戒作用凸显；《办法》有两大特点",
+          "title": "上海加强药品上市后主动监测 率先正式施行省级管理办法(含视频)",
+          "url": "https://www.caixin.com/2026-07-31/102469745.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-30/102469367.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-30/102469367.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-30/102469367.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-30/178536803214251_145_97.jpg",
+          "summary": "以非常规路径满足患者迫切需求的研究应当如何开展？探索新技术伦理边界何在？",
+          "title": "特稿｜追问女童死亡背后的基因编辑“定制”试验",
+          "url": "https://www.caixin.com/2026-07-30/102469367.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-29/102469167.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-29/102469167.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-29/102469167.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-29/178531407449510_145_97.jpg",
+          "summary": "2022年以来，医院原副院长王家祥和院长阚全程先后被查，其中王家祥与此案有关",
+          "title": "郑大一附院药学部原主任受贿2500万元 涉10家药企(含视频)",
+          "url": "https://www.caixin.com/2026-07-29/102469167.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-28/102468889.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-28/102468889.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-28/102468889.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-28/178524413468953_145_97.jpg",
+          "summary": "如何平衡新技术的风险与获益？不少业内人士对财新指出，基因编辑这一前沿技术具有挽救患者生命的巨大潜力，应令此类新技术的临床探索在更完备的监督和管理下施行",
+          "title": "解药｜女童死亡风波中的碱基编辑",
+          "url": "https://www.caixin.com/2026-07-28/102468889.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-28/102468750.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-28/102468750.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-28/102468750.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-28/178522303962053_145_97.jpg",
+          "summary": "南方高于北方，青壮年阳性率最高，香港台湾疫情同步升温",
+          "title": "新冠重回呼吸道病原榜首 中疾控：处中流行水平(含视频)",
+          "url": "https://www.caixin.com/2026-07-28/102468750.html"
+        }
+      ],
+      "key": "health.news",
+      "lane": "main",
+      "name": "要闻",
+      "order": 1,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://mappv5.caixin.com/m_topic_detail/1747.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://mappv5.caixin.com/m_topic_detail/1747.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mappv5.caixin.com/m_topic_detail/1747.html?cxapp_topic=1747",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "summary": null,
+          "title": "新冠疫情全纪录（实时更新中）",
+          "url": "https://mappv5.caixin.com/m_topic_detail/1747.html?cxapp_topic=1747"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://key.caixin.com/topic/BQ02.000004082",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://key.caixin.com/topic/BQ02.000004082"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://key.caixin.com/topic/BQ02.000004082",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "summary": null,
+          "title": "关注辉瑞口服药",
+          "url": "https://key.caixin.com/topic/BQ02.000004082"
+        }
+      ],
+      "key": "health.topics",
+      "lane": "sidebar",
+      "name": "热点专题",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2025-12-05/102390064.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2025-12-05/102390064.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2025-12-05/102390064.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-12-06/176498965053754_145_97.jpg",
+          "summary": "以往壁垒重重的安全性、有效性评价迈出实质性步伐，转向是如何发生的？影响如何？能否助力中药创新？",
+          "title": "封面报道｜中药注射剂大考",
+          "url": "https://weekly.caixin.com/2025-12-05/102390064.html"
+        }
+      ],
+      "key": "health.rail-0",
+      "lane": "sidebar",
+      "name": "推荐阅读",
+      "order": 1,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 4,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://www.caixin.com/health/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://www.caixin.com/health/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://www.caixin.com/health/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "推荐阅读",
+      "url": "https://www.caixin.com/health/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000005673.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000005673.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000005673.html",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "解药",
+      "url": "https://deepview.caixin.com/topic/BQ02.000005673.html"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topics",
+        "canonical_url": "https://topics.caixin.com/china_sp/",
+        "command": [
+          "caixin-cli",
+          "topics",
+          "https://topics.caixin.com/china_sp/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/china_sp/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "热点专题",
+      "url": "https://topics.caixin.com/china_sp/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://mappv5.caixin.com/m_topic_detail/1612.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://mappv5.caixin.com/m_topic_detail/1612.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://mappv5.caixin.com/m_topic_detail/1612.html",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "争议肿瘤诊疗",
+      "url": "https://mappv5.caixin.com/m_topic_detail/1612.html"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://mappv5.caixin.com/m_topic_detail/1609.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://mappv5.caixin.com/m_topic_detail/1609.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://mappv5.caixin.com/m_topic_detail/1609.html",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "聚焦过度诊疗争议",
+      "url": "https://mappv5.caixin.com/m_topic_detail/1609.html"
+    }
+  ],
+  "navigation_count": 5,
+  "ok": true,
+  "page_kind": "health",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:49:35+00:00",
+    "final_url": "https://www.caixin.com/health/",
+    "requested_url": "https://www.caixin.com/health/"
+  },
+  "source_mode": "server_html",
+  "title": "健康_财新网_财新网"
+}

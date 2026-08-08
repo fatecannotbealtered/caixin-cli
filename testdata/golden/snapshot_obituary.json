@@ -1,0 +1,1154 @@
+{
+  "_untrusted": true,
+  "complete_listing_verified": false,
+  "external_stylesheets_applied": false,
+  "items_count": 42,
+  "javascript_executed": false,
+  "modules": [
+    {
+      "items": [
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-01/102470415.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-01/102470415.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-01/102470415.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-01/178555424121553_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文文文文文文文文，文文文00文文文文文文文文文文文文xx文文文文文，文文文文文文00文，文文文文文文文文文文文文文文文。文文文文文文文文文文00文文文文文文文文文、文文文文文文",
+          "title": "AC米兰“永远的6号”，意大利传奇球星巴雷西66岁去世｜讣闻",
+          "url": "https://www.caixin.com/2026-08-01/102470415.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-27/102468503.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-27/102468503.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-27/102468503.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-27/178514560340667_145_97.jpg",
+          "summary": "自1985年以《放学后》成名以来，东野圭吾创作了大量小说，涵盖推理、悬疑、科幻等类型，曾获日本推理作家协会奖、直木奖等荣誉，是日本推理小说界罕见的“三冠王”",
+          "title": "从工程师到“三冠王”：东野圭吾的推理人生｜讣闻",
+          "url": "https://www.caixin.com/2026-07-27/102468503.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-27/102468358.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-27/102468358.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-27/102468358.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-27/178512159567916_145_97.jpg",
+          "summary": "中国工程院院士、中国舰船通信学科开拓者和奠基人之一。陆建勋说：“我们这一代人所走的科研道路，完全是在自力更生的基础上来进行的。”",
+          "title": "陆建勋：让核潜艇“耳聪目明”｜讣闻",
+          "url": "https://www.caixin.com/2026-07-27/102468358.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-20/102466227.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-20/102466227.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-20/102466227.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-20/178454465854511_145_97.jpg",
+          "summary": "谢霆锋发文称：“如果想起四哥、想起我父亲，不用哭，也不必太伤心，他会觉得那样不够潇洒。”",
+          "title": "墨镜马尾伴半生，谢贤六十载演绎香港影视往事｜讣闻",
+          "url": "https://www.caixin.com/2026-07-20/102466227.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-16/102464693.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-16/102464693.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-16/102464693.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-16/178416691607724_145_97.jpg",
+          "summary": "作为深耕音韵学领域的著名学者，他能够博采众家之说，而又守正创新，在古音史每一个阶段的研究均卓然有成。在学界，他忠厚笃实的仁者风范有口皆碑",
+          "title": "学者仁者唐作藩 深耕音韵自成宗｜讣闻",
+          "url": "https://www.caixin.com/2026-07-16/102464693.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-14/102464058.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-14/102464058.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-14/102464058.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-14/178400787397910_145_97.jpg",
+          "summary": "她以侠女般的刚毅与胆识，为天马行空的香港电影梦筑起坚实堡垒",
+          "title": "施南生，港片幕后真正的大女主｜讣闻",
+          "url": "https://www.caixin.com/2026-07-14/102464058.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-14/102463925.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-14/102463925.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-14/102463925.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-14/178398564229685_145_97.jpg",
+          "summary": "无论是左派还是右派都认为他是一个善于改变现状的机会主义者。但他的强硬对外干涉主义立场则始终未变",
+          "title": "美“鹰派”参议员格雷厄姆病故：从特朗普的批判者到扈从者｜讣闻",
+          "url": "https://www.caixin.com/2026-07-14/102463925.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-13/102463792.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-13/102463792.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-13/102463792.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-13/178393448663227_145_97.jpg",
+          "summary": "作为亲历者，王连洲曾以“风风雨雨《证券法》、坎坎坷坷《信托法》、曲曲折折《基金法》”来概括这三部金融业大法的出台历程",
+          "title": "王连洲牵头起草三部金融业大法 坎坎坷坷、曲曲折折｜讣闻",
+          "url": "https://www.caixin.com/2026-07-13/102463792.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-06-30/102459070.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-06-30/102459070.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-06-30/102459070.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-30/178278741453565_145_97.jpg",
+          "summary": "王洛林出身于一个在中国学术界和教育界具有深远影响的知识分子家庭，他的人生经历和治学之路深受父亲王亚南的影响。对苏联、东欧经济的深入研究，使他形成了全面改革的观点",
+          "title": "王洛林传承家学经世致用的一生｜讣闻",
+          "url": "https://www.caixin.com/2026-06-30/102459070.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-06-23/102456486.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-06-23/102456486.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-06-23/102456486.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-23/178218304173570_145_97.jpg",
+          "summary": "汪松推动中国加入《生物多样性公约》，也是爱丁堡奖章的首位亚洲得主。他曾表示，“我觉得自己算不上是真正的科学家。我就是国内国外地跑”",
+          "title": "汪松：开拓生物多样性保护，推动麋鹿重返故土｜讣闻",
+          "url": "https://www.caixin.com/2026-06-23/102456486.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-06-22/102456394.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-06-22/102456394.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-06-22/102456394.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-22/178213838122379_145_97.jpg",
+          "summary": "在他执掌美联储期间，美国经历了历史上持续时间最长的经济扩张时期之一，但他也因一些决策而受到批评",
+          "title": "美联储前主席格林斯潘去世 享年100岁｜讣闻",
+          "url": "https://www.caixin.com/2026-06-22/102456394.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-06-22/102456332.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-06-22/102456332.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-06-22/102456332.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-22/178212104644668_145_97.jpg",
+          "summary": "文文文文00文《文文文》（xxxxxxx），文文文文文文文文文文文文；文文文文文文《文文文文文》（xxx xxx xxxx xxxxxx）、《文文文文》（0 xxxxx xxxxx）文文文文文文文文文文文文文，文文文文文文文文文",
+          "title": "詹姆斯·伯罗斯：电视情景喜剧大师 曾执导《老友记》《生活大爆炸》｜讣闻",
+          "url": "https://www.caixin.com/2026-06-22/102456332.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-06-10/102452746.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-06-10/102452746.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-06-10/102452746.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-10/178106583182265_145_97.jpg",
+          "summary": "文文文文文文文文文，文文文文0000文文文文文文文《文文文文文文》。文文文文文文文文文文文文文文文文文文——文文文文文文文文文，文文文文文文文文文文文文文文文文，文文文文文文文，文文文文文文文文文文文文文",
+          "title": "《我在伊朗长大》作者玛赞·莎塔碧：“去他的，我们不想那样活”｜讣闻",
+          "url": "https://www.caixin.com/2026-06-10/102452746.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-06-04/102450829.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-06-04/102450829.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-06-04/102450829.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-04/178054099202628_145_97.jpg",
+          "summary": "中国航空科技事业奠基人之一，建立了中国飞机空气动力学设计体系，开创了自主研制歼击机的先河",
+          "title": "顾诵芬：歼8之父｜讣闻",
+          "url": "https://www.caixin.com/2026-06-04/102450829.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-06-02/102450180.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-06-02/102450180.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-06-02/102450180.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-02/178038445103575_145_97.jpg",
+          "summary": "他是NBA历史上仅有的11位千胜主教练之一，2021年入选奈·史密斯篮球名人堂，2023年荣获“查克·戴利终身成就奖”",
+          "title": "NBA名帅阿德尔曼：曾执教姚明，率火箭打出22连胜｜讣闻",
+          "url": "https://www.caixin.com/2026-06-02/102450180.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-05-25/102447327.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-05-25/102447327.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-05-25/102447327.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-25/177969857049840_145_97.jpg",
+          "summary": "将7-Eleven便利店业态引入日本市场，反向收购品牌母公司，并推动品牌全球化",
+          "title": "7-Eleven和伊藤洋华堂前掌舵人铃木敏文离世 享年93岁｜讣闻(含视频)",
+          "url": "https://www.caixin.com/2026-05-25/102447327.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-05-25/102447145.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-05-25/102447145.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-05-25/102447145.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-25/177966814109963_145_97.jpg",
+          "summary": "他的学术轨迹看似不断转向，实则始终围绕一个核心：“张扬个体生命价值观，批判反人性与反尊严”。不管论题与语境如何变化，一直不变的是“人”字的分量",
+          "title": "刘再复：把人看作人，维护人的尊严和价值｜讣闻",
+          "url": "https://www.caixin.com/2026-05-25/102447145.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-05-23/102446944.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-05-23/102446944.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-05-23/102446944.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-23/177951051566643_145_97.jpg",
+          "summary": "他是美国金融危机后最重要金融监管法案的核心推手，以言辞犀利、反应敏捷、务实且敢于直面争议著称，也是美国历史上首位主动公开同性恋身份的议员",
+          "title": "“多德-弗兰克”的另一半谢幕：巴尼·弗兰克的监管遗产与政治人生｜讣闻",
+          "url": "https://www.caixin.com/2026-05-23/102446944.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-05-14/102444067.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-05-14/102444067.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-05-14/102444067.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-14/177875192546313_145_97.jpg",
+          "summary": "周佩贤出生草根，幼年居住在穷苦地方的公共房屋，父亲是一名装修包工头",
+          "title": "倒在香港楼市回暖前 43岁女地产商烧炭身亡｜讣闻",
+          "url": "https://www.caixin.com/2026-05-14/102444067.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-05-09/102442223.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-05-09/102442223.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-05-09/102442223.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-09/177828362647349_145_97.jpg",
+          "summary": "他以“懂得”之心推动公益理念的传播与实践，助中国公益事业夯实基础；以先锋精神汇集社会力量，为公益事业发展添砖加瓦",
+          "title": "《公益时报》创办社长刘京：为公益事业拓荒｜讣闻",
+          "url": "https://www.caixin.com/2026-05-09/102442223.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-05-08/102441943.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-05-08/102441943.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-05-08/102441943.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-08/177822233270477_145_97.jpg",
+          "summary": "他的愿景，是打造一个“能够连接整个世界，让我们彼此看见”的电视网",
+          "title": "特德‧特纳：CNN创办人，“改变世界新闻收视习惯的人”｜讣闻",
+          "url": "https://www.caixin.com/2026-05-08/102441943.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-05-08/102441916.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-05-08/102441916.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-05-08/102441916.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-08/177821430451349_145_97.jpg",
+          "summary": "唐宝林长期从事中国革命史研究，涉及宋庆龄、“一二·九”运动及中国托派等多个课题，但是，史学界公认他最具开创性的学术成就为陈独秀研究",
+          "title": "唐宝林：积数十年之功，为历史人物正名｜讣闻",
+          "url": "https://www.caixin.com/2026-05-08/102441916.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-05-04/102440575.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-05-04/102440575.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-05-04/102440575.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-04/177787070308865_145_97.jpg",
+          "summary": "在科学界，他是一个极具两极分化色彩的传奇人物：有人认为他口无遮拦、直言不讳，也有人批评他是一个自大狂和肤浅的人",
+          "title": "一半疯子，一半传奇：美国著名基因组学家文特尔｜讣闻",
+          "url": "https://www.caixin.com/2026-05-04/102440575.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-04-26/102438097.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-04-26/102438097.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-04-26/102438097.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-04-26/177719148850728_145_97.jpg",
+          "summary": "目光远大，务实低调，脚踏实地——这是所有与梅山相识的新朋旧友对他的一致评价。“有些人，未必非要站在前台，但同样影响历史”",
+          "title": "“基辛格最亲密的中国知己”，基辛格事务所前董事总经理梅山去世｜讣闻",
+          "url": "https://www.caixin.com/2026-04-26/102438097.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-04-20/102435987.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-04-20/102435987.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-04-20/102435987.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-04-20/177667900937293_145_97.jpg",
+          "summary": "“文文文文文文文文文文文文，文文文文文文文文文文文、文文文文文文文文文文文文文文文文文。文文‘文文文文文文文文文文文文文文文’文文文，文‘文文文文文’文文文文文文文文文文文文、文文文文文文文、文文文文文文文文文文文”",
+          "title": "曾执导《我在故宫修文物》，43岁导演叶君去世｜讣闻",
+          "url": "https://www.caixin.com/2026-04-20/102435987.html"
+        }
+      ],
+      "key": "obituary.articles",
+      "lane": "main",
+      "name": "频道文章",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471770.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599589415867_145_97.jpg",
+          "source_state": "visible",
+          "summary": null,
+          "title": "“入侵”还是“人道危机” 难民潮撕裂西班牙飞地休达",
+          "url": "https://photos.caixin.com/2026-08-06/102471770.html"
+        },
+        {
+          "badges": [
+            "“入侵”还是“人道危机” 难民潮撕裂西班牙飞地休达"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-31/102469828.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599589415867_145_97.jpg",
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471770.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+          "link_mismatch": true,
+          "source_state": "visible",
+          "summary": "“入侵”还是“人道危机” 难民潮撕裂西班牙飞地休达",
+          "title": "显影｜瓜农的漫长等待",
+          "url": "https://weekly.caixin.com/2026-07-31/102469828.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-07/102472114.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-07/102472114.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-07/102472114.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "特稿",
+          "url": "https://www.caixin.com/2026-08-07/102472114.html"
+        },
+        {
+          "badges": [
+            "金融"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-06/102471670.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "在岸人民币兑美元汇率连日升破6.75",
+          "url": "https://finance.caixin.com/2026-08-06/102471670.html"
+        },
+        {
+          "badges": [
+            "金融我闻"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-08-06/102472068.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-08-06/102472068.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-08-06/102472068.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "艾路明及多名股东被拘",
+          "url": "https://wenews.caixin.com/2026-08-06/102472068.html"
+        },
+        {
+          "badges": [
+            "世界"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-07/102472096.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-07/102472096.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-07/102472096.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "特朗普再签两份行政令限制出生公民权",
+          "url": "https://international.caixin.com/2026-08-07/102472096.html"
+        },
+        {
+          "badges": [
+            "财新周刊"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-31/102469823.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-31/102469823.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-31/102469823.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "【封面报道】电力现货市场元年突进",
+          "url": "https://weekly.caixin.com/2026-07-31/102469823.html"
+        }
+      ],
+      "key": "obituary.recommended",
+      "lane": "sidebar",
+      "name": "编辑推荐",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-08/102472618.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-08/102472618.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-08/102472618.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "15:57",
+          "title": "特朗普召开矿业圆桌会 拟向关键矿产投资超20亿美元",
+          "url": "https://www.caixin.com/2026-08-08/102472618.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-08/102472616.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-08/102472616.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-08/102472616.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "14:09",
+          "title": "美日联合干预汇率，为何影响了黄金",
+          "url": "https://opinion.caixin.com/2026-08-08/102472616.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-08/102472611.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-08/102472611.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-08/102472611.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "13:32",
+          "title": "“90后”农民工讨薪涉刑案发回重审 因部分事实不清",
+          "url": "https://china.caixin.com/2026-08-08/102472611.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-08/102472595.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-08/102472595.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-08/102472595.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "12:36",
+          "title": "贵州山脚树矿难致16人死亡近三年 矿长涉罪被罢免全国人大代表",
+          "url": "https://china.caixin.com/2026-08-08/102472595.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-08/102472553.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-08/102472553.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-08/102472553.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "11:12",
+          "title": "非京籍五环内购房社保降至一年 北京市公积金最高可贷340万元",
+          "url": "https://www.caixin.com/2026-08-08/102472553.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-08/102472531.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-08/102472531.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-08/102472531.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "11:07",
+          "title": "寒武纪上半年净利润同比翻倍 营收增速逐季放缓",
+          "url": "https://www.caixin.com/2026-08-08/102472531.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://science.caixin.com/2026-08-08/102472506.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://science.caixin.com/2026-08-08/102472506.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://science.caixin.com/2026-08-08/102472506.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "10:53",
+          "title": "对话｜邱仁宗：临床研究参与者的安全永远是第一位",
+          "url": "https://science.caixin.com/2026-08-08/102472506.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-08/102472447.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-08/102472447.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-08/102472447.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "08:06",
+          "title": "全国人大常委会：六名将领涉嫌严重违纪违法 被罢免全国人大代表",
+          "url": "https://china.caixin.com/2026-08-08/102472447.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-07/102472425.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-07/102472425.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-07/102472425.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "21:43",
+          "title": "7月美国劳动力市场意外放缓 岗位减少2.3万个失业率降至4.1%",
+          "url": "https://international.caixin.com/2026-08-07/102472425.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-07/102472411.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-07/102472411.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-07/102472411.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "20:14",
+          "title": "海外金融专才回流香港 外籍工作签证翻倍",
+          "url": "https://finance.caixin.com/2026-08-07/102472411.html"
+        }
+      ],
+      "key": "obituary.latest",
+      "lane": "sidebar",
+      "name": "最新文章",
+      "order": 1,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 3,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://finance.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://finance.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://finance.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "金融",
+      "url": "https://finance.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://wenews.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://wenews.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://wenews.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "金融我闻",
+      "url": "https://wenews.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://international.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://international.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://international.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "世界",
+      "url": "https://international.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://weekly.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://weekly.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://weekly.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "财新周刊",
+      "url": "https://weekly.caixin.com/"
+    }
+  ],
+  "navigation_count": 4,
+  "ok": true,
+  "page_kind": "obituary",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:49:39+00:00",
+    "final_url": "https://www.caixin.com/obituary/",
+    "requested_url": "https://www.caixin.com/obituary/"
+  },
+  "source_mode": "server_html",
+  "title": "讣闻_财新网_财新网"
+}

@@ -1,0 +1,839 @@
+{
+  "_untrusted": true,
+  "article_details_not_fetched": true,
+  "complete_listing_verified": false,
+  "directory_only": true,
+  "external_stylesheets_applied": false,
+  "items_count": 28,
+  "javascript_executed": false,
+  "kind": "photo_week",
+  "latest_article_date": "2026-08-01",
+  "modules": [
+    {
+      "items": [
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-01/102470434.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-01/102470434.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-01/102470434.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-01/178555495109295_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年08月01日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜日本熊本地震致36人死亡、欧洲野火持续",
+          "url": "https://photos.caixin.com/2026-08-01/102470434.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-07-26/102468234.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-07-26/102468234.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-07-26/102468234.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-26/178506729578953_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年07月26日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜西班牙2026世界杯夺冠、中国数学家邓煜王虹同获2026年菲尔兹奖",
+          "url": "https://photos.caixin.com/2026-07-26/102468234.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-07-18/102465738.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-07-18/102465738.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-07-18/102465738.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-18/178437662641581_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年07月18日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜重庆彭水山体崩塌致8死34失联、台风“巴威”北上致东北暴雨",
+          "url": "https://photos.caixin.com/2026-07-18/102465738.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-07-11/102463057.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-07-11/102463057.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-07-11/102463057.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-11/178375440921545_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年07月11日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜台风“美莎克”引发广西特大洪灾、福建鞋厂火灾致28死",
+          "url": "https://photos.caixin.com/2026-07-11/102463057.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-07-04/102460936.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-07-04/102460936.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-07-04/102460936.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-04/178315387530986_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年07月04日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜委内瑞拉强震已致2645人死亡、伊朗为哈梅内伊举行国葬",
+          "url": "https://photos.caixin.com/2026-07-04/102460936.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-06-27/102458313.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-06-27/102458313.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-06-27/102458313.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-06-27/178253380424341_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年06月27日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜委内瑞拉强震已致920人遇难、英国首相斯塔默宣布辞职",
+          "url": "https://photos.caixin.com/2026-06-27/102458313.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-06-13/102453930.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-06-13/102453930.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-06-13/102453930.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-06-13/178132288343122_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年06月13日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜习近平访问朝鲜、美加墨世界杯开幕",
+          "url": "https://photos.caixin.com/2026-06-13/102453930.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-06-06/102451696.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-06-06/102451696.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-06-06/102451696.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-06-06/178071854564553_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年06月06日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜以军再袭黎巴嫩、2026高考将启",
+          "url": "https://photos.caixin.com/2026-06-06/102451696.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-05-30/102449449.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-05-30/102449449.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-05-30/102449449.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-05-30/178011099666530_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年05月30日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜中非埃博拉病例破千、首位香港航天员进入太空",
+          "url": "https://photos.caixin.com/2026-05-30/102449449.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-05-23/102446879.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-05-23/102446879.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-05-23/102446879.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-05-23/177950166402871_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年05月23日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜暴雨洪涝袭击南方三省、普京访华",
+          "url": "https://photos.caixin.com/2026-05-23/102446879.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-05-16/102444572.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-05-16/102444572.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-05-16/102444572.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-05-16/177889900600459_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年05月16日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜特朗普访华、涉汉坦病毒疫情邮轮完成疏散",
+          "url": "https://photos.caixin.com/2026-05-16/102444572.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-05-09/102442310.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-05-09/102442310.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-05-09/102442310.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-05-09/177829945980667_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年05月09日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜湖南浏阳烟花厂爆炸致37死51伤、“洪迪厄斯”号邮轮汉坦病毒疫情持续",
+          "url": "https://photos.caixin.com/2026-05-09/102442310.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-04-25/102437749.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-04-25/102437749.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-04-25/102437749.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-04-25/177705813605936_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年04月25日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜特朗普宣布延长与伊朗停火期限、香港大埔宏福苑受灾居民首次返家",
+          "url": "https://photos.caixin.com/2026-04-25/102437749.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-04-19/102435707.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-04-19/102435707.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-04-19/102435707.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-04-19/177657396196361_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年04月19日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜黎以达成10天停火协议、第139届广交会开幕",
+          "url": "https://photos.caixin.com/2026-04-19/102435707.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-04-12/102433141.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-04-12/102433141.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-04-12/102433141.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-04-12/177595457553335_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年04月12日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜美伊开启首轮和平谈判、阿尔忒弥斯2号打破人类深空飞行纪录",
+          "url": "https://photos.caixin.com/2026-04-12/102433141.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-04-05/102431190.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-04-05/102431190.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-04-05/102431190.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-04-05/177536878320514_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年04月05日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜美以伊冲突进入第五周、时隔53年美国重启载人绕月计划",
+          "url": "https://photos.caixin.com/2026-04-05/102431190.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-03-28/102428635.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-03-28/102428635.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-03-28/102428635.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-03-28/177467555395784_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年03月28日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜美以伊冲突进入第四周、加航客机降落撞消防车致2死",
+          "url": "https://photos.caixin.com/2026-03-28/102428635.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-03-21/102425832.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-03-21/102425832.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-03-21/102425832.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-03-21/177408890303455_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年03月21日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜美以伊冲突进入第22天、古巴发生全国性大停电",
+          "url": "https://photos.caixin.com/2026-03-21/102425832.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-03-14/102423078.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-03-14/102423078.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-03-14/102423078.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-03-14/177350222520489_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年03月14日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜美以伊冲突进入第15天、国际油价上演“过山车”",
+          "url": "https://photos.caixin.com/2026-03-14/102423078.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-03-07/102420651.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-03-07/102420651.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-03-07/102420651.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-03-07/177286224933554_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年03月07日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜美以伊战事进入第8天、2026全国两会开幕",
+          "url": "https://photos.caixin.com/2026-03-07/102420651.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-02-28/102417975.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-02-28/102417975.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-02-28/102417975.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-02-28/177227590800712_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年02月28日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜美以联合突袭伊朗、巴基斯坦向阿富汗宣战",
+          "url": "https://photos.caixin.com/2026-02-28/102417975.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-02-14/102414829.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-02-14/102414829.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-02-14/102414829.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-02-14/177107250420945_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年02月14日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜特朗普同意结束明州移民执法行动、米兰冬奥会开幕次日万人示威",
+          "url": "https://photos.caixin.com/2026-02-14/102414829.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-02-07/102412672.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-02-07/102412672.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-02-07/102412672.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-02-07/177046421319375_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年02月07日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜2026米兰-科尔蒂纳冬奥会开幕、巴基斯坦清真寺爆炸事件已致36人死亡",
+          "url": "https://photos.caixin.com/2026-02-07/102412672.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-02-01/102410321.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-02-01/102410321.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-02-01/102410321.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-02-01/176994211135069_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年02月01日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜美国明州动荡持续、哥伦比亚边境空难致15人死",
+          "url": "https://photos.caixin.com/2026-02-01/102410321.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-01-24/102407664.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-01-24/102407664.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-01-24/102407664.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-01-24/176924201950587_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年01月24日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜ 2026冬季达沃斯论坛举行、西班牙一周内连发4起列车事故",
+          "url": "https://photos.caixin.com/2026-01-24/102407664.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-01-17/102404931.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-01-17/102404931.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-01-17/102404931.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-01-17/176864261770792_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年01月17日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜伊朗陷3年来最大规模动荡、泰国工程承包商连续两天酿致命事故",
+          "url": "https://photos.caixin.com/2026-01-17/102404931.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-01-10/102402409.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-01-10/102402409.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-01-10/102402409.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-01-10/176801428019562_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年01月10日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜美国掳获委内瑞拉总统马杜罗、韩国总统李在明访华",
+          "url": "https://photos.caixin.com/2026-01-10/102402409.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2025-12-28/102397955.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2025-12-28/102397955.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2025-12-28/102397955.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2025-12-28/176689059667622_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2025年12月28日",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "一周天下｜泰柬达成停火协议、俄中将在莫斯科遭汽车炸弹袭击身亡",
+          "url": "https://photos.caixin.com/2025-12-28/102397955.html"
+        }
+      ],
+      "key": "public-directory.photo_week",
+      "lane": "main",
+      "name": "一周天下",
+      "order": 0,
+      "state": "server_rendered"
+    }
+  ],
+  "modules_count": 1,
+  "ok": true,
+  "page": 1,
+  "pagination": {
+    "links": [
+      {
+        "consumer": {
+          "_untrusted": true,
+          "adapter": "public-directory",
+          "canonical_url": "https://photos.caixin.com/photoreport/index-15.html",
+          "command": [
+            "caixin-cli",
+            "public-directory",
+            "https://photos.caixin.com/photoreport/index-15.html"
+          ],
+          "content_access_not_implied": true,
+          "discovery_required": true,
+          "input_url": "https://photos.caixin.com/photoreport/index-15.html",
+          "ok": true,
+          "supported": true
+        },
+        "label": "下一页",
+        "url": "https://photos.caixin.com/photoreport/index-15.html"
+      },
+      {
+        "consumer": {
+          "_untrusted": true,
+          "adapter": "public-directory",
+          "canonical_url": "https://photos.caixin.com/photoreport/index-1.html",
+          "command": [
+            "caixin-cli",
+            "public-directory",
+            "https://photos.caixin.com/photoreport/index-1.html"
+          ],
+          "content_access_not_implied": true,
+          "discovery_required": true,
+          "input_url": "https://photos.caixin.com/photoreport/index-1.html",
+          "ok": true,
+          "supported": true
+        },
+        "label": "末页",
+        "url": "https://photos.caixin.com/photoreport/index-1.html"
+      }
+    ],
+    "not_followed": true
+  },
+  "rendered_visibility_not_verified": true,
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "scripts_not_executed": true,
+  "session_used": false,
+  "source": {
+    "canonical_url": "https://photos.caixin.com/photoreport/",
+    "fetched_at": "2026-08-06T14:33:06+00:00",
+    "final_url": "https://photos.caixin.com/photoreport/",
+    "requested_url": "https://photos.caixin.com/photoreport/"
+  },
+  "source_mode": "server_html",
+  "stale_content": false,
+  "title": "一周天下_图片频道_财新网",
+  "unique_urls_count": 28
+}

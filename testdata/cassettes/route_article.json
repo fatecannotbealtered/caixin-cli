@@ -1,0 +1,8 @@
+{
+  "name": "route_article",
+  "command": [
+    "route",
+    "https://finance.caixin.com/2026-08-06/102472081.html"
+  ],
+  "interactions": []
+}

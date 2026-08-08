@@ -1,0 +1,599 @@
+{
+  "_untrusted": true,
+  "article_details_not_fetched": true,
+  "complete_listing_verified": false,
+  "directory_only": true,
+  "directory_title": "火线评论",
+  "external_stylesheets_applied": false,
+  "items_count": 20,
+  "javascript_executed": false,
+  "kind": "opinion_upfront",
+  "latest_article_date": "2026-08-07",
+  "linked_pages_not_fetched": true,
+  "modules": [
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-07/102472211.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-07/102472211.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-07/102472211.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-07/178608554726457_145_97.jpg",
+          "published_at": "黄山｜ 2026年08月07日 14:44",
+          "summary": "9月在印度举行的第十八次金砖国家峰会，有望成为金砖这一新兴经济体合作机制成立20年来，在全球格局剧变的当下，全球南方的又一次整合努力",
+          "title": "大西洋观察｜特朗普助力金砖合作",
+          "url": "https://opinion.caixin.com/2026-08-07/102472211.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-06/102471733.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-06/102471733.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-06/102471733.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-06/178601394921873_145_97.jpg",
+          "published_at": "张兰太｜ 2026年08月06日 13:13",
+          "summary": "官方通报过于简略，缺失了大量细节，而且，这起舞弊事件的潜在受益者更是彻底隐身，有待后续调查和处理，给公众一个交代",
+          "title": "火线评论｜广东雷州“特教老师招聘违规”很雷，仍有诸多疑点",
+          "url": "https://opinion.caixin.com/2026-08-06/102471733.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-04/102471205.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-04/102471205.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-04/102471205.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-05/178591225641770_145_97.jpg",
+          "published_at": "周东旭｜ 2026年08月04日 18:09",
+          "summary": "文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文文。文文文文文文文文，文文文文文文文文文文文文文、文文文文文文文文文文文",
+          "title": "火线评论｜索贿加骚扰，执行局长如此“执行”背后的三重扭曲",
+          "url": "https://opinion.caixin.com/2026-08-04/102471205.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-03/102470823.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-03/102470823.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-03/102470823.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-03/178575039549231_145_97.jpg",
+          "published_at": "周东旭｜ 2026年08月03日 15:14",
+          "summary": "手段之拙劣，行为之猖狂，令人发指。倘若不从严处理，恐难平息学子之怒，更无法重新树立“三支一扶”考试的公信力",
+          "title": "火线评论｜河南省“三支一扶”考试舞弊，刺痛社会敏感神经(含视频)",
+          "url": "https://opinion.caixin.com/2026-08-03/102470823.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-01/102470495.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-01/102470495.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-01/102470495.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-01/178556532489713_145_97.jpg",
+          "published_at": "黄山｜ 2026年08月01日 14:15",
+          "summary": "尽管在具体主张上，极右政党各有异同，但体现其主要特色的，还是在对待移民的态度",
+          "title": "大西洋观察｜欧洲政治：没有最右 只有更右",
+          "url": "https://opinion.caixin.com/2026-08-01/102470495.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-07-31/102470237.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-07-31/102470237.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-07-31/102470237.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-31/178550325397190_145_97.jpg",
+          "published_at": "周东旭｜ 2026年07月31日 20:52",
+          "summary": "伪史言论之所以大行其道，很大程度在于契合或裹挟了当下某种狂热的社会情绪",
+          "title": "火线评论｜“唐朝不存在”式胡言乱语凭何成为热点",
+          "url": "https://opinion.caixin.com/2026-07-31/102470237.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-07-23/102467409.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-07-23/102467409.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-07-23/102467409.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-23/178481865522194_145_97.jpg",
+          "published_at": "黄山｜ 2026年07月23日 22:56",
+          "summary": "此次的伊朗战争，则在阿以冲突、中东建制派对抗泛阿拉伯民粹主义两大叙事外，有望开启第三种主流叙事",
+          "title": "大西洋观察｜中东开启第三种主流叙事",
+          "url": "https://opinion.caixin.com/2026-07-23/102467409.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-07-17/102465476.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-07-17/102465476.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-07-17/102465476.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-17/178429864817443_145_97.jpg",
+          "published_at": "黄山｜ 2026年07月17日 22:29",
+          "summary": "相较前任斯塔默，伯纳姆容错空间更小，蜜月期更短。如果伯纳姆不能在执政百日或者执政一周年之际，初步兑现选举承诺，“北境之王”折翼东南概率不小",
+          "title": "大西洋观察｜英国新内阁班底初定 政治家时代困境犹存",
+          "url": "https://opinion.caixin.com/2026-07-17/102465476.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-07-15/102464525.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-07-15/102464525.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-07-15/102464525.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-15/178410838646448_145_97.jpg",
+          "published_at": "周东旭｜ 2026年07月15日 17:33",
+          "summary": "能不能将其办成“样板”案例，让贪腐之人有所畏惧，提升对安全问题的预期，进而从源头上减少安全监管漏洞，也许是对逝者在天之灵的最好祭奠和抚慰",
+          "title": "火线评论｜山西矿难背后的贪腐，瓜还有多少、蔓还有多长？",
+          "url": "https://opinion.caixin.com/2026-07-15/102464525.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-07-10/102462637.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-07-10/102462637.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-07-10/102462637.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-10/178365733504832_145_97.jpg",
+          "published_at": "黄山｜ 2026年07月10日 12:11",
+          "summary": "在当下气候政治陷入“低动力”的时代，对适应性的投入中短期内应该获得更大的资金和其他资源投入",
+          "title": "大西洋观察｜高温下气候政治的取舍博弈",
+          "url": "https://opinion.caixin.com/2026-07-10/102462637.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-07-09/102462508.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-07-09/102462508.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-07-09/102462508.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-09/178360331908622_145_97.jpg",
+          "published_at": "张兰太｜ 2026年07月09日 21:19",
+          "summary": "无论针对因凡蒂诺的投诉结果如何，这场风波都表明，公道自在人心，规则不容践踏。如果说足球需要拯救，首先要从尊重规则做起。其他领域亦如是",
+          "title": "火线评论｜因凡蒂诺会毁掉足球吗？",
+          "url": "https://opinion.caixin.com/2026-07-09/102462508.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-07-09/102462321.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-07-09/102462321.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-07-09/102462321.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-09/178357936758233_145_97.jpg",
+          "published_at": "周东旭｜ 2026年07月09日 14:36",
+          "summary": "平台与经营者、劳动者的关系不只是平台的内部之事，而是事关就业和消费、事关中国经济增长动能转换的大问题。在这个意义上，电子商务法不止是一部行业法律",
+          "title": "火线评论｜进一步理顺平台经济两对关系",
+          "url": "https://opinion.caixin.com/2026-07-09/102462321.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-07-08/102461891.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-07-08/102461891.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-07-08/102461891.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-08/178348085765891_145_97.jpg",
+          "published_at": "张继伟｜ 2026年07月08日 11:12",
+          "summary": "消费主义与民族情绪、政治推手与规则文化、工业化与天才，足球是一个充满悖论的复杂游戏",
+          "title": "火线评论｜世界杯的多重悖论",
+          "url": "https://opinion.caixin.com/2026-07-08/102461891.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-07-07/102461693.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-07-07/102461693.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-07-07/102461693.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-07/178341576644452_145_97.jpg",
+          "published_at": "张帆｜ 2026年07月07日 17:10",
+          "summary": "整套流程无需新增项目、无需盘活资产、无需拉动经济，仅靠文书篡改、资金空刷，财政收入便凭空增长，政绩数据便瞬时光鲜靓丽",
+          "title": "火线评论｜单宗土地最高空转18次 地方财政为何玩起刷单游戏",
+          "url": "https://opinion.caixin.com/2026-07-07/102461693.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-07-07/102461517.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-07-07/102461517.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-07-07/102461517.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-07/178338650742481_145_97.jpg",
+          "published_at": "周东旭｜ 2026年07月07日 08:27",
+          "summary": "他们贪腐的是钱，改变的却是规则，一方市场不得不看他们的脸色。市场交易不能不萎缩或扭曲。在当前形势下，依法反腐，对提振经济具有特殊的意义",
+          "title": "火线评论｜受贿超22亿，杨有林真正伤害的是什么？(含视频)",
+          "url": "https://opinion.caixin.com/2026-07-07/102461517.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-07-04/102460724.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-07-04/102460724.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-07-04/102460724.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-04/178312562558822_145_97.jpg",
+          "published_at": "黄山｜ 2026年07月04日 08:16",
+          "summary": "应对英国经济的重重挑战，以及实现地区间的均衡发展，权力下放是一个选项，但本国历史和同行经验都不容乐观",
+          "title": "大西洋观察｜英国下任新首相的“三板斧”",
+          "url": "https://opinion.caixin.com/2026-07-04/102460724.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-07-03/102460408.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-07-03/102460408.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-07-03/102460408.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-03/178307001469043_145_97.jpg",
+          "published_at": "关聪｜ 2026年07月03日 17:09",
+          "summary": "大荧幕持续祛魅，但好故事仍然有效，Z世代为全能创作者埋单",
+          "title": "火线评论｜新观众更爱“穷”导演 但他们不是电影的救星",
+          "url": "https://opinion.caixin.com/2026-07-03/102460408.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-06-30/102459445.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-06-30/102459445.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-06-30/102459445.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-06-30/178282675808362_145_97.jpg",
+          "published_at": "关聪｜ 2026年06月30日 21:24",
+          "summary": "观众检视演员的成就以及他们取得盛名的方式，演艺圈评价天平终于回归观众",
+          "title": "火线评论｜韩红微博道歉 演艺圈是怎样“丢了面儿”的",
+          "url": "https://opinion.caixin.com/2026-06-30/102459445.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-06-26/102457897.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-06-26/102457897.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-06-26/102457897.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-06-26/178246141072085_145_97.jpg",
+          "published_at": "周东旭｜ 2026年06月26日 16:04",
+          "summary": "从刑法谦抑角度而言，撤回起诉无疑是必要的，动辄用刑事手段解决纠纷，看似严厉，实则隐藏着合法性与合理性的考验",
+          "title": "火线评论｜做法事被控诈骗案撤回起诉，刑法谦抑缘何重要",
+          "url": "https://opinion.caixin.com/2026-06-26/102457897.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-06-26/102457750.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-06-26/102457750.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-06-26/102457750.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-06-26/178244283344931_145_97.jpg",
+          "published_at": "要闻｜ 2026年06月26日 10:53",
+          "summary": "在美国即将迎来建国250周年之际，传统的西方盟友却呈现三种不同的对美态度",
+          "title": "大西洋观察｜盟友与特朗普打交道的三种方式",
+          "url": "https://international.caixin.com/2026-06-26/102457750.html"
+        }
+      ],
+      "key": "opinion-upfront.articles",
+      "lane": "main",
+      "name": "火线评论文章",
+      "order": 0,
+      "state": "server_rendered"
+    }
+  ],
+  "modules_count": 1,
+  "ok": true,
+  "page": 1,
+  "pagination": {
+    "automatic_follow": false,
+    "contract": {
+      "control": "loadmore",
+      "count": 20,
+      "endpoint": "https://gateway.caixin.com/api/extapi/homeInterface.jsp",
+      "identifier": "100239120",
+      "parameter": "subject",
+      "picdim": "_266_177",
+      "script_url": "https://file.caixin.com/webchannel/newBlog/column/index.js",
+      "type": 0
+    },
+    "control_present": true,
+    "explicit_only": true,
+    "next_page": 2,
+    "supported": true
+  },
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "scripts_not_executed": true,
+  "session_used": false,
+  "source": {
+    "canonical_url": "https://opinion.caixin.com/upfront/",
+    "discovered_from": "https://opinion.caixin.com/",
+    "fetched_at": "2026-08-08T08:47:19+00:00",
+    "final_url": "https://opinion.caixin.com/upfront/",
+    "requested_url": "https://opinion.caixin.com/upfront/"
+  },
+  "source_mode": "server_html",
+  "stale_content": false,
+  "title": "火线评论_观点频道_财新网",
+  "unique_urls_count": 20
+}

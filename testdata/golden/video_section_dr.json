@@ -1,0 +1,356 @@
+{
+  "_untrusted": true,
+  "article_details_not_fetched": true,
+  "complete_listing_verified": false,
+  "directory_only": true,
+  "empty_visible_directory": false,
+  "external_stylesheets_applied": false,
+  "items_count": 11,
+  "javascript_executed": false,
+  "latest_article_date": "2026-01-18",
+  "media_not_downloaded": true,
+  "media_streams_not_fetched": true,
+  "modules": [
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "达人合作",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-01-18/102404397.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-01-18/102404397.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-01-18/102404397.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-01-16/176854520525270_266_177.jpg",
+          "item_kind": "video_article",
+          "published_at": "2026-01-18 10:00",
+          "summary": null,
+          "title": "财新峰会最敢说的提问：代价到底是什么？",
+          "url": "https://video.caixin.com/2026-01-18/102404397.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "公告板",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2025-11-14/102383211.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2025-11-14/102383211.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2025-11-14/102383211.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-01-16/176854520525270_266_177.jpg",
+          "item_kind": "article",
+          "published_at": "2025-11-14 21:15",
+          "summary": null,
+          "title": "第十六届财新峰会闭幕 以“韧性与耐心”应对未来挑战",
+          "url": "https://www.caixin.com/2025-11-14/102383211.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "公告板",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2025-11-13/102382562.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2025-11-13/102382562.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2025-11-13/102382562.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-01-16/176854520525270_266_177.jpg",
+          "item_kind": "article",
+          "published_at": "2025-11-13 23:06",
+          "summary": null,
+          "title": "第十六届财新峰会开幕 嘉宾齐聚呼唤“韧性与耐心”",
+          "url": "https://www.caixin.com/2025-11-13/102382562.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "达人合作",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-01-17/102404395.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-01-17/102404395.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-01-17/102404395.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-01-16/176854488902245_266_177.jpg",
+          "item_kind": "video_article",
+          "published_at": "2026-01-17 10:00",
+          "summary": null,
+          "title": "【抖音独家】现场直击财新亚洲愿景论坛！大佬都怎么看中国经济",
+          "url": "https://video.caixin.com/2026-01-17/102404395.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "短视频",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2025-10-23/102374795.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2025-10-23/102374795.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2025-10-23/102374795.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-01-16/176854488902245_266_177.jpg",
+          "item_kind": "video_article",
+          "published_at": "2025-10-23 15:31",
+          "summary": null,
+          "title": "【回顾】亚洲愿景论坛2025",
+          "url": "https://video.caixin.com/2025-10-23/102374795.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "短视频",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2025-10-13/102370997.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2025-10-13/102370997.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2025-10-13/102370997.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-01-16/176854488902245_266_177.jpg",
+          "item_kind": "video_article",
+          "published_at": "2025-10-13 11:15",
+          "summary": null,
+          "title": "【特别呈现】亚洲愿景论坛2025圆满闭幕",
+          "url": "https://video.caixin.com/2025-10-13/102370997.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "达人合作",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-01-16/102404037.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-01-16/102404037.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-01-16/102404037.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-01-15/176846499212999_266_177.jpg",
+          "item_kind": "video_article",
+          "published_at": "2026-01-15 16:17",
+          "summary": null,
+          "title": "【小狮子｜财经评论的作品】如何一个人做号？",
+          "url": "https://video.caixin.com/2026-01-16/102404037.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "category": "达人合作",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-01-15/102404030.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-01-15/102404030.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-01-15/102404030.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-01-15/176846499212999_266_177.jpg",
+          "item_kind": "video_article",
+          "published_at": "2026-01-15 16:05",
+          "summary": null,
+          "title": "【小狮子｜财经评论的作品】诚惶诚恐，最终我还是写了“十五五”",
+          "url": "https://video.caixin.com/2026-01-15/102404030.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "category": "每日推荐",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-01-15/102403792.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-01-15/102403792.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-01-15/102403792.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-01-15/176846499212999_266_177.jpg",
+          "item_kind": "article",
+          "published_at": "2026-01-15 07:12",
+          "summary": null,
+          "title": "财经早知道｜A股融资保证金比例上调，政策指向要“慢牛”",
+          "url": "https://finance.caixin.com/2026-01-15/102403792.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "category": "财新闻",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-01-15/102403834.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-01-15/102403834.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-01-15/102403834.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-01-15/176846425430198_266_177.jpg",
+          "item_kind": "article",
+          "published_at": "2026-01-15 09:04",
+          "summary": null,
+          "title": "财新闻｜“棋圣”聂卫平病逝",
+          "url": "https://mini.caixin.com/2026-01-15/102403834.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "category": "财新闻",
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-01-14/102403488.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-01-14/102403488.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-01-14/102403488.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-01-15/176846425430198_266_177.jpg",
+          "item_kind": "article",
+          "published_at": "2026-01-14 09:42",
+          "summary": null,
+          "title": "财新闻｜美国政府批准向中国出口英伟达H200芯片",
+          "url": "https://mini.caixin.com/2026-01-14/102403488.html"
+        }
+      ],
+      "key": "video.section.articles",
+      "lane": "main",
+      "name": "频道资讯",
+      "order": 0,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 1,
+  "ok": true,
+  "page": 1,
+  "page_kind": "video-section",
+  "pagination": {
+    "automatic_follow": false,
+    "contract": null,
+    "control_present": false,
+    "explicit_only": true,
+    "next_page": null,
+    "supported": false
+  },
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "canonical_url": "https://video.caixin.com/dr/",
+    "discovery_source_url": "https://video.caixin.com/",
+    "fetched_at": "2026-08-08T08:45:17+00:00",
+    "final_url": "https://video.caixin.com/dr/",
+    "requested_url": "https://video.caixin.com/dr/"
+  },
+  "source_mode": "server_html",
+  "stale_content": true,
+  "template_classes": [
+    "topiclist"
+  ],
+  "title": "达人合作专区",
+  "unique_urls_count": 11
+}

@@ -1,0 +1,1154 @@
+{
+  "_untrusted": true,
+  "complete_listing_verified": false,
+  "external_stylesheets_applied": false,
+  "items_count": 42,
+  "javascript_executed": false,
+  "modules": [
+    {
+      "items": [
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-31/102470184.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-31/102470184.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-31/102470184.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-31/178549595516222_145_97.jpg",
+          "summary": "预计到2050年前后，中国老年人口规模和比重预计将达到峰值",
+          "title": "全国60岁以上老年人口超3.2亿，十年增1亿(含视频)",
+          "url": "https://www.caixin.com/2026-07-31/102470184.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-29/102468944.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-29/102468944.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-29/102468944.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599471678271_145_97.jpg",
+          "summary": "2024年全国结婚登记对数610.6万，创1980年以来新低，2025年小幅回升，增加65.7万对",
+          "title": "多地发钱鼓励结婚 最高可达4万元(含视频)",
+          "url": "https://www.caixin.com/2026-07-29/102468944.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-27/102468286.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-27/102468286.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-27/102468286.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599690335130_145_97.jpg",
+          "summary": "专家呼吁，应实施更积极的财政政策投入0—3岁儿童早期发展，从“家庭精养”转向“国家精养”",
+          "title": "“完善儿童早期发展服务”写入十五五规划，如何填补需求缺口？",
+          "url": "https://www.caixin.com/2026-07-27/102468286.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-24/102467433.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-24/102467433.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-24/102467433.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-24/178484866471263_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文文文；文文文，文文文文文、文文文、文文文文文文文文文文文文文，文文文文文文文文文文文文；文文文文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文",
+          "title": "武大薛惠元：如何提升城乡居民养老保险待遇",
+          "url": "https://www.caixin.com/2026-07-24/102467433.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-23/102467142.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-23/102467142.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-23/102467142.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-23/178476386311475_145_97.jpg",
+          "summary": "医学生培养周期长、毕业后工作负荷大，职业性价比被重新审视。部分高分考生分流至军校、警校、公费师范生以及名校理工科专业",
+          "title": "当医生不香了？部分省份临床医学专业“考分塌陷”(含视频)｜教育观察",
+          "url": "https://www.caixin.com/2026-07-23/102467142.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-23/102467139.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-23/102467139.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-23/102467139.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2024-11-07/173093525886110_145_97.jpg",
+          "summary": "失业保险兼有保生活、防失业、促就业的功能；不过人社部失业保险司司长日前强调，失业保险必须在保生活资金相对充足的情况下，才能进一步支持企业稳岗扩岗",
+          "title": "2025年失业保险发放1616亿元保生活待遇 同比增长超30%(含视频)",
+          "url": "https://www.caixin.com/2026-07-23/102467139.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-22/102466859.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-22/102466859.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-22/102466859.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-22/178467974692975_145_97.jpg",
+          "summary": "当前德国三支柱替代率（退休后养老金与退休前工资的比值）在48%左右，仍低于世界银行组织测算的55%国际警戒线",
+          "title": "德国养老金也撑不住了，社保鼻祖如何开源？(含视频)",
+          "url": "https://www.caixin.com/2026-07-22/102466859.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-21/102466406.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-21/102466406.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-21/102466406.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-21/178459152279535_145_97.jpg",
+          "summary": "AI人才竞争正在从“算法单点竞争”进入“全链路能力竞争”；AI+文科岗位快速增长；AI行业人才流向产业集群",
+          "title": "稳就业｜AI人才需求迁移 上半年哪些城市招聘大爆发(含视频)",
+          "url": "https://www.caixin.com/2026-07-21/102466406.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-20/102465988.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-20/102465988.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-20/102465988.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-08-18/175547300474668_145_97.jpg",
+          "summary": "提成律师在法律实质上与律所不构成劳动关系，但形式上又需要按照劳动关系参加职工社保，并承担单位与个人双边的社保费用；社保实缴后，将明显加重执业成本",
+          "title": "社保夯实震动律师行业，参保矛盾何解？(含视频)",
+          "url": "https://www.caixin.com/2026-07-20/102465988.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-17/102464976.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-17/102464976.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-17/102464976.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-17/178428066097254_145_97.jpg",
+          "summary": "军校、警校、公费师范生提前批录取升温并非偶然现象，而是当下经济环境与就业形势催生的择业理性回归",
+          "title": "高考高分考生卷向军警、师范等院校 “铁饭碗”热度走高｜教育观察",
+          "url": "https://www.caixin.com/2026-07-17/102464976.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-16/102464652.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-16/102464652.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-16/102464652.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-16/178415820831527_145_97.jpg",
+          "summary": "其中重申近年政策方向称，引导工资分配向一线岗位倾斜、养老金保障向低收入群体倾斜、全面取消灵活就业人员就业地参加职工养老保险的户籍限制等，具体待进一步落实",
+          "title": "稳就业｜关注失业和就业，人社“十五五规划”有哪些新要求？",
+          "url": "https://www.caixin.com/2026-07-16/102464652.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-15/102464259.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-15/102464259.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-15/102464259.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-15/178407194787050_145_97.jpg",
+          "summary": "发展脑机接口、康养机器人、假肢矫形器、助听器等6—8个重点子行业，突破500家规模以上企业和50项产业关键技术产品",
+          "title": "14部门发文规划康复辅助器具 如何突破“叫好不叫座”？",
+          "url": "https://www.caixin.com/2026-07-15/102464259.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-15/102464256.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-15/102464256.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-15/102464256.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-15/178407144285876_145_97.jpg",
+          "summary": "中国城乡失能老人预计将分化增长，城镇失能老人体量大，照料服务需求总量高于乡村，乡村失能老人占比增速快于城镇地区，整体兜底照护能力弱于城镇地区",
+          "title": "研究：2035年需失能老人照护者超5000万人，家庭照护成本将破万亿(含视频)",
+          "url": "https://www.caixin.com/2026-07-15/102464256.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-13/102463571.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-13/102463571.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-13/102463571.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-13/178390691212936_145_97.jpg",
+          "summary": "丘成桐透露，接下来求真书院将会对招生和考试进行全面改革，希望招到那些真正热爱数学的学生，而不是出于功利目的、只是为了进入名校的学生",
+          "title": "清华“丘班”遭遇滑铁卢？丘成桐回应清退预科生传言(含视频)",
+          "url": "https://www.caixin.com/2026-07-13/102463571.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-11/102463028.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-11/102463028.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-11/102463028.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-11/178375038538891_145_97.jpg",
+          "summary": "基础教育阶段教师数量减少，但学历提升；高等教育规模庞大，2025年硕士毕业生首次超过100万人，博士毕业生首次突破10万人",
+          "title": "少子化冲击持续 一年关闭近三万所幼儿园、小学｜教育观察(含视频)",
+          "url": "https://www.caixin.com/2026-07-11/102463028.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-08/102462016.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-08/102462016.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-08/102462016.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-08/178350366656851_145_97.jpg",
+          "summary": "暴力矫正、天价“成长营”与邪教陷阱，青少年缘何被困，如何逃脱？",
+          "title": "特稿｜大学生被骗入特训营 矫正产业链远至几内亚比绍",
+          "url": "https://www.caixin.com/2026-07-08/102462016.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-07/102461743.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-07/102461743.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-07/102461743.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-03-08/174139670781583_145_97.jpg",
+          "summary": "2018年国家医保局成立后，医保基金支出增速加快，占1998年以来总支出的60%以上",
+          "title": "2025年医保人数和基金结余回升 2.6名职工供养1名退休老人(含视频)",
+          "url": "https://www.caixin.com/2026-07-07/102461743.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-07/102461502.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-07/102461502.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-07/102461502.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-07/178338094831057_145_97.jpg",
+          "summary": "研究发现澳大利亚社交媒体禁令效果不佳，青少年通过多种方式绕过禁令限制，多国类似禁令面临挑战",
+          "title": "多国实施青少年社交媒体禁令，落地效果恐难达预期｜教育观察(含视频)",
+          "url": "https://www.caixin.com/2026-07-07/102461502.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-06/102461077.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-06/102461077.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-06/102461077.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-05/178326279751764_145_97.jpg",
+          "summary": "有地方税务局及人社部门人士向财新证实，今年以来，对社保缴费基数的执行总体趋于严格",
+          "title": "社保缴纳征管趋严 多地税务开抓缴费基数“夯实率”(含视频)",
+          "url": "https://www.caixin.com/2026-07-06/102461077.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-06/102460354.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-06/102460354.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-06/102460354.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-03/178306425988299_145_97.jpg",
+          "summary": "2024年，博士研究生平均修业年限为4.59年。学制调整后，过去被统计为“延毕”的博士生有望划入“正常毕业”的范围",
+          "title": "高校延长硕博学制，背后有几重考量？｜教育观察(含视频)",
+          "url": "https://www.caixin.com/2026-07-06/102460354.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-04/102460760.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-04/102460760.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-04/102460760.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-04/178312847185468_145_97.jpg",
+          "summary": "围绕韩红与基金会关系、善款使用效率、善款投资管理模式、高管薪酬等八大方面，韩红爱心慈善基金会回应了公众的关切",
+          "title": "韩红“走个面”风波后，基金会八大回应能否消解信任危机？(含视频)",
+          "url": "https://www.caixin.com/2026-07-04/102460760.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-03/102460167.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-03/102460167.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-03/102460167.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-03/178303618013082_145_97.jpg",
+          "summary": "文文文文文文文文文，文文文文文文文文文文文文，文文文0000文文文文文文文文文文，文文文文0000文文文文文文文，文文文文文文文文（0—00文）文文文文文xx文文",
+          "title": "挪威限制小学生使用生成式AI 各国政策大相径庭｜教育观察(含视频)",
+          "url": "https://www.caixin.com/2026-07-03/102460167.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-03/102460154.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-03/102460154.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-03/102460154.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-03/178303661123035_145_97.jpg",
+          "summary": "近两年基金会捐赠收入承压，机构开展活动时趋于谨慎；“僵尸型”基金会加快清理",
+          "title": "上半年中国基金会数量继续收缩 高校基金会大额捐赠增势突出",
+          "url": "https://www.caixin.com/2026-07-03/102460154.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-02/102460028.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-02/102460028.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-02/102460028.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-02/178298669338481_145_97.jpg",
+          "summary": "越南推出延长产假、发放现金奖励等激励措施，旨在扭转生育率下降的局面",
+          "title": "越南新《人口法》正式生效 二胎妈妈产假延长至7个月",
+          "url": "https://www.caixin.com/2026-07-02/102460028.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-01/102459697.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-01/102459697.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-01/102459697.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-01/178290037246076_145_97.jpg",
+          "summary": "受访者认为退休平均需要约1000万港元的流动资金；每五名受访者中已有一人同时于两地生活",
+          "title": "调查：三分之一香港受访者有意未来移居大湾区内地城市(含视频)",
+          "url": "https://www.caixin.com/2026-07-01/102459697.html"
+        }
+      ],
+      "key": "livelihood.articles",
+      "lane": "main",
+      "name": "频道文章",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471770.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599589415867_145_97.jpg",
+          "source_state": "visible",
+          "summary": null,
+          "title": "“入侵”还是“人道危机” 难民潮撕裂西班牙飞地休达",
+          "url": "https://photos.caixin.com/2026-08-06/102471770.html"
+        },
+        {
+          "badges": [
+            "“入侵”还是“人道危机” 难民潮撕裂西班牙飞地休达"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-31/102469828.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599589415867_145_97.jpg",
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471770.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+          "link_mismatch": true,
+          "source_state": "visible",
+          "summary": "“入侵”还是“人道危机” 难民潮撕裂西班牙飞地休达",
+          "title": "显影｜瓜农的漫长等待",
+          "url": "https://weekly.caixin.com/2026-07-31/102469828.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-07/102472114.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-07/102472114.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-07/102472114.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "特稿",
+          "url": "https://www.caixin.com/2026-08-07/102472114.html"
+        },
+        {
+          "badges": [
+            "金融"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-06/102471670.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "在岸人民币兑美元汇率连日升破6.75",
+          "url": "https://finance.caixin.com/2026-08-06/102471670.html"
+        },
+        {
+          "badges": [
+            "金融我闻"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-08-06/102472068.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-08-06/102472068.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-08-06/102472068.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "艾路明及多名股东被拘",
+          "url": "https://wenews.caixin.com/2026-08-06/102472068.html"
+        },
+        {
+          "badges": [
+            "世界"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-07/102472096.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-07/102472096.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-07/102472096.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "特朗普再签两份行政令限制出生公民权",
+          "url": "https://international.caixin.com/2026-08-07/102472096.html"
+        },
+        {
+          "badges": [
+            "财新周刊"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-31/102469823.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-31/102469823.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-31/102469823.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "【封面报道】电力现货市场元年突进",
+          "url": "https://weekly.caixin.com/2026-07-31/102469823.html"
+        }
+      ],
+      "key": "livelihood.recommended",
+      "lane": "sidebar",
+      "name": "编辑推荐",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-08/102472618.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-08/102472618.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-08/102472618.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "15:57",
+          "title": "特朗普召开矿业圆桌会 拟向关键矿产投资超20亿美元",
+          "url": "https://www.caixin.com/2026-08-08/102472618.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-08/102472616.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-08/102472616.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-08/102472616.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "14:09",
+          "title": "美日联合干预汇率，为何影响了黄金",
+          "url": "https://opinion.caixin.com/2026-08-08/102472616.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-08/102472611.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-08/102472611.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-08/102472611.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "13:32",
+          "title": "“90后”农民工讨薪涉刑案发回重审 因部分事实不清",
+          "url": "https://china.caixin.com/2026-08-08/102472611.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-08/102472595.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-08/102472595.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-08/102472595.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "12:36",
+          "title": "贵州山脚树矿难致16人死亡近三年 矿长涉罪被罢免全国人大代表",
+          "url": "https://china.caixin.com/2026-08-08/102472595.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-08/102472553.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-08/102472553.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-08/102472553.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "11:12",
+          "title": "非京籍五环内购房社保降至一年 北京市公积金最高可贷340万元",
+          "url": "https://www.caixin.com/2026-08-08/102472553.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-08/102472531.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-08/102472531.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-08/102472531.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "11:07",
+          "title": "寒武纪上半年净利润同比翻倍 营收增速逐季放缓",
+          "url": "https://www.caixin.com/2026-08-08/102472531.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://science.caixin.com/2026-08-08/102472506.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://science.caixin.com/2026-08-08/102472506.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://science.caixin.com/2026-08-08/102472506.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "10:53",
+          "title": "对话｜邱仁宗：临床研究参与者的安全永远是第一位",
+          "url": "https://science.caixin.com/2026-08-08/102472506.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-08/102472447.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-08/102472447.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-08/102472447.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "08:06",
+          "title": "全国人大常委会：六名将领涉嫌严重违纪违法 被罢免全国人大代表",
+          "url": "https://china.caixin.com/2026-08-08/102472447.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-07/102472425.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-07/102472425.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-07/102472425.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "21:43",
+          "title": "7月美国劳动力市场意外放缓 岗位减少2.3万个失业率降至4.1%",
+          "url": "https://international.caixin.com/2026-08-07/102472425.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-07/102472411.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-07/102472411.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-07/102472411.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "20:14",
+          "title": "海外金融专才回流香港 外籍工作签证翻倍",
+          "url": "https://finance.caixin.com/2026-08-07/102472411.html"
+        }
+      ],
+      "key": "livelihood.latest",
+      "lane": "sidebar",
+      "name": "最新文章",
+      "order": 1,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 3,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://finance.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://finance.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://finance.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "金融",
+      "url": "https://finance.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://wenews.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://wenews.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://wenews.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "金融我闻",
+      "url": "https://wenews.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://international.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://international.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://international.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "世界",
+      "url": "https://international.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://weekly.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://weekly.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://weekly.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "财新周刊",
+      "url": "https://weekly.caixin.com/"
+    }
+  ],
+  "navigation_count": 4,
+  "ok": true,
+  "page_kind": "livelihood",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:49:37+00:00",
+    "final_url": "https://www.caixin.com/livelihood/",
+    "requested_url": "https://www.caixin.com/livelihood/"
+  },
+  "source_mode": "server_html",
+  "title": "民生_财新网_财新网"
+}

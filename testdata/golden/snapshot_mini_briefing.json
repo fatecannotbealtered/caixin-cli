@@ -1,0 +1,1154 @@
+{
+  "_untrusted": true,
+  "complete_listing_verified": false,
+  "external_stylesheets_applied": false,
+  "items_count": 42,
+  "javascript_executed": false,
+  "modules": [
+    {
+      "items": [
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-08/102472450.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-08/102472450.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-08/102472450.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-08/178614888098468_145_97.jpg",
+          "summary": "自然资源部预警：南通至温州将有1.6米风暴增水；国家防总对江苏安徽启动防汛防台风四级应急响应；交通运输部启动台风二级防御响应",
+          "title": "财新闻｜青少年乒乓球赛事中出现严重赛风赛纪问题，乒协发文",
+          "url": "https://mini.caixin.com/2026-08-08/102472450.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-07/102472127.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-07/102472127.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-07/102472127.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178606788562899_145_97.jpg",
+          "summary": "文文：文文文文文文文文文文文文文文文文文文文文；文文文文文文文0.0文文文文0文文文；文文文文文文文文文文文文文文文文文文文；文文文文文0文文文文文文文文Ⅳ文文文文文；文文文文文文文文文文0.0文文文文文文文文",
+          "title": "财新闻｜特朗普签令：禁止赴美生育使新生儿获得美国公民身份的“生育旅游”",
+          "url": "https://mini.caixin.com/2026-08-07/102472127.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-06/102471667.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-06/102471667.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-06/102471667.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178598212840183_145_97.jpg",
+          "summary": "宇树科技发行价定为150.80元/股，一签需缴7.54万；王虹特别感谢的北大教授说：“她的成就，我不敢居其功于万一”；化妆品新国标今天发布；证实了，“胶球”存在",
+          "title": "财新闻｜中国传媒大学多个艺术类专业取消艺考，将依据考生高考文化课成绩由高到低依次录取",
+          "url": "https://mini.caixin.com/2026-08-06/102471667.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-05/102471315.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-05/102471315.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-05/102471315.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-04-25/174558409921423_145_97.jpg",
+          "summary": "特教老师招聘笔试第一名遭第二名花钱劝退，广东雷州通报；中消协：上半年为消费者挽回经济损失4.47亿元；现货黄金涨破4100美元关口；今天起，机票燃油附加费下调",
+          "title": "财新闻｜中方对美反制清单公布",
+          "url": "https://mini.caixin.com/2026-08-05/102471315.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-04/102471053.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-04/102471053.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-04/102471053.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-04-13/177607746415815_145_97.jpg",
+          "summary": "x文“文文”文文；文文文文，文文文文文xxxxxxxxx文文；“文文文文文文文文文文文文文文文”，文文文文；文文文文文文文“文文”文文 文文文文文文文文；x文文文文文，文文文文00文；文文文文，文文文文文文文",
+          "title": "财新闻｜A股现分红潮，有公司一口气发了62个亿，多家公司董事长提议派发“红包”",
+          "url": "https://mini.caixin.com/2026-08-04/102471053.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-03/102470717.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-03/102470717.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-03/102470717.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-09/178358455452997_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文文文，文文00文文；文文文文文文文文“文文文文”？文文000文文文文；文文、文文、文文文，文文文文文；文文文文、文文文文、文文文文……文文文文文文文文文文文文文文文",
+          "title": "财新闻｜持续发酵 欧足联或将投票罢免因凡蒂诺",
+          "url": "https://mini.caixin.com/2026-08-03/102470717.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-02/102470557.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-02/102470557.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-02/102470557.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-02/178563459758461_145_97.jpg",
+          "summary": "文文文文文文文文文，文文文文；文文文文文文文文文文文文文文，文文文文文文；文文文文文文0文，文文文文文文文？文文文文文；“文文文文文文文文文文文文文文”，文文文文文文",
+          "title": "财新闻｜江苏徐州一地试点集中供冷",
+          "url": "https://mini.caixin.com/2026-08-02/102470557.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-01/102470331.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-01/102470331.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-01/102470331.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-01/178555807775313_145_97.jpg",
+          "summary": "文文文文文文，文文文文；文文文文文文文文文文文文文文 文文文文文文文文；文文文文文文文文文文 文文文文文文文文；文文文文文文文文文文文文文，文文文文文文文文文文，文文文文",
+          "title": "财新闻｜遭遇强烈反对 国际足联宣布放弃世界杯股权出售项目",
+          "url": "https://mini.caixin.com/2026-08-01/102470331.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-31/102469809.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-31/102469809.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-31/102469809.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-31/178546442971719_145_97.jpg",
+          "summary": "文00文文文文文文文文文文文 000文文文文文文；文“文文”文文文文文文文 文文文文文文文文文文文文文；文文文文文文文文文，文文文文文文文，文文文文文文文文；“文文文文”，文文文文",
+          "title": "财新闻｜欧足联宣布抵制所有国际足联赛事：世界杯并非商品",
+          "url": "https://mini.caixin.com/2026-07-31/102469809.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-30/102469433.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-30/102469433.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-30/102469433.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2023-06-25/168765608963578_145_97.jpg",
+          "summary": "xxxxxx文文xx文文文文文文文文文文文文文文；文文文文，xx文文文文文文；文文：文文文文文文，文文文文文文；文文、文文，文文文文文文；文文文文文！文文文文00文文文文文0文文文文文文文",
+          "title": "财新闻｜预防惩治网络暴力 国家网信办公开征求意见",
+          "url": "https://mini.caixin.com/2026-07-30/102469433.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-29/102468983.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-29/102468983.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-29/102468983.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2017-04-20/1492679030582042_145_97.jpg",
+          "summary": "“文文文文文文文文文”文文文文，文文文文；文文文文文，文文文文文；文文文文文文文文文文文文文文，文文文；文文文文文文文文文文文文文文文文文文，文文文文文文；文文文文文文文文文文文，文文文文",
+          "title": "财新闻｜就王虹推荐信，北大数院发声",
+          "url": "https://mini.caixin.com/2026-07-29/102468983.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-28/102468637.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-28/102468637.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-28/102468637.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-28/178520430642623_145_97.jpg",
+          "summary": "xx文文文文文文文文文文文，文文；文文文文文文：文文文文文文文文文文文文文文文文，文文文文文文0文；文文文文文文文文文文文，文文文文文；文文文文文文文文文文文文；文文文文，文文文文",
+          "title": "财新闻｜多名公职人员被举报侵吞安平志臻中学资产，河北衡水成立联合调查组",
+          "url": "https://mini.caixin.com/2026-07-28/102468637.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-27/102468320.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-27/102468320.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-27/102468320.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-27/178514356429155_145_97.jpg",
+          "summary": "文文文文文文：文文文文文文文文文文文，文文文文文文文文文文文文文文文；文文文文，文文文文文文文文文；文文文文文“文文文”文文文文文文文文文文文；文文文文文文文文文文：文文文文文文文文文文文文",
+          "title": "财新闻｜日本推理小说家东野圭吾因患大肠癌去世，终年68岁",
+          "url": "https://mini.caixin.com/2026-07-27/102468320.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-26/102468140.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-26/102468140.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-26/102468140.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-26/178506573326830_145_97.jpg",
+          "summary": "《三国第一部：争洛阳》宣布撤档；厦门湖里法院：“LV因四叶类雕花装饰起诉开发商”不属实；中国队0-3不敌土耳其队 无缘世界女排联赛决赛",
+          "title": "财新闻｜甘肃渭源山洪已致10人遇难、23人受伤",
+          "url": "https://mini.caixin.com/2026-07-26/102468140.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-25/102467929.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-25/102467929.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-25/102467929.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-25/178494170303873_145_97.jpg",
+          "summary": "水利部针对7省区启动洪水防御Ⅳ级应急响应；深圳、佛山、东莞、惠州、肇庆五市今起开放“粤车南下”；方某军操纵市场，被罚没1.75亿元",
+          "title": "财新闻｜NBA球星詹姆斯宣布加盟费城76人，将在第四支球队开启第24个赛季",
+          "url": "https://mini.caixin.com/2026-07-25/102467929.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-24/102467455.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-24/102467455.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-24/102467455.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-24/178485790082710_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文文文文文文文文文文文文；文文0文0文文 文文文文文文文文文文文文文文文；文文文文文文文文文 文文0文文文；文文文文文文文文文文文文文文文文",
+          "title": "财新闻｜邓煜、王虹两位中国数学家首获菲尔兹奖 实现历史突破",
+          "url": "https://mini.caixin.com/2026-07-24/102467455.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-23/102467178.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-23/102467178.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-23/102467178.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2022-06-13/165510024283349_145_97.jpg",
+          "summary": "文文文文文《文文文文文文（0000－0000文）》；0000文文文文文文00文；文文文文文文文：文文文文文文文、文文、文文文文；文文文文文文文文文文文文文文文文；0.0文文文，文文文、文文文文文文文文",
+          "title": "财新闻｜16岁高中生被刺死，案发地被传“涉黄”、常有青少年“扰嫖”，内蒙古警方通报",
+          "url": "https://mini.caixin.com/2026-07-23/102467178.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-22/102466928.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-22/102466928.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-22/102466928.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2024-01-04/170437453907140_145_97.jpg",
+          "summary": "文文文文文文文文文文文0文文文文文；文文“文文文文”文文文文，文0000文文文文文文0文文文；文文文xx文文文文？文文文文；文文文文文文文文文文文文文；文文文文文文文文文文文文文0.0%",
+          "title": "财新闻｜证监会召开上市公司、行业机构、专家学者系列座谈会听取意见建议",
+          "url": "https://mini.caixin.com/2026-07-22/102466928.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-21/102466428.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-21/102466428.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-21/102466428.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2023-03-22/167947697163618_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文文文文 00文文文文文；“文文文”文文“文文文文文”，文文文文；0000文文文文文文文文文0000文文；文文文文00文文文、0文文文 文文文文文文文文",
+          "title": "财新闻｜多家央企及金融机构宣布增持回购",
+          "url": "https://mini.caixin.com/2026-07-21/102466428.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-20/102466037.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-20/102466037.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-20/102466037.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-20/178451226585016_145_97.jpg",
+          "summary": "伯纳姆就任英国首相，斯塔默正式卸任；阿根廷首都爆发骚乱；证监会召开投资者座谈会听取意见建议；今日上线，京沪高铁、京沪铁路可提前60天预约购票",
+          "title": "财新闻｜西班牙队夺冠，特朗普给西班牙队颁发大力神杯",
+          "url": "https://mini.caixin.com/2026-07-20/102466037.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-19/102465878.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-19/102465878.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-19/102465878.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-19/178442443017935_145_97.jpg",
+          "summary": "“文文文”文文文文文文文文文文文文文：文文文文文文文文文；文文文文文文文文文文文文文文文文文文文文文文文文，文文文文文文；文文文文文文“文文文文文文文文文文文文文文”",
+          "title": "财新闻｜世界杯铜牌赛英格兰6:4胜法国 创60年最佳战绩",
+          "url": "https://mini.caixin.com/2026-07-19/102465878.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-18/102465553.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-18/102465553.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-18/102465553.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-18/178434061553553_145_97.jpg",
+          "summary": "2026暑期档票房破40亿元；中企旗下英钢被英国国有化，外交部：必要时将采取维权措施；上海足协发布对“禁足”人员申思的调查通报",
+          "title": "财新闻｜重庆彭水县山体崩塌已致8人死亡 还有34人失联",
+          "url": "https://mini.caixin.com/2026-07-18/102465553.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-17/102465021.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-17/102465021.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-17/102465021.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-06-03/174893420207269_145_97.jpg",
+          "summary": "文文文文文文文文：文文文文文文文文文文文文文；文文文文文文文0000文文文文文文文文文文文文文文文文文文文文文文；文文文文文文文文文文文xx0文文文文文文文文文，文文文文",
+          "title": "财新闻｜生娃基本“不花钱”，28个省份推进",
+          "url": "https://mini.caixin.com/2026-07-17/102465021.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-16/102464686.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-16/102464686.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-16/102464686.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-16/178416638738691_145_97.jpg",
+          "summary": "辽宁兴城一橡皮艇发生闪爆 致7人死亡1人失联；社会组织评比表彰新规出台；LV第6次起诉国家知识产权局案件开庭，当庭未宣判；路易威登再起诉一日用百货小店",
+          "title": "财新闻｜梅西两助攻，阿根廷2-1逆转绝杀英格兰 将与西班牙争夺世界杯冠军",
+          "url": "https://mini.caixin.com/2026-07-16/102464686.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-15/102464293.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-15/102464293.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-15/102464293.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-15/178407889321069_145_97.jpg",
+          "summary": "中国影史首位票房破百亿的85后女演员诞生；6月就业人员周均工作48.2小时 时长保持稳定；上半年居民人均可支配收入实际增长4.2% 农村增速快于城镇",
+          "title": "财新闻｜西班牙2-0战胜法国，挺进世界杯决赛",
+          "url": "https://mini.caixin.com/2026-07-15/102464293.html"
+        }
+      ],
+      "key": "mini-briefing.articles",
+      "lane": "main",
+      "name": "频道文章",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471770.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599589415867_145_97.jpg",
+          "source_state": "visible",
+          "summary": null,
+          "title": "“入侵”还是“人道危机” 难民潮撕裂西班牙飞地休达",
+          "url": "https://photos.caixin.com/2026-08-06/102471770.html"
+        },
+        {
+          "badges": [
+            "“入侵”还是“人道危机” 难民潮撕裂西班牙飞地休达"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-31/102469828.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599589415867_145_97.jpg",
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471770.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+          "link_mismatch": true,
+          "source_state": "visible",
+          "summary": "“入侵”还是“人道危机” 难民潮撕裂西班牙飞地休达",
+          "title": "显影｜瓜农的漫长等待",
+          "url": "https://weekly.caixin.com/2026-07-31/102469828.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-07/102472114.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-07/102472114.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-07/102472114.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "特稿",
+          "url": "https://www.caixin.com/2026-08-07/102472114.html"
+        },
+        {
+          "badges": [
+            "金融"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-06/102471670.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "在岸人民币兑美元汇率连日升破6.75",
+          "url": "https://finance.caixin.com/2026-08-06/102471670.html"
+        },
+        {
+          "badges": [
+            "金融我闻"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-08-06/102472068.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-08-06/102472068.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-08-06/102472068.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "艾路明及多名股东被拘",
+          "url": "https://wenews.caixin.com/2026-08-06/102472068.html"
+        },
+        {
+          "badges": [
+            "世界"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-07/102472096.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-07/102472096.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-07/102472096.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "特朗普再签两份行政令限制出生公民权",
+          "url": "https://international.caixin.com/2026-08-07/102472096.html"
+        },
+        {
+          "badges": [
+            "财新周刊"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-31/102469823.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-31/102469823.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-31/102469823.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "【封面报道】电力现货市场元年突进",
+          "url": "https://weekly.caixin.com/2026-07-31/102469823.html"
+        }
+      ],
+      "key": "mini-briefing.recommended",
+      "lane": "sidebar",
+      "name": "编辑推荐",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-08/102472618.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-08/102472618.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-08/102472618.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "15:57",
+          "title": "特朗普召开矿业圆桌会 拟向关键矿产投资超20亿美元",
+          "url": "https://www.caixin.com/2026-08-08/102472618.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-08/102472616.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-08/102472616.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-08/102472616.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "14:09",
+          "title": "美日联合干预汇率，为何影响了黄金",
+          "url": "https://opinion.caixin.com/2026-08-08/102472616.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-08/102472611.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-08/102472611.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-08/102472611.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "13:32",
+          "title": "“90后”农民工讨薪涉刑案发回重审 因部分事实不清",
+          "url": "https://china.caixin.com/2026-08-08/102472611.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-08/102472595.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-08/102472595.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-08/102472595.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "12:36",
+          "title": "贵州山脚树矿难致16人死亡近三年 矿长涉罪被罢免全国人大代表",
+          "url": "https://china.caixin.com/2026-08-08/102472595.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-08/102472553.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-08/102472553.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-08/102472553.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "11:12",
+          "title": "非京籍五环内购房社保降至一年 北京市公积金最高可贷340万元",
+          "url": "https://www.caixin.com/2026-08-08/102472553.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-08/102472531.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-08/102472531.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-08/102472531.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "11:07",
+          "title": "寒武纪上半年净利润同比翻倍 营收增速逐季放缓",
+          "url": "https://www.caixin.com/2026-08-08/102472531.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://science.caixin.com/2026-08-08/102472506.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://science.caixin.com/2026-08-08/102472506.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://science.caixin.com/2026-08-08/102472506.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "10:53",
+          "title": "对话｜邱仁宗：临床研究参与者的安全永远是第一位",
+          "url": "https://science.caixin.com/2026-08-08/102472506.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-08/102472447.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-08/102472447.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-08/102472447.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "08:06",
+          "title": "全国人大常委会：六名将领涉嫌严重违纪违法 被罢免全国人大代表",
+          "url": "https://china.caixin.com/2026-08-08/102472447.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-07/102472425.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-07/102472425.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-07/102472425.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "21:43",
+          "title": "7月美国劳动力市场意外放缓 岗位减少2.3万个失业率降至4.1%",
+          "url": "https://international.caixin.com/2026-08-07/102472425.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-07/102472411.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-07/102472411.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-07/102472411.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "source_state": "visible",
+          "summary": "20:14",
+          "title": "海外金融专才回流香港 外籍工作签证翻倍",
+          "url": "https://finance.caixin.com/2026-08-07/102472411.html"
+        }
+      ],
+      "key": "mini-briefing.latest",
+      "lane": "sidebar",
+      "name": "最新文章",
+      "order": 1,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 3,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://finance.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://finance.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://finance.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "金融",
+      "url": "https://finance.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://wenews.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://wenews.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://wenews.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "金融我闻",
+      "url": "https://wenews.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://international.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://international.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://international.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "世界",
+      "url": "https://international.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://weekly.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://weekly.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://weekly.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "财新周刊",
+      "url": "https://weekly.caixin.com/"
+    }
+  ],
+  "navigation_count": 4,
+  "ok": true,
+  "page_kind": "mini-briefing",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:49:45+00:00",
+    "final_url": "https://mini.caixin.com/briefing/",
+    "requested_url": "https://mini.caixin.com/briefing/"
+  },
+  "source_mode": "server_html",
+  "title": "财新闻_财新mini+_财新网"
+}

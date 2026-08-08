@@ -1,0 +1,661 @@
+{
+  "_untrusted": true,
+  "complete_listing_verified": false,
+  "external_stylesheets_applied": false,
+  "items_count": 22,
+  "javascript_executed": false,
+  "modules": [
+    {
+      "items": [
+        {
+          "badges": [
+            "ESG30"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-30/102471201.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-30/102471201.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-30/102471201.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-02-15/173959011756762_840_560.jpg",
+          "summary": null,
+          "title": "欧盟数字监管重心转向算法推荐",
+          "url": "https://www.caixin.com/2026-07-30/102471201.html"
+        },
+        {
+          "badges": [
+            "气候变化"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-29/102470788.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-29/102470788.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-29/102470788.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-08-20/175564791103542_840_560.jpg",
+          "summary": null,
+          "title": "应对气候变化“十五五”规划发布 五年内碳强度将下降17%",
+          "url": "https://www.caixin.com/2026-07-29/102470788.html"
+        },
+        {
+          "badges": [
+            "绿色经济"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-31/102470783.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-31/102470783.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-31/102470783.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-01/178554866671480_840_560.jpg",
+          "summary": null,
+          "title": "封面报道｜电力现货市场元年突进",
+          "url": "https://www.caixin.com/2026-07-31/102470783.html"
+        }
+      ],
+      "key": "esg.focus",
+      "lane": "lead",
+      "name": "焦点",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-05/102471607.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-05/102471607.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-05/102471607.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "summary": "中国SAF供应能力在全球处于主要地位；2026年上半年，中国新公布了16个SAF项目，其中国有企业项目7个",
+          "title": "中国SAF产业进入新阶段 国企参与度提高",
+          "url": "https://www.caixin.com/2026-08-05/102471607.html"
+        }
+      ],
+      "key": "esg.green-economy",
+      "lane": "main",
+      "name": "绿色经济",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-04/102471602.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-04/102471602.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-04/102471602.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "summary": "今年以来，使用“申通快递”商标、字号、快递运单经营快递业务的企业多发生产安全事故，场所内多次被检查发现生产安全事故隐患",
+          "title": "申通快递多发安全事故 被国家邮政局立案调查(含视频)",
+          "url": "https://www.caixin.com/2026-08-04/102471602.html"
+        }
+      ],
+      "key": "esg.social-good",
+      "lane": "main",
+      "name": "社会·共益",
+      "order": 1,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-31/102471609.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-31/102471609.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-31/102471609.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "summary": "严禁违规跨业经营、杠杆率过高的企业，或存在严重失信行为、重大违法违规记录的企业和个人，成为金融机构主要股东或实际控制人",
+          "title": "四部门：健全金融机构治理 构建产业资本和金融资本“防火墙”",
+          "url": "https://www.caixin.com/2026-07-31/102471609.html"
+        }
+      ],
+      "key": "esg.governance",
+      "lane": "main",
+      "name": "治理追踪",
+      "order": 2,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [
+            "绿色经济",
+            "新能源",
+            "政策",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-05/102471607.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-05/102471607.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-05/102471607.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178592655778712_300_200.jpg",
+          "summary": "中国SAF供应能力在全球处于主要地位；2026年上半年，中国新公布了16个SAF项目，其中国有企业项目7个",
+          "title": "中国SAF产业进入新阶段 国企参与度提高",
+          "url": "https://www.caixin.com/2026-08-05/102471607.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-04/102471602.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-04/102471602.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-04/102471602.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-04/178584904470117_300_200.jpg",
+          "summary": "今年以来，使用“申通快递”商标、字号、快递运单经营快递业务的企业多发生产安全事故，场所内多次被检查发现生产安全事故隐患",
+          "title": "申通快递多发安全事故 被国家邮政局立案调查(含视频)",
+          "url": "https://www.caixin.com/2026-08-04/102471602.html"
+        },
+        {
+          "badges": [
+            "新能源",
+            "政策",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-04/102471203.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-04/102471203.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-04/102471203.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-04/178583571883757_300_200.png",
+          "summary": "废旧动力电池和新电池一样，需要全面满足应用场景的质量标准和安全要求",
+          "title": "工信部叫停废旧动力电池“梯次利用” 强化质量安全标准要求",
+          "url": "https://www.caixin.com/2026-08-04/102471203.html"
+        },
+        {
+          "badges": [
+            "ESG30人",
+            "科技伦理",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-04/102471167.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-04/102471167.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-04/102471167.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-04/178581194057356_300_200.jpg",
+          "summary": "我们将长期面对许多没有共识的“或然”和“应然”问题，公权力部门的强制规则要留有余地，为不同人群的分布式合作留下充裕空间",
+          "title": "江小涓：AI人文研究中的“已然、或然和应然”",
+          "url": "https://www.caixin.com/2026-08-04/102471167.html"
+        },
+        {
+          "badges": [
+            "新能源",
+            "政策",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-04/102471059.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-04/102471059.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-04/102471059.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-04/178580742422799_300_200.jpg",
+          "summary": "着力构建以新能源为主体的新型电网，同时深化电力市场化改革",
+          "title": "新型电力系统“十五五”规划发布 打造绿色低碳电力格局",
+          "url": "https://www.caixin.com/2026-08-04/102471059.html"
+        },
+        {
+          "badges": [
+            "ESG评级",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-01/102470847.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-01/102470847.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-01/102470847.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-01/178559736856834_300_200.jpg",
+          "summary": "这些企业的产品将被禁止进入美国；中方敦促美方立即停止上述行为",
+          "title": "43家中企被美纳入所谓涉疆法案实体清单 中方表示强烈谴责（更新）",
+          "url": "https://www.caixin.com/2026-08-01/102470847.html"
+        },
+        {
+          "badges": [
+            "绿色经济",
+            "新能源",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-01/102470784.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-01/102470784.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-01/102470784.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-01/178554870277414_300_200.jpg",
+          "summary": "市场接管定价权，电力行业重塑投资逻辑，寻找新价值坐标",
+          "title": "封面报道之二｜新能源全面入市之后",
+          "url": "https://www.caixin.com/2026-08-01/102470784.html"
+        },
+        {
+          "badges": [
+            "新能源",
+            "政策",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-31/102470785.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-31/102470785.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-31/102470785.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-31/178551042942654_300_200.jpg",
+          "summary": "此次核准项目以三代“华龙一号”核电技术为主，8台总投资预计约1600亿元",
+          "title": "8台核电机组一次性获核准 核电高速审批节奏延续",
+          "url": "https://www.caixin.com/2026-07-31/102470785.html"
+        },
+        {
+          "badges": [
+            "绿色经济",
+            "政策",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-31/102470787.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-31/102470787.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-31/102470787.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-31/178550541697462_300_200.jpg",
+          "summary": "到“十五五”末期，规模以上工业企业增加值能耗降幅大于10%，碳排放降幅大于17%",
+          "title": "工业绿色低碳发展“十五五”规划发布 2030年实现工业领域“碳达峰”",
+          "url": "https://www.caixin.com/2026-07-31/102470787.html"
+        },
+        {
+          "badges": [
+            "治理追踪",
+            "政策",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-07-31/102471609.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-07-31/102471609.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-07-31/102471609.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-31/178549935161342_300_200.jpg",
+          "summary": "严禁违规跨业经营、杠杆率过高的企业，或存在严重失信行为、重大违法违规记录的企业和个人，成为金融机构主要股东或实际控制人",
+          "title": "四部门：健全金融机构治理 构建产业资本和金融资本“防火墙”",
+          "url": "https://www.caixin.com/2026-07-31/102471609.html"
+        }
+      ],
+      "key": "esg.latest",
+      "lane": "main",
+      "name": "最新文章",
+      "order": 3,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://index.caixin.com/2025-11-07/102380174.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://index.caixin.com/2025-11-07/102380174.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://index.caixin.com/2025-11-07/102380174.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "summary": "文文xxx00文文文文文文文文文文，文文文文文文文文文文文文文文xxx文文文文文文文文文文文，文文文文文文文、文文文文、文文文文文文文文文文文文文，文文文文xxx文文，文文文文文文文文文文文。",
+          "title": "最新文章：南方基金的尽责管理实践与启示",
+          "url": "https://index.caixin.com/2025-11-07/102380174.html"
+        }
+      ],
+      "key": "esg.esg30",
+      "lane": "sidebar",
+      "name": "ESG30专题",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://promote.caixin.com/2026-06-26/102457788.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://promote.caixin.com/2026-06-26/102457788.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://promote.caixin.com/2026-06-26/102457788.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com//2026-06-04/178055949739987.jpg",
+          "summary": null,
+          "title": "ESG知行探索之旅（大湾区场）回顾",
+          "url": "https://promote.caixin.com/2026-06-26/102457788.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "microsite",
+            "canonical_url": "https://promote.caixin.com/esg30-young-scholars-2025/",
+            "command": [
+              "caixin-cli",
+              "microsite",
+              "https://promote.caixin.com/esg30-young-scholars-2025/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://promote.caixin.com/esg30-young-scholars-2025/",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com//2025-11-14/176311088119876.jpg",
+          "summary": null,
+          "title": "ESG30青年学者计划第二期",
+          "url": "https://promote.caixin.com/esg30-young-scholars-2025/"
+        }
+      ],
+      "key": "esg.special",
+      "lane": "sidebar",
+      "name": "特别呈现",
+      "order": 1,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2024-09-09/102232419.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2024-09-09/102232419.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2024-09-09/102232419.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "summary": null,
+          "title": "“ESG+AI”双轮驱动 引领全球化新浪潮：《中国企业“新出海”专题报告》发布会",
+          "url": "https://video.caixin.com/2024-09-09/102232419.html"
+        }
+      ],
+      "key": "esg.video",
+      "lane": "sidebar",
+      "name": "影像说",
+      "order": 2,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2025-11-17/102383699.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2025-11-17/102383699.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2025-11-17/102383699.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-11-14/176311084375120_300_200.jpg",
+          "summary": "尽管遭遇一些逆风甚至出现局部撤退，但在财务逻辑和影响力逻辑的双重加持下，ESG发展仍然展现出韧性，并在动态盘整中持续夯实自己的价值根基和操作路径",
+          "title": "2025中国ESG发展白皮书",
+          "url": "https://www.caixin.com/2025-11-17/102383699.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2025-10-26/102375719.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2025-10-26/102375719.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2025-10-26/102375719.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-10-23/176118489537395_300_200.jpg",
+          "summary": null,
+          "title": "《以尽责管理推动价值创造》报告发布：解码A股机构投资者赋能上市公司治理的实践路径",
+          "url": "https://www.caixin.com/2025-10-26/102375719.html"
+        }
+      ],
+      "key": "esg.reports",
+      "lane": "sidebar",
+      "name": "ESG报告",
+      "order": 3,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 9,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "public-directory",
+        "canonical_url": "https://index.caixin.com/esg30/",
+        "command": [
+          "caixin-cli",
+          "public-directory",
+          "https://index.caixin.com/esg30/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://index.caixin.com/esg30/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "ESG30专题",
+      "url": "https://index.caixin.com/esg30/"
+    }
+  ],
+  "navigation_count": 1,
+  "ok": true,
+  "page_kind": "esg",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:48:58+00:00",
+    "final_url": "https://www.caixin.com/esg/",
+    "requested_url": "https://www.caixin.com/esg/"
+  },
+  "source_mode": "server_html",
+  "title": "ESG_财新网_财新网"
+}

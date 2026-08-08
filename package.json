@@ -1,0 +1,48 @@
+{
+  "name": "@fateforge/caixin-cli",
+  "version": "0.1.0",
+  "description": "Caixin (财新) CLI for AI Agents - read-only access to the homepage, channels, directories, search, topics, magazine issues, and articles the subscription entitles the user to",
+  "license": "MIT",
+  "author": "Sean Guo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatecannotbealtered/caixin-cli.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": {
+    "caixin-cli": "scripts/run.js"
+  },
+  "scripts": {
+    "version": "node scripts/sync-version.js",
+    "check-version": "node scripts/check-version.js"
+  },
+  "optionalDependencies": {
+    "@fateforge/caixin-cli-darwin-arm64": "0.1.0",
+    "@fateforge/caixin-cli-darwin-x64": "0.1.0",
+    "@fateforge/caixin-cli-linux-arm64": "0.1.0",
+    "@fateforge/caixin-cli-linux-x64": "0.1.0",
+    "@fateforge/caixin-cli-win32-arm64": "0.1.0",
+    "@fateforge/caixin-cli-win32-x64": "0.1.0"
+  },
+  "files": [
+    "scripts/run.js",
+    "skills/",
+    "README.md",
+    "README_zh.md",
+    "*_zh.md",
+    "LICENSE",
+    "NOTICE.md",
+    "CHANGELOG.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "CODE_OF_CONDUCT.md",
+    "AGENTS.md",
+    ".agent/",
+    "docs/"
+  ],
+  "engines": {
+    "node": ">=16"
+  }
+}

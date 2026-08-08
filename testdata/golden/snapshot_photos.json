@@ -1,0 +1,825 @@
+{
+  "_untrusted": true,
+  "article_details_not_fetched": true,
+  "complete_listing_verified": false,
+  "directory_only": true,
+  "external_stylesheets_applied": false,
+  "items_count": 26,
+  "javascript_executed": false,
+  "latest_article_date": "2026-08-06",
+  "media_not_downloaded": true,
+  "modules": [
+    {
+      "active_item_index": 0,
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-03/102470920.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-03/102470920.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-03/102470920.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-03/178575458956652_840_560.jpg",
+          "summary": null,
+          "title": "印尼一渡轮起火 5人遇难41人失踪",
+          "url": "https://photos.caixin.com/2026-08-03/102470920.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-03/102470911.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-03/102470911.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-03/102470911.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-03/178575461677853_840_560.jpg",
+          "summary": null,
+          "title": "韩国高温创百年纪录 当局警告停止一切户外活动",
+          "url": "https://photos.caixin.com/2026-08-03/102470911.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-02/102470652.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-02/102470652.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-02/102470652.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-02/178567379850030_840_560.jpg",
+          "summary": null,
+          "title": "秘鲁纳斯卡观光飞机坠毁 13人遇难",
+          "url": "https://photos.caixin.com/2026-08-02/102470652.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-01/102470426.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-01/102470426.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-01/102470426.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-01/178555437979118_840_560.jpg",
+          "summary": null,
+          "title": "马航飞行员跨国走私7万粒摇头丸 尿检体内含3种毒品",
+          "url": "https://photos.caixin.com/2026-08-01/102470426.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-07-31/102469910.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-07-31/102469910.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-07-31/102469910.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-31/178547671317093_840_560.jpg",
+          "summary": null,
+          "title": "西班牙休达进入紧急状态 数千非法移民从摩洛哥闯入",
+          "url": "https://photos.caixin.com/2026-07-31/102469910.html"
+        }
+      ],
+      "key": "photos.focus",
+      "lane": "lead",
+      "name": "焦点",
+      "order": 0,
+      "state": "hidden"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-31/102469828.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-01/178554730508456_840_560.jpg",
+          "summary": null,
+          "title": "显影｜河南西瓜低价滞销 瓜农凌晨4点去卖7分钱一斤的瓜(含视频)",
+          "url": "https://weekly.caixin.com/2026-07-31/102469828.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-24/102467645.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-24/102467645.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-24/102467645.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-25/178494297203341_840_560.jpg",
+          "summary": null,
+          "title": "显影｜1亿棵梭梭与人沙之战",
+          "url": "https://weekly.caixin.com/2026-07-24/102467645.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-17/102465233.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-17/102465233.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-17/102465233.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-18/178434246032245_840_560.jpg",
+          "summary": null,
+          "title": "显影｜让老人“家庭式养老”",
+          "url": "https://weekly.caixin.com/2026-07-17/102465233.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-10/102462603.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-10/102462603.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-10/102462603.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-11/178375169843552_840_560.jpg",
+          "summary": null,
+          "title": "显影｜华人在阿尔巴尼亚",
+          "url": "https://weekly.caixin.com/2026-07-10/102462603.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-03/102460621.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-03/102460621.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-03/102460621.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-04/178313613250535_840_560.jpg",
+          "summary": null,
+          "title": "显影｜世界杯之外：曾被国际足联点赞的凉山青年和玉米地里的足球队",
+          "url": "https://weekly.caixin.com/2026-07-03/102460621.html"
+        }
+      ],
+      "key": "photos.shadow",
+      "lane": "main",
+      "more_url": "https://key.caixin.com/topic/BQ02.000000368",
+      "name": "显影",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471865.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471865.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471865.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-06/178600536992032_840_560.jpg",
+          "images": [
+            "https://img.caixin.com/2026-08-06/178600536992032_840_560.jpg",
+            "https://img.caixin.com/2026-08-06/178600537149057_840_560.jpg",
+            "https://img.caixin.com/2026-08-06/178600537306246_840_560.jpg",
+            "https://img.caixin.com/2026-08-06/178600537466724_840_560.jpg"
+          ],
+          "meta": "08月06日 16:37",
+          "summary": null,
+          "title": "湖北宜昌局部短时降雨128毫米 紧急转移近4000人",
+          "url": "https://photos.caixin.com/2026-08-06/102471865.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471770.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-06/178599589415867_840_560.jpg",
+          "images": [
+            "https://img.caixin.com/2026-08-06/178599589415867_840_560.jpg",
+            "https://img.caixin.com/2026-08-06/178599589585699_840_560.jpg",
+            "https://img.caixin.com/2026-08-06/178599589700585_840_560.jpg",
+            "https://img.caixin.com/2026-08-06/178599591305120_840_560.jpg"
+          ],
+          "meta": "08月06日 14:05",
+          "summary": null,
+          "title": "视线｜“入侵”还是“人道危机”？难民潮撕裂西班牙飞地休达",
+          "url": "https://photos.caixin.com/2026-08-06/102471770.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471754.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471754.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471754.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-06/178599514546588_840_560.jpg",
+          "images": [
+            "https://img.caixin.com/2026-08-06/178599514546588_840_560.jpg",
+            "https://img.caixin.com/2026-08-06/178599503881810_840_560.jpg",
+            "https://img.caixin.com/2026-08-06/178599503951790_840_560.jpg",
+            "https://img.caixin.com/2026-08-06/178599504021019_840_560.jpg"
+          ],
+          "meta": "08月06日 13:44",
+          "summary": null,
+          "title": "黎巴嫩贝鲁特港爆炸事件6周年 仍未等到追责结果",
+          "url": "https://photos.caixin.com/2026-08-06/102471754.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471735.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471735.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471735.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-06/178599312337445_840_560.jpg",
+          "images": [
+            "https://img.caixin.com/2026-08-06/178599312337445_840_560.jpg",
+            "https://img.caixin.com/2026-08-06/178599312496313_840_560.jpg",
+            "https://img.caixin.com/2026-08-06/178599312659042_840_560.jpg",
+            "https://img.caixin.com/2026-08-06/178599312835291_840_560.jpg"
+          ],
+          "meta": "08月06日 13:15",
+          "summary": null,
+          "title": "哈尔滨遭遇短时极端强降雨 3小时累计雨量超80毫米",
+          "url": "https://photos.caixin.com/2026-08-06/102471735.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-05/102471445.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-05/102471445.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-05/102471445.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-05/178591149410545_840_560.jpg",
+          "images": [
+            "https://img.caixin.com/2026-08-05/178591149410545_840_560.jpg",
+            "https://img.caixin.com/2026-08-05/178591149582670_840_560.jpg",
+            "https://img.caixin.com/2026-08-05/178591150183857_840_560.jpg",
+            "https://img.caixin.com/2026-08-05/178591150377174_840_560.jpg"
+          ],
+          "meta": "08月05日 14:39",
+          "summary": null,
+          "title": "视线｜HYROX的吸金术：是什么让中产们甘心“花钱找虐”？",
+          "url": "https://photos.caixin.com/2026-08-05/102471445.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-05/102471371.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-05/102471371.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-05/102471371.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-05/178590003015794_840_560.jpg",
+          "images": [
+            "https://img.caixin.com/2026-08-05/178590003015794_840_560.jpg",
+            "https://img.caixin.com/2026-08-05/178590003436225_840_560.jpg",
+            "https://img.caixin.com/2026-08-05/178590003843769_840_560.jpg",
+            "https://img.caixin.com/2026-08-05/178590004534638_840_560.jpg"
+          ],
+          "meta": "08月05日 13:14",
+          "summary": null,
+          "title": "视线｜被称为“蟑螂”的印度Z世代 用街头抗争将教育部长拱下台",
+          "url": "https://photos.caixin.com/2026-08-05/102471371.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-03/102470944.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-03/102470944.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-03/102470944.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-03/178575494453613_840_560.jpg",
+          "images": [
+            "https://img.caixin.com/2026-08-03/178575494453613_840_560.jpg",
+            "https://img.caixin.com/2026-08-03/178575494619123_840_560.jpg",
+            "https://img.caixin.com/2026-08-03/178575494774159_840_560.jpg",
+            "https://img.caixin.com/2026-08-03/178575494925234_840_560.jpg"
+          ],
+          "meta": "08月03日 19:17",
+          "summary": null,
+          "title": "加沙上百万流离失所者困于“塑料烤箱” 高温引发健康危机",
+          "url": "https://photos.caixin.com/2026-08-03/102470944.html"
+        }
+      ],
+      "key": "photos.rolling",
+      "lane": "main",
+      "name": "滚动图集",
+      "order": 1,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471770.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-06/178599589415867_840_560.jpg",
+          "summary": null,
+          "title": "视线｜“入侵”还是“人道危机”？难民潮撕裂西班牙飞地休达",
+          "url": "https://photos.caixin.com/2026-08-06/102471770.html"
+        }
+      ],
+      "key": "photos.sight",
+      "lane": "sidebar",
+      "more_url": "https://photos.caixin.com/sx/",
+      "name": "视线",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-01/102470434.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-01/102470434.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-01/102470434.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-01/178555495109295_840_560.jpg",
+          "summary": null,
+          "title": "一周天下｜日本熊本地震致36人死亡、欧洲野火持续",
+          "url": "https://photos.caixin.com/2026-08-01/102470434.html"
+        }
+      ],
+      "key": "photos.weekly-world",
+      "lane": "sidebar",
+      "more_url": "https://photos.caixin.com/photoreport/",
+      "name": "一周天下",
+      "order": 1,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-01/102470500.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-01/102470500.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-01/102470500.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-01/178557545859272_840_560.jpg",
+          "summary": null,
+          "title": "视线｜极端高温致多瑙河水位跌破纪录 二战沉船与猛犸象化石接连露出",
+          "url": "https://photos.caixin.com/2026-08-01/102470500.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-03/102470911.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-03/102470911.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-03/102470911.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-03/178575461677853_840_560.jpg",
+          "summary": null,
+          "title": "韩国高温创百年纪录 当局警告停止一切户外活动",
+          "url": "https://photos.caixin.com/2026-08-03/102470911.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-07-31/102469910.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-07-31/102469910.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-07-31/102469910.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-31/178547671317093_840_560.jpg",
+          "summary": null,
+          "title": "西班牙休达进入紧急状态 数千非法移民从摩洛哥闯入",
+          "url": "https://photos.caixin.com/2026-07-31/102469910.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-03/102470944.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-03/102470944.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-03/102470944.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-03/178575494453613_840_560.jpg",
+          "summary": null,
+          "title": "加沙上百万流离失所者困于“塑料烤箱” 高温引发健康危机",
+          "url": "https://photos.caixin.com/2026-08-03/102470944.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-01/102470426.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-01/102470426.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-01/102470426.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-01/178555437979118_840_560.jpg",
+          "summary": null,
+          "title": "马航飞行员跨国走私7万粒摇头丸 尿检体内含3种毒品",
+          "url": "https://photos.caixin.com/2026-08-01/102470426.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-05/102471445.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-05/102471445.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-05/102471445.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-05/178591149410545_840_560.jpg",
+          "summary": null,
+          "title": "视线｜HYROX的吸金术：是什么让中产们甘心“花钱找虐”？",
+          "url": "https://photos.caixin.com/2026-08-05/102471445.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-07-30/102469547.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-07-30/102469547.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-07-30/102469547.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-30/178539534581766_840_560.jpg",
+          "summary": null,
+          "title": "泽连斯基密集出访美英 索要防空导弹“救急”",
+          "url": "https://photos.caixin.com/2026-07-30/102469547.html"
+        }
+      ],
+      "key": "photos.recent",
+      "lane": "sidebar",
+      "name": "近期热图",
+      "order": 2,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 6,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://key.caixin.com/topic/BQ02.000000368",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://key.caixin.com/topic/BQ02.000000368"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://key.caixin.com/topic/BQ02.000000368",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "显影",
+      "url": "https://key.caixin.com/topic/BQ02.000000368"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "public-directory",
+        "canonical_url": "https://photos.caixin.com/sx/",
+        "command": [
+          "caixin-cli",
+          "public-directory",
+          "https://photos.caixin.com/sx/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://photos.caixin.com/sx/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "视线",
+      "url": "https://photos.caixin.com/sx/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "public-directory",
+        "canonical_url": "https://photos.caixin.com/photoreport/",
+        "command": [
+          "caixin-cli",
+          "public-directory",
+          "https://photos.caixin.com/photoreport/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://photos.caixin.com/photoreport/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "一周天下",
+      "url": "https://photos.caixin.com/photoreport/"
+    }
+  ],
+  "navigation_count": 3,
+  "ok": true,
+  "page_kind": "photos-index",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-06T14:32:36+00:00",
+    "final_url": "https://photos.caixin.com/",
+    "requested_url": "https://photos.caixin.com/"
+  },
+  "source_mode": "server_html",
+  "stale_content": false,
+  "title": "图片频道_图片频道_财新网",
+  "unique_urls_count": 20
+}

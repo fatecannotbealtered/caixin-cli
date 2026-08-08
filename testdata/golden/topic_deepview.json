@@ -1,0 +1,273 @@
+{
+  "_untrusted": true,
+  "data_code": "BQ02.000008008",
+  "description": "无论家庭教育还是学校教育，需要优先解决的是“多数人”感知意义的能力。",
+  "details_not_fetched": true,
+  "image": "https://sks-prod.oss-cn-beijing.aliyuncs.com/prod/users/147/image/1345024860498370560.jpg",
+  "items_count": 14,
+  "ok": true,
+  "paywall_components": 5,
+  "sections": [
+    {
+      "access": "visible",
+      "component": "RichTextCom",
+      "lane": "left",
+      "order": 0,
+      "paywall_configured": false,
+      "text": "文文文文文文文文文文文文，文文文文文文文文“文文文”文文文文文文文，文文文文文文文文文文文文文文文、文文、文文：文文文文文文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文，文文文文文文文文文文文文文文文文。文文文文文文文文文、文文文文文、文文文文文文文文文文文文文。",
+      "type": "rich_text"
+    },
+    {
+      "access": "paywall_preview",
+      "component": "TimeListCom",
+      "full_total_with_details": 7,
+      "items": [
+        {
+          "access": "topic_listing_visible",
+          "content_id": "102459498",
+          "image": "https://img.caixin.com/2026-07-01/178286431135094.jpg",
+          "memo": "",
+          "published_at": "2026-07-01 08:04:40",
+          "reported_vip_flag": true,
+          "summary": "工学“一骑绝尘”，与电子信息、先进制造等战略新兴产业相关的专业表现突出，传统热门IT专业下滑",
+          "title": "稳就业｜本科专业高薪榜出炉，哪些最有就业“钱景”？(含视频)",
+          "url": "https://www.caixin.com/2026-07-01/102459498.html"
+        },
+        {
+          "access": "topic_listing_visible",
+          "content_id": "102454193",
+          "image": "https://img.caixin.com/2026-06-15/178149418280351.jpg",
+          "memo": "",
+          "published_at": "2026-06-15 11:26:12",
+          "reported_vip_flag": true,
+          "summary": "知识本身的价值依然无可替代，深厚的知识储备是建立审美和判断力的基础",
+          "title": "港大副校长汪扬：AI时代 年轻学子该如何选专业？",
+          "url": "https://www.caixin.com/2026-06-15/102454193.html"
+        },
+        {
+          "access": "topic_listing_visible",
+          "content_id": "102446337",
+          "image": "https://img.caixin.com/2026-05-22/177940529792558.jpg",
+          "memo": "",
+          "published_at": "2026-05-22 07:12:21",
+          "reported_vip_flag": true,
+          "summary": "0000文文文文，xx文文文文文文文文文文文文00%；文文文xx文文文文文文文文文文文文文文文文文文文；文文文文文文文文文文文文文，00.0%文文文文xx文文文文文文文文文；文文文文文文文文文文文文文文文文",
+          "title": "稳就业｜智联李强：AI应用向各行各业渗透，三类岗位招聘收缩",
+          "url": "https://www.caixin.com/2026-05-22/102446337.html"
+        }
+      ],
+      "lane": "left",
+      "order": 1,
+      "paywall_configured": true,
+      "title": "编辑荐读",
+      "total": 3,
+      "type": "article_list",
+      "visible_limit": 3
+    },
+    {
+      "access": "paywall_preview",
+      "component": "TimeListCom",
+      "full_total_with_details": 3,
+      "items": [
+        {
+          "access": "topic_listing_visible",
+          "content_id": "102426968",
+          "image": "https://img.caixin.com/2026-03-24/177436259626422.jpg",
+          "memo": "",
+          "published_at": "2026-03-24 22:10:45",
+          "reported_vip_flag": true,
+          "summary": "从小镇青年到网红导师，再到被禁言停播并筹谋再起，张雪峰人生轨迹的起伏，也折射了一个时代的酸甜苦辣",
+          "title": "张雪峰猝然离世：一个网红升学导师的毁与誉｜讣闻",
+          "url": "https://www.caixin.com/2026-03-24/102426968.html"
+        },
+        {
+          "access": "topic_listing_visible",
+          "content_id": "102210339",
+          "image": "https://img.caixin.com/2024-06-22/171906443831435.jpg",
+          "memo": "",
+          "published_at": "2024-06-27 11:18:59",
+          "reported_vip_flag": true,
+          "summary": "那些被“避雷”的专业，在就业市场上真的是“雷”吗",
+          "title": "又到高考志愿填报时，“张雪峰效应”正确反映了就业形势吗｜热议",
+          "url": "https://mini.caixin.com/2024-06-27/102210339.html"
+        },
+        {
+          "access": "topic_listing_visible",
+          "content_id": "102362457",
+          "image": "https://img.caixin.com/2025-09-15/175789449418667.jpg",
+          "memo": "",
+          "published_at": "2025-09-16 08:00:00",
+          "reported_vip_flag": true,
+          "summary": "张雪峰凭借敢说、直言、接地气的语言特点走红于网络，并在短视频、直播时代将这一特点发挥得淋漓尽致。在一次次舆论风波中，张雪峰的商业布局逐渐清晰",
+          "title": "【商圈·精选】网红导师、慈善家、人大代表，多面张雪峰的流量生意",
+          "url": "https://database.caixin.com/2025-09-16/102362457.html"
+        }
+      ],
+      "lane": "left",
+      "order": 2,
+      "paywall_configured": true,
+      "title": "争议焦点",
+      "total": 3,
+      "type": "article_list",
+      "visible_limit": 3
+    },
+    {
+      "access": "paywall_preview",
+      "component": "TimeListCom",
+      "full_total_with_details": 287,
+      "items": [
+        {
+          "access": "topic_listing_visible",
+          "content_id": "102467142",
+          "image": "https://img.caixin.com/2026-07-23/178476386311475.jpg",
+          "memo": "",
+          "published_at": "2026-07-23 07:27:10",
+          "reported_vip_flag": false,
+          "summary": "医学生培养周期长、毕业后工作负荷大，职业性价比被重新审视。部分高分考生分流至军校、警校、公费师范生以及名校理工科专业",
+          "title": "当医生不香了？部分省份临床医学专业“考分塌陷”(含视频)｜教育观察",
+          "url": "https://www.caixin.com/2026-07-23/102467142.html"
+        },
+        {
+          "access": "topic_listing_visible",
+          "content_id": "102464976",
+          "image": "https://img.caixin.com/2026-07-17/178428066097254.jpg",
+          "memo": "",
+          "published_at": "2026-07-17 07:22:43",
+          "reported_vip_flag": false,
+          "summary": "军校、警校、公费师范生提前批录取升温并非偶然现象，而是当下经济环境与就业形势催生的择业理性回归",
+          "title": "高考高分考生卷向军警、师范等院校 “铁饭碗”热度走高｜教育观察",
+          "url": "https://www.caixin.com/2026-07-17/102464976.html"
+        }
+      ],
+      "lane": "left",
+      "order": 3,
+      "paywall_configured": true,
+      "title": "教育观察",
+      "total": 2,
+      "type": "article_list",
+      "visible_limit": 3
+    },
+    {
+      "access": "paywall_preview",
+      "component": "TimeListCom",
+      "full_total_with_details": 17,
+      "items": [
+        {
+          "access": "topic_listing_visible",
+          "content_id": "102416246",
+          "image": "https://img.caixin.com/2026-02-23/177181427109385.jpg",
+          "memo": "",
+          "published_at": "2026-02-23 10:41:35",
+          "reported_vip_flag": true,
+          "summary": "未来社会可能是最高精尖和最基础的工作还存在，中间层大量被AI取代。而我们“80后”这代的依赖路径大多在中间层打转，经验很可能失效，复制给下一代并没有多大意义",
+          "title": "澳大利亚春节行：AI冲击之下思考“卷”教育的意义｜亲子",
+          "url": "https://mini.caixin.com/2026-02-23/102416246.html"
+        },
+        {
+          "access": "topic_listing_visible",
+          "content_id": "102399626",
+          "image": "https://img.caixin.com/2026-01-03/176740391099759.jpg",
+          "memo": "",
+          "published_at": "2026-01-03 09:25:52",
+          "reported_vip_flag": true,
+          "summary": "我希望她能了解时事，认识社会，拓宽认知边界。但小学娃阅历和见识有限，选择合适的新闻工具并不容易",
+          "title": "我怎么给女儿做新闻启蒙｜亲子",
+          "url": "https://mini.caixin.com/2026-01-03/102399626.html"
+        },
+        {
+          "access": "topic_listing_visible",
+          "content_id": "102397935",
+          "image": "https://img.caixin.com/2025-12-28/176688300286744.jpg",
+          "memo": "",
+          "published_at": "2025-12-28 08:41:59",
+          "reported_vip_flag": true,
+          "summary": "老课文和新时代生活脱节，不仅是在物质条件上，还在观念和思维方式上，甚至一定程度上制约了情感表达效果",
+          "title": "为何老课文不容易感动小学生｜亲子",
+          "url": "https://mini.caixin.com/2025-12-28/102397935.html"
+        }
+      ],
+      "lane": "left",
+      "order": 4,
+      "paywall_configured": true,
+      "title": "亲子",
+      "total": 3,
+      "type": "article_list",
+      "visible_limit": 3
+    },
+    {
+      "access": "visible",
+      "component": "ImageCom",
+      "image": "https://img.caixin.com/2026-04-21/177674160822493.jpg",
+      "lane": "right",
+      "memo": "视线｜当家变成“学校”：个性化教育的自由与代价",
+      "order": 0,
+      "paywall_configured": false,
+      "type": "image",
+      "url": "https://photos.caixin.com/2026-04-21/102436255.html?cxapp_link=true"
+    },
+    {
+      "access": "paywall_preview",
+      "component": "TimeListCom",
+      "full_total_with_details": 8,
+      "items": [
+        {
+          "access": "topic_listing_visible",
+          "content_id": "102437307",
+          "image": "https://img.caixin.com/2026-04-24/177699544599225.jpg",
+          "memo": "",
+          "published_at": "2026-04-24 09:40:48",
+          "reported_vip_flag": true,
+          "summary": "AI技术进步将在很大程度上重塑就业结构，但大规模、真实的冲击尚未完全落地。关键问题在于，如何在这一阶段不断拓展新领域、新业态中的就业空间",
+          "title": "AI时代如何应对就业冲击：窗口期能有多大",
+          "url": "https://opinion.caixin.com/2026-04-24/102437307.html"
+        },
+        {
+          "access": "topic_listing_visible",
+          "content_id": "102435754",
+          "image": "https://img.caixin.com/2025-10-11/176015515412395.jpg",
+          "memo": "",
+          "published_at": "2026-04-19 18:08:43",
+          "reported_vip_flag": true,
+          "summary": "如果使用AI做的研究比人独立做出的研究更好，为什么要放弃这样一个赋能工具而采用低效的手工劳动呢",
+          "title": "能否用AI写论文？｜热议",
+          "url": "https://mini.caixin.com/2026-04-19/102435754.html"
+        },
+        {
+          "access": "topic_listing_visible",
+          "content_id": "102404350",
+          "image": "https://img.caixin.com/2026-01-16/176853883824013.jpg",
+          "memo": "",
+          "published_at": "2026-01-16 12:39:20",
+          "reported_vip_flag": true,
+          "summary": "唯有构建能够培养兼具技术素养与人性温度、专业能力与社会担当的未来公民的教育体系，才可能真正应对智能时代的深层挑战，从而塑造一个人技和谐、尊严普在的未来",
+          "title": "AI变革下的人才成长与教育生态｜中改圆桌",
+          "url": "https://opinion.caixin.com/2026-01-16/102404350.html"
+        }
+      ],
+      "lane": "right",
+      "order": 1,
+      "paywall_configured": true,
+      "title": "观点冲突",
+      "total": 3,
+      "type": "article_list",
+      "visible_limit": 3
+    },
+    {
+      "component": "TitleCom",
+      "lane": "right",
+      "order": 3,
+      "paywall_configured": false,
+      "title": "推荐阅读"
+    }
+  ],
+  "sections_count": 8,
+  "title": "AI时代的教育难题",
+  "topic_listing_only": true,
+  "topic_type": "TOPIC",
+  "unsupported_components": [
+    "VideoCom",
+    "RecommendationCom"
+  ],
+  "updated_at": "2026-07-01 10:12:08",
+  "url": "https://deepview.caixin.com/topic/BQ02.000008008.html"
+}

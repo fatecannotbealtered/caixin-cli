@@ -1,0 +1,699 @@
+{
+  "_untrusted": true,
+  "complete_listing_verified": false,
+  "external_stylesheets_applied": false,
+  "items_count": 19,
+  "javascript_executed": false,
+  "modules": [
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-06/102472081.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-06/102472081.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-06/102472081.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178602546415426_840_560.jpg",
+          "published_at": "文｜财新 韩宇航 08月06日 22:10",
+          "source_state": "visible",
+          "summary": "发行价150.80元/股，对应的摊薄后静态市销率为35.89倍，8月10日打新",
+          "title": "宇树科技IPO估值600亿元 DeepSeek参与战略配售",
+          "url": "https://finance.caixin.com/2026-08-06/102472081.html"
+        }
+      ],
+      "key": "finance.top",
+      "lane": "main",
+      "name": "头条",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-07/102472411.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-07/102472411.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-07/102472411.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178610559629813_145_97.jpg",
+          "summary": "2026年前三个月，日本及韩国获批香港就业签证的人数均超过1000人",
+          "title": "海外金融专才回流香港 外籍工作签证翻倍",
+          "url": "https://finance.caixin.com/2026-08-07/102472411.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-07/102472383.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-07/102472383.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-07/102472383.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178610160140274_145_97.jpg",
+          "summary": "自2024年11月以来，人民银行已连续21个月“加仓”黄金",
+          "title": "央行7月继续增持近20吨黄金 累计储备超过7600万盎司",
+          "url": "https://finance.caixin.com/2026-08-07/102472383.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-07/102472260.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-07/102472260.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-07/102472260.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2023-04-10/168109913545580_145_97.jpg",
+          "summary": "8家提供预测的金融机构中，有一半认为7月新增信贷可能不足1000亿元；不过受访经济学家对新增社融规模更为乐观",
+          "title": "财新调查｜7月金融数据季节性承压 新增社融或取决于政府债券",
+          "url": "https://finance.caixin.com/2026-08-07/102472260.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-07/102472218.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-07/102472218.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-07/102472218.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-09-22/175853687238444_145_97.jpg",
+          "summary": "早期在建行工作二十多年，2016年调任工行副行长，2018年出任四川省金融副省长，2023年5月出任国家金融监管总局首任党委书记、局长，2026年4月被免职",
+          "title": "因严重违纪违法 李云泽被罢免第十四届全国人大代表职务",
+          "url": "https://finance.caixin.com/2026-08-07/102472218.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-06/102472081.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-06/102472081.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-06/102472081.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178602546415426_145_97.jpg",
+          "summary": "发行价150.80元/股，对应的摊薄后静态市销率为35.89倍，8月10日打新",
+          "title": "宇树科技IPO估值600亿元 DeepSeek参与战略配售",
+          "url": "https://finance.caixin.com/2026-08-06/102472081.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-06/102471670.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178598294666017_145_97.jpg",
+          "summary": "人民币在美元升值的压力下仍然表现出较强韧性，加强了市场对于人民币的信心",
+          "title": "在岸人民币兑美元汇率连日升破6.75 重回三年半高位",
+          "url": "https://finance.caixin.com/2026-08-06/102471670.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-06/102471644.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-06/102471644.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-06/102471644.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178597737477898_145_97.jpg",
+          "summary": "保诚香港及内地业务合计贡献逾半新业务利润，汇丰香港业务贡献四成分部税前利润",
+          "title": "港险收益征税冲击伦敦市场 保诚盘中重挫13%",
+          "url": "https://finance.caixin.com/2026-08-06/102471644.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-06/102471585.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-06/102471585.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-06/102471585.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178593136388413_145_97.jpg",
+          "summary": "惠誉评级称，虽然维持全球展望为中性，但伊朗冲突及随之而来的通胀冲击，降低了高杠杆发行人在短期内获得利率环境改善的可能性",
+          "title": "惠誉：美国私募信贷违约率创新高",
+          "url": "https://finance.caixin.com/2026-08-06/102471585.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-05/102471603.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-05/102471603.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-05/102471603.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178593628068670_145_97.jpg",
+          "summary": "有银行客户经理表示，五年期大额存单额度较过去减少，客户抢购难度增加",
+          "title": "多家银行再度“上架”五年期大额存单 有何考量？(含视频)",
+          "url": "https://finance.caixin.com/2026-08-05/102471603.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-05/102471538.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-05/102471538.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-05/102471538.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178592581861319_145_97.jpg",
+          "summary": "市场预计估值超过500亿元",
+          "title": "宇树科技开启询价 具身智能估值跑在业绩前？",
+          "url": "https://finance.caixin.com/2026-08-05/102471538.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-05/102471513.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-05/102471513.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-05/102471513.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178592281899398_145_97.jpg",
+          "summary": "随着CRS信息交换常态化，税务机关已可完整获取境外保单的分红、现金价值数据，征管空白正在逐步填补",
+          "title": "独家｜境外收入征税 保险收益计税详解(含视频)",
+          "url": "https://finance.caixin.com/2026-08-05/102471513.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-05/102471428.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-05/102471428.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-05/102471428.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178590900342982_145_97.jpg",
+          "summary": "又有一名新加坡最大洗钱案中“福建帮”成员的资产在英国被冻结，16套公寓总价2471.6万英镑（约合人民币2.25亿元）",
+          "title": "“福建帮”洗钱案逃犯徐海卡 伦敦16套房拟被英国没收(含视频)",
+          "url": "https://finance.caixin.com/2026-08-05/102471428.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-05/102471419.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-05/102471419.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-05/102471419.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178590780818036_145_97.jpg",
+          "summary": "除了王兴兴个人及其完全控股的上海宇翼外，宇树科技最大股东是美团",
+          "title": "谁是宇树科技股东？巨头、国资隐身千倍估值背后",
+          "url": "https://finance.caixin.com/2026-08-05/102471419.html"
+        }
+      ],
+      "key": "finance.news",
+      "lane": "main",
+      "name": "要闻",
+      "order": 1,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-07/102472123.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-07/102472123.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-07/102472123.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "summary": "沪指开盘报3896.49点；深成指报14152.78点",
+          "title": "今日开盘：沪指报3896.49点 跌幅0.10%",
+          "url": "https://finance.caixin.com/2026-08-07/102472123.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-06/102471665.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-06/102471665.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-06/102471665.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "summary": "沪指开盘报3864.27点，跌幅0.36%；深成指报13981.44点，跌幅1.15%",
+          "title": "今日开盘：两市双双低开 沪指跌幅0.36%",
+          "url": "https://finance.caixin.com/2026-08-06/102471665.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-05/102471311.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-05/102471311.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-05/102471311.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "summary": "沪指开盘报3815.12点，跌幅0.19%；深成指报13644.83点，跌幅1.73%",
+          "title": "今日开盘：两市双双低开 沪指跌幅0.19%",
+          "url": "https://finance.caixin.com/2026-08-05/102471311.html"
+        }
+      ],
+      "key": "finance.market",
+      "lane": "sidebar",
+      "name": "金融市场",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007950.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000007950.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000007950.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-11-27/176425517830461_145_97.jpg",
+          "summary": "第三届济南科技金融论坛以“科技金融 深度赋能”为主题，共论科技金融如何加速提升支持科技创新的能力、强度和水平，以及深化科创金融改革的济南新实践、新经验。",
+          "title": "聚焦第三届济南科技金融论坛",
+          "url": "https://deepview.caixin.com/topic/BQ02.000007950.html?cxapp_link=true"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://mappv5.caixin.com/m_topic_detail/1633.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://mappv5.caixin.com/m_topic_detail/1633.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mappv5.caixin.com/m_topic_detail/1633.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2021-12-07/163886065482977_145_97.jpg",
+          "summary": "“文文文”“文文文”文文文文文文，文文文文文文文文文文、文文、文文文文文文文文文文：文文文“文文”文文文文文文文文文文文文文文文文？文文、文文、文文、文文文文文“文文”文文文文文？文文文文文文文文文“文文”文文文文文文文文文文文？",
+          "title": "双碳目标的中国答卷",
+          "url": "https://mappv5.caixin.com/m_topic_detail/1633.html"
+        }
+      ],
+      "key": "finance.topics",
+      "lane": "sidebar",
+      "name": "热点专题",
+      "order": 1,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 4,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topics",
+        "canonical_url": "https://topics.caixin.com/finance/",
+        "command": [
+          "caixin-cli",
+          "topics",
+          "https://topics.caixin.com/finance/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/finance/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "热点专题",
+      "url": "https://topics.caixin.com/finance/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://topics.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://topics.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "更多专题>>",
+      "url": "https://topics.caixin.com/"
+    }
+  ],
+  "navigation_count": 2,
+  "ok": true,
+  "page_kind": "finance",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:49:10+00:00",
+    "final_url": "https://finance.caixin.com/",
+    "requested_url": "https://finance.caixin.com/"
+  },
+  "source_mode": "server_html",
+  "subdirectories": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://finance.caixin.com/regulation/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://finance.caixin.com/regulation/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://finance.caixin.com/regulation/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "更多",
+      "url": "https://finance.caixin.com/regulation/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://finance.caixin.com/bank/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://finance.caixin.com/bank/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://finance.caixin.com/bank/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "更多",
+      "url": "https://finance.caixin.com/bank/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://finance.caixin.com/stock/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://finance.caixin.com/stock/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://finance.caixin.com/stock/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "更多",
+      "url": "https://finance.caixin.com/stock/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://finance.caixin.com/insurance_trust/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://finance.caixin.com/insurance_trust/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://finance.caixin.com/insurance_trust/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "更多",
+      "url": "https://finance.caixin.com/insurance_trust/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://finance.caixin.com/investment/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://finance.caixin.com/investment/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://finance.caixin.com/investment/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "更多",
+      "url": "https://finance.caixin.com/investment/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://finance.caixin.com/innovation/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://finance.caixin.com/innovation/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://finance.caixin.com/innovation/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "更多",
+      "url": "https://finance.caixin.com/innovation/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://finance.caixin.com/market/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://finance.caixin.com/market/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://finance.caixin.com/market/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "金融市场",
+      "url": "https://finance.caixin.com/market/"
+    }
+  ],
+  "subdirectories_count": 7,
+  "title": "金融频道-财新网"
+}

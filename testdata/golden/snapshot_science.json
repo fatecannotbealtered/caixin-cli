@@ -1,0 +1,569 @@
+{
+  "_untrusted": true,
+  "complete_listing_verified": false,
+  "external_stylesheets_applied": false,
+  "items_count": 17,
+  "javascript_executed": false,
+  "modules": [
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-06/102471879.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-06/102471879.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-06/102471879.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178600573004956_840_560.jpg",
+          "published_at": "文｜财新 单玉晓 08月06日 16:42",
+          "source_state": "visible",
+          "summary": "最高法院发布《关于适用生态环境法典时间效力的若干规定》，为新旧法律衔接适用提供指引，其中多个条文引导行为人主动修复受损生态环境或者承担损害赔偿责任",
+          "title": "生态环境法典将施行 最高法明确新旧法衔接与追责规则",
+          "url": "https://china.caixin.com/2026-08-06/102471879.html"
+        }
+      ],
+      "key": "science.top",
+      "lane": "main",
+      "name": "头条",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://science.caixin.com/2026-08-08/102472506.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://science.caixin.com/2026-08-08/102472506.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://science.caixin.com/2026-08-08/102472506.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-08/178615809163522_145_97.jpg",
+          "summary": "知名伦理学家邱仁宗认为，6岁女童参与基因编辑临床试验死亡事件反映出，研究人员没有将研究参与者的安全放在第一位，伦理审查委员会也成了橡皮图章",
+          "title": "对话｜邱仁宗：临床研究参与者的安全永远是第一位",
+          "url": "https://science.caixin.com/2026-08-08/102472506.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-06/102471879.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-06/102471879.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-06/102471879.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178600573004956_145_97.jpg",
+          "summary": "最高法院发布《关于适用生态环境法典时间效力的若干规定》，为新旧法律衔接适用提供指引，其中多个条文引导行为人主动修复受损生态环境或者承担损害赔偿责任",
+          "title": "生态环境法典将施行 最高法明确新旧法衔接与追责规则",
+          "url": "https://china.caixin.com/2026-08-06/102471879.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://science.caixin.com/2026-08-02/102470567.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://science.caixin.com/2026-08-02/102470567.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://science.caixin.com/2026-08-02/102470567.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-02/178564732413870_145_97.jpg",
+          "summary": "赤潮为北部湾海洋牧场的安全生产敲响了警钟",
+          "title": "赤潮反复暴发 海南启动第三轮应急响应",
+          "url": "https://science.caixin.com/2026-08-02/102470567.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://science.caixin.com/2026-07-31/102470271.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://science.caixin.com/2026-07-31/102470271.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://science.caixin.com/2026-07-31/102470271.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-31/178550875767598_145_97.jpg",
+          "summary": "文文文文文文文文、文文文文文文文文文文文文文文文文文文文，xx文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文。xx文文文文文文文文，文文文文文文文文文文，文文文文文文文文",
+          "title": "AI如何影响劳动力市场？ 研究指延续250年的分工模式或不再重要",
+          "url": "https://science.caixin.com/2026-07-31/102470271.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://science.caixin.com/2026-07-30/102469464.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://science.caixin.com/2026-07-30/102469464.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://science.caixin.com/2026-07-30/102469464.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-30/178538223053464_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文文文文文文文文文0000文0文文文文、文文文文文文文文文文文文文文文文0000文0文文文文文文文文；文文文文文文文文文文文文文文文文文文0000文0文文文文文文文文文文文",
+          "title": "《自然》回应“耿同学”打假 两篇论文撤稿一篇论文更正(含视频)",
+          "url": "https://science.caixin.com/2026-07-30/102469464.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://science.caixin.com/2026-07-29/102469161.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://science.caixin.com/2026-07-29/102469161.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://science.caixin.com/2026-07-29/102469161.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-29/178531399517636_145_97.jpg",
+          "summary": "知情人士表示，6月末以来的两轮赤潮灾害是近年来海南规模最大、损失最多的一次赤潮",
+          "title": "海南终止第二轮赤潮应急响应 海洋牧场安全生产敲响警钟",
+          "url": "https://science.caixin.com/2026-07-29/102469161.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://science.caixin.com/2026-07-29/102469035.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://science.caixin.com/2026-07-29/102469035.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://science.caixin.com/2026-07-29/102469035.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-29/178530417006736_145_97.jpg",
+          "summary": "近期发表在《科学进展》上的一项研究，发现水坝下游的河流普遍存在升温现象。这可能对鱼类产卵、有害藻华、碳排放及其他生态系统产生重要影响",
+          "title": "研究：大型水坝让下游河流普遍升温，或威胁冷水鱼类(含视频)",
+          "url": "https://science.caixin.com/2026-07-29/102469035.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://science.caixin.com/2026-07-28/102468871.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://science.caixin.com/2026-07-28/102468871.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://science.caixin.com/2026-07-28/102468871.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-28/178523912788855_145_97.jpg",
+          "summary": "目前两国都已将野火灾情提升至国家危机层级。马克龙称，这是法国自二战以来最严重的森林火灾危机",
+          "title": "法国西班牙野火肆虐致超32万人撤离 两国已启动欧盟民防机制",
+          "url": "https://science.caixin.com/2026-07-28/102468871.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://science.caixin.com/2026-07-27/102468436.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://science.caixin.com/2026-07-27/102468436.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://science.caixin.com/2026-07-27/102468436.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-27/178513272554258_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文。文文文文文文文文文文文文文文文、文文文文。0000文文文文文文文文文文文文，文文文文文文文，文文文文文",
+          "title": "山洪突袭甘肃渭源一露营地造成10死23伤 景区称事前接到预警",
+          "url": "https://science.caixin.com/2026-07-27/102468436.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://science.caixin.com/2026-07-24/102467869.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://science.caixin.com/2026-07-24/102467869.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://science.caixin.com/2026-07-24/102467869.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-24/178490418657557_145_97.jpg",
+          "summary": "7月6日的洪水让贵港动物园笼舍大面积坍塌损毁，上百只动物被冲走，负责人称估计损失超过400万元。两个多星期过去，虽有民间力量协助，多数动物仍未寻回",
+          "title": "洪水过后，民营贵港动物园艰难求生",
+          "url": "https://science.caixin.com/2026-07-24/102467869.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://science.caixin.com/2026-07-24/102467472.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://science.caixin.com/2026-07-24/102467472.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://science.caixin.com/2026-07-24/102467472.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-24/178486218310470_145_97.jpg",
+          "summary": "调查显示，灰鲸数量从2016年的27000头骤降至2025年的13000头。气候变化使得它们在北极的觅食地发生了根本性改变",
+          "title": "研究：因北极变暖，灰鲸种群数量十年间腰斩",
+          "url": "https://science.caixin.com/2026-07-24/102467472.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://science.caixin.com/2026-07-23/102467392.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://science.caixin.com/2026-07-23/102467392.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://science.caixin.com/2026-07-23/102467392.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-23/178481580516827_145_97.jpg",
+          "summary": "两人曾为北大数学科学学院2007级本科校友，分别在法国高等科学研究所、美国芝加哥大学任教。王虹也成为菲尔兹奖历史上第三位女性得主",
+          "title": "王虹邓煜荣获菲尔兹奖 北大双子星的传奇之路(含视频)",
+          "url": "https://science.caixin.com/2026-07-23/102467392.html"
+        }
+      ],
+      "key": "science.news",
+      "lane": "main",
+      "name": "要闻",
+      "order": 1,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000002216.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000002216.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000002216.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2024-11-29/173287216090230_145_97.jpg",
+          "summary": null,
+          "title": "终结塑料污染",
+          "url": "https://deepview.caixin.com/topic/BQ02.000002216.html?cxapp_link=true"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007348.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000007348.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000007348.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2024-06-21/171895718209187_145_97.jpg",
+          "summary": null,
+          "title": "南方多地遭暴雨袭击",
+          "url": "https://deepview.caixin.com/topic/BQ02.000007348.html?cxapp_link=true"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "topic",
+            "canonical_url": "https://deepview.caixin.com/topic/BQ02.000006067.html",
+            "command": [
+              "caixin-cli",
+              "topic",
+              "https://deepview.caixin.com/topic/BQ02.000006067.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://deepview.caixin.com/topic/BQ02.000006067.html?cxapp_link=true",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2024-06-14/171833137352418_145_97.jpg",
+          "summary": null,
+          "title": "高温干旱来袭",
+          "url": "https://deepview.caixin.com/topic/BQ02.000006067.html?cxapp_link=true"
+        }
+      ],
+      "key": "science.topics",
+      "lane": "sidebar",
+      "name": "热点专题",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2025-11-29/102388216.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2025-11-29/102388216.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2025-11-29/102388216.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-11-29/176438860473496_840_560.jpg",
+          "summary": "全球气候政治可能将进入一个“低动力时代”",
+          "title": "财新周刊｜巴西气候大会：勉强守住底线",
+          "url": "https://weekly.caixin.com/2025-11-29/102388216.html"
+        }
+      ],
+      "key": "science.rail-0",
+      "lane": "sidebar",
+      "name": "推荐阅读",
+      "order": 1,
+      "state": "fallback-visible"
+    }
+  ],
+  "modules_count": 4,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topics",
+        "canonical_url": "https://topics.caixin.com/china_sp/",
+        "command": [
+          "caixin-cli",
+          "topics",
+          "https://topics.caixin.com/china_sp/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/china_sp/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "热点专题",
+      "url": "https://topics.caixin.com/china_sp/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/event/EVENT.000000050.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/event/EVENT.000000050.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/event/EVENT.000000050.html",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "现场·原创：华北洪水直击",
+      "url": "https://deepview.caixin.com/event/EVENT.000000050.html"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://mappv5.caixin.com/m_topic_detail/586.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://mappv5.caixin.com/m_topic_detail/586.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://mappv5.caixin.com/m_topic_detail/586.html",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "雾霾围城",
+      "url": "https://mappv5.caixin.com/m_topic_detail/586.html"
+    }
+  ],
+  "navigation_count": 3,
+  "ok": true,
+  "page_kind": "science",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:49:19+00:00",
+    "final_url": "https://science.caixin.com/",
+    "requested_url": "https://science.caixin.com/"
+  },
+  "source_mode": "server_html",
+  "subdirectories": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://science.caixin.com/environment/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://science.caixin.com/environment/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://science.caixin.com/environment/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "环境",
+      "url": "https://science.caixin.com/environment/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://science.caixin.com/scitech/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://science.caixin.com/scitech/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://science.caixin.com/scitech/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "新科技",
+      "url": "https://science.caixin.com/scitech/"
+    }
+  ],
+  "subdirectories_count": 2,
+  "title": "环科频道-财新网"
+}

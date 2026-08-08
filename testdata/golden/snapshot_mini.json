@@ -1,0 +1,4817 @@
+{
+  "_untrusted": true,
+  "complete_listing_verified": false,
+  "external_stylesheets_applied": false,
+  "items_count": 202,
+  "javascript_executed": false,
+  "modules": [
+    {
+      "active_item_index": 0,
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-07/102472197.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-07/102472197.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-07/102472197.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178608334851724_840_560.jpg",
+          "summary": "奥德修斯在海上的经历，浓缩了人一生中可能遇到的各种对精神意志的考验。电影对一些经历进行了新的诠释",
+          "title": "米琴：《奥德赛》中的奇幻之旅",
+          "url": "https://mini.caixin.com/2026-08-07/102472197.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-07/102472112.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-07/102472112.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-07/102472112.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178606293877878_840_560.jpg",
+          "summary": "这个幼稚化世界的诡异之处在于，尽管它充斥着无数显而易见的愚蠢行为，却几乎无人驻足思考一下这一现象是如何形成的，及其对现存自由秩序可能意味着什么",
+          "title": "我们的幼稚化世界：为什么如此多的大人乐于永远做少年？｜带着问题去读书",
+          "url": "https://mini.caixin.com/2026-08-07/102472112.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-06/102471875.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-06/102471875.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-06/102471875.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178601238978289_840_560.jpg",
+          "summary": "我带走的不仅是一帧帧转瞬即逝的冰山绝影，更是格陵兰在漫长岁月与荒野深处缓慢前行的存照。或许，这正是此次旅行的终极意义",
+          "title": "陈燕妮：我在格陵兰的12天｜纪行",
+          "url": "https://mini.caixin.com/2026-08-06/102471875.html"
+        }
+      ],
+      "key": "mini.focus",
+      "lane": "lead",
+      "name": "焦点",
+      "order": 0,
+      "state": "hidden"
+    },
+    {
+      "items": [
+        {
+          "badges": [
+            "财新闻",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-08/102472450.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-08/102472450.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-08/102472450.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-08/178614888098468_145_97.jpg",
+          "summary": "自然资源部预警：南通至温州将有1.6米风暴增水；国家防总对江苏安徽启动防汛防台风四级应急响应；交通运输部启动台风二级防御响应",
+          "title": "财新闻｜青少年乒乓球赛事中出现严重赛风赛纪问题，乒协发文",
+          "url": "https://mini.caixin.com/2026-08-08/102472450.html"
+        },
+        {
+          "badges": [
+            "读书",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-08/102472503.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-08/102472503.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-08/102472503.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-08/178615705648735_145_97.jpg",
+          "summary": "文艺复兴时代最重要的技术发明，一是印刷术，二是热兵器。前者普及知识信息，后者推广暴力。两者都是改变了政治游戏规则的技术工具",
+          "title": "火器的革命｜猎读",
+          "url": "https://mini.caixin.com/2026-08-08/102472503.html"
+        },
+        {
+          "badges": [
+            "影视",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-08/102472501.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-08/102472501.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-08/102472501.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-08/178615820646570_145_97.jpg",
+          "summary": "所谓一方水土养一方特色的精神庄稼。众多高收视率悬疑刑侦剧从东北这块沃土上生长出来，其背后必然有特殊的原因和逻辑",
+          "title": "为什么悬疑刑侦剧偏爱东北？｜影视",
+          "url": "https://mini.caixin.com/2026-08-08/102472501.html"
+        },
+        {
+          "badges": [
+            "财新闻",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-07/102472127.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-07/102472127.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-07/102472127.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178606788562899_145_97.jpg",
+          "summary": "文文：文文文文文文文文文文文文文文文文文文文文；文文文文文文文0.0文文文文0文文文；文文文文文文文文文文文文文文文文文文文；文文文文文0文文文文文文文文Ⅳ文文文文文；文文文文文文文文文文0.0文文文文文文文文",
+          "title": "财新闻｜特朗普签令：禁止赴美生育使新生儿获得美国公民身份的“生育旅游”",
+          "url": "https://mini.caixin.com/2026-08-07/102472127.html"
+        },
+        {
+          "badges": [
+            "饮食",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-07/102472265.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-07/102472265.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-07/102472265.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178609256308879_145_97.jpg",
+          "summary": "清淡的丝瓜被饱经岁月的咸菜渍润，最终形成了独特的美味",
+          "title": "朱学东：咸菜烧丝瓜｜饮食",
+          "url": "https://mini.caixin.com/2026-08-07/102472265.html"
+        },
+        {
+          "badges": [
+            "读书",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-07/102472197.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-07/102472197.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-07/102472197.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178608334851724_145_97.jpg",
+          "summary": "奥德修斯在海上的经历，浓缩了人一生中可能遇到的各种对精神意志的考验。电影对一些经历进行了新的诠释",
+          "title": "米琴：《奥德赛》中的奇幻之旅",
+          "url": "https://mini.caixin.com/2026-08-07/102472197.html"
+        },
+        {
+          "badges": [
+            "读书",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-07/102472112.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-07/102472112.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-07/102472112.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178606293877878_145_97.jpg",
+          "summary": "这个幼稚化世界的诡异之处在于，尽管它充斥着无数显而易见的愚蠢行为，却几乎无人驻足思考一下这一现象是如何形成的，及其对现存自由秩序可能意味着什么",
+          "title": "我们的幼稚化世界：为什么如此多的大人乐于永远做少年？｜带着问题去读书",
+          "url": "https://mini.caixin.com/2026-08-07/102472112.html"
+        },
+        {
+          "badges": [
+            "财新闻",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-06/102471667.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-06/102471667.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-06/102471667.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178598212840183_145_97.jpg",
+          "summary": "宇树科技发行价定为150.80元/股，一签需缴7.54万；王虹特别感谢的北大教授说：“她的成就，我不敢居其功于万一”；化妆品新国标今天发布；证实了，“胶球”存在",
+          "title": "财新闻｜中国传媒大学多个艺术类专业取消艺考，将依据考生高考文化课成绩由高到低依次录取",
+          "url": "https://mini.caixin.com/2026-08-06/102471667.html"
+        },
+        {
+          "badges": [
+            "旅游",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-06/102471875.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-06/102471875.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-06/102471875.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178601238978289_145_97.jpg",
+          "summary": "我带走的不仅是一帧帧转瞬即逝的冰山绝影，更是格陵兰在漫长岁月与荒野深处缓慢前行的存照。或许，这正是此次旅行的终极意义",
+          "title": "陈燕妮：我在格陵兰的12天｜纪行",
+          "url": "https://mini.caixin.com/2026-08-06/102471875.html"
+        },
+        {
+          "badges": [
+            "体坛",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-06/102471855.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-06/102471855.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-06/102471855.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178600338966024_145_97.jpg",
+          "summary": "通过与欧美顶级青训的直接对话，中国足球可以思考在训练环节、战术理念、球员培养模式上存在的结构性差距，也能检验自身的进步",
+          "title": "U17，能否实现中国足球的“青春突围”？｜体坛",
+          "url": "https://mini.caixin.com/2026-08-06/102471855.html"
+        },
+        {
+          "badges": [
+            "读书",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-06/102471834.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-06/102471834.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-06/102471834.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599833254285_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文文。文文文文文文文文文文文文文文文文，文文文文文文文文文文，文文文文文文文文，文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文",
+          "title": "明仁宗朱高炽，不止是“十月天子”｜带着问题去读书",
+          "url": "https://mini.caixin.com/2026-08-06/102471834.html"
+        },
+        {
+          "badges": [
+            "健保",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-06/102471649.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-06/102471649.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-06/102471649.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178597935208368_145_97.jpg",
+          "summary": "生病是一次筛选朋友的过程。你发现自己的朋友圈重组了，你的人生基本上也重组了，你的世界也重组了",
+          "title": "癌症病人复查随诊手册｜活着，有那么好吗？⑤（完）",
+          "url": "https://mini.caixin.com/2026-08-06/102471649.html"
+        },
+        {
+          "badges": [
+            "财新闻",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-05/102471315.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-05/102471315.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-05/102471315.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-04-25/174558409921423_145_97.jpg",
+          "summary": "特教老师招聘笔试第一名遭第二名花钱劝退，广东雷州通报；中消协：上半年为消费者挽回经济损失4.47亿元；现货黄金涨破4100美元关口；今天起，机票燃油附加费下调",
+          "title": "财新闻｜中方对美反制清单公布",
+          "url": "https://mini.caixin.com/2026-08-05/102471315.html"
+        },
+        {
+          "badges": [
+            "健保",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-05/102471441.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-05/102471441.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-05/102471441.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178591165337656_145_97.jpg",
+          "summary": "“文文文文文文文文文”文文文文。文文“文文文”、“文文文文0000文”文文文，文文文文文文：文文文文文文文文文文文文，文文文文文文文文文文文文？文文文文文文文文？文文文文文文文文文文文？文文文文文文文文文文，文文文文文文文文",
+          "title": "刚果（金）“史上最大埃博拉疫情”背后，普通人真正需要知道什么？｜健保",
+          "url": "https://mini.caixin.com/2026-08-05/102471441.html"
+        },
+        {
+          "badges": [
+            "热点",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-05/102471352.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-05/102471352.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-05/102471352.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178590475890373_145_97.jpg",
+          "summary": null,
+          "title": "提格雷岩石教堂（Tigray Rock-Hewn Churches）—— 苦修者的一诺一生｜画驿",
+          "url": "https://mini.caixin.com/2026-08-05/102471352.html"
+        },
+        {
+          "badges": [
+            "读书",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-05/102471291.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-05/102471291.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-05/102471291.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178588988389629_145_97.jpg",
+          "summary": "对Mo的爱，对宠物的爱，其实也是对自己的珍惜与爱，是对善和美的执着与追逐。这是属于一只猫咪的童话，也是属于它和所有爱它的人的故事",
+          "title": "《Mo Story》：韩国插画师笔下的奶牛猫，如何击中都市年轻人们的心？｜猎读",
+          "url": "https://mini.caixin.com/2026-08-05/102471291.html"
+        },
+        {
+          "badges": [
+            "财新闻",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-04/102471053.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-04/102471053.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-04/102471053.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-04-13/177607746415815_145_97.jpg",
+          "summary": "x文“文文”文文；文文文文，文文文文文xxxxxxxxx文文；“文文文文文文文文文文文文文文文”，文文文文；文文文文文文文“文文”文文 文文文文文文文文；x文文文文文，文文文文00文；文文文文，文文文文文文文",
+          "title": "财新闻｜A股现分红潮，有公司一口气发了62个亿，多家公司董事长提议派发“红包”",
+          "url": "https://mini.caixin.com/2026-08-04/102471053.html"
+        },
+        {
+          "badges": [
+            "读书",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-04/102471208.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-04/102471208.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-04/102471208.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-04/178584002233888_145_97.jpg",
+          "summary": "岳麓秦简兼具律令之完备、案例之生动、数术之精微、日志之琐细，四者交相辉映，构成一个远比此前任何单一批次秦简材料都更为立体丰满的秦代历史档案宝库",
+          "title": "岳麓秦简对秦汉史和简牍学研究的学术贡献｜荐书",
+          "url": "https://mini.caixin.com/2026-08-04/102471208.html"
+        },
+        {
+          "badges": [
+            "热点",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-04/102471107.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-04/102471107.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-04/102471107.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-04/178582458255563_145_97.jpg",
+          "summary": "它背后藏着当代青年集体迷恋复古的深层心理逻辑。数字时代一切都被精修、被优化，过去反而显得可把握、可信任",
+          "title": "被宽屏淘汰的4:3，怎么就成了年轻人的“梦核”？｜热点",
+          "url": "https://mini.caixin.com/2026-08-04/102471107.html"
+        },
+        {
+          "badges": [
+            "健保",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-04/102471021.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-04/102471021.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-04/102471021.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-04/178580394688823_145_97.jpg",
+          "summary": "于我而言，所谓“信”就是讲述那些在身体里发生的病痛灾祸，以及人类在癌症之战中，脆弱无力又苦苦争战的姿态与重建的决心",
+          "title": "每个时代，都会以自己的形象塑造癌症｜活着，有那么好吗？④",
+          "url": "https://mini.caixin.com/2026-08-04/102471021.html"
+        },
+        {
+          "badges": [
+            "财新闻",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-03/102470717.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-03/102470717.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-03/102470717.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-09/178358455452997_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文文文，文文00文文；文文文文文文文文“文文文文”？文文000文文文文；文文、文文、文文文，文文文文文；文文文文、文文文文、文文文文……文文文文文文文文文文文文文文文",
+          "title": "财新闻｜持续发酵 欧足联或将投票罢免因凡蒂诺",
+          "url": "https://mini.caixin.com/2026-08-03/102470717.html"
+        },
+        {
+          "badges": [
+            "读书",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-03/102470803.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-03/102470803.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-03/102470803.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-03/178574057546759_145_97.jpg",
+          "summary": "史诗前四卷涉及发动战争的真实目的和惨痛代价。希腊人对特洛伊木马的回忆，让奥德修斯和奥本海默之间产生了联系",
+          "title": "米琴：《奥德赛》对战争的反思",
+          "url": "https://mini.caixin.com/2026-08-03/102470803.html"
+        },
+        {
+          "badges": [
+            "读书",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-03/102470780.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-03/102470780.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-03/102470780.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-03/178573126090621_145_97.jpg",
+          "summary": "保罗·策兰的诗不提供慰藉，没有和谐的语感，不虚构意义。这是一种受伤的语言，是带着历史创伤继续进行的语言",
+          "title": "诗人，逃向死亡｜猎读",
+          "url": "https://mini.caixin.com/2026-08-03/102470780.html"
+        },
+        {
+          "badges": [
+            "影视",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-03/102470697.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-03/102470697.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-03/102470697.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-03/178571668090764_145_97.jpg",
+          "summary": "每个角色都是当时社会的一个侧面，既没有“身在最高层”的上帝视角，也没有“身在此山中”的一头雾水，而是让观众在其中去思考和体会全貌",
+          "title": "《悬案》背后｜影视",
+          "url": "https://mini.caixin.com/2026-08-03/102470697.html"
+        },
+        {
+          "badges": [
+            "财新闻",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-02/102470557.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-02/102470557.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-02/102470557.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-02/178563459758461_145_97.jpg",
+          "summary": "文文文文文文文文文，文文文文；文文文文文文文文文文文文文文，文文文文文文；文文文文文文0文，文文文文文文文？文文文文文；“文文文文文文文文文文文文文文”，文文文文文文",
+          "title": "财新闻｜江苏徐州一地试点集中供冷",
+          "url": "https://mini.caixin.com/2026-08-02/102470557.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-02/102470571.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-02/102470571.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-02/102470571.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-02/178564909233242_145_97.jpg",
+          "summary": "0000文0文00文，文文文文文文文文文文文·文文文（xxxxxx xxxxx）文文文文文0000文文文文文文（xxxxx xxxx）文文文文文，文文文文文文文0文文文文文文。文文文文文文文文文文文文文文文",
+          "title": "登山家尼马尔·普尔亚：他被雪山留下｜纪念",
+          "url": "https://mini.caixin.com/2026-08-02/102470571.html"
+        },
+        {
+          "badges": [
+            "健保",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-02/102470551.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-02/102470551.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-02/102470551.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-02/178563158059367_145_97.jpg",
+          "summary": "文文文文，文文文文文文文，文文文文文文、文文文文。文文文文文文，文文文文文文文文文文文。文文文文文文文文文，文文文文文文。文文文文文文，文文文文文文文文，文文文文文文",
+          "title": "不要轻易介入他人的因果，不要干涉与背负他人的命运｜活着，有那么好吗？③",
+          "url": "https://mini.caixin.com/2026-08-02/102470551.html"
+        },
+        {
+          "badges": [
+            "热点",
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-01/102470541.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-01/102470541.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-01/102470541.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-01-10/176802420408169_145_97.jpg",
+          "summary": "柔然（茹茹）与吐谷浑之间有长期战略同盟关系，双方联姻理所当然。近年西安的一个考古发现，为我们揭开了这位“大茹茹可敦”的面纱",
+          "title": "罗新：大茹茹国的吐谷浑可敦｜识史",
+          "url": "https://mini.caixin.com/2026-08-01/102470541.html"
+        }
+      ],
+      "key": "mini.all",
+      "lane": "main",
+      "name": "全部",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-08/102472450.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-08/102472450.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-08/102472450.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-08/178614888098468_145_97.jpg",
+          "summary": "自然资源部预警：南通至温州将有1.6米风暴增水；国家防总对江苏安徽启动防汛防台风四级应急响应；交通运输部启动台风二级防御响应",
+          "title": "财新闻｜青少年乒乓球赛事中出现严重赛风赛纪问题，乒协发文",
+          "url": "https://mini.caixin.com/2026-08-08/102472450.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-07/102472127.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-07/102472127.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-07/102472127.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178606788562899_145_97.jpg",
+          "summary": "文文：文文文文文文文文文文文文文文文文文文文文；文文文文文文文0.0文文文文0文文文；文文文文文文文文文文文文文文文文文文文；文文文文文0文文文文文文文文Ⅳ文文文文文；文文文文文文文文文文0.0文文文文文文文文",
+          "title": "财新闻｜特朗普签令：禁止赴美生育使新生儿获得美国公民身份的“生育旅游”",
+          "url": "https://mini.caixin.com/2026-08-07/102472127.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-06/102471667.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-06/102471667.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-06/102471667.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178598212840183_145_97.jpg",
+          "summary": "宇树科技发行价定为150.80元/股，一签需缴7.54万；王虹特别感谢的北大教授说：“她的成就，我不敢居其功于万一”；化妆品新国标今天发布；证实了，“胶球”存在",
+          "title": "财新闻｜中国传媒大学多个艺术类专业取消艺考，将依据考生高考文化课成绩由高到低依次录取",
+          "url": "https://mini.caixin.com/2026-08-06/102471667.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-05/102471315.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-05/102471315.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-05/102471315.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-04-25/174558409921423_145_97.jpg",
+          "summary": "特教老师招聘笔试第一名遭第二名花钱劝退，广东雷州通报；中消协：上半年为消费者挽回经济损失4.47亿元；现货黄金涨破4100美元关口；今天起，机票燃油附加费下调",
+          "title": "财新闻｜中方对美反制清单公布",
+          "url": "https://mini.caixin.com/2026-08-05/102471315.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-04/102471053.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-04/102471053.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-04/102471053.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-04-13/177607746415815_145_97.jpg",
+          "summary": "x文“文文”文文；文文文文，文文文文文xxxxxxxxx文文；“文文文文文文文文文文文文文文文”，文文文文；文文文文文文文“文文”文文 文文文文文文文文；x文文文文文，文文文文00文；文文文文，文文文文文文文",
+          "title": "财新闻｜A股现分红潮，有公司一口气发了62个亿，多家公司董事长提议派发“红包”",
+          "url": "https://mini.caixin.com/2026-08-04/102471053.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-03/102470717.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-03/102470717.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-03/102470717.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-09/178358455452997_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文文文，文文00文文；文文文文文文文文“文文文文”？文文000文文文文；文文、文文、文文文，文文文文文；文文文文、文文文文、文文文文……文文文文文文文文文文文文文文文",
+          "title": "财新闻｜持续发酵 欧足联或将投票罢免因凡蒂诺",
+          "url": "https://mini.caixin.com/2026-08-03/102470717.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-02/102470557.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-02/102470557.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-02/102470557.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-02/178563459758461_145_97.jpg",
+          "summary": "文文文文文文文文文，文文文文；文文文文文文文文文文文文文文，文文文文文文；文文文文文文0文，文文文文文文文？文文文文文；“文文文文文文文文文文文文文文”，文文文文文文",
+          "title": "财新闻｜江苏徐州一地试点集中供冷",
+          "url": "https://mini.caixin.com/2026-08-02/102470557.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-01/102470331.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-01/102470331.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-01/102470331.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-01/178555807775313_145_97.jpg",
+          "summary": "文文文文文文，文文文文；文文文文文文文文文文文文文文 文文文文文文文文；文文文文文文文文文文 文文文文文文文文；文文文文文文文文文文文文文，文文文文文文文文文文，文文文文",
+          "title": "财新闻｜遭遇强烈反对 国际足联宣布放弃世界杯股权出售项目",
+          "url": "https://mini.caixin.com/2026-08-01/102470331.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-31/102469809.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-31/102469809.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-31/102469809.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-31/178546442971719_145_97.jpg",
+          "summary": "文00文文文文文文文文文文文 000文文文文文文；文“文文”文文文文文文文 文文文文文文文文文文文文文；文文文文文文文文文，文文文文文文文，文文文文文文文文；“文文文文”，文文文文",
+          "title": "财新闻｜欧足联宣布抵制所有国际足联赛事：世界杯并非商品",
+          "url": "https://mini.caixin.com/2026-07-31/102469809.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-30/102469433.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-30/102469433.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-30/102469433.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2023-06-25/168765608963578_145_97.jpg",
+          "summary": "xxxxxx文文xx文文文文文文文文文文文文文文；文文文文，xx文文文文文文；文文：文文文文文文，文文文文文文；文文、文文，文文文文文文；文文文文文！文文文文00文文文文文0文文文文文文文",
+          "title": "财新闻｜预防惩治网络暴力 国家网信办公开征求意见",
+          "url": "https://mini.caixin.com/2026-07-30/102469433.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-29/102468983.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-29/102468983.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-29/102468983.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2017-04-20/1492679030582042_145_97.jpg",
+          "summary": "“文文文文文文文文文”文文文文，文文文文；文文文文文，文文文文文；文文文文文文文文文文文文文文，文文文；文文文文文文文文文文文文文文文文文文，文文文文文文；文文文文文文文文文文文，文文文文",
+          "title": "财新闻｜就王虹推荐信，北大数院发声",
+          "url": "https://mini.caixin.com/2026-07-29/102468983.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-28/102468637.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-28/102468637.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-28/102468637.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-28/178520430642623_145_97.jpg",
+          "summary": "xx文文文文文文文文文文文，文文；文文文文文文：文文文文文文文文文文文文文文文文，文文文文文文0文；文文文文文文文文文文文，文文文文文；文文文文文文文文文文文文；文文文文，文文文文",
+          "title": "财新闻｜多名公职人员被举报侵吞安平志臻中学资产，河北衡水成立联合调查组",
+          "url": "https://mini.caixin.com/2026-07-28/102468637.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-27/102468320.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-27/102468320.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-27/102468320.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-27/178514356429155_145_97.jpg",
+          "summary": "文文文文文文：文文文文文文文文文文文，文文文文文文文文文文文文文文文；文文文文，文文文文文文文文文；文文文文文“文文文”文文文文文文文文文文文；文文文文文文文文文文：文文文文文文文文文文文文",
+          "title": "财新闻｜日本推理小说家东野圭吾因患大肠癌去世，终年68岁",
+          "url": "https://mini.caixin.com/2026-07-27/102468320.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-26/102468140.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-26/102468140.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-26/102468140.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-26/178506573326830_145_97.jpg",
+          "summary": "《三国第一部：争洛阳》宣布撤档；厦门湖里法院：“LV因四叶类雕花装饰起诉开发商”不属实；中国队0-3不敌土耳其队 无缘世界女排联赛决赛",
+          "title": "财新闻｜甘肃渭源山洪已致10人遇难、23人受伤",
+          "url": "https://mini.caixin.com/2026-07-26/102468140.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-25/102467929.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-25/102467929.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-25/102467929.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-25/178494170303873_145_97.jpg",
+          "summary": "水利部针对7省区启动洪水防御Ⅳ级应急响应；深圳、佛山、东莞、惠州、肇庆五市今起开放“粤车南下”；方某军操纵市场，被罚没1.75亿元",
+          "title": "财新闻｜NBA球星詹姆斯宣布加盟费城76人，将在第四支球队开启第24个赛季",
+          "url": "https://mini.caixin.com/2026-07-25/102467929.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-24/102467455.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-24/102467455.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-24/102467455.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-24/178485790082710_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文文文文文文文文文文文文；文文0文0文文 文文文文文文文文文文文文文文文；文文文文文文文文文 文文0文文文；文文文文文文文文文文文文文文文文",
+          "title": "财新闻｜邓煜、王虹两位中国数学家首获菲尔兹奖 实现历史突破",
+          "url": "https://mini.caixin.com/2026-07-24/102467455.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-23/102467178.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-23/102467178.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-23/102467178.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2022-06-13/165510024283349_145_97.jpg",
+          "summary": "文文文文文《文文文文文文（0000－0000文）》；0000文文文文文文00文；文文文文文文文：文文文文文文文、文文、文文文文；文文文文文文文文文文文文文文文文；0.0文文文，文文文、文文文文文文文文",
+          "title": "财新闻｜16岁高中生被刺死，案发地被传“涉黄”、常有青少年“扰嫖”，内蒙古警方通报",
+          "url": "https://mini.caixin.com/2026-07-23/102467178.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-22/102466928.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-22/102466928.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-22/102466928.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2024-01-04/170437453907140_145_97.jpg",
+          "summary": "文文文文文文文文文文文0文文文文文；文文“文文文文”文文文文，文0000文文文文文文0文文文；文文文xx文文文文？文文文文；文文文文文文文文文文文文文；文文文文文文文文文文文文文0.0%",
+          "title": "财新闻｜证监会召开上市公司、行业机构、专家学者系列座谈会听取意见建议",
+          "url": "https://mini.caixin.com/2026-07-22/102466928.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-21/102466428.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-21/102466428.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-21/102466428.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2023-03-22/167947697163618_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文文文文 00文文文文文；“文文文”文文“文文文文文”，文文文文；0000文文文文文文文文文0000文文；文文文文00文文文、0文文文 文文文文文文文文",
+          "title": "财新闻｜多家央企及金融机构宣布增持回购",
+          "url": "https://mini.caixin.com/2026-07-21/102466428.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-20/102466037.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-20/102466037.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-20/102466037.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-20/178451226585016_145_97.jpg",
+          "summary": "伯纳姆就任英国首相，斯塔默正式卸任；阿根廷首都爆发骚乱；证监会召开投资者座谈会听取意见建议；今日上线，京沪高铁、京沪铁路可提前60天预约购票",
+          "title": "财新闻｜西班牙队夺冠，特朗普给西班牙队颁发大力神杯",
+          "url": "https://mini.caixin.com/2026-07-20/102466037.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-19/102465878.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-19/102465878.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-19/102465878.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-19/178442443017935_145_97.jpg",
+          "summary": "“文文文”文文文文文文文文文文文文文：文文文文文文文文文；文文文文文文文文文文文文文文文文文文文文文文文文，文文文文文文；文文文文文文“文文文文文文文文文文文文文文”",
+          "title": "财新闻｜世界杯铜牌赛英格兰6:4胜法国 创60年最佳战绩",
+          "url": "https://mini.caixin.com/2026-07-19/102465878.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-18/102465553.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-18/102465553.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-18/102465553.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-18/178434061553553_145_97.jpg",
+          "summary": "2026暑期档票房破40亿元；中企旗下英钢被英国国有化，外交部：必要时将采取维权措施；上海足协发布对“禁足”人员申思的调查通报",
+          "title": "财新闻｜重庆彭水县山体崩塌已致8人死亡 还有34人失联",
+          "url": "https://mini.caixin.com/2026-07-18/102465553.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-17/102465021.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-17/102465021.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-17/102465021.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-06-03/174893420207269_145_97.jpg",
+          "summary": "文文文文文文文文：文文文文文文文文文文文文文；文文文文文文文0000文文文文文文文文文文文文文文文文文文文文文文；文文文文文文文文文文文xx0文文文文文文文文文，文文文文",
+          "title": "财新闻｜生娃基本“不花钱”，28个省份推进",
+          "url": "https://mini.caixin.com/2026-07-17/102465021.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-16/102464686.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-16/102464686.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-16/102464686.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-16/178416638738691_145_97.jpg",
+          "summary": "辽宁兴城一橡皮艇发生闪爆 致7人死亡1人失联；社会组织评比表彰新规出台；LV第6次起诉国家知识产权局案件开庭，当庭未宣判；路易威登再起诉一日用百货小店",
+          "title": "财新闻｜梅西两助攻，阿根廷2-1逆转绝杀英格兰 将与西班牙争夺世界杯冠军",
+          "url": "https://mini.caixin.com/2026-07-16/102464686.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-15/102464293.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-15/102464293.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-15/102464293.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-15/178407889321069_145_97.jpg",
+          "summary": "中国影史首位票房破百亿的85后女演员诞生；6月就业人员周均工作48.2小时 时长保持稳定；上半年居民人均可支配收入实际增长4.2% 农村增速快于城镇",
+          "title": "财新闻｜西班牙2-0战胜法国，挺进世界杯决赛",
+          "url": "https://mini.caixin.com/2026-07-15/102464293.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-14/102463959.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-14/102463959.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-14/102463959.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-14/178399479505769_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文xx文文，文文文文文文；文文文0000文文 文文文文文文文文文文文文文文文文文文文文文；文文文文文文文文文文文，文文文文；文000文文文0.00%文文？文文，文文文文文文文文文",
+          "title": "财新闻｜中山大学：222人，取消录取资格",
+          "url": "https://mini.caixin.com/2026-07-14/102463959.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-13/102463574.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-13/102463574.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-13/102463574.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-13/178390705713033_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文文文文文；文文文文文文文文文，文文文文文文文文文文；《文文文文“文文文”文文》：文0000文，文文文文文文文文00文；文文文文文文文文文文文文文文文文文文",
+          "title": "财新闻｜国际足联主席：世界杯或扩至64支球队",
+          "url": "https://mini.caixin.com/2026-07-13/102463574.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-12/102463287.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-12/102463287.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-12/102463287.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-12/178381875731720_145_97.jpg",
+          "summary": "文文文文文文；文文文文文文文文文文文文文文文文文文文，文文文文文文文文文；文文文文文文文“文文文”文文文文文，文文文文文；文文文文“00+00”文文文文文，文文文文文文文文文文文文、文文文文文文文",
+          "title": "财新闻｜美国公布迄今为止最清晰UFO视频",
+          "url": "https://mini.caixin.com/2026-07-12/102463287.html"
+        }
+      ],
+      "key": "mini.briefing",
+      "lane": "main",
+      "more_url": "https://mini.caixin.com/briefing/",
+      "name": "财新闻",
+      "order": 1,
+      "state": "hidden"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-08/102472501.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-08/102472501.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-08/102472501.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-08/178615820646570_145_97.jpg",
+          "summary": "所谓一方水土养一方特色的精神庄稼。众多高收视率悬疑刑侦剧从东北这块沃土上生长出来，其背后必然有特殊的原因和逻辑",
+          "title": "为什么悬疑刑侦剧偏爱东北？｜影视",
+          "url": "https://mini.caixin.com/2026-08-08/102472501.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-03/102470697.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-03/102470697.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-03/102470697.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-03/178571668090764_145_97.jpg",
+          "summary": "每个角色都是当时社会的一个侧面，既没有“身在最高层”的上帝视角，也没有“身在此山中”的一头雾水，而是让观众在其中去思考和体会全貌",
+          "title": "《悬案》背后｜影视",
+          "url": "https://mini.caixin.com/2026-08-03/102470697.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-31/102469955.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-31/102469955.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-31/102469955.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-31/178547861304537_145_97.jpg",
+          "summary": "这个“潮”字，生动地概括了张謇在那个剧烈变革时代的勇气和抉择，还体现了剧中很多有关“生意经”的复杂况味",
+          "title": "《江海潮生》：好一个“潮”字了得｜影视",
+          "url": "https://mini.caixin.com/2026-07-31/102469955.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-25/102468027.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-25/102468027.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-25/102468027.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-25/178495382244015_145_97.jpg",
+          "summary": "带着“秘密”生活是一种什么感觉？观众为什么喜欢看？",
+          "title": "人类失去“秘密”，世界将会怎样？｜影视",
+          "url": "https://mini.caixin.com/2026-07-25/102468027.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-23/102467237.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-23/102467237.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-23/102467237.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-23/178478496245335_145_97.jpg",
+          "summary": "《八仙！》干了件国产神话动画很少见的事。它不让你仰望神仙，它让你认出你自己",
+          "title": "《八仙！》：把神仙拉下神坛，才是中国动画最该走的路｜影视",
+          "url": "https://mini.caixin.com/2026-07-23/102467237.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-20/102466017.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-20/102466017.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-20/102466017.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-20/178450775677160_145_97.jpg",
+          "summary": "影片真正在讲的是“三国尚未成为三国”的那一刻。宦官、外戚、士族三方角力，何进身死，董卓入京，汉室的旧秩序在数日之间轰然失衡",
+          "title": "《三国第一部：争洛阳》：洛阳的鬼火与未被定义的少年｜影视",
+          "url": "https://mini.caixin.com/2026-07-20/102466017.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-14/102464073.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-14/102464073.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-14/102464073.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-14/178401006995519_145_97.jpg",
+          "summary": "或许真正的喜剧和观众不再双向奔赴，只可能偶然相逢",
+          "title": "《功夫女足》：周星驰，和“周星驰”渐行渐远｜影视",
+          "url": "https://mini.caixin.com/2026-07-14/102464073.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-04/102460782.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-04/102460782.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-04/102460782.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-04/178313106136458_145_97.jpg",
+          "summary": "《玩具总动员》里的玩具们象征的并不是朋友，而是父母。而《玩具总动员》真正想要讲的故事是：作为父母，如何去面对终将长大和离去的孩子？",
+          "title": "《玩具总动员》系列首部上映31年后，我以母亲视角与玩具们共情｜影视",
+          "url": "https://mini.caixin.com/2026-07-04/102460782.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-25/102457631.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-25/102457631.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-25/102457631.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-25/178238080286066_145_97.jpg",
+          "summary": "看完之后，心情十分复杂，一言以蔽之，就是矛盾，从戏里到戏外都是矛盾重重",
+          "title": "矛盾套矛盾的《抓特务》｜影视",
+          "url": "https://mini.caixin.com/2026-06-25/102457631.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-24/102456910.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-24/102456910.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-24/102456910.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-24/178226770636210_145_97.jpg",
+          "summary": "国内首个线上点击破300亿的原创国产漫画，第六季刚结束更新",
+          "title": "《一人之下》里的异人世界｜影视",
+          "url": "https://mini.caixin.com/2026-06-24/102456910.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-05/102451133.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-05/102451133.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-05/102451133.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-05/178062621604068_145_97.jpg",
+          "summary": "哪有什么戏比天大，生活最大",
+          "title": "从《给阿嬷的情书》到《主角》：一个是善之果，一个是恶之花｜影视",
+          "url": "https://mini.caixin.com/2026-06-05/102451133.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-29/102448900.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-29/102448900.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-29/102448900.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-29/178003260439054_145_97.jpg",
+          "summary": "该剧不仅塑造了一系列荒唐的笨贼、一众靠运气而非能力破案的干警，更道破了这个世界的真相——失控连着失控的链式反应",
+          "title": "《低智商犯罪》：失控是世界的常态｜影视",
+          "url": "https://mini.caixin.com/2026-05-29/102448900.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-22/102446603.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-22/102446603.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-22/102446603.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-22/177944115711016_145_97.jpg",
+          "summary": "女人因为崩溃而歇斯底里，男人因为走投无路而备受委屈。同是天涯沦落人，相逢何必曾相识，自然而然地在困境中相互扶持，相互激励，感情升华，却又发乎情止乎礼义",
+          "title": "《一个男人和一个女人》：同是天涯沦落人｜影视",
+          "url": "https://mini.caixin.com/2026-05-22/102446603.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-16/102444608.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-16/102444608.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-16/102444608.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-16/177890335070748_145_97.jpg",
+          "summary": "两部影片在时间长廊、社会背景中具有延续性，但究其内核，已然是两个主题——前者是职场新人的普适成长，后者是行业危机的小众叙事",
+          "title": "《穿普拉达的女王2》：女王归来，童话难续｜影视",
+          "url": "https://mini.caixin.com/2026-05-16/102444608.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-14/102443879.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-14/102443879.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-14/102443879.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-14/177872712401719_145_97.jpg",
+          "summary": "影片花了很大篇幅去描绘刻板印象之外的、一个性侵幸存者的生活。它不再停留于控诉，转而反思应当给予性侵幸存者怎样的社会支持",
+          "title": "《世界的主人》：“若问世界谁无伤？”｜影视",
+          "url": "https://mini.caixin.com/2026-05-14/102443879.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-11/102442889.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-11/102442889.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-11/102442889.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-11/177847440596185_145_97.jpg",
+          "summary": "影片像是一篇散文诗，以情书为载体，道尽了两个素不相识的坚强女性半个多世纪里的传奇人生和情感交流",
+          "title": "《给阿嬷的情书》：见字如面，见面如字｜影视",
+          "url": "https://mini.caixin.com/2026-05-11/102442889.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-07/102441448.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-07/102441448.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-07/102441448.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-07/177814030361412_145_97.jpg",
+          "summary": "它不仅是《寒战》宇宙的前传和重要组成部分，更代表了香港商业动作片在眼花缭乱的商业元素之外的野心",
+          "title": "《寒战1994》：东方之珠的罗曼蒂克消亡史｜影视",
+          "url": "https://mini.caixin.com/2026-05-07/102441448.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-01/102440057.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-01/102440057.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-01/102440057.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-01/177760392224569_145_97.jpg",
+          "summary": "小到个人随波逐流的宿命感，大到人类无法自拔的无助性，《八千里路云和月》都堪称史诗级力作。但不能否认，这也是一部在细节上漏洞百出的作品",
+          "title": "乱世佳人乱世情｜影视",
+          "url": "https://mini.caixin.com/2026-05-01/102440057.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-04-25/102437767.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-04-25/102437767.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-04-25/102437767.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-04-25/177707792604564_145_97.jpg",
+          "summary": "第16届北京国际电影节上，导演贾樟柯、动画导演於水、英国编剧理查德·柯蒂斯、法籍越南裔导演陈英雄就“从作品到人心，电影如何抵达观众”展开讨论",
+          "title": "贾樟柯：至少拍电影的人，要捍卫电影｜影视",
+          "url": "https://mini.caixin.com/2026-04-25/102437767.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-04-24/102437472.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-04-24/102437472.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-04-24/102437472.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-04-24/177701666291888_145_97.jpg",
+          "summary": "全剧之初，孟万福提出了一个问题：“有什么比活着还重要呢？”而当全剧接近尾声，他自己给出了答案：“人不仅仅是为了活着，还得要做一个堂堂正正的中国人”",
+          "title": "《八千里路云和月》里的家与国｜影视",
+          "url": "https://mini.caixin.com/2026-04-24/102437472.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-04-12/102433230.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-04-12/102433230.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-04-12/102433230.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-04-12/177597043967074_145_97.jpg",
+          "summary": "1985年初，《环球银幕》迎来第一期，最初叫《环球银幕画刊》。“所有页面都是彩色印刷，在电影杂志界也是独一份”",
+          "title": "《环球银幕》40年｜影视",
+          "url": "https://mini.caixin.com/2026-04-12/102433230.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-03-27/102427967.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-03-27/102427967.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-03-27/102427967.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-27/177458861984929_145_97.jpg",
+          "summary": "如果把《挽救计划》视为“硬科幻”，人们会在电影当中找到许多漏洞。但如果把它视为“科幻童话”，一切都解释得通",
+          "title": "《挽救计划》：一场关乎宇宙和友情的成人童话｜影视",
+          "url": "https://mini.caixin.com/2026-03-27/102427967.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-03-25/102427132.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-03-25/102427132.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-03-25/102427132.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-25/177440455246231_145_97.jpg",
+          "summary": "这是一部抢劫犯罪片，梦想就是对命运发起的“抢劫”，这部电影讲的就是那种紧迫感",
+          "title": "《至尊马蒂》：自私的英雄，天真的骗子，与一场虚幻的美国梦｜影视",
+          "url": "https://mini.caixin.com/2026-03-25/102427132.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-03-23/102426334.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-03-23/102426334.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-03-23/102426334.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-23/177425234668470_145_97.jpg",
+          "summary": "在这个时代，具有手工气息的创作，是很难得的",
+          "title": "《如父如母》：一位律师导演的亲情叙事｜影视",
+          "url": "https://mini.caixin.com/2026-03-23/102426334.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-03-21/102425759.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-03-21/102425759.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-03-21/102425759.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-21/177407507138541_145_97.jpg",
+          "summary": "对于演员的选择格外重要，不可任人唯亲，也不可唯名是举，而是要选择最合适的那一个",
+          "title": "年代剧的命门｜影视",
+          "url": "https://mini.caixin.com/2026-03-21/102425759.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-03-16/102423348.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-03-16/102423348.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-03-16/102423348.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-16/177365348150222_145_97.jpg",
+          "summary": "独立电影地位凸显，首设最佳选角奖，产生史上首位最佳摄影奖女性得主",
+          "title": "第98届奥斯卡揭晓：《一战再战》揽6项大奖｜影视",
+          "url": "https://mini.caixin.com/2026-03-16/102423348.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-03-13/102422579.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-03-13/102422579.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-03-13/102422579.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-13/177338894035393_145_97.jpg",
+          "summary": "只要演得好，就可以把他们的“非典型”，理解成现代影视剧相对于传统京剧在演员表演和选择上的某种“基因”进化",
+          "title": "闲话四个非典型演员｜影视",
+          "url": "https://mini.caixin.com/2026-03-13/102422579.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-03-12/102422049.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-03-12/102422049.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-03-12/102422049.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-03-12/177327891724220_145_97.jpg",
+          "summary": "文文文文文文，文文文文文文文文文文文文；文文文文文文，文文文文文文文文。文文文文文文文文文“文文”文文文文，文文文文文文文文文文“文文文文文文文”。文文文文文文文“文文文文”，文文文文文",
+          "title": "《情感价值》：被艺术“毁掉”的价值｜影视",
+          "url": "https://mini.caixin.com/2026-03-12/102422049.html"
+        }
+      ],
+      "key": "mini.film",
+      "lane": "main",
+      "more_url": "https://mini.caixin.com/film/",
+      "name": "影视",
+      "order": 2,
+      "state": "hidden"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-08/102472503.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-08/102472503.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-08/102472503.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-08/178615705648735_145_97.jpg",
+          "summary": "文艺复兴时代最重要的技术发明，一是印刷术，二是热兵器。前者普及知识信息，后者推广暴力。两者都是改变了政治游戏规则的技术工具",
+          "title": "火器的革命｜猎读",
+          "url": "https://mini.caixin.com/2026-08-08/102472503.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-07/102472197.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-07/102472197.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-07/102472197.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178608334851724_145_97.jpg",
+          "summary": "奥德修斯在海上的经历，浓缩了人一生中可能遇到的各种对精神意志的考验。电影对一些经历进行了新的诠释",
+          "title": "米琴：《奥德赛》中的奇幻之旅",
+          "url": "https://mini.caixin.com/2026-08-07/102472197.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-07/102472112.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-07/102472112.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-07/102472112.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178606293877878_145_97.jpg",
+          "summary": "这个幼稚化世界的诡异之处在于，尽管它充斥着无数显而易见的愚蠢行为，却几乎无人驻足思考一下这一现象是如何形成的，及其对现存自由秩序可能意味着什么",
+          "title": "我们的幼稚化世界：为什么如此多的大人乐于永远做少年？｜带着问题去读书",
+          "url": "https://mini.caixin.com/2026-08-07/102472112.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-06/102471834.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-06/102471834.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-06/102471834.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599833254285_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文文。文文文文文文文文文文文文文文文文，文文文文文文文文文文，文文文文文文文文，文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文",
+          "title": "明仁宗朱高炽，不止是“十月天子”｜带着问题去读书",
+          "url": "https://mini.caixin.com/2026-08-06/102471834.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-05/102471291.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-05/102471291.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-05/102471291.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178588988389629_145_97.jpg",
+          "summary": "对Mo的爱，对宠物的爱，其实也是对自己的珍惜与爱，是对善和美的执着与追逐。这是属于一只猫咪的童话，也是属于它和所有爱它的人的故事",
+          "title": "《Mo Story》：韩国插画师笔下的奶牛猫，如何击中都市年轻人们的心？｜猎读",
+          "url": "https://mini.caixin.com/2026-08-05/102471291.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-04/102471208.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-04/102471208.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-04/102471208.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-04/178584002233888_145_97.jpg",
+          "summary": "岳麓秦简兼具律令之完备、案例之生动、数术之精微、日志之琐细，四者交相辉映，构成一个远比此前任何单一批次秦简材料都更为立体丰满的秦代历史档案宝库",
+          "title": "岳麓秦简对秦汉史和简牍学研究的学术贡献｜荐书",
+          "url": "https://mini.caixin.com/2026-08-04/102471208.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-03/102470803.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-03/102470803.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-03/102470803.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-03/178574057546759_145_97.jpg",
+          "summary": "史诗前四卷涉及发动战争的真实目的和惨痛代价。希腊人对特洛伊木马的回忆，让奥德修斯和奥本海默之间产生了联系",
+          "title": "米琴：《奥德赛》对战争的反思",
+          "url": "https://mini.caixin.com/2026-08-03/102470803.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-03/102470780.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-03/102470780.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-03/102470780.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-03/178573126090621_145_97.jpg",
+          "summary": "保罗·策兰的诗不提供慰藉，没有和谐的语感，不虚构意义。这是一种受伤的语言，是带着历史创伤继续进行的语言",
+          "title": "诗人，逃向死亡｜猎读",
+          "url": "https://mini.caixin.com/2026-08-03/102470780.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-30/102469519.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-30/102469519.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-30/102469519.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-30/178539105366490_145_97.jpg",
+          "summary": "世上最美女人的外貌，没有客观标准，因此难以描述。海伦形象的主要特点就是“可怜”",
+          "title": "米琴：荷马史诗中的海伦不只是“最美女人”",
+          "url": "https://mini.caixin.com/2026-07-30/102469519.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-30/102469493.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-30/102469493.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-30/102469493.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-30/178538541726750_145_97.jpg",
+          "summary": "文文文文文文文文文文文，文文文文文文文文文文文。文文文文，文文文文文文。文文文文文文文，文文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文",
+          "title": "重塑人类数字生活的万维网是如何诞生的？｜带着问题去读书",
+          "url": "https://mini.caixin.com/2026-07-30/102469493.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-29/102469274.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-29/102469274.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-29/102469274.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-29/178532100224272_145_97.jpg",
+          "summary": "他的写作试图涵盖“被遗忘、不被看见 、边缘人的观点”，从而记录“那些很少被认为值得进入官方历史史册的人的活生生的历史。”",
+          "title": "卡普希钦斯基的遗产：从新闻现场到文学重构｜荐书",
+          "url": "https://mini.caixin.com/2026-07-29/102469274.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-27/102468297.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-27/102468297.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-27/102468297.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-27/178511034460698_145_97.jpg",
+          "summary": "将山野折入纸页，不同的知识传统碰撞、纠缠，共同完成了一场横跨纸与路的书写",
+          "title": "植物学家的中国西南探险｜带着问题去读书",
+          "url": "https://mini.caixin.com/2026-07-27/102468297.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-25/102468025.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-25/102468025.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-25/102468025.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-25/178494961340246_145_97.jpg",
+          "summary": "对于效用主义的误解或误释，其中一部分恰恰源于其名称本身，以及若干与之相关的词语，尤其是这些词语在日常语言中的用法",
+          "title": "“效用主义”不是“功利主义”｜带着问题去读书",
+          "url": "https://mini.caixin.com/2026-07-25/102468025.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-25/102468022.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-25/102468022.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-25/102468022.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-25/178494935527590_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文、文文文文文文文文文文文文，文文文文文文文文，文文文文文文文文、文文文文文文文文文文文，文文文文文文文文文。文文文文文文文文文文文文文文文",
+          "title": "求生在罗马｜猎读",
+          "url": "https://mini.caixin.com/2026-07-25/102468022.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-24/102467518.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-24/102467518.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-24/102467518.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-24/178487267759990_145_97.jpg",
+          "summary": "文学翻译的本质是“二次创作”，优秀的译本有其独立的文学价值。《奥德赛》导演诺兰的灵感来自一个划时代的英译本",
+          "title": "米琴：美国大片《奥德赛》的灵感来源",
+          "url": "https://mini.caixin.com/2026-07-24/102467518.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-23/102467183.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-23/102467183.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-23/102467183.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-23/178477074965080_145_97.jpg",
+          "summary": "它聚焦于身处技术浪潮之中的每一个人，以及那些终将决定人类未来走向的关键抉择",
+          "title": "面对技术赋予的神明之力，我们该如何胜任？｜带着问题去读书",
+          "url": "https://mini.caixin.com/2026-07-23/102467183.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-21/102466668.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-21/102466668.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-21/102466668.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-18/178434086361595_145_97.jpg",
+          "summary": "如果以读书配合看球，我们会发现，今日世界杯上的光荣与梦想、丑闻与偏见，不仅在过去96年的世界杯史上时常交织上演，即便将视角拉长至现代足球诞生的19世纪也依然如此",
+          "title": "权力与荣耀：足球的更多可能｜荐书",
+          "url": "https://mini.caixin.com/2026-07-21/102466668.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-19/102465976.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-19/102465976.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-19/102465976.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-12-27/176681178981657_145_97.jpg",
+          "summary": "也许我们都夹在某种缝隙里，无论选择怎样的生活，都各有各的辛苦，但若拥有一些自主性，选个自己中意的方式，也许会看见不一样的风景",
+          "title": "时间支离破碎，自我必须完整｜猎读",
+          "url": "https://mini.caixin.com/2026-07-19/102465976.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-19/102465920.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-19/102465920.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-19/102465920.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-19/178443280493030_145_97.jpg",
+          "summary": "拜师仪式本身也创造了一种交际、交流的空间。它给需要人缘却终日繁忙的街头艺人一个与故交加深情感、结识新人甚或切磋技艺的场合",
+          "title": "天桥艺人：必须磕头拜师，才能行走江湖｜带着问题去读书",
+          "url": "https://mini.caixin.com/2026-07-19/102465920.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-18/102465675.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-18/102465675.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-18/102465675.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-18/178434475671566_145_97.jpg",
+          "summary": "通过一个家族的命运，见证一个时代",
+          "title": "拉扎尔世家｜猎读",
+          "url": "https://mini.caixin.com/2026-07-18/102465675.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-18/102465673.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-18/102465673.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-18/102465673.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-18/178434438313891_145_97.jpg",
+          "summary": "预测是主观事实与客观事实交汇的产物。区分噪声和信号既需要科学知识，也需要自知之明：平静地承认我们无法预测的事物，勇敢地预测我们能够预测的事物，以及区分二者的智慧",
+          "title": "区分信号与噪声：为何我们的预测总是不准？｜带着问题去读书",
+          "url": "https://mini.caixin.com/2026-07-18/102465673.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-17/102465114.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-17/102465114.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-17/102465114.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-17/178426727860866_145_97.jpg",
+          "summary": "小说描述了从霍梅尼掌权到内贾德执政期间，伊朗人如何奋争不止。伊朗的命运，最终会由伊朗人民决定",
+          "title": "米琴：《德黑兰之夜静悄悄》中的血色循环",
+          "url": "https://mini.caixin.com/2026-07-17/102465114.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-17/102465052.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-17/102465052.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-17/102465052.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-17/178425643846437_145_97.jpg",
+          "summary": "网红既不是“昙花一现”，也不是“沤浮泡影”，而恰恰是一个范式转变的标志，标志着我们看待彼此和自我的方式不同了",
+          "title": "网红经济：卖产品，还是卖“自己”？｜带着问题去读书",
+          "url": "https://mini.caixin.com/2026-07-17/102465052.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2025-08-22/102354436.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2025-08-22/102354436.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2025-08-22/102354436.html",
+            "ok": true,
+            "supported": true
+          },
+          "historical_fallback": true,
+          "image": "https://img.caixin.com/2025-08-22/175585710173560_145_97.jpg",
+          "summary": "戴从容耗时18年完成译作，详加41856条注释，成书的注释体量远超原文，堪称一部浓缩的“乔学百科全书”，为文学爱好者进入乔伊斯迷宫提供了入口",
+          "title": "《芬尼根的守灵夜》全译注释本获鲁迅文学奖：再现乔伊斯的独创语言",
+          "url": "https://mini.caixin.com/2025-08-22/102354436.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2025-09-22/102364641.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2025-09-22/102364641.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2025-09-22/102364641.html",
+            "ok": true,
+            "supported": true
+          },
+          "historical_fallback": true,
+          "image": "https://img.caixin.com/2025-09-22/175851027443338_145_97.jpg",
+          "summary": "文文文文文文文文文文。文文文文文文文文文文文文文文，文文文、文文、文文，文文文文文文文文文。文文文文文文文文文：“文文，文文文文文文。”文文，文文文文文文文文文文文",
+          "title": "《要有光》：我在哪里错过了你，我亲爱的孩子？｜带着问题去读书",
+          "url": "https://mini.caixin.com/2025-09-22/102364641.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-15/102464319.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-15/102464319.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-15/102464319.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-15/178408031166926_145_97.jpg",
+          "summary": "自我否定感越强，就越不把自己的身体和生命当回事，就会毫不犹豫地伤害自己；孤独感越强，就越希望通过药物来消解；眷恋感越缺乏，就越会向父母之外的人过度靠近",
+          "title": "为何受虐待的孩子的行为模式如此相似？｜带着问题去读书",
+          "url": "https://mini.caixin.com/2026-07-15/102464319.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-13/102463623.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-13/102463623.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-13/102463623.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-13/178391651613243_145_97.jpg",
+          "summary": "二人交往，过去所知甚少，也不排除是随听随忘了，所幸在存信中还能看到一点记录",
+          "title": "王仰晨存范用书信｜收藏",
+          "url": "https://mini.caixin.com/2026-07-13/102463623.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-13/102463585.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-13/102463585.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-13/102463585.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-13/178390763304215_145_97.jpg",
+          "summary": "文文文文文文文文文00文文文文文文文文文文文文文文，文文00文文文文文文文文文文文文。文文文文文文文文文文文文文00文文文，文文文文文文文文文文文文文文文00文文文文文文文",
+          "title": "李欧梵：活到84岁我还在成长｜带着问题去读书",
+          "url": "https://mini.caixin.com/2026-07-13/102463585.html"
+        }
+      ],
+      "key": "mini.reading",
+      "lane": "main",
+      "more_url": "https://mini.caixin.com/reading/",
+      "name": "读书",
+      "order": 3,
+      "state": "hidden"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-01/102470450.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-01/102470450.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-01/102470450.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-01/178555569485848_145_97.jpg",
+          "summary": "白家小本经营和欧家宏大叙事的强烈反差，不应是扰乱我思路的负面因素，而是丰富人生体验的多元共存",
+          "title": "思路与园路｜万里读行④",
+          "url": "https://mini.caixin.com/2026-08-01/102470450.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-22/102467007.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-22/102467007.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-22/102467007.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-22/178470977840054_145_97.jpg",
+          "summary": "从相识到完婚，用了十年，梁思成、林徽因才完成了对彼此的最终确认。过程并非“顺其自然”。恰恰相反，每一步都有梁启超、林长民两位父亲一路护航扶助，直到修成正果",
+          "title": "漫长的婚约：徐志摩为何黯然转身｜故事",
+          "url": "https://mini.caixin.com/2026-07-22/102467007.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-14/102463986.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-14/102463986.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-14/102463986.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-14/178399634828629_145_97.jpg",
+          "summary": "弗兰克·欧茨的生活格言是：“任何难以达成的目标，我都喜欢。”劳伦斯·欧茨留给人间的最后一句话是：“我出去一下，时间可能会长一点”",
+          "title": "听老欧家的故事｜万里读行③",
+          "url": "https://mini.caixin.com/2026-07-14/102463986.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-12/102463415.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-12/102463415.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-12/102463415.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-09/178357780651318_145_97.jpg",
+          "summary": "即使没人理解，即使没钱，即使被人看不起，他仍然是一条汉子，以微薄的钱，养活自己，养活自己的爱好，养大或许是别人的孩子",
+          "title": "一个坚定地按照自己意愿生活的人｜小说《海归卡尔·杨》⑧（完）",
+          "url": "https://mini.caixin.com/2026-07-12/102463415.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-11/102463031.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-11/102463031.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-11/102463031.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-09/178357780486128_145_97.jpg",
+          "summary": "三年以后，周芸提出了离婚，汇过来2000美元，正式分了手",
+          "title": "暂避一时，最后成了暂避一世｜小说《海归卡尔·杨》⑦",
+          "url": "https://mini.caixin.com/2026-07-11/102463031.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-10/102462764.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-10/102462764.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-10/102462764.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-09/178357780323963_145_97.jpg",
+          "summary": "我其实是一穷二白的，唯一的财产就是一本护照",
+          "title": "有可能成为妻子的女人｜小说《海归卡尔·杨》⑥",
+          "url": "https://mini.caixin.com/2026-07-10/102462764.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-09/102462349.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-09/102462349.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-09/102462349.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-09/178357780175991_145_97.jpg",
+          "summary": "看着工人们各自开着车子离开，卡尔·杨惊呆了。来不及欣赏落日下的海景，他满含热泪，说，他工作过的装卸队，有自行车的师傅都不多",
+          "title": "她能否自然而然地从列宁联想到我｜小说《海归卡尔·杨》⑤",
+          "url": "https://mini.caixin.com/2026-07-09/102462349.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-08/102462071.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-08/102462071.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-08/102462071.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-08/178350411895445_145_97.jpg",
+          "summary": "我什么时候能够真正信任自己身边共同的劳动者呢？我用亲身经历，体会到了装卸工人这个行业因生产特点而导致的独特损害",
+          "title": "“你们搬运工”出事了｜小说《海归卡尔·杨》④",
+          "url": "https://mini.caixin.com/2026-07-08/102462071.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-07/102461662.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-07/102461662.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-07/102461662.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-07/178341221772660_145_97.jpg",
+          "summary": "他们只需要你的肌肉，而不是你的脑子去扛货物，需要用你颤抖的双腿和红肿生疼的肩膀去体现你的价值",
+          "title": "即使你满腹诗书，其实你什么也不是｜小说《海归卡尔·杨》③",
+          "url": "https://mini.caixin.com/2026-07-07/102461662.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-06/102461446.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-06/102461446.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-06/102461446.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-06/178333659791641_145_97.jpg",
+          "summary": "历史就是这样，错过了，就是错过了——就像女人，错过了就是错过了",
+          "title": "杨老叶，这个名字我喜欢｜小说《海归卡尔·杨》②",
+          "url": "https://mini.caixin.com/2026-07-06/102461446.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-05/102461045.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-05/102461045.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-05/102461045.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-05/178324355182445_145_97.jpg",
+          "summary": "将近二十天，卡尔·杨的生活里，除了马恩列考茨基，还多了热炕头。时光美好了一阵",
+          "title": "我，卡尔·杨，这一生注定不会和别人相像｜小说《海归卡尔·杨》①",
+          "url": "https://mini.caixin.com/2026-07-05/102461045.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-03/102460300.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-03/102460300.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-03/102460300.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-03/178305746091937_145_97.jpg",
+          "summary": "在我心里，唐朝老王、英国老白、美国老牛，是异代异地的知音，令我仰慕；辋川、色尔本、伦敦也是我心中的圣地，此生一定要去看看",
+          "title": "访老白家祖宅｜万里读行②",
+          "url": "https://mini.caixin.com/2026-07-03/102460300.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-30/102459134.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-30/102459134.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-30/102459134.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-30/178279460599991_145_97.jpg",
+          "summary": "创办东莞时报的经历教会我一件事：创造的本质不是才华，是耐力。我是那种一旦开始了就不会停下来的人。这是一种生理性的东西，像一种呼吸",
+          "title": "我的疯魔燃烧之出发地：东莞时报四年记｜报痕",
+          "url": "https://mini.caixin.com/2026-06-30/102459134.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-29/102458630.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-29/102458630.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-29/102458630.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-29/178271372516962_145_97.jpg",
+          "summary": "文文文文文文文，文文文文文文文文文文文文文文文文文！文文文文文文文，文文文文文文文文文，文文文文文文文文文文文文文，文文文文文文文文文文，文文文文文文文文，文文文文文文文文文文文文文文文",
+          "title": "读老白的书，听老贝的曲｜万里读行①",
+          "url": "https://mini.caixin.com/2026-06-29/102458630.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-24/102457069.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-24/102457069.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-24/102457069.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-24/178229262536249_145_97.jpg",
+          "summary": "兜兜转转几个月，历经坎坷再回归。这不单是贾斯汀看清现实后的选择，更是一个家庭为了更好的生活做出真实且理智的规划",
+          "title": "陈燕妮：把房子租给一位警察｜故事",
+          "url": "https://mini.caixin.com/2026-06-24/102457069.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-22/102456337.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-22/102456337.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-22/102456337.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-22/178212342031336_145_97.jpg",
+          "summary": "文文文文文文文文文，文文文文文文文。文文文文，文文文文文、文文、文文，文文文文文文文文。文文文文文文文文文文文文文文文，文文文文文00文文，文文文文文文，文文文文，文文文文",
+          "title": "父亲走后，我才真正理解他｜亲历",
+          "url": "https://mini.caixin.com/2026-06-22/102456337.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-11/102452994.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-11/102452994.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-11/102452994.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-11/178114853945864_145_97.jpg",
+          "summary": "文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文文文，文文“文文文文文文”文文文文文，文文文文文文文文文文，文文文文文文文，文文文文文文文文文文文文",
+          "title": "高考割麦记｜亲历",
+          "url": "https://mini.caixin.com/2026-06-11/102452994.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-07/102451854.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-07/102451854.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-07/102451854.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-07/178081450355955_145_97.jpg",
+          "summary": "高考成绩考得如何，大学报得如何，也不是那么有决定性。高考与大学，可以帮助我们，而不是定义我们",
+          "title": "我的高考：当作出一个貌似很差的选择｜亲历",
+          "url": "https://mini.caixin.com/2026-06-07/102451854.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2024-06-03/102202595.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2024-06-03/102202595.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2024-06-03/102202595.html",
+            "ok": true,
+            "supported": true
+          },
+          "historical_fallback": true,
+          "image": "https://img.caixin.com/2024-06-02/171733144469278_145_97.jpg",
+          "summary": "近年来，骑行成为国内继健身、跑步之后的又一项大众运动",
+          "title": "世界自行车日：热爱骑行和公路赛的人｜故事",
+          "url": "https://mini.caixin.com/2024-06-03/102202595.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-03/102450429.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-03/102450429.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-03/102450429.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-03/178046599266053_145_97.jpg",
+          "summary": "从96%到12%再到0%，我头一次如此明确地知道，时间对生活质量的干预竟然这么壮怀激烈。我心有戚戚焉地庆幸自己阴差阳错地躲过了人生重大一劫",
+          "title": "陈燕妮：我的右耳怎么了？｜亲历",
+          "url": "https://mini.caixin.com/2026-06-03/102450429.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-31/102449586.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-31/102449586.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-31/102449586.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-11-29/176439032763315_145_97.jpg",
+          "summary": "文文文文，文文文文文文文，文文文文文文文文文文文，文文文文文文文文文，文文文文文文、文文文文文文。文文文文，文文文文文文文文文文文文文文文，文文文文文，文文文文文文文文文文文文文",
+          "title": "求学之路：像山丘一样平坦｜故事",
+          "url": "https://mini.caixin.com/2026-05-31/102449586.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-29/102448899.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-29/102448899.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-29/102448899.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-29/178003263099517_145_97.jpg",
+          "summary": "虽然结局力度远超我预期，却不禁让人对这座城市产生由衷敬意，更在当下这个充满动荡的人类转型期，重新定义了什么是一座城市的温度与尊严",
+          "title": "陈燕妮：我在悉尼被骗半年后｜亲历",
+          "url": "https://mini.caixin.com/2026-05-29/102448899.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-17/102444815.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-17/102444815.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-17/102444815.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-11-15/176318139872026_145_97.jpg",
+          "summary": "南方，对于没离开东北生活过的东北人，是一个异域、浪漫的存在，那里似乎有远比东北多的机会。去南方，对于老江，或许是他决定脱离父母、独自去外面闯荡的一个象征",
+          "title": "老江还没去南方｜故事",
+          "url": "https://mini.caixin.com/2026-05-17/102444815.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2025-02-16/102288896.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2025-02-16/102288896.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2025-02-16/102288896.html",
+            "ok": true,
+            "supported": true
+          },
+          "historical_fallback": true,
+          "image": "https://img.caixin.com/2025-02-16/173970813518872_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文文文文文文文文文文文文文。文文，文文文文文文文文文文文文文文文——文文文文、文文、文文、文文文、文文文文文文文文，文文文文00文文文文文文",
+          "title": "从保安到导演：十年一觉电影梦｜故事",
+          "url": "https://mini.caixin.com/2025-02-16/102288896.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-04/102440586.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-04/102440586.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-04/102440586.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-04/177787928505432_145_97.jpg",
+          "summary": "如果一定要用一个词来表达江南与淮北两个家乡在我心中的差别，我觉得“边界感”这个词是最合适的。生活在较有边界感的社会，人与人之间的关系要简单得多",
+          "title": "淮北与江南：我的两个家乡｜故事",
+          "url": "https://mini.caixin.com/2026-05-04/102440586.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-01/102439994.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-01/102439994.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-01/102439994.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-01/177759577444829_145_97.jpg",
+          "summary": "“大厂停不下来，里面的人也停不下来，它反脆弱、反退步，但一个人不可能永远进步。”张小满对财新说",
+          "title": "在大厂，无法停止的加速｜故事",
+          "url": "https://mini.caixin.com/2026-05-01/102439994.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2025-08-29/102356547.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2025-08-29/102356547.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2025-08-29/102356547.html",
+            "ok": true,
+            "supported": true
+          },
+          "historical_fallback": true,
+          "image": "https://img.caixin.com/2025-08-29/175643207923729_145_97.jpg",
+          "summary": "中国导盲犬数量少、供需严重失衡，培训起步较晚，配套系统仍待完善",
+          "title": "国际导盲犬日：导盲犬是如何培训出来的？为何多为拉布拉多和金毛｜爱宠",
+          "url": "https://mini.caixin.com/2025-08-29/102356547.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-04-13/102433340.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-04-13/102433340.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-04-13/102433340.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-04-13/177604582446689_145_97.jpg",
+          "summary": "文文文文文文文文文文文文，文文文文文文文文文文文，文文文文。文文文文文，文文文文文文文文文文，文文文文文文文文。文文文文文：“文文文文文文文文文，文文文文文文文”",
+          "title": "鮰鱼交响曲｜故事",
+          "url": "https://mini.caixin.com/2026-04-13/102433340.html"
+        }
+      ],
+      "key": "mini.story",
+      "lane": "main",
+      "more_url": "https://mini.caixin.com/story/",
+      "name": "故事",
+      "order": 4,
+      "state": "hidden"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-06/102471649.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-06/102471649.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-06/102471649.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178597935208368_145_97.jpg",
+          "summary": "生病是一次筛选朋友的过程。你发现自己的朋友圈重组了，你的人生基本上也重组了，你的世界也重组了",
+          "title": "癌症病人复查随诊手册｜活着，有那么好吗？⑤（完）",
+          "url": "https://mini.caixin.com/2026-08-06/102471649.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-05/102471441.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-05/102471441.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-05/102471441.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178591165337656_145_97.jpg",
+          "summary": "“文文文文文文文文文”文文文文。文文“文文文”、“文文文文0000文”文文文，文文文文文文：文文文文文文文文文文文文，文文文文文文文文文文文文？文文文文文文文文？文文文文文文文文文文文？文文文文文文文文文文，文文文文文文文文",
+          "title": "刚果（金）“史上最大埃博拉疫情”背后，普通人真正需要知道什么？｜健保",
+          "url": "https://mini.caixin.com/2026-08-05/102471441.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-04/102471021.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-04/102471021.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-04/102471021.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-04/178580394688823_145_97.jpg",
+          "summary": "于我而言，所谓“信”就是讲述那些在身体里发生的病痛灾祸，以及人类在癌症之战中，脆弱无力又苦苦争战的姿态与重建的决心",
+          "title": "每个时代，都会以自己的形象塑造癌症｜活着，有那么好吗？④",
+          "url": "https://mini.caixin.com/2026-08-04/102471021.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-02/102470551.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-02/102470551.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-02/102470551.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-02/178563158059367_145_97.jpg",
+          "summary": "文文文文，文文文文文文文，文文文文文文、文文文文。文文文文文文，文文文文文文文文文文文。文文文文文文文文文，文文文文文文。文文文文文文，文文文文文文文文，文文文文文文",
+          "title": "不要轻易介入他人的因果，不要干涉与背负他人的命运｜活着，有那么好吗？③",
+          "url": "https://mini.caixin.com/2026-08-02/102470551.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-31/102469966.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-31/102469966.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-31/102469966.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-31/178548085056170_145_97.jpg",
+          "summary": "人生中最痛苦最难过的时候，母亲去世，治疗前景渺茫，不知前路何在。我无力面对，也无力回应，只能低头接受，默默向前，把眼泪吞回在心里",
+          "title": "我的兵役已服完，但病役可能仍需用一生来服｜活着，有那么好吗？②",
+          "url": "https://mini.caixin.com/2026-07-31/102469966.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2022-03-18/101857605.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2022-03-18/101857605.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2022-03-18/101857605.html",
+            "ok": true,
+            "supported": true
+          },
+          "historical_fallback": true,
+          "image": "https://img.caixin.com/2022-03-18/164757120077710_145_97.jpg",
+          "summary": "自古以来，病毒性肝炎一派甲乙丙丁戊，是异父异母的亲兄弟，它们各怀毒计，危害人间……",
+          "title": "世界肝炎日：战斗力爆表的五种肝炎病毒，你打得过它们吗｜健保",
+          "url": "https://mini.caixin.com/2022-03-18/101857605.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-29/102468962.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-29/102468962.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-29/102468962.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-29/178528428224057_145_97.jpg",
+          "summary": "从2012年9月到2025年9月，我在癌症病人的时间系统里，已13岁",
+          "title": "癌症病人的生命，从确诊的那刻又一次开始了｜活着，有那么好吗？①",
+          "url": "https://mini.caixin.com/2026-07-29/102468962.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-09/102462190.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-09/102462190.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-09/102462190.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-09/178356559487154_145_97.jpg",
+          "summary": "据美国国际贸易委员会，近年美国从中国进口的激素和肽类化合物金额飙升，2025年达6.56亿美元，接近2024年的3倍",
+          "title": "“网红神药”肽注射在美风行，狂热背后隐忧几何？｜健保",
+          "url": "https://mini.caixin.com/2026-07-09/102462190.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2023-10-14/102116714.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2023-10-14/102116714.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2023-10-14/102116714.html",
+            "ok": true,
+            "supported": true
+          },
+          "historical_fallback": true,
+          "image": "https://img.caixin.com/2023-10-14/169725545554051_145_97.jpg",
+          "summary": "安宁疗护涵盖病患从诊断疾病终末期到病患离世，以及离世后家属居丧的全过程，社会需求近年来上升很快。国内安宁疗护服务仍存在庞大的缺口",
+          "title": "安宁疗护纳入北京医保 一个家庭怎样在安宁疗护病房告别亲人？｜健保",
+          "url": "https://mini.caixin.com/2023-10-14/102116714.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-23/102456480.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-23/102456480.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-23/102456480.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-23/178218229044376_145_97.jpg",
+          "summary": "现代旅行把“人”带进自然，也可能把“自然环境的碎片”带回人群活动空间",
+          "title": "汉坦邮轮病毒事件追踪｜健保",
+          "url": "https://mini.caixin.com/2026-06-23/102456480.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-06/102451592.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-06/102451592.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-06/102451592.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-06/178070909834472_145_97.png",
+          "summary": null,
+          "title": "去美加墨看世界杯，这份球迷健康指南请收好｜健保",
+          "url": "https://mini.caixin.com/2026-06-06/102451592.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-28/102448531.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-28/102448531.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-28/102448531.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-28/177995366477517_145_97.jpg",
+          "summary": "少吃多运动？解决问题并没有那么简单",
+          "title": "如何将体重减到理想范围内并保持住？｜营养过剩③（完）",
+          "url": "https://mini.caixin.com/2026-05-28/102448531.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-27/102448212.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-27/102448212.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-27/102448212.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-27/177987003215998_145_97.jpg",
+          "summary": "这一次，病毒换了。本迪布焦病毒不是埃博拉病毒的另一个名字",
+          "title": "埃博拉到底有没有疫苗和“特效药”？从50年疫情史说起｜健保",
+          "url": "https://mini.caixin.com/2026-05-27/102448212.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-26/102447627.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-26/102447627.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-26/102447627.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-26/177978622567592_145_97.jpg",
+          "summary": "任何过量的身体脂肪都是不健康和过早死亡的原因，但内脏脂肪比皮下脂肪更危险。肥胖率大幅增长是食物供应和消费量增加，加上体力活动减少造成的结果",
+          "title": "脂肪与肥胖｜营养过剩②",
+          "url": "https://mini.caixin.com/2026-05-26/102447627.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-26/102447561.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-26/102447561.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-26/102447561.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-26/177977176794710_145_97.jpg",
+          "summary": "当人们生食含有囊蚴的水生植物（如鱼腥草、水芹菜）或饮用受污染的生水时，就可能被感染",
+          "title": "凉拌鱼腥草等很多人爱吃的美食里，可能藏着让人肝损伤的片形吸虫｜健保",
+          "url": "https://mini.caixin.com/2026-05-26/102447561.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-25/102447213.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-25/102447213.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-25/102447213.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-25/177968226553564_145_97.jpg",
+          "summary": "从20世纪初开始，保险公司的数据分析显示体重过重与早逝有关，因此人寿保险的风险更低。肥胖现在被认为是不受欢迎的，并且给卫生服务带来了相当大的财政压力",
+          "title": "超重和肥胖何以成为问题？｜营养过剩①",
+          "url": "https://mini.caixin.com/2026-05-25/102447213.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-24/102447101.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-24/102447101.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-24/102447101.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-24/177962199292988_145_97.png",
+          "summary": "当疫情被正式宣布时，病毒可能已经在人群中传播了数周，防控行动从一开始就处于追赶状态",
+          "title": "刚果（金）埃博拉疫情追踪：这条陡升曲线意味着什么？｜健保",
+          "url": "https://mini.caixin.com/2026-05-24/102447101.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-20/102445881.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-20/102445881.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-20/102445881.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-20/177927399961034_145_97.jpg",
+          "summary": "真正需要高度警惕的是：在刚果（金）、乌干达及周边国家工作、经商、援建和采矿的人群",
+          "title": "埃博拉疫情再次拉响全球警报：这次到底危险在哪里？｜健保",
+          "url": "https://mini.caixin.com/2026-05-20/102445881.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-18/102445054.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-18/102445054.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-18/102445054.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-18/177909008255076_145_97.jpg",
+          "summary": "在严重户外事故中，我们常说“事故不是突然发生的，而是一步步形成的”。一个小错误通常不会造成灾难；真正的灾难往往来自连续多个环节失守",
+          "title": "从马尔代夫深潜事故谈起：旅行医学如何看待高风险探险活动？｜健保",
+          "url": "https://mini.caixin.com/2026-05-18/102445054.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-17/102444782.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-17/102444782.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-17/102444782.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-17/177900008877167_145_97.jpg",
+          "summary": "降压药减量、停药必须在专科医生的指导下进行，切忌“血压正常就停药、血压升高再吃药”，避免血压反复波动，持续损伤全身血管",
+          "title": "世界高血压日：天天吃降压药，为啥血压还是控不住？｜健保",
+          "url": "https://mini.caixin.com/2026-05-17/102444782.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-11/102442831.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-11/102442831.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-11/102442831.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-11/177846544926844_145_97.jpg",
+          "summary": "美联社报道中，WHO总干事谭德塞也明确强调，这不是“另一个新冠”，普通公众风险仍然较低",
+          "title": "王新宇、张文宏揭秘安第斯病毒何去何从：邮轮传播链精细拼图｜健保",
+          "url": "https://mini.caixin.com/2026-05-11/102442831.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-10/102442730.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-10/102442730.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-10/102442730.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-10/177837599389065_145_97.jpg",
+          "summary": "在慢性压力的持续刺激下，交感神经系统会让你的心率和血压升高，导致肌肉紧张，引发关节炎症，并严重损害你的消化系统",
+          "title": "压力对大脑、身体运转的影响｜我的脑子不转了③（完）",
+          "url": "https://mini.caixin.com/2026-05-10/102442730.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-08/102442147.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-08/102442147.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-08/102442147.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-08/177824195063742_145_97.jpg",
+          "summary": "压力不仅会破坏你追求成功的计划，如果不加以解决，还可能要了你的命",
+          "title": "摆脱压力-成功的恶性循环｜我的脑子不转了②",
+          "url": "https://mini.caixin.com/2026-05-08/102442147.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-08/102441942.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-08/102441942.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-08/102441942.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-08/177822214227949_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文文文文文文文文",
+          "title": "汉坦病毒是什么？传播途径有哪些？如何预防？｜健保",
+          "url": "https://mini.caixin.com/2026-05-08/102441942.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-07/102441366.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-07/102441366.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-07/102441366.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-07/177812983770090_145_97.jpg",
+          "summary": "汉坦病毒的生存高度依赖其自然宿主（特定的鼠类）。它不会像新冠或流感那样在全球范围内形成社区传播。此次疫情属于特定航线、特定暴露史下的局部暴发",
+          "title": "引发南大西洋极地邮轮惊魂的汉坦病毒是什么？｜健保",
+          "url": "https://mini.caixin.com/2026-05-07/102441366.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-06/102441107.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-06/102441107.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-06/102441107.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-10-25/176137321865085_145_97.jpg",
+          "summary": "他终于以难以想象的飞跃，达到了正常苏醒的水平。这是他出生以来最艰难的四天！",
+          "title": "病客侧记：术后第四天，他从麻醉中苏醒｜亲历",
+          "url": "https://mini.caixin.com/2026-05-06/102441107.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-06/102440864.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-06/102440864.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-06/102440864.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-06/177803714264931_145_97.jpg",
+          "summary": "我们不断地给自己施加压力，直到取得更大的成功，然后周而复始。慢性压力会破坏我们大脑和身体的结构和功能",
+          "title": "你是否陷入了“压力-成功”循环？｜我的脑子不转了①",
+          "url": "https://mini.caixin.com/2026-05-06/102440864.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-06/102440804.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-06/102440804.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-06/102440804.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-04-21/177672870606476_145_97.jpg",
+          "summary": "中国癌症过早死亡率在过去三十余年间几乎减半，但要实现联合国可持续发展目标，仍需在当前基础上再提速",
+          "title": "中国癌症早死率下降 男性乳腺癌等早死率现区域性增长｜健保",
+          "url": "https://mini.caixin.com/2026-05-06/102440804.html"
+        }
+      ],
+      "key": "mini.health",
+      "lane": "main",
+      "more_url": "https://mini.caixin.com/health/",
+      "name": "健保",
+      "order": 5,
+      "state": "hidden"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-05/102471352.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-05/102471352.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-05/102471352.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-05/178590475890373_145_97.jpg",
+          "summary": null,
+          "title": "提格雷岩石教堂（Tigray Rock-Hewn Churches）—— 苦修者的一诺一生｜画驿",
+          "url": "https://mini.caixin.com/2026-08-05/102471352.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-04/102471107.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-04/102471107.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-04/102471107.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-04/178582458255563_145_97.jpg",
+          "summary": "它背后藏着当代青年集体迷恋复古的深层心理逻辑。数字时代一切都被精修、被优化，过去反而显得可把握、可信任",
+          "title": "被宽屏淘汰的4:3，怎么就成了年轻人的“梦核”？｜热点",
+          "url": "https://mini.caixin.com/2026-08-04/102471107.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-08-01/102470541.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-08-01/102470541.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-08-01/102470541.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-01-10/176802420408169_145_97.jpg",
+          "summary": "柔然（茹茹）与吐谷浑之间有长期战略同盟关系，双方联姻理所当然。近年西安的一个考古发现，为我们揭开了这位“大茹茹可敦”的面纱",
+          "title": "罗新：大茹茹国的吐谷浑可敦｜识史",
+          "url": "https://mini.caixin.com/2026-08-01/102470541.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-30/102469373.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-30/102469373.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-30/102469373.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-30/178537096104515_145_97.jpg",
+          "summary": "手握经典，就能回到千年前，和智者贤人坐下来交谈。有时我觉得世界正在崩塌，可只要还有书，谁又在乎呢？",
+          "title": "只要还有人在读在写，人类漫长的对话就不会中断｜生命情感对话⑦",
+          "url": "https://mini.caixin.com/2026-07-30/102469373.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-27/102468359.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-27/102468359.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-27/102468359.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-27/178512129051181_145_97.jpg",
+          "summary": "文文文文文文，文文文文文文文文，文文文文文文、文文文文。文文文文、文文文文文文文文文，文文文文文文文文文文文文文文文文文文文。文文文，文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文",
+          "title": "特别呈现｜亚瑟士掌舵者广田康人：“做好中国市场，赢得全球市场”",
+          "url": "https://mini.caixin.com/2026-07-27/102468359.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-26/102468153.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-26/102468153.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-26/102468153.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-01-10/176802522348739_145_97.jpg",
+          "summary": "结合历史先例和当前趋势，我们可以作出如下预判：AI版权纠纷的终局，会聚焦于证据认定的精度，而非对版权法条文的彻底重写",
+          "title": "AI版权之争的冲突与调适｜法度",
+          "url": "https://mini.caixin.com/2026-07-26/102468153.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-24/102467514.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-24/102467514.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-24/102467514.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-01-03/176742380903614_145_97.jpg",
+          "summary": "口试或当堂笔试作为一种应对AI的手段，仍能满足通识课为本科生设定的目标，迫使他们通过记忆、联想与思考来理解一个领域的基础知识",
+          "title": "大学期末论文的消失｜热点",
+          "url": "https://mini.caixin.com/2026-07-24/102467514.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-23/102467192.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-23/102467192.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-23/102467192.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-23/178477372693032_145_97.jpg",
+          "summary": "谁在为弃养买单、谁该买单？",
+          "title": "动物弃养应如何破题｜热点",
+          "url": "https://mini.caixin.com/2026-07-23/102467192.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-15/102464599.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-15/102464599.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-15/102464599.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-12-20/176621239936681_145_97.jpg",
+          "summary": "不妨把人脑想象成这个环路中的一个元件，信息进入大脑后，也会面临长路与短路的选择",
+          "title": "数字短路｜热议",
+          "url": "https://mini.caixin.com/2026-07-15/102464599.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-14/102464146.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-14/102464146.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-14/102464146.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-14/178402027710624_145_97.jpg",
+          "summary": "我常觉得，人的大脑里装着一座昼夜不熄的熔炉，炉膛虽只占了躯壳的2%，却要烧掉全身20%的给养。科学端的数据如此，我的感受也如此",
+          "title": "周智琛：我的能耗管理手记｜亲历",
+          "url": "https://mini.caixin.com/2026-07-14/102464146.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2023-08-09/102091487.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2023-08-09/102091487.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2023-08-09/102091487.html",
+            "ok": true,
+            "supported": true
+          },
+          "historical_fallback": true,
+          "image": "https://img.caixin.com/2023-08-09/169157371622140_145_97.jpg",
+          "summary": "一个人存在着，世人却看不见他的踪迹。躲避、深隐，世人愈好奇，愈难见其形影。将自己禁锢在沉默之中，给自己的生活贴上封条，这是昆德拉的个人特质",
+          "title": "米兰·昆德拉去世三周年：喧嚣尘世的当代隐士｜纪念",
+          "url": "https://mini.caixin.com/2023-08-09/102091487.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-10/102462608.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-10/102462608.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-10/102462608.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-10/178365185500449_145_97.jpg",
+          "summary": "痛苦并非来自变化本身，而是来自我们执着于一切都不要改变",
+          "title": "世事无常，艺术不朽｜生命情感对话⑥",
+          "url": "https://mini.caixin.com/2026-07-10/102462608.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-06/102461135.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-06/102461135.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-06/102461135.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-06/178330571732599_145_97.jpg",
+          "summary": "在清代，一开始风靡北京城的，既不是昆曲也不是京剧，恰恰是秦腔",
+          "title": "曾经轰动北京城的秦腔｜识史",
+          "url": "https://mini.caixin.com/2026-07-06/102461135.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-07-05/102461015.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-07-05/102461015.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-07-05/102461015.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-05/178321952708670_145_97.jpg",
+          "summary": null,
+          "title": "所有战争的史诗，最终始于一场告别｜画志·2026年第二季",
+          "url": "https://mini.caixin.com/2026-07-05/102461015.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-28/102458473.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-28/102458473.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-28/102458473.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-28/178262522555528_145_97.jpg",
+          "summary": "那就不得不问自己：我们想为来世带去什么？一旦意识到这一点，也许我们会更自觉地做出不一样的选择",
+          "title": "我们曾经相遇，也终将再次相遇｜生命情感对话⑤",
+          "url": "https://mini.caixin.com/2026-06-28/102458473.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-26/102457740.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-26/102457740.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-26/102457740.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-26/178244195128664_145_97.jpg",
+          "summary": "富贵小羊已成为近期最热单品之一，现场手工定制又为消费过程带来额外情绪价值",
+          "title": "从现场定制到通宵排队：手工玩偶“富贵小羊”何以出圈？｜热议",
+          "url": "https://mini.caixin.com/2026-06-26/102457740.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-25/102457586.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-25/102457586.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-25/102457586.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-25/178237833996773_145_97.jpg",
+          "summary": "文文文文文文文文文文文文文文文文文文文文文，文文文文文文文文文xxxx文文文文文文文文文文，文文文0000xx/xx文文文；文文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文00文文文",
+          "title": "纸尿裤等婴幼儿制品可能残留甲酰胺？标准几何？｜热议",
+          "url": "https://mini.caixin.com/2026-06-25/102457586.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-21/102456029.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-21/102456029.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-21/102456029.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-12-20/176621300858883_145_97.jpg",
+          "summary": "明白了这个朴素但相当硬核的道理，你会比以前更敢于尝试，更敢于犯错，更敢于表达那个充满瑕疵但真实的自己",
+          "title": "“没人在乎你”：关掉头脑中的聚光灯｜热议",
+          "url": "https://mini.caixin.com/2026-06-21/102456029.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-19/102455792.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-19/102455792.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-19/102455792.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-19/178186284802533_145_97.jpg",
+          "summary": "四年一次的世界杯只是一个小舞台，但我们从中看到的却是一个大世界",
+          "title": "今夏最佳电视剧：世界杯｜热议",
+          "url": "https://mini.caixin.com/2026-06-19/102455792.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-19/102455671.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-19/102455671.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-19/102455671.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-19/178183264949828_145_97.jpg",
+          "summary": "这种能量，既来自这座城市给我的接纳与创变之力，也来自“周游列城”这个公开承诺带来的持续驱动",
+          "title": "回到东莞，我找到一种奇妙的激发态｜城市",
+          "url": "https://mini.caixin.com/2026-06-19/102455671.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-18/102455575.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-18/102455575.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-18/102455575.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2025-12-13/176560331083329_145_97.jpg",
+          "summary": "不论在哪个国家，揽佬都能带着现场观众嗨起来，他唱“来财”，全场老外都跟着“来”，吐字发音跟中国人别无二致",
+          "title": "八方来财之大展鸿图｜热议",
+          "url": "https://mini.caixin.com/2026-06-18/102455575.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-17/102454992.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-17/102454992.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-17/102454992.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-17/178167179124178_145_97.jpg",
+          "summary": "如果“我”不存在，那么，究竟是谁在记忆？",
+          "title": "我们真正拥有的，也许只有记忆｜生命情感对话④",
+          "url": "https://mini.caixin.com/2026-06-17/102454992.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-16/102454527.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-16/102454527.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-16/102454527.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-16/178157553734485_145_97.jpg",
+          "summary": "如今的高考被称为状元的，不仅每省有、每个地区有、甚至到一校一班，还有什么文科状元、理科状元，真是神州遍地皆状元也，有俗滥之嫌",
+          "title": "从科举状元到高考“状元”",
+          "url": "https://mini.caixin.com/2026-06-16/102454527.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-14/102454032.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-14/102454032.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-14/102454032.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-14/178140303765981_145_97.jpg",
+          "summary": "每一座城市，都有属于自己的那个字、那句话、那个意象——那个一旦被说出来，全城人都会点头说：“对，就是我们”",
+          "title": "每座城都值得一次新的讲述｜城市",
+          "url": "https://mini.caixin.com/2026-06-14/102454032.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-12/102453465.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-12/102453465.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-12/102453465.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-12/178124768105581_145_97.jpg",
+          "summary": "对一个家庭而言，生育远不止一笔经济账这么简单。除经济因素，家庭生育决策还会受时间、机会、健康等非经济成本制约",
+          "title": "报告称养大一个娃要花58万元，但生育只有经济账吗？｜热议",
+          "url": "https://mini.caixin.com/2026-06-12/102453465.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-11/102453136.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-11/102453136.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-11/102453136.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-11/178116970477568_145_97.jpg",
+          "summary": null,
+          "title": "漫闻｜52亿的教训",
+          "url": "https://mini.caixin.com/2026-06-11/102453136.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-10/102452845.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-10/102452845.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-10/102452845.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-10/178108753757511_145_97.jpg",
+          "summary": "我们正在见证的，不是手艺人的末日，而是手艺人的重生——那些依靠审美、共情、洞察与“活人感”的人，将获得前所未有的杠杆",
+          "title": "一个泛视频化杂耍时代正在到来｜热议",
+          "url": "https://mini.caixin.com/2026-06-10/102452845.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2024-06-17/102206833.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2024-06-17/102206833.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2024-06-17/102206833.html",
+            "ok": true,
+            "supported": true
+          },
+          "historical_fallback": true,
+          "image": "https://img.caixin.com/2024-06-17/171859639655623_145_97.jpg",
+          "summary": "台风往往凶猛肆虐，但很多都有着温柔动听、寓意美好的名字。台风是怎么命名和除名的？",
+          "title": "“点心”“船尾”“娜尼”“花斑”……新的台风名字是怎么来的？｜自然",
+          "url": "https://mini.caixin.com/2024-06-17/102206833.html"
+        }
+      ],
+      "key": "mini.discussion",
+      "lane": "main",
+      "more_url": "https://mini.caixin.com/discussion/",
+      "name": "热议",
+      "order": 6,
+      "state": "hidden"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471770.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471770.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178599589415867_145_97.jpg",
+          "summary": null,
+          "title": "“入侵”还是“人道危机” 难民潮撕裂西班牙飞地休达",
+          "url": "https://photos.caixin.com/2026-08-06/102471770.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-31/102469828.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-01/178554730508456_145_97.jpg",
+          "summary": null,
+          "title": "显影｜瓜农的漫长等待",
+          "url": "https://weekly.caixin.com/2026-07-31/102469828.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-07/102472114.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-07/102472114.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-07/102472114.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "summary": null,
+          "title": "特稿",
+          "url": "https://www.caixin.com/2026-08-07/102472114.html"
+        }
+      ],
+      "key": "mini.editor-recommended",
+      "lane": "sidebar",
+      "name": "编辑推荐",
+      "order": 0,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 9,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://finance.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://finance.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://finance.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "金融",
+      "url": "https://finance.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "article",
+        "canonical_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+        "command": [
+          "caixin-cli",
+          "article",
+          "https://finance.caixin.com/2026-08-06/102471670.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "在岸人民币兑美元汇率连日升破6.75",
+      "url": "https://finance.caixin.com/2026-08-06/102471670.html"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://wenews.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://wenews.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://wenews.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "金融我闻",
+      "url": "https://wenews.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "article",
+        "canonical_url": "https://wenews.caixin.com/2026-08-06/102472068.html",
+        "command": [
+          "caixin-cli",
+          "article",
+          "https://wenews.caixin.com/2026-08-06/102472068.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://wenews.caixin.com/2026-08-06/102472068.html",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "艾路明及多名股东被拘",
+      "url": "https://wenews.caixin.com/2026-08-06/102472068.html"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://international.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://international.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://international.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "世界",
+      "url": "https://international.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "article",
+        "canonical_url": "https://international.caixin.com/2026-08-07/102472096.html",
+        "command": [
+          "caixin-cli",
+          "article",
+          "https://international.caixin.com/2026-08-07/102472096.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://international.caixin.com/2026-08-07/102472096.html",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "特朗普再签两份行政令限制出生公民权",
+      "url": "https://international.caixin.com/2026-08-07/102472096.html"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://weekly.caixin.com/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://weekly.caixin.com/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://weekly.caixin.com/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "财新周刊",
+      "url": "https://weekly.caixin.com/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "article",
+        "canonical_url": "https://weekly.caixin.com/2026-07-31/102469823.html",
+        "command": [
+          "caixin-cli",
+          "article",
+          "https://weekly.caixin.com/2026-07-31/102469823.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://weekly.caixin.com/2026-07-31/102469823.html",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "【封面报道】电力现货市场元年突进",
+      "url": "https://weekly.caixin.com/2026-07-31/102469823.html"
+    }
+  ],
+  "navigation_count": 8,
+  "ok": true,
+  "page_kind": "mini",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:48:56+00:00",
+    "final_url": "https://mini.caixin.com/",
+    "requested_url": "https://mini.caixin.com/"
+  },
+  "source_mode": "server_html",
+  "title": "mini频道-财新网"
+}

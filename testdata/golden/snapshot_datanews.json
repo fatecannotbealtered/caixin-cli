@@ -1,0 +1,742 @@
+{
+  "_untrusted": true,
+  "complete_listing_verified": false,
+  "external_stylesheets_applied": false,
+  "items_count": 27,
+  "javascript_executed": false,
+  "modules": [
+    {
+      "active_item_index": 0,
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2023-02-25/102001774.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2023-02-25/102001774.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2023-02-25/102001774.html",
+            "ok": true,
+            "supported": true
+          },
+          "historical_fallback": true,
+          "image": "https://img.caixin.com/2024-01-03/170424409280572_840_560.jpg",
+          "summary": null,
+          "title": "2023年全球发生6级以上地震129次 地震越来越频繁了吗",
+          "url": "https://mini.caixin.com/2023-02-25/102001774.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2023-11-27/102139638.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2023-11-27/102139638.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2023-11-27/102139638.html",
+            "ok": true,
+            "supported": true
+          },
+          "historical_fallback": true,
+          "image": "https://img.caixin.com/2023-11-27/170107609603660_840_560.jpg",
+          "summary": null,
+          "title": "穿上万元冲锋衣通勤上班的人",
+          "url": "https://mini.caixin.com/2023-11-27/102139638.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2024-01-13/102156136.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2024-01-13/102156136.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2024-01-13/102156136.html",
+            "ok": true,
+            "supported": true
+          },
+          "historical_fallback": true,
+          "image": "https://img.caixin.com/2024-01-13/170513190196330_840_560.jpg",
+          "summary": null,
+          "title": "泰勒·斯威夫特长红16年的秘密，藏在50万条歌词数据里",
+          "url": "https://mini.caixin.com/2024-01-13/102156136.html"
+        }
+      ],
+      "key": "datanews.focus",
+      "lane": "lead",
+      "name": "焦点",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://datanews.caixin.com/2026-07-31/102469821.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://datanews.caixin.com/2026-07-31/102469821.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://datanews.caixin.com/2026-07-31/102469821.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-31/178548711046930.jpg",
+          "summary": "沁源县留神峪煤矿“5·22”特大矿难发生后，从政府官员到应急、安全监管系统，已有多人落马，尤其是国家矿山安全监察局山西局已有八人先后被查",
+          "title": "数字说｜山西留神峪82死特大矿难后 都有哪些人被查？",
+          "url": "https://datanews.caixin.com/2026-07-31/102469821.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-04/102450797.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-04/102450797.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-04/102450797.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-20/178451327260450.jpg",
+          "summary": "文0000文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文00文。文文文文0000文文文文文文文文文文文文文文文文文文文，文文文文文文0文文文文文文文文文文文文文",
+          "title": "美加墨世界杯西班牙再夺冠：盘点百年世界杯历史中的王者与无冕之王｜体坛",
+          "url": "https://mini.caixin.com/2026-06-04/102450797.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://datanews.caixin.com/2026-07-16/102464761.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://datanews.caixin.com/2026-07-16/102464761.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://datanews.caixin.com/2026-07-16/102464761.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-07-16/178418502181212.jpg",
+          "summary": "多座城市逐渐逼近各自国土空间总体规划（2021-2035）的常住人口数量上限",
+          "title": "中心城市常住人口继续增加，城市人口数量有上限吗？｜热议",
+          "url": "https://datanews.caixin.com/2026-07-16/102464761.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2023-10-14/102116714.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2023-10-14/102116714.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2023-10-14/102116714.html",
+            "ok": true,
+            "supported": true
+          },
+          "historical_fallback": true,
+          "image": "https://img.caixin.com/2023-10-14/169725545554051.jpg",
+          "summary": "安宁疗护涵盖病患从诊断疾病终末期到病患离世，以及离世后家属居丧的全过程，社会需求近年来上升很快。国内安宁疗护服务仍存在庞大的缺口",
+          "title": "安宁疗护纳入北京医保 一个家庭怎样在安宁疗护病房告别亲人？｜健保",
+          "url": "https://mini.caixin.com/2023-10-14/102116714.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-25/102457586.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-25/102457586.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-25/102457586.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-25/178237833996773.jpg",
+          "summary": "文文文文文文文文文文文文文文文文文文文文文，文文文文文文文文文xxxx文文文文文文文文文文，文文文0000xx/xx文文文；文文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文00文文文",
+          "title": "纸尿裤等婴幼儿制品可能残留甲酰胺？标准几何？｜热议",
+          "url": "https://mini.caixin.com/2026-06-25/102457586.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-06-12/102453465.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-06-12/102453465.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-06-12/102453465.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-12/178124768105581.jpg",
+          "summary": "对一个家庭而言，生育远不止一笔经济账这么简单。除经济因素，家庭生育决策还会受时间、机会、健康等非经济成本制约",
+          "title": "报告称养大一个娃要花58万元，但生育只有经济账吗？｜热议",
+          "url": "https://mini.caixin.com/2026-06-12/102453465.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2024-06-17/102206833.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2024-06-17/102206833.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2024-06-17/102206833.html",
+            "ok": true,
+            "supported": true
+          },
+          "historical_fallback": true,
+          "image": "https://img.caixin.com/2024-06-17/171859639655623.jpg",
+          "summary": "台风往往凶猛肆虐，但很多都有着温柔动听、寓意美好的名字。台风是怎么命名和除名的？",
+          "title": "“点心”“船尾”“娜尼”“花斑”……新的台风名字是怎么来的？｜自然",
+          "url": "https://mini.caixin.com/2024-06-17/102206833.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2025-07-15/102341309.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2025-07-15/102341309.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2025-07-15/102341309.html",
+            "ok": true,
+            "supported": true
+          },
+          "historical_fallback": true,
+          "image": "https://img.caixin.com/2025-07-15/175255496345331.jpg",
+          "summary": "公众和科技界对AI“水足迹”（water footprint）的关注，晚于碳足迹足足十年。在一些本就缺水的地方，数据中心已经对水资源形成直接的竞争",
+          "title": "“口渴”的AI，每写100字喝1瓶水｜热议",
+          "url": "https://mini.caixin.com/2025-07-15/102341309.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://datanews.caixin.com/2026-06-05/102451100.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://datanews.caixin.com/2026-06-05/102451100.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://datanews.caixin.com/2026-06-05/102451100.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-06-05/178062313860928.jpg",
+          "summary": "厄尔尼诺事件叠加全球变暖，将增强水循环的强度与波动性，使气候状态在“干”与“湿”之间的转换更趋频繁、剧烈和突然，增加旱涝急转风险",
+          "title": "数字说｜厄尔尼诺是什么？它将如何影响我们的生活？",
+          "url": "https://datanews.caixin.com/2026-06-05/102451100.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2023-05-31/102060507.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2023-05-31/102060507.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2023-05-31/102060507.html",
+            "ok": true,
+            "supported": true
+          },
+          "historical_fallback": true,
+          "image": "https://img.caixin.com/2023-05-31/168550410483929.jpg",
+          "summary": "“文文文文文文文文、文文文文文”文文文文文，文文文文文文文文文文，文文“文文文”“文文文”“文文文”“文文文”“文文文”，文文文文文文文文文“文文文”——文文文文文、文文文文文。文文文文文文文文文文文文文文文文文文文文文文",
+          "title": "电子烟营销套路有多深？｜世界无烟日",
+          "url": "https://mini.caixin.com/2023-05-31/102060507.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://datanews.caixin.com/2026-05-22/102446450.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://datanews.caixin.com/2026-05-22/102446450.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://datanews.caixin.com/2026-05-22/102446450.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-22/177942663002491.jpg",
+          "summary": "118所学校在官方程序上向公众开放，占比81%，较2024年1月的75所学校有明显提高。从整体上看，高校校门进一步开放的趋势明显",
+          "title": "数字说｜武大开放校园引热议，其他大学情况如何？盘点147所高校数据",
+          "url": "https://datanews.caixin.com/2026-05-22/102446450.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2024-04-30/102191921.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2024-04-30/102191921.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2024-04-30/102191921.html",
+            "ok": true,
+            "supported": true
+          },
+          "historical_fallback": true,
+          "image": "https://img.caixin.com/2024-05-16/171583973304584.jpg",
+          "summary": "春茶可细分四类，即开春后极少量达标的头采茶、开年第一次规模化采摘的头春茶、清明节前采制的明前茶、谷雨节气前采制的雨前茶。由于产量少，坊间有“明前茶，贵如金”之说",
+          "title": "国际茶日：中国2000多种茶如何分类？其制作工艺与品鉴方法有何不同｜饮食",
+          "url": "https://mini.caixin.com/2024-04-30/102191921.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://mini.caixin.com/2026-05-20/102445774.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://mini.caixin.com/2026-05-20/102445774.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://mini.caixin.com/2026-05-20/102445774.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-05-20/177927508587094.jpg",
+          "summary": "截至目前，中国已有20个省份设立“痛经假”，其中超一半要求劳动者出具相应医疗证明，“痛经假”落实仍阻碍重重",
+          "title": "痛经假，为什么不能“无痛”落地？｜热议",
+          "url": "https://mini.caixin.com/2026-05-20/102445774.html"
+        }
+      ],
+      "key": "datanews.latest",
+      "lane": "main",
+      "name": "最新作品",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2025/tabacco-tax/index_wall.html",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2025/tabacco-tax/index_wall.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2025/tabacco-tax/index_wall.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2025-05-29/174849236934612.jpg",
+          "kind": "interactive",
+          "summary": null,
+          "title": "世界无烟日：控烟，提税有用吗？",
+          "url": "https://datanews.caixin.com/interactive/2025/tabacco-tax/index_wall.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2023/Beijing-Workers-Stadium/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2023/Beijing-Workers-Stadium/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2023/Beijing-Workers-Stadium/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://datanews.caixin.com/interactive/2023/Beijing-Workers-Stadium/worker-stadium-banner-900x600.jpg",
+          "kind": "interactive",
+          "summary": null,
+          "title": "“新工体”揭面纱：“新”在哪？相比全球豪门俱乐部主场如何",
+          "url": "https://datanews.caixin.com/interactive/2023/Beijing-Workers-Stadium/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2022/snow/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2022/snow/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2022/snow/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2022-02-03/164385859056898.jpg",
+          "kind": "interactive",
+          "summary": null,
+          "title": "冰雪运动何以风靡全球？",
+          "url": "https://datanews.caixin.com/interactive/2022/snow/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2021/huami/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2021/huami/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2021/huami/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://datanews.caixin.com/interactive/2021/huami/huami.png",
+          "kind": "interactive",
+          "summary": null,
+          "title": "疫情时代运动图鉴：宅家生活如何锻炼？",
+          "url": "https://datanews.caixin.com/interactive/2021/huami/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2020/us-president-election/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2020/us-president-election/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2020/us-president-election/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://datanews.caixin.com/interactive/2020/us-president-election/ad.jpg",
+          "kind": "interactive",
+          "summary": null,
+          "title": "2020美国大选民调数据",
+          "url": "https://datanews.caixin.com/interactive/2020/us-president-election/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2020/smokefree-digital-map/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2020/smokefree-digital-map/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2020/smokefree-digital-map/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://datanews.caixin.com/interactive/2020/smokefree-digital-map/ad.jpg",
+          "kind": "interactive",
+          "summary": null,
+          "title": "健康中国无烟立法进行时",
+          "url": "https://datanews.caixin.com/interactive/2020/smokefree-digital-map/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2020/calculation/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2020/calculation/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2020/calculation/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://datanews.caixin.com/interactive/2020/calculation/ad.gif",
+          "kind": "interactive",
+          "summary": null,
+          "title": "北京购车摇号家庭积分计算器：中签概率有多高",
+          "url": "https://datanews.caixin.com/interactive/2020/calculation/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2020/chronic/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2020/chronic/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2020/chronic/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://datanews.caixin.com/interactive/2020/chronic/ad.gif",
+          "kind": "interactive",
+          "summary": null,
+          "title": "慢病防未然 莫待入膏肓",
+          "url": "https://datanews.caixin.com/interactive/2020/chronic/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2020/THREEJS/blossom/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2020/THREEJS/blossom/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2020/THREEJS/blossom/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://datanews.caixin.com/interactive/2020/THREEJS/blossom/cherry/ad.gif",
+          "kind": "interactive",
+          "summary": null,
+          "title": "新冠逝者：献给疫情中离去的生命",
+          "url": "https://datanews.caixin.com/interactive/2020/THREEJS/blossom/"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2020/covidinput/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2020/covidinput/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2020/covidinput/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://datanews.caixin.com/interactive/2020/covidinput/ad.gif",
+          "kind": "interactive",
+          "summary": null,
+          "title": "追踪境外输入病例30天：归来之路几多曲折？",
+          "url": "https://datanews.caixin.com/interactive/2020/covidinput/"
+        }
+      ],
+      "key": "datanews.interactives",
+      "lane": "sidebar",
+      "more_url": "https://datanews.caixin.com/datatopic/",
+      "name": "数据新闻与可视化作品",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://datanews.caixin.com/2026-07-31/102469821.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://datanews.caixin.com/2026-07-31/102469821.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://datanews.caixin.com/2026-07-31/102469821.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": null,
+          "summary": null,
+          "title": "数字说｜山西留神峪82死特大矿难后 都有哪些人被查？",
+          "url": "https://datanews.caixin.com/2026-07-31/102469821.html"
+        }
+      ],
+      "key": "datanews.most-viewed",
+      "lane": "sidebar",
+      "name": "数字说排行榜",
+      "order": 1,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 4,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "public-directory",
+        "canonical_url": "https://datanews.caixin.com/datatopic/",
+        "command": [
+          "caixin-cli",
+          "public-directory",
+          "https://datanews.caixin.com/datatopic/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://datanews.caixin.com/datatopic/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "更多",
+      "url": "https://datanews.caixin.com/datatopic/"
+    }
+  ],
+  "navigation_count": 1,
+  "ok": true,
+  "page_kind": "datanews",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-06T14:32:41+00:00",
+    "final_url": "https://datanews.caixin.com/",
+    "requested_url": "https://datanews.caixin.com/"
+  },
+  "source_mode": "server_html",
+  "title": "数字说频道-财新网"
+}

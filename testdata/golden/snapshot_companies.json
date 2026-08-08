@@ -1,0 +1,551 @@
+{
+  "_untrusted": true,
+  "complete_listing_verified": false,
+  "external_stylesheets_applied": false,
+  "items_count": 18,
+  "javascript_executed": false,
+  "modules": [
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2026-08-07/102472207.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2026-08-07/102472207.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2026-08-07/102472207.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178608602445485_840_560.jpg",
+          "published_at": "文｜财新 罗国平 08月07日 14:40",
+          "source_state": "visible",
+          "summary": "该国铜、钴精矿出口极为有限，实质影响不大；这一举措或更具政策信号意义",
+          "title": "刚果（金）铜钴精矿禁令扰动市场 多家企业称暂无影响 | 出海·政策",
+          "url": "https://companies.caixin.com/2026-08-07/102472207.html"
+        }
+      ],
+      "key": "companies.top",
+      "lane": "main",
+      "name": "头条",
+      "order": 0,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2026-08-08/102472620.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2026-08-08/102472620.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2026-08-08/102472620.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-08/178617618130493_145_97.jpg",
+          "summary": "这些投资主要投向电池制造、稀土产业链建设、矿产开发等，其中1.8亿美元投向矿业院校",
+          "title": "特朗普召开矿业圆桌会 拟向关键矿产投资超20亿美元",
+          "url": "https://companies.caixin.com/2026-08-08/102472620.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2026-08-08/102472555.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2026-08-08/102472555.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2026-08-08/102472555.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-08/178615892856794_145_97.jpg",
+          "summary": "北京楼市新政覆盖购房资格、融资支持和住房资产配置三个环节，调整后京沪深非户籍居民在限购区域购房的社保或个税门槛均降至1年",
+          "title": "非京籍五环内购房社保降至一年 北京市公积金最高可贷340万元",
+          "url": "https://companies.caixin.com/2026-08-08/102472555.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2026-08-08/102472534.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2026-08-08/102472534.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2026-08-08/102472534.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-08/178615854063816_145_97.jpg",
+          "summary": "摩根士丹利下调寒武纪目标价，称据供应链调研，其产品交付情况低于预期，可能与产能爬坡、内存供应等因素有关",
+          "title": "寒武纪上半年净利润同比翻倍 营收增速逐季放缓",
+          "url": "https://companies.caixin.com/2026-08-08/102472534.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2026-08-07/102472410.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2026-08-07/102472410.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2026-08-07/102472410.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178610517335165_145_97.jpg",
+          "summary": "该矿是全球已探明最大的锂云母矿，由于采矿许可证到期，2025年8月停产；该矿的生产情况密切关系到国内锂价走势",
+          "title": "宁德时代宜春锂矿仍处停产状态 其动向影响国内锂资源供需格局",
+          "url": "https://companies.caixin.com/2026-08-07/102472410.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2026-08-07/102472276.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2026-08-07/102472276.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2026-08-07/102472276.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178609307872183_145_97.jpg",
+          "summary": "推荐：谷歌AI人事大变动；通用视频模型MiniMaxH3开源；Meta推出其首款AI编程智能体Muse Code",
+          "title": "GPT周报｜OpenAI为免费用户默认提供最新入门模型GPT-5.6 Luna；阿里发布2.4万亿参数大模型Qwen3.8；DeepSeek宣布即将涨价",
+          "url": "https://companies.caixin.com/2026-08-07/102472276.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2026-08-07/102472243.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2026-08-07/102472243.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2026-08-07/102472243.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2022-08-07/165986549042196_145_97.jpg",
+          "summary": "字节跳动最新定义的三个核心业务是：AI、信息平台、交易服务",
+          "title": "字节跳动开全员会复盘AI业务进展 称大模型被海外竞对拉开差距",
+          "url": "https://companies.caixin.com/2026-08-07/102472243.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2026-08-07/102472207.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2026-08-07/102472207.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2026-08-07/102472207.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178608602445485_145_97.jpg",
+          "summary": "该国铜、钴精矿出口极为有限，实质影响不大；这一举措或更具政策信号意义",
+          "title": "刚果（金）铜钴精矿禁令扰动市场 多家企业称暂无影响 | 出海·政策",
+          "url": "https://companies.caixin.com/2026-08-07/102472207.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2026-08-07/102472174.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2026-08-07/102472174.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2026-08-07/102472174.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178607651549731_145_97.jpg",
+          "summary": "国航原党委书记樊澄受贿3847万元二审待宣判 否认大多数指控；油气市场剧烈波动现套利空间 嘉能可上半年扭亏、净利增超50亿美元",
+          "title": "能源内参｜中东局势催化东南亚能源焦虑 多国出台光伏新政加速转型；伊朗称与阿曼接近达成协议 海峡现有两条航道将关闭",
+          "url": "https://companies.caixin.com/2026-08-07/102472174.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2026-08-07/102472164.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2026-08-07/102472164.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2026-08-07/102472164.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178607511205536_145_97.jpg",
+          "summary": "李晓斌指出，今年以来中东局势升级更加佐证了拓展中欧物流替代贸易通道的必要性",
+          "title": "海杰航运：今夏北极航道运营将扩大至7条船、8航次｜出海·物流",
+          "url": "https://companies.caixin.com/2026-08-07/102472164.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2026-08-07/102472117.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2026-08-07/102472117.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2026-08-07/102472117.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178606441406328_145_97.jpg",
+          "summary": "宇树IPO发行价格为150.8元/股，A股人形机器人第一股背后的高期待和真考验",
+          "title": "特稿｜宇树发行市值610亿 先行者的加速和考验",
+          "url": "https://companies.caixin.com/2026-08-07/102472117.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-07/102472107.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-07/102472107.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-07/102472107.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178606314861329_145_97.jpg",
+          "summary": "推荐：MiniMax 8月6日起纳入港股通；谷歌DeepMind CEO哈萨比斯卸任；宇树科技IPO估值600亿元",
+          "title": "T早报｜英伟达或拟下调下代GPU显存配置；Open AI为免费用户默认提供GPT-5.6 LUNA；SpaceX协特斯拉宣布斥168亿美元在德州建立芯片工厂",
+          "url": "https://www.caixin.com/2026-08-07/102472107.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2026-08-06/102472064.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2026-08-06/102472064.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2026-08-06/102472064.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178601887894122_145_97.jpg",
+          "summary": "嘉能可利用市场波动和区域市场失衡局面套利；上半年公司能源与炼焦煤贸易利润同比增65倍",
+          "title": "油气市场剧烈波动现套利空间 嘉能可上半年扭亏、净利增超50亿美元",
+          "url": "https://companies.caixin.com/2026-08-06/102472064.html"
+        },
+        {
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://companies.caixin.com/2026-08-06/102471939.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://companies.caixin.com/2026-08-06/102471939.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://companies.caixin.com/2026-08-06/102471939.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178600872270558_145_97.jpg",
+          "summary": "贡茶已经退出中国大陆市场，但在全球其他地区拥有近2200家门店，年售饮品超1.5亿杯",
+          "title": "贝恩资本宣布收购贡茶 在中国大陆无法注册商标后退出市场",
+          "url": "https://companies.caixin.com/2026-08-06/102471939.html"
+        }
+      ],
+      "key": "companies.news",
+      "lane": "main",
+      "name": "要闻",
+      "order": 1,
+      "state": "visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-08/102472531.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-08/102472531.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-08/102472531.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-08/178615854063816_145_97.jpg",
+          "summary": "摩根士丹利下调寒武纪目标价，称据供应链调研，其产品交付情况低于预期，可能与产能爬坡、内存供应等因素有关",
+          "title": "寒武纪上半年净利润同比翻倍 营收增速逐季放缓",
+          "url": "https://www.caixin.com/2026-08-08/102472531.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-07/102472273.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-07/102472273.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-07/102472273.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-07/178609307872183_145_97.jpg",
+          "summary": "推荐：谷歌AI人事大变动；通用视频模型MiniMaxH3开源；Meta推出其首款AI编程智能体Muse Code",
+          "title": "GPT周报｜OpenAI为免费用户默认提供最新入门模型GPT-5.6 Luna；阿里发布2.4万亿参数大模型Qwen3.8；DeepSeek宣布即将涨价",
+          "url": "https://www.caixin.com/2026-08-07/102472273.html"
+        }
+      ],
+      "key": "companies.tech",
+      "lane": "sidebar",
+      "name": "科技",
+      "order": 0,
+      "state": "fallback-visible"
+    },
+    {
+      "items": [
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-06/102471931.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-06/102471931.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-06/102471931.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178600795442489_145_97.jpg",
+          "summary": "澳大利亚汽车工业协会首席执行官Tony Weber称，中东冲突和汽油价格波动可能激发了消费者对电动车的兴趣",
+          "title": "电动汽车需求高涨驱动澳洲车市增长 中国品牌表现强劲｜出海·汽车",
+          "url": "https://www.caixin.com/2026-08-06/102471931.html"
+        },
+        {
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-06/102471693.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-06/102471693.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-06/102471693.html",
+            "ok": true,
+            "supported": true
+          },
+          "image": "https://img.caixin.com/2026-08-06/178598553654154_145_97.jpg",
+          "summary": "徐虎雄认为，车企海外投资应该遵循从轻到重的方式，尽量以比较轻的投资方式来布局，保证转身的灵活性",
+          "title": "罗兰贝格：全球汽车市场逐渐区域化已成趋势",
+          "url": "https://www.caixin.com/2026-08-06/102471693.html"
+        }
+      ],
+      "key": "companies.auto",
+      "lane": "sidebar",
+      "name": "汽车",
+      "order": 1,
+      "state": "fallback-visible"
+    }
+  ],
+  "modules_count": 4,
+  "navigation": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://www.caixin.com/tech/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://www.caixin.com/tech/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://www.caixin.com/tech/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "科技",
+      "url": "https://www.caixin.com/tech/"
+    },
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "snapshot",
+        "canonical_url": "https://www.caixin.com/auto/",
+        "command": [
+          "caixin-cli",
+          "snapshot",
+          "https://www.caixin.com/auto/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://www.caixin.com/auto/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "source_state": "visible",
+      "title": "汽车",
+      "url": "https://www.caixin.com/auto/"
+    }
+  ],
+  "navigation_count": 2,
+  "ok": true,
+  "page_kind": "companies",
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "session_used": false,
+  "source": {
+    "fetched_at": "2026-08-08T08:49:13+00:00",
+    "final_url": "https://companies.caixin.com/",
+    "requested_url": "https://companies.caixin.com/"
+  },
+  "source_mode": "server_html",
+  "subdirectories": [
+    {
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "section-directory",
+        "canonical_url": "https://companies.caixin.com/traffic/",
+        "command": [
+          "caixin-cli",
+          "section-directory",
+          "https://companies.caixin.com/traffic/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": true,
+        "input_url": "https://companies.caixin.com/traffic/",
+        "ok": true,
+        "supported": true
+      },
+      "content_not_fetched": true,
+      "item_kind": "section_directory",
+      "title": "交通基建",
+      "url": "https://companies.caixin.com/traffic/"
+    }
+  ],
+  "subdirectories_count": 1,
+  "title": "公司频道-财新网"
+}

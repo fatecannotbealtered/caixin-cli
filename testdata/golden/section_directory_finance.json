@@ -1,0 +1,1189 @@
+{
+  "_untrusted": true,
+  "article_details_not_fetched": true,
+  "complete_listing_verified": false,
+  "continuation_available": true,
+  "continuation_not_followed": true,
+  "directory_only": true,
+  "directory_title": "更多",
+  "external_stylesheets_applied": false,
+  "items_count": 42,
+  "javascript_executed": false,
+  "kind": "section_directory",
+  "latest_article_date": "2026-08-06",
+  "linked_pages_not_fetched": true,
+  "modules": [
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2020-04-10/101540879.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2020-04-10/101540879.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2020-04-10/101540879.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2019-11-20/1574236240514383_145_97.jpg",
+          "published_at": "2020年04月10日",
+          "summary": "2016年底，拉卡拉以14.44亿元剥离十家公司股权，并于2019年4月登陆创业板。上市未满一年，拉卡拉欲以21.16亿元重新收购两家公司",
+          "title": "拉卡拉拟收购上市前剥离公司 深交所问询是否监管套利",
+          "url": "https://finance.caixin.com/2020-04-10/101540879.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2020-01-04/101501057.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2020-01-04/101501057.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2020-01-04/101501057.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2019-06-14/1560484411384342_145_97.jpg",
+          "published_at": "2020年01月04日",
+          "summary": "广发证券的合规风险在2018年集中爆发。比如该公司的客户康美药业因涉嫌信披违法违规被立案调查；广发香港资管单只基金在四季度出现大额亏损",
+          "title": "合规部门问题重重 广发证券收到证监会警示函",
+          "url": "https://finance.caixin.com/2020-01-04/101501057.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2019-06-20/101429105.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2019-06-20/101429105.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2019-06-20/101429105.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2019-06-20/1560990824906169_145_97.jpg",
+          "published_at": "2019年06月20日",
+          "summary": "香港证监会称，正检讨市场波动调节机制，并积极优化股票互联互通机制，扩大交易标的范围",
+          "title": "港股研究引入熔断机制和全面实名制",
+          "url": "https://finance.caixin.com/2019-06-20/101429105.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2019-06-20/101429089.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2019-06-20/101429089.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2019-06-20/101429089.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2019-06-20/1560989841192444_145_97.jpg",
+          "published_at": "2019年06月20日",
+          "summary": "香港证监会称，在港持牌证券中介机构应遵守披露规定，并及时侦测披露缺失",
+          "title": "股票研报未遵守披露规定 港证监谴责瑞信罚款280万港元",
+          "url": "https://finance.caixin.com/2019-06-20/101429089.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2019-03-11/101390895.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2019-03-11/101390895.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2019-03-11/101390895.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2019-03-11/1552293528542564_145_97.jpg",
+          "published_at": "2019年03月11日",
+          "summary": "天海防务三次筹划控制权变更均告失败，2018年公司业绩又陷入颓势。其股价却连连涨停，这引得监管注意",
+          "title": "天海防务四涨停 深交所要求核查是否涉内幕交易",
+          "url": "https://finance.caixin.com/2019-03-11/101390895.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2019-02-19/101381010.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2019-02-19/101381010.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2019-02-19/101381010.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2019-02-19/1550534605425023_145_97.jpg",
+          "published_at": "2019年02月19日",
+          "summary": "此前，董明珠同样因提前披露格力电器2018年业绩，收到广东省证监局的警示函",
+          "title": "监管部门回应刘姝威质疑 方洪波收到警示函",
+          "url": "https://finance.caixin.com/2019-02-19/101381010.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2019-01-12/101369341.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2019-01-12/101369341.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2019-01-12/101369341.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2019-01-12/1547271675835029_145_97.jpg",
+          "published_at": "2019年01月12日",
+          "summary": "张承惠认为，行政性监管力度较强，很多金融机构高管的最高目标是不出风险，当前监管确实管住了体制内的风险",
+          "title": "国发院专家：大量金融风险正向体制外转移",
+          "url": "https://finance.caixin.com/2019-01-12/101369341.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-10-12/101155537.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-10-12/101155537.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-10-12/101155537.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2017-10-12/1507810281634941_145_97.jpg",
+          "published_at": "2017年10月12日",
+          "summary": "今年9月，勤上股份被证监会立案调查，这是该公司在四年间内第三次被调查。待调查结论和行政处罚公布后，勤上股份或将面临诉讼潮",
+          "title": "信披违规领警示函 勤上股份前科累累",
+          "url": "https://finance.caixin.com/2017-10-12/101155537.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-09-28/101151318.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-09-28/101151318.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-09-28/101151318.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2017-05-23/1495520736113938_145_97.jpg",
+          "published_at": "2017年09月28日",
+          "summary": "在此次通报中，监管当局首次明确提出，个别中资保险公司涉嫌使用保费自我循环注资、融资出资或增加股东层级虚假出资问题，另外提出的诸多问题也比去年严重",
+          "title": "解读险企公司治理评估的监管打分之变",
+          "url": "https://finance.caixin.com/2017-09-28/101151318.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-07-28/101123579.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-07-28/101123579.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-07-28/101123579.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2017-07-28/1501242974252198_145_97.jpg",
+          "published_at": "2017年07月28日",
+          "summary": "证监会主席刘士余曾告诫期货公司：在赚钱有方的同时，还要守土有责",
+          "title": "期货公司专项检查全面启动",
+          "url": "https://finance.caixin.com/2017-07-28/101123579.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-06-18/101102887.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-06-18/101102887.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-06-18/101102887.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2016-02-12/1455254313168368_145_97.jpg",
+          "published_at": "2017年06月18日",
+          "summary": "“沙盒监管”可解决监管滞后问题；Regtech在中国应由监管机构来推动",
+          "title": "专家热议互金监管 引入Regtech借鉴“沙盒模式”",
+          "url": "https://finance.caixin.com/2017-06-18/101102887.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-06-17/101102829.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-06-17/101102829.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-06-17/101102829.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2017-03-02/1488446905536260_145_97.jpg",
+          "published_at": "2017年06月17日",
+          "summary": "创新是一把双刃剑，创新必须以合规经营和风险控制为前提；证券公司要心无旁骛做好主业；从源头上严把上市公司质量关，不能“只荐不保”、一上了之",
+          "title": "刘士余：没有创新 证券业就没有活力",
+          "url": "https://finance.caixin.com/2017-06-17/101102829.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-06-16/101102588.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-06-16/101102588.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-06-16/101102588.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2017-05-19/1495174877289312_145_97.jpg",
+          "published_at": "2017年06月16日",
+          "summary": "公布了两宗操纵证券期货市场案、两宗内幕交易案、一宗中介机构违法违规案",
+          "title": "证监会处罚五宗案 操纵福达股份两人被罚没近亿",
+          "url": "https://finance.caixin.com/2017-06-16/101102588.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-06-16/101102485.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-06-16/101102485.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-06-16/101102485.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2016-07-15/1468558081135050_145_97.jpg",
+          "published_at": "2017年06月16日",
+          "summary": "涉及内幕交易、信息披露违法违规、操纵市场的行政处罚最多",
+          "title": "证监会处罚力度空前 今年已罚没61亿创新高",
+          "url": "https://finance.caixin.com/2017-06-16/101102485.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-06-03/101097796.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-06-03/101097796.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-06-03/101097796.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2017-06-03/1496488684278522_145_97.png",
+          "published_at": "2017年06月03日",
+          "summary": "利用金融科技，实现跨交易所、跨境、跨账户的交易运行监控，努力提高监管工作的信息化水平，提升违法违规线索的发现能力",
+          "title": "【五道口全球金融论坛】赵立新：打通交易所数据 用金融科技监管市场",
+          "url": "https://finance.caixin.com/2017-06-03/101097796.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-06-03/101097783.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-06-03/101097783.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-06-03/101097783.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2017-06-03/1496487342828395_145_97.jpg",
+          "published_at": "2017年06月03日",
+          "summary": "要以法制化、市场化为方向，统筹加强金融基础设施的建设与管理，支持货币政策顺畅传导，保证国家金融安全",
+          "title": "【五道口全球金融论坛】陈雨露：引导金融机构回归服务实体经济",
+          "url": "https://finance.caixin.com/2017-06-03/101097783.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-06-03/101097766.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-06-03/101097766.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-06-03/101097766.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2017-06-03/1496478225247665_145_97.jpg",
+          "published_at": "2017年06月03日",
+          "summary": "效益较好、能够承受高利率的企业将继续发展，无法承受的企业得不到融资",
+          "title": "【五道口全球金融论坛】吴晓灵：去杠杆过程出现利率上升 终会回落",
+          "url": "https://finance.caixin.com/2017-06-03/101097766.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-06-03/101097735.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-06-03/101097735.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-06-03/101097735.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2015-05-25/1432548772677044_145_97.jpg",
+          "published_at": "2017年06月03日",
+          "summary": "银行的监管和中央银行紧密一些更有利，外汇局模式最佳",
+          "title": "【五道口全球金融论坛】吴晓灵：银监会可采用外汇局模式 保险证券独立监管",
+          "url": "https://finance.caixin.com/2017-06-03/101097735.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-06-03/101097715.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-06-03/101097715.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-06-03/101097715.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2016-06-07/1465300473541782_145_97.jpg",
+          "published_at": "2017年06月03日",
+          "summary": "外管局表示此举与当前外汇形势无关，更不涉及现有外汇政策的实质变化。但显然过去那种钻漏洞的“蚂蚁搬家”行动恐怕会增加成本和难度",
+          "title": "外管局为何要采集千元以上银行卡境外交易信息",
+          "url": "https://finance.caixin.com/2017-06-03/101097715.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-06-02/101097519.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-06-02/101097519.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-06-02/101097519.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2017-05-30/1496150183589450_145_97.jpg",
+          "published_at": "2017年06月02日",
+          "summary": "文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文。文文文文文文文文文文文文文文文文，文文文文文文文文文文文、文文文文文文00%文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文00文文，文文文文文文文",
+          "title": "证监会明确创业投资基金所持股份锁定期安排",
+          "url": "https://finance.caixin.com/2017-06-02/101097519.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-05-31/101096092.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-05-31/101096092.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-05-31/101096092.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2017-05-19/1495166141250238_145_97.jpg",
+          "published_at": "2017年05月31日",
+          "summary": "央行行长助理张晓慧在文章中指出，一些中小金融机构过度追求利润、过度增加杠杆，导致资产扩张速度远超其资本承受能力",
+          "title": "张晓慧：部分中小金融机构过度加杠杆、过度依赖同业负债",
+          "url": "https://finance.caixin.com/2017-05-31/101096092.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-05-26/101095231.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-05-26/101095231.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-05-26/101095231.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2016-07-11/1468232473266238_145_97.jpg",
+          "published_at": "2017年05月26日",
+          "summary": "文文文文文文文文文，文文文文文文文文文文文文，文文文文文文文文；文文文文文文文文文文文文文文文文文文文文文文，文文文文文文文文文“文文文文”，文文文文文文文文文文文文文",
+          "title": "独家丨新三板挂牌PE整改“5·27”大限将至 硅谷天堂面临摘牌风险",
+          "url": "https://finance.caixin.com/2017-05-26/101095231.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-05-21/101093072.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-05-21/101093072.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-05-21/101093072.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2017-03-25/1490428665666690_145_97.jpg",
+          "published_at": "2017年05月21日",
+          "summary": "文文文文文文文文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文。文文文文文文文文，文文文文文文文文文文文文，文文文文文文文文文文文文文文，文文文文文",
+          "title": "要约信披或存拖延 上交所对爱建集团发出监管函",
+          "url": "https://finance.caixin.com/2017-05-21/101093072.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-05-21/101093065.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-05-21/101093065.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-05-21/101093065.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2017-04-30/1493537503929837_145_97.jpg",
+          "published_at": "2017年05月21日",
+          "summary": "北京的地方金融局提出，在京注册的共享单车应把押金存管到指定银行账户，谁也“不能动这笔钱”，防止变相非法集资",
+          "title": "北京金融局提出共享单车押金存管至银行专户",
+          "url": "https://finance.caixin.com/2017-05-21/101093065.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2017-05-19/101092499.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2017-05-19/101092499.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2017-05-19/101092499.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2017-05-19/1495175765035437_145_97.jpg",
+          "published_at": "2017年05月19日",
+          "summary": "赖小民指出，现在“一行三会”的监管政策可以概括为：强监管、治乱象，做主业、防风险、追责任、保安全",
+          "title": "赖小民解读“强监管”：一切是为了保安全",
+          "url": "https://finance.caixin.com/2017-05-19/101092499.html"
+        }
+      ],
+      "key": "section-directory.articles",
+      "lane": "main",
+      "name": "栏目文章",
+      "order": 0,
+      "state": "server_rendered"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471865.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471865.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471865.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-06/178600536992032_145_97.jpg",
+          "source_state": "visible",
+          "summary": null,
+          "title": "湖北宜昌局部短时降雨128毫米 紧急转移近4000人",
+          "url": "https://photos.caixin.com/2026-08-06/102471865.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "湖北宜昌局部短时降雨128毫米 紧急转移近4000人"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-31/102469828.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-31/102469828.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-08-06/178600536992032_145_97.jpg",
+          "image_click_consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://photos.caixin.com/2026-08-06/102471865.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://photos.caixin.com/2026-08-06/102471865.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://photos.caixin.com/2026-08-06/102471865.html",
+            "ok": true,
+            "supported": true
+          },
+          "image_click_url": "https://photos.caixin.com/2026-08-06/102471865.html",
+          "link_mismatch": true,
+          "source_state": "visible",
+          "summary": "湖北宜昌局部短时降雨128毫米 紧急转移近4000人",
+          "title": "显影｜瓜农的漫长等待",
+          "url": "https://weekly.caixin.com/2026-07-31/102469828.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2026-08-06/102471650.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2026-08-06/102471650.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2026-08-06/102471650.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "独家",
+          "url": "https://international.caixin.com/2026-08-06/102471650.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "金融"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-06/102471670.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-06/102471670.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "在岸人民币兑美元汇率连日升破6.75",
+          "url": "https://finance.caixin.com/2026-08-06/102471670.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "金融我闻"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://wenews.caixin.com/2026-08-06/102471632.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://wenews.caixin.com/2026-08-06/102471632.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://wenews.caixin.com/2026-08-06/102471632.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "资管掌舵人更替 百年人寿僵局何解",
+          "url": "https://wenews.caixin.com/2026-08-06/102471632.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "能源"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-06/102471836.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-06/102471836.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-06/102471836.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "多国出台光伏新政加速转型",
+          "url": "https://www.caixin.com/2026-08-06/102471836.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "财新周刊"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://weekly.caixin.com/2026-07-31/102469823.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://weekly.caixin.com/2026-07-31/102469823.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weekly.caixin.com/2026-07-31/102469823.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": null,
+          "title": "【封面报道】电力现货市场元年突进",
+          "url": "https://weekly.caixin.com/2026-07-31/102469823.html"
+        }
+      ],
+      "key": "section-directory.recommended",
+      "lane": "sidebar",
+      "name": "编辑推荐",
+      "order": 0,
+      "state": "server_rendered"
+    },
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://finance.caixin.com/2026-08-06/102472081.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://finance.caixin.com/2026-08-06/102472081.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://finance.caixin.com/2026-08-06/102472081.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "22:10",
+          "title": "宇树科技IPO估值600亿元 DeepSeek参与战略配售",
+          "url": "https://finance.caixin.com/2026-08-06/102472081.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-06/102472074.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-06/102472074.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-06/102472074.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "21:01",
+          "title": "北京化工大学发生实验室安全事故 一学生手部严重受伤",
+          "url": "https://china.caixin.com/2026-08-06/102472074.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-06/102472062.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-06/102472062.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-06/102472062.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "20:22",
+          "title": "油气市场剧烈波动现套利空间 嘉能可上半年扭亏、净利增超50亿美元",
+          "url": "https://www.caixin.com/2026-08-06/102472062.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-06/102471937.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-06/102471937.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-06/102471937.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "17:26",
+          "title": "贝恩资本宣布收购贡茶 在中国大陆无法注册商标后退出市场",
+          "url": "https://www.caixin.com/2026-08-06/102471937.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-06/102471931.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-06/102471931.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-06/102471931.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "17:16",
+          "title": "电动汽车需求高涨驱动澳洲车市增长 中国品牌表现强劲｜出海·汽车",
+          "url": "https://www.caixin.com/2026-08-06/102471931.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2026-08-06/102471832.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2026-08-06/102471832.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2026-08-06/102471832.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "17:00",
+          "title": "普渡机器人张涛：机器人规模化靠技术、渠道和产品共同突破",
+          "url": "https://video.caixin.com/2026-08-06/102471832.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://economy.caixin.com/2026-08-06/102471913.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://economy.caixin.com/2026-08-06/102471913.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://economy.caixin.com/2026-08-06/102471913.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "16:56",
+          "title": "财新调查｜7月消费或有反弹、出口维持强劲 受哪些因素带动？",
+          "url": "https://economy.caixin.com/2026-08-06/102471913.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://china.caixin.com/2026-08-06/102471879.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://china.caixin.com/2026-08-06/102471879.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://china.caixin.com/2026-08-06/102471879.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "16:42",
+          "title": "生态环境法典将施行 最高法明确新旧法衔接与追责规则",
+          "url": "https://china.caixin.com/2026-08-06/102471879.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-06/102471845.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-06/102471845.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-06/102471845.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "15:10",
+          "title": "看空消费的“三大误区”",
+          "url": "https://opinion.caixin.com/2026-08-06/102471845.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://www.caixin.com/2026-08-06/102471836.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://www.caixin.com/2026-08-06/102471836.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://www.caixin.com/2026-08-06/102471836.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "source_state": "visible",
+          "summary": "14:59",
+          "title": "中东局势催化东南亚能源焦虑 多国出台光伏新政加速转型",
+          "url": "https://www.caixin.com/2026-08-06/102471836.html"
+        }
+      ],
+      "key": "section-directory.latest",
+      "lane": "sidebar",
+      "name": "最新文章",
+      "order": 1,
+      "state": "server_rendered"
+    }
+  ],
+  "modules_count": 3,
+  "ok": true,
+  "page": 1,
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "scripts_not_executed": true,
+  "session_used": false,
+  "source": {
+    "canonical_url": "https://finance.caixin.com/regulation/",
+    "discovered_from": "https://finance.caixin.com/",
+    "fetched_at": "2026-08-06T14:32:43+00:00",
+    "final_url": "https://finance.caixin.com/regulation/",
+    "requested_url": "https://finance.caixin.com/regulation/"
+  },
+  "source_mode": "server_html",
+  "stale_content": false,
+  "title": "监管_金融频道_财新网",
+  "unique_urls_count": 41
+}

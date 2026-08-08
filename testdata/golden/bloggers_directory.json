@@ -1,0 +1,611 @@
+{
+  "_untrusted": true,
+  "article_details_not_fetched": true,
+  "automatic_continuation_followed": false,
+  "complete_listing_verified": false,
+  "directory_only": true,
+  "external_stylesheets_applied": false,
+  "items_count": 20,
+  "javascript_executed": false,
+  "latest_article_date": null,
+  "linked_pages_not_fetched": true,
+  "modules": [
+    {
+      "items": [
+        {
+          "access": "public_author_directory",
+          "author_id": 684410,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://weiwuhui.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://weiwuhui.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://weiwuhui.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/000/68/44/10_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785997408,
+          "rendered_visibility_not_verified": true,
+          "summary": "新媒体观察者，上海交通大学媒体与设计学院教师",
+          "title": "魏武挥",
+          "url": "https://weiwuhui.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 6840669,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://jianghan.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://jianghan.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://jianghan.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/006/84/06/69_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785984938,
+          "rendered_visibility_not_verified": true,
+          "summary": "盘古智库高级研究员，哈尔滨商业大学金融学硕士生导师",
+          "title": "江瀚",
+          "url": "https://jianghan.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 6809432,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://zhishifenzi.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://zhishifenzi.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://zhishifenzi.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/006/80/94/32_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785983400,
+          "rendered_visibility_not_verified": true,
+          "summary": "由饶毅、鲁白、谢宇三位学者创办的移动新媒体平台，现任主编为周忠和、毛淑德、夏志宏。",
+          "title": "知识分子",
+          "url": "https://zhishifenzi.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 168199,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://dingjinkun.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://dingjinkun.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://dingjinkun.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/000/16/81/99_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785980481,
+          "rendered_visibility_not_verified": true,
+          "summary": "上海律师",
+          "title": "丁金坤",
+          "url": "https://dingjinkun.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 8247671,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://fanpusci.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://fanpusci.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://fanpusci.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/008/24/76/71_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785976447,
+          "rendered_visibility_not_verified": true,
+          "summary": "科学新媒体“返朴”，科普中国子品牌，倡导“溯源守拙，问学求新”。",
+          "title": "返朴",
+          "url": "https://fanpusci.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 6766333,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://cec.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://cec.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://cec.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/006/76/63/33_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785972600,
+          "rendered_visibility_not_verified": true,
+          "summary": "由中国社科院、哈佛大学、多伦多大学等国内外青年经济学者发起",
+          "title": "香樟经济学术圈",
+          "url": "https://cec.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 7051744,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://yuangangong.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://yuangangong.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://yuangangong.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/007/05/17/44_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785972600,
+          "rendered_visibility_not_verified": true,
+          "summary": "互联网从业者，前媒体人",
+          "title": "元淦恭",
+          "url": "https://yuangangong.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 10199999,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://erxiang11.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://erxiang11.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://erxiang11.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/010/19/99/99_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785969900,
+          "rendered_visibility_not_verified": true,
+          "summary": "思想的碰撞，民声的回鸣。理性思考，感性文字。",
+          "title": "二湘的十一维空间",
+          "url": "https://erxiang11.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 666709,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://huangfan.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://huangfan.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://huangfan.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/000/66/67/09_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785924000,
+          "rendered_visibility_not_verified": true,
+          "summary": "资深投资管理人",
+          "title": "黄凡",
+          "url": "https://huangfan.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 6754224,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://iscientists.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://iscientists.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://iscientists.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/006/75/42/24_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785913539,
+          "rendered_visibility_not_verified": true,
+          "summary": "饶毅、鲁白、谢宇三位学者主编，与科学同行",
+          "title": "赛先生",
+          "url": "https://iscientists.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 6810189,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://saige.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://saige.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://saige.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/006/81/01/89_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785906205,
+          "rendered_visibility_not_verified": true,
+          "summary": "赛格大道：关注数字时代，提供靠谱分析",
+          "title": "赛格大道",
+          "url": "https://saige.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 14385,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://huyong.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://huyong.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://huyong.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/000/01/43/85_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785898204,
+          "rendered_visibility_not_verified": true,
+          "summary": "北京大学新闻与传播学院教授",
+          "title": "胡泳",
+          "url": "https://huyong.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 6802322,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://tangya.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://tangya.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://tangya.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/006/80/23/22_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785816000,
+          "rendered_visibility_not_verified": true,
+          "summary": "博士、金融学者，香帅数字经济工作室创始人，香帅的金融江湖公众号主理人，香帅的北大金融学课主理人，年度财富报告主理人，曾任北京大学金融学副教授、博士生导师。",
+          "title": "唐涯",
+          "url": "https://tangya.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 672530,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://yangxiang.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://yangxiang.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://yangxiang.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/000/67/25/30_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785808922,
+          "rendered_visibility_not_verified": true,
+          "summary": "金融法、信托法及财富管理领域专家",
+          "title": "杨祥",
+          "url": "https://yangxiang.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 6648798,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://zhang-ming.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://zhang-ming.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://zhang-ming.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/006/64/87/98_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785808258,
+          "rendered_visibility_not_verified": true,
+          "summary": "中国社会科学院金融研究所副所长、国家金融与发展实验室副主任、研究员、博士生导师",
+          "title": "张明",
+          "url": "https://zhang-ming.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 7410630,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://xiaochunliu.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://xiaochunliu.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://xiaochunliu.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/007/41/06/30_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785804796,
+          "rendered_visibility_not_verified": true,
+          "summary": "上海新金融研究院副院长、上海金融数字化研究中心主任",
+          "title": "刘晓春",
+          "url": "https://xiaochunliu.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 6974704,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://caiweiming.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://caiweiming.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://caiweiming.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/006/97/47/04_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785746494,
+          "rendered_visibility_not_verified": true,
+          "summary": "未名，江南布衣，下过乡，上过学，教过书，写过小说……",
+          "title": "蔡未名",
+          "url": "https://caiweiming.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 6687672,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://liuting.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://liuting.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://liuting.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/006/68/76/72_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785743800,
+          "rendered_visibility_not_verified": true,
+          "summary": "研究员，岂能尽如人意，但求无愧我心",
+          "title": "刘亭",
+          "url": "https://liuting.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 679540,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://yangzao.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://yangzao.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://yangzao.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/000/67/95/40_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785733796,
+          "rendered_visibility_not_verified": true,
+          "summary": "文化学者",
+          "title": "杨早",
+          "url": "https://yangzao.blog.caixin.com/"
+        },
+        {
+          "access": "public_author_directory",
+          "author_id": 7253774,
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "blog-author",
+            "canonical_url": "https://guyoufang.blog.caixin.com/",
+            "command": [
+              "caixin-cli",
+              "blog-author",
+              "https://guyoufang.blog.caixin.com/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://guyoufang.blog.caixin.com/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://getavatar.caixin.com/007/25/37/74_real_avatar_middle.jpg",
+          "item_kind": "author",
+          "published_at_ms": 1785728525,
+          "rendered_visibility_not_verified": true,
+          "summary": "曾从事金融控股集团研究部门工作，现侨居日本",
+          "title": "谷有芳",
+          "url": "https://guyoufang.blog.caixin.com/"
+        }
+      ],
+      "key": "bloggers-directory.authors",
+      "lane": "main",
+      "name": "全部博主",
+      "order": 0,
+      "state": "server_returned"
+    }
+  ],
+  "modules_count": 1,
+  "ok": true,
+  "page": 1,
+  "pagination": {
+    "explicit_only": true,
+    "page": 1,
+    "page_size": 20,
+    "sort": "latest"
+  },
+  "rendered_visibility_verified": false,
+  "reported_first_page": true,
+  "reported_last_page": false,
+  "reported_total_elements": 1733,
+  "reported_total_pages": 87,
+  "returned": 20,
+  "schema_version": 1,
+  "scripts_not_executed": true,
+  "search_not_called": true,
+  "session_used": false,
+  "sort": "latest",
+  "source": {
+    "api_url": "https://blog.caixin.com/json/blogger-date-1.json",
+    "directory_url": "https://blog.caixin.com/archive/bloggers",
+    "fetched_at": "2026-08-06T14:33:00+00:00"
+  },
+  "source_mode": "server_html_discovery_plus_json_api",
+  "stale_content": false,
+  "unique_urls_count": 20
+}

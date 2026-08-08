@@ -1,0 +1,615 @@
+{
+  "_untrusted": true,
+  "article_details_not_fetched": true,
+  "author_key": "wuqianli_mjxx",
+  "author_search_not_called": true,
+  "complete_listing_verified": false,
+  "directory_only": true,
+  "directory_profile": {
+    "bio": "美国某基金经理",
+    "image": "https://www.caixin.com/upload/zhuanlan/100414320_100_100.jpg",
+    "name": "吴谦立",
+    "url": "https://opinion.caixin.com/wuqianli_mjxx/"
+  },
+  "external_stylesheets_applied": false,
+  "items_count": 20,
+  "javascript_executed": false,
+  "latest_article_date": "2026-08-03",
+  "linked_pages_not_fetched": true,
+  "load_more_available": true,
+  "load_more_not_called": true,
+  "modules": [
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-08-03/102470935.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-08-03/102470935.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-08-03/102470935.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-10-26/172990884362885_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年08月03日 19:06",
+          "summary": "即便是最聪明的人，也无法避免遭遇惨痛的血亏",
+          "title": "前车之鉴，未必成为后车之师",
+          "url": "https://opinion.caixin.com/2026-08-03/102470935.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-07-13/102463802.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-07-13/102463802.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-07-13/102463802.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-07-13/178393690820296_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年07月13日 17:54",
+          "summary": "在金融投资上面，一厢情愿地“忠诚”就必须付出高昂的“身份税”",
+          "title": "球迷心态与不当“韭菜”的心理前提",
+          "url": "https://opinion.caixin.com/2026-07-13/102463802.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-06-01/102449813.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-06-01/102449813.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-06-01/102449813.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-06-01/178031033321230_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年06月01日 18:32",
+          "summary": "特朗普撤换劳工统计局长可能造成了近200亿美元的损失",
+          "title": "“统计局长”的身价",
+          "url": "https://opinion.caixin.com/2026-06-01/102449813.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-05-06/102441076.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-05-06/102441076.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-05-06/102441076.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-05-06/177806137135075_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年05月06日 17:47",
+          "summary": "眼下的美伊博弈如何走向可以看作是一个样本外（out of sample）检验",
+          "title": "特朗普是疯言疯语还是老谋深算",
+          "url": "https://opinion.caixin.com/2026-05-06/102441076.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-04-07/102431425.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-04-07/102431425.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-04-07/102431425.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-04-07/177554315656145_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年04月07日 14:22",
+          "summary": "过度依赖人工智能而不去审视其潜在“盲点 ”将会带来意想不到的风险",
+          "title": "撒什么种子开什么花",
+          "url": "https://opinion.caixin.com/2026-04-07/102431425.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-03-10/102421455.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-03-10/102421455.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-03-10/102421455.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-03-10/177311561439342_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年03月10日 11:50",
+          "summary": "前提是愿意分享信息，并且面对现实",
+          "title": "下注“预测市场”，不被“砖家”忽悠",
+          "url": "https://opinion.caixin.com/2026-03-10/102421455.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2026-01-27/102408449.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2026-01-27/102408449.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2026-01-27/102408449.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2026-01-27/176949155837145_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2026年01月27日 13:22",
+          "summary": "过度自信会带来巨大成本",
+          "title": "怎么办？老板“永远正确”",
+          "url": "https://opinion.caixin.com/2026-01-27/102408449.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-12-08/102391197.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-12-08/102391197.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-12-08/102391197.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2025-12-08/176519083899825_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2025年12月08日 18:41",
+          "summary": "了解真正原理、规避认知偏差，是理性投资的第一步",
+          "title": "投资中的“手气正旺”与接盘侠",
+          "url": "https://opinion.caixin.com/2025-12-08/102391197.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-11-10/102381218.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-11-10/102381218.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-11-10/102381218.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2025-11-10/176277586217629_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2025年11月10日 19:51",
+          "summary": "收入差距造成的分裂无处不在。在这场以生活成本为主导的政治竞选中，即使是所谓的华尔街精英，薪水和奖金在多大程度上能够负担得起纽约的生活，成为划分阵营的一个重要因素",
+          "title": "马姆达尼胜选与华尔街上的“K”",
+          "url": "https://opinion.caixin.com/2025-11-10/102381218.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-10-13/102371187.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-10-13/102371187.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-10-13/102371187.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2025-10-13/176035212656225_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2025年10月13日 18:33",
+          "summary": "潜在的巨大成本会在后面的长期中慢慢显现出来",
+          "title": "真实案例：打击职场牛马士气，后果有多严重",
+          "url": "https://opinion.caixin.com/2025-10-13/102371187.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-09-02/102358018.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-09-02/102358018.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-09-02/102358018.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2025-09-02/175678293545833_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2025年09月02日 11:07",
+          "summary": "如果控制不住自己的权力冲动，照样无法实现自己的目标",
+          "title": "特朗普最大的敌人",
+          "url": "https://opinion.caixin.com/2025-09-02/102358018.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-08-04/102348474.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-08-04/102348474.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-08-04/102348474.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2025-08-04/175429191894339_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2025年08月04日 15:18",
+          "summary": "必须积极思考如何有效利用所有被人工智能释放的时间和精神能量",
+          "title": "AI的便利与用进废退的能力",
+          "url": "https://opinion.caixin.com/2025-08-04/102348474.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-07-09/102339440.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-07-09/102339440.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-07-09/102339440.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2025-07-09/175203353898510_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2025年07月09日 11:50",
+          "summary": "确保技术能够帮助我们成为更全面的人",
+          "title": "人工智能时代的文科教育",
+          "url": "https://opinion.caixin.com/2025-07-09/102339440.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-06-09/102328564.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-06-09/102328564.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-06-09/102328564.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2025-06-09/174944859154072_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2025年06月09日 13:50",
+          "summary": "学者同样可以在教学科研之余到市场里一展身手",
+          "title": "学而优则商",
+          "url": "https://opinion.caixin.com/2025-06-09/102328564.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-05-05/102316431.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-05-05/102316431.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-05-05/102316431.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2025-05-05/174641155146789_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2025年05月05日 10:09",
+          "summary": "巴菲特成功背后的努力、运气、超前意识以及他的谦逊务实是难以复制的",
+          "title": "会不会出现第二个巴菲特",
+          "url": "https://opinion.caixin.com/2025-05-05/102316431.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-04-07/102306690.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-04-07/102306690.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-04-07/102306690.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2025-04-07/174399748581087_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2025年04月07日 11:42",
+          "summary": "各方需要以自己的方式抗争才能让特朗普改变做法",
+          "title": "“领导”一味蛮干怎么办",
+          "url": "https://opinion.caixin.com/2025-04-07/102306690.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-03-11/102296909.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-03-11/102296909.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-03-11/102296909.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2025-03-11/174167955514929_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2025年03月11日 15:49",
+          "summary": "对官僚机构的反感一直存在于美国的政治文化中，民主党只能反对特朗普莽撞的演技",
+          "title": "对官僚队伍动刀子：鲁莽风格的老戏新唱",
+          "url": "https://opinion.caixin.com/2025-03-11/102296909.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2025-01-13/102278565.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2025-01-13/102278565.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2025-01-13/102278565.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2025-01-13/173675051710974_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2025年01月13日 14:28",
+          "summary": "虽然鼓舞人心的言论通常是必要的，但有时也会演变成空洞的言辞",
+          "title": "假装深刻的胡扯何以大行其道",
+          "url": "https://opinion.caixin.com/2025-01-13/102278565.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2024-12-16/102268524.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2024-12-16/102268524.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2024-12-16/102268524.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-12-16/173432423165643_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2024年12月16日 12:40",
+          "summary": "良好的公司治理应该让企业管理层随时接受市场惩罚",
+          "title": "“炒股炒成股东”不再是个悲剧",
+          "url": "https://opinion.caixin.com/2024-12-16/102268524.html"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [
+            "收费文章"
+          ],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://opinion.caixin.com/2024-11-11/102256125.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://opinion.caixin.com/2024-11-11/102256125.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://opinion.caixin.com/2024-11-11/102256125.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": "https://img.caixin.com/2024-11-11/173130816730849_145_97.jpg",
+          "item_kind": "article",
+          "published_at": "2024年11月11日 14:50",
+          "summary": "美国联邦政府和地方政府分权的联邦制，恰好让普通百姓在本次选举中找到了既要又要的手段",
+          "title": "草根也能“既要又要”的又一范例",
+          "url": "https://opinion.caixin.com/2024-11-11/102256125.html"
+        }
+      ],
+      "key": "opinion-author.articles",
+      "lane": "main",
+      "name": "作者文章",
+      "order": 0,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 1,
+  "ok": true,
+  "pagination": "ssr_first_screen_only",
+  "profile": {
+    "bio": "财新网“大谦视界”专栏作家。美国波士顿大学经济学博士，现为美国某基金经理，负责全球宏观性投资。文文文《文文文文：文文文文文文文文文文文》文《文文文文：文文文文》，文文文文《文文文文》《文文文文》《文文文文》，文《文文文文》文文文文文文文文文文文、文文文文文文文文文文文，文文文文文、文文文文文文文文文文文文",
+    "image": "https://www.caixin.com/upload/zhuanlan/100414320_100_100.jpg",
+    "name": "吴谦立"
+  },
+  "rendered_visibility_verified": false,
+  "reported_author_id": 100414320,
+  "reported_subject_id": 100414320,
+  "schema_version": 1,
+  "scripts_not_executed": true,
+  "session_used": false,
+  "source": {
+    "discovered_from": "https://opinion.caixin.com/",
+    "fetched_at": "2026-08-08T08:48:50+00:00",
+    "final_url": "https://opinion.caixin.com/wuqianli_mjxx/",
+    "requested_url": "https://opinion.caixin.com/wuqianli_mjxx/"
+  },
+  "stale_content": false,
+  "title": "吴谦立_观点频道_财新网",
+  "unique_urls_count": 20
+}

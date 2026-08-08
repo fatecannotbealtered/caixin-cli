@@ -1,0 +1,717 @@
+{
+  "_untrusted": true,
+  "category": "economy",
+  "directory_only": true,
+  "has_more": true,
+  "items": [
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "microsite",
+        "canonical_url": "https://topics.caixin.com/2026/2026cxss/",
+        "command": [
+          "caixin-cli",
+          "microsite",
+          "https://topics.caixin.com/2026/2026cxss/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/2026/2026cxss/?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102453307",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2026-06-12/178122532099823_266_177.png",
+      "published_at": "2026-06-12 10:11:22",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "第九届财新夏季峰会",
+      "url": "https://topics.caixin.com/2026/2026cxss/?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "microsite",
+        "canonical_url": "https://economy.caixin.com/2026/boao2026/",
+        "command": [
+          "caixin-cli",
+          "microsite",
+          "https://economy.caixin.com/2026/boao2026/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://economy.caixin.com/2026/boao2026/?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102426910",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2026-03-24/177433571899888_266_177.png",
+      "published_at": "2026-03-25 14:41:31",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "博鳌亚洲论坛2026年年会",
+      "url": "https://economy.caixin.com/2026/boao2026/?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "microsite",
+        "canonical_url": "https://economy.caixin.com/2026/developmentforum2026/",
+        "command": [
+          "caixin-cli",
+          "microsite",
+          "https://economy.caixin.com/2026/developmentforum2026/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://economy.caixin.com/2026/developmentforum2026/?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102425993",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2026-03-22/177414157372639_266_177.jpg",
+      "published_at": "2026-03-25 14:41:23",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "中国发展高层论坛2026年年会",
+      "url": "https://economy.caixin.com/2026/developmentforum2026/?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007959.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000007959.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000007959.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102392581",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2025-12-11/176545398858013_266_177.jpg",
+      "published_at": "2025-12-12 14:01:55",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "2025中央经济工作会议全解读",
+      "url": "https://deepview.caixin.com/topic/BQ02.000007959.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "microsite",
+        "canonical_url": "https://topics.caixin.com/2025/caixin_summit2025/",
+        "command": [
+          "caixin-cli",
+          "microsite",
+          "https://topics.caixin.com/2025/caixin_summit2025/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/2025/caixin_summit2025/?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102381917",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2025-11-12/176293239337297_266_177.jpg",
+      "published_at": "2025-11-12 15:08:29",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "第十六届财新峰会：韧性与耐心",
+      "url": "https://topics.caixin.com/2025/caixin_summit2025/?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007881.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000007881.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000007881.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102377881",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2023-03-11/167849725909794_266_177.jpg",
+      "published_at": "2025-11-03 17:15:40",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "“十五五”规划建议全解读",
+      "url": "https://deepview.caixin.com/topic/BQ02.000007881.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "microsite",
+        "canonical_url": "https://topics.caixin.com/2025/2025cxss/",
+        "command": [
+          "caixin-cli",
+          "microsite",
+          "https://topics.caixin.com/2025/2025cxss/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/2025/2025cxss/?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102329518",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2025-06-12/174969627765784_266_177.jpg",
+      "published_at": "2025-06-13 15:39:22",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "2025财新夏季峰会",
+      "url": "https://topics.caixin.com/2025/2025cxss/?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/event/EVENT.000000045.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/event/EVENT.000000045.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/front/static/event/EVENT.000000045.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102090729",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2024-10-10/172856026764989_266_177.jpg",
+      "published_at": "2025-04-02 15:32:41",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "民营经济新国策",
+      "url": "https://deepview.caixin.com/front/static/event/EVENT.000000045.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "microsite",
+        "canonical_url": "https://economy.caixin.com/2025/boao2025/",
+        "command": [
+          "caixin-cli",
+          "microsite",
+          "https://economy.caixin.com/2025/boao2025/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://economy.caixin.com/2025/boao2025/?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102301989",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2025-03-25/174289031918428_266_177.jpg",
+      "published_at": "2025-03-25 16:12:06",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "博鳌亚洲论坛2025年年会",
+      "url": "https://economy.caixin.com/2025/boao2025/?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "microsite",
+        "canonical_url": "https://economy.caixin.com/2025/developmentforum2025/",
+        "command": [
+          "caixin-cli",
+          "microsite",
+          "https://economy.caixin.com/2025/developmentforum2025/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://economy.caixin.com/2025/developmentforum2025/?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102301160",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2025-03-23/174268851649723_266_177.jpg",
+      "published_at": "2025-03-23 08:09:16",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "中国发展高层论坛2025年年会",
+      "url": "https://economy.caixin.com/2025/developmentforum2025/?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000000017.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000000017.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000000017.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102275832",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2024-11-09/173113199378928_266_177.jpg",
+      "published_at": "2025-01-06 11:15:37",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "财新中国PMI（2025年）",
+      "url": "https://deepview.caixin.com/topic/BQ02.000000017.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000007612.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000007612.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000007612.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102267447",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2024-12-13/173405190738133_266_177.jpg",
+      "published_at": "2024-12-13 09:05:29",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "2024中央经济工作会议全解读",
+      "url": "https://deepview.caixin.com/topic/BQ02.000007612.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000000846.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000000846.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/topic/BQ02.000000846.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102266423",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2024-12-09/173374502856816_266_177.jpg",
+      "published_at": "2024-12-10 10:57:02",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "12·9政治局会议全解读",
+      "url": "https://deepview.caixin.com/topic/BQ02.000000846.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "收费文章",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://mappv5.caixin.com/m_topic_detail/1820.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://mappv5.caixin.com/m_topic_detail/1820.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://mappv5.caixin.com/m_topic_detail/1820.html?cxapp_topic=1820",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102275804",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2016-10-24/1477309396742221_266_177.jpg",
+      "published_at": "2024-12-06 10:13:09",
+      "reported_attr": 5,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "财新中国PMI（2024年）",
+      "url": "https://mappv5.caixin.com/m_topic_detail/1820.html?cxapp_topic=1820"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "microsite",
+        "canonical_url": "https://topics.caixin.com/2024/caixin_summit_2024/",
+        "command": [
+          "caixin-cli",
+          "microsite",
+          "https://topics.caixin.com/2024/caixin_summit_2024/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/2024/caixin_summit_2024/?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102254408",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2024-11-07/173097380922471_266_177.jpg",
+      "published_at": "2024-11-09 16:30:30",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "第十五届财新峰会：寻方于变革时代",
+      "url": "https://topics.caixin.com/2024/caixin_summit_2024/?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "收费文章",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000006309.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000006309.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/front/static/topic/BQ02.000006309.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102102979",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2023-09-12/169451716439347_266_177.jpg",
+      "published_at": "2024-11-09 16:28:51",
+      "reported_attr": 5,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "地方债化解：争议与探索",
+      "url": "https://deepview.caixin.com/front/static/topic/BQ02.000006309.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://mappv5.caixin.com/m_topic_detail/1667.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://mappv5.caixin.com/m_topic_detail/1667.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://mappv5.caixin.com/m_topic_detail/1667.html?cxapp_topic=1667",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "101800777",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2024-11-05/173077643018776_266_177.jpg",
+      "published_at": "2024-10-29 15:35:41",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "聚焦进博会",
+      "url": "https://mappv5.caixin.com/m_topic_detail/1667.html?cxapp_topic=1667"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "microsite",
+        "canonical_url": "https://topics.caixin.com/2024/2024cxss/",
+        "command": [
+          "caixin-cli",
+          "microsite",
+          "https://topics.caixin.com/2024/2024cxss/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/2024/2024cxss/?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102201598",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2024-05-30/171706672560948_266_177.jpg",
+      "published_at": "2024-06-10 08:35:05",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "2024财新夏季峰会",
+      "url": "https://topics.caixin.com/2024/2024cxss/?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "microsite",
+        "canonical_url": "https://economy.caixin.com/2024/boao2024/",
+        "command": [
+          "caixin-cli",
+          "microsite",
+          "https://economy.caixin.com/2024/boao2024/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://economy.caixin.com/2024/boao2024/?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102179545",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2024-03-26/171143281930780_266_177.jpg",
+      "published_at": "2024-03-26 13:30:43",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "博鳌亚洲论坛2024年年会",
+      "url": "https://economy.caixin.com/2024/boao2024/?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "microsite",
+        "canonical_url": "https://economy.caixin.com/2024/developmentforum2024/",
+        "command": [
+          "caixin-cli",
+          "microsite",
+          "https://economy.caixin.com/2024/developmentforum2024/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://economy.caixin.com/2024/developmentforum2024/?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102178248",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2024-03-26/171143287024035_266_177.jpg",
+      "published_at": "2024-03-24 14:14:02",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "中国发展高层论坛2024年年会",
+      "url": "https://economy.caixin.com/2024/developmentforum2024/?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://key.caixin.com/topic/BQ02.000007009",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://key.caixin.com/topic/BQ02.000007009"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://key.caixin.com/topic/BQ02.000007009?cxapp_topicCode=BQ02.000007009",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102177205",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2024-03-20/171090375029831_266_177.jpg",
+      "published_at": "2024-03-20 10:51:12",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "详解2024年1、2月经济数据",
+      "url": "https://key.caixin.com/topic/BQ02.000007009?cxapp_topicCode=BQ02.000007009"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://mappv5.caixin.com/m_topic_detail/1749.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://mappv5.caixin.com/m_topic_detail/1749.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://mappv5.caixin.com/m_topic_detail/1749.html?cxapp_topic=1749",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102172646",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2024-03-07/170977613509950_266_177.jpg",
+      "published_at": "2024-01-15 09:00:00",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "财新中国PMI（2023年）",
+      "url": "https://mappv5.caixin.com/m_topic_detail/1749.html?cxapp_topic=1749"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "microsite",
+        "canonical_url": "https://topics.caixin.com/2023/caixin_summit2023/",
+        "command": [
+          "caixin-cli",
+          "microsite",
+          "https://topics.caixin.com/2023/caixin_summit2023/"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://topics.caixin.com/2023/caixin_summit2023/?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102126114",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2023-11-08/169943148472434_266_177.jpg",
+      "published_at": "2023-11-08 17:47:10",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "第十四届财新峰会：共解全球问题",
+      "url": "https://topics.caixin.com/2023/caixin_summit2023/?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://deepview.caixin.com/topic/BQ02.000006084.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://deepview.caixin.com/topic/BQ02.000006084.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://deepview.caixin.com/front/static/topic/BQ02.000006084.html?cxapp_link=true",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102090738",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2023-08-07/169140368999228_266_177.jpg",
+      "published_at": "2023-08-07 18:30:05",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "上半年经济数据全解读",
+      "url": "https://deepview.caixin.com/front/static/topic/BQ02.000006084.html?cxapp_link=true"
+    },
+    {
+      "access": "directory_visible",
+      "badge": "免费阅读",
+      "consumer": {
+        "_untrusted": true,
+        "adapter": "topic",
+        "canonical_url": "https://mappv5.caixin.com/m_topic_detail/1769.html",
+        "command": [
+          "caixin-cli",
+          "topic",
+          "https://mappv5.caixin.com/m_topic_detail/1769.html"
+        ],
+        "content_access_not_implied": true,
+        "discovery_required": false,
+        "input_url": "https://mappv5.caixin.com/m_topic_detail/1769.html?cxapp_topic=1769",
+        "ok": true,
+        "supported": true
+      },
+      "content_id": "102019324",
+      "content_not_fetched": true,
+      "image": "https://img.caixin.com/2022-10-29/166701099113529_266_177.jpg",
+      "published_at": "2023-04-16 11:34:02",
+      "reported_attr": 0,
+      "reported_free_time": null,
+      "summary": "",
+      "title": "外贸企稳？",
+      "url": "https://mappv5.caixin.com/m_topic_detail/1769.html?cxapp_topic=1769"
+    }
+  ],
+  "name": "经济专题",
+  "ok": true,
+  "page": 1,
+  "page_size": 25,
+  "returned": 25,
+  "start": 0,
+  "subject": 100300553,
+  "total": 161,
+  "url": "https://topics.caixin.com/economy/"
+}

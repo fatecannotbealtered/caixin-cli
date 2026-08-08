@@ -1,0 +1,318 @@
+{
+  "_untrusted": true,
+  "archive_links_not_followed": true,
+  "article_details_not_fetched": true,
+  "author_key": "tangya",
+  "complete_listing_verified": false,
+  "directory_only": true,
+  "directory_profile": {
+    "bio": "金融学者",
+    "image": "https://getavatar.caixin.com/006/80/23/22_real_avatar_middle.jpg",
+    "name": "唐涯",
+    "url": "https://tangya.blog.caixin.com/"
+  },
+  "dynamic_api_not_called": true,
+  "external_stylesheets_applied": false,
+  "items_count": 10,
+  "javascript_executed": false,
+  "latest_article_date": null,
+  "linked_pages_not_fetched": true,
+  "load_more_available": true,
+  "load_more_not_called": true,
+  "modules": [
+    {
+      "items": [
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://tangya.blog.caixin.com/archives/288123",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://tangya.blog.caixin.com/archives/288123"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://tangya.blog.caixin.com/archives/288123",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": null,
+          "summary": null,
+          "title": "美国为什么要救日元？",
+          "url": "https://tangya.blog.caixin.com/archives/288123"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://tangya.blog.caixin.com/archives/288100",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://tangya.blog.caixin.com/archives/288100"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://tangya.blog.caixin.com/archives/288100",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": null,
+          "summary": null,
+          "title": "拥挤的地方，要多想一步",
+          "url": "https://tangya.blog.caixin.com/archives/288100"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://tangya.blog.caixin.com/archives/287992",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://tangya.blog.caixin.com/archives/287992"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://tangya.blog.caixin.com/archives/287992",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": null,
+          "summary": null,
+          "title": "合肥模式是时间的玫瑰吗？",
+          "url": "https://tangya.blog.caixin.com/archives/287992"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://tangya.blog.caixin.com/archives/287966",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://tangya.blog.caixin.com/archives/287966"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://tangya.blog.caixin.com/archives/287966",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": null,
+          "summary": null,
+          "title": "两朵乌云",
+          "url": "https://tangya.blog.caixin.com/archives/287966"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://tangya.blog.caixin.com/archives/287898",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://tangya.blog.caixin.com/archives/287898"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://tangya.blog.caixin.com/archives/287898",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": null,
+          "summary": null,
+          "title": "强心针与心电图",
+          "url": "https://tangya.blog.caixin.com/archives/287898"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://tangya.blog.caixin.com/archives/287835",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://tangya.blog.caixin.com/archives/287835"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://tangya.blog.caixin.com/archives/287835",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": null,
+          "summary": null,
+          "title": "杠杆上的叙事行情怎么走？",
+          "url": "https://tangya.blog.caixin.com/archives/287835"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://tangya.blog.caixin.com/archives/287791",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://tangya.blog.caixin.com/archives/287791"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://tangya.blog.caixin.com/archives/287791",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": null,
+          "summary": null,
+          "title": "上半年经济的真问题",
+          "url": "https://tangya.blog.caixin.com/archives/287791"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://tangya.blog.caixin.com/archives/287781",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://tangya.blog.caixin.com/archives/287781"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://tangya.blog.caixin.com/archives/287781",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": null,
+          "summary": null,
+          "title": "宏观数据是个“拧巴”的结果",
+          "url": "https://tangya.blog.caixin.com/archives/287781"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://tangya.blog.caixin.com/archives/287755",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://tangya.blog.caixin.com/archives/287755"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://tangya.blog.caixin.com/archives/287755",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": null,
+          "summary": null,
+          "title": "中国制造进入全球资本支出周期",
+          "url": "https://tangya.blog.caixin.com/archives/287755"
+        },
+        {
+          "access": "directory_visible",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://tangya.blog.caixin.com/archives/287668",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://tangya.blog.caixin.com/archives/287668"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://tangya.blog.caixin.com/archives/287668",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "published_at": null,
+          "summary": null,
+          "title": "韩国股市暴涨暴跌，都怪杠杆ETF？",
+          "url": "https://tangya.blog.caixin.com/archives/287668"
+        }
+      ],
+      "key": "blog-author.latest",
+      "lane": "sidebar",
+      "name": "最新文章",
+      "order": 0,
+      "state": "visible"
+    }
+  ],
+  "modules_count": 1,
+  "ok": true,
+  "pagination": "ssr_sidebar_latest_only",
+  "profile": {
+    "bio": "博士、金融学者，香帅数字经济工作室创始人，香帅的金融江湖公众号主理人，香帅的北大金融学课主理人，年度财富报告主理人，曾任北京大学金融学副教授、博士生导师。",
+    "image": "https://getavatar.caixin.com/006/80/23/22_real_avatar_middle.jpg",
+    "name": "唐涯"
+  },
+  "rendered_visibility_verified": false,
+  "reported_articles_count": 1012,
+  "reported_author_id": 6802322,
+  "reported_last_published_at": "2026-08-04T04:00:00+00:00",
+  "reported_last_published_at_ms": 1785816000000,
+  "schema_version": 1,
+  "scripts_not_executed": true,
+  "session_used": false,
+  "source": {
+    "discovered_from": "https://blog.caixin.com/",
+    "fetched_at": "2026-08-06T14:33:03+00:00",
+    "final_url": "https://tangya.blog.caixin.com/",
+    "requested_url": "https://tangya.blog.caixin.com/"
+  },
+  "stale_content": false,
+  "title": "唐涯的财新博客-财新网",
+  "unique_urls_count": 10
+}

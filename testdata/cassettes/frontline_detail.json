@@ -1,0 +1,29 @@
+{
+  "name": "frontline_detail",
+  "command": [
+    "frontline-detail",
+    "0e02bbe6edc644a986c048c0344726ab"
+  ],
+  "interactions": [
+    {
+      "request": {
+        "method": "GET",
+        "url": "https://k.caixin.com/app/getNewsByCode?code=0e02bbe6edc644a986c048c0344726ab&callback=__caixincallback17544000000000",
+        "headers": {
+          "User-Agent": "fetch-caixin-news/0.2 (user-authorized personal client; no browser automation)",
+          "Accept-Encoding": "gzip, deflate",
+          "Accept": "application/json, text/plain, */*",
+          "Connection": "keep-alive",
+          "Referer": "https://k.caixin.com/web/"
+        }
+      },
+      "response": {
+        "status": 200,
+        "headers": {
+          "Content-Type": "application/json;charset=UTF-8"
+        },
+        "body": "__caixincallback17544000000000({\"code\": \"0\", \"msg\": \"success\", \"data\": {\"audioIsCheckAuth\": 1, \"audioStatus\": 0, \"audios\": {}, \"audio_title\": \"建筑材料领涨 沪指涨幅 1.47%\", \"oneline_news_code\": \"0e02bbe6edc644a986c048c0344726ab\", \"comment_num\": 0, \"source_id\": \"485686\", \"app_id\": 104, \"id\": \"485686\", \"title\": \"建筑材料领涨 沪指涨幅 1.47%\", \"text\": \"#文文文文# 【文文文文文文 文文文文 0.00%】文文文文，文文文0000.00文，文文 0.00%；文文文文00000.00文，文文 0.00%；文文文文文0000.00文，文文 0.00%；文文文文文0000.00文，文文 0.00%。（文文文文文文文文文文文文<x xxxx=\\\"xxxx://xxxxx.xxxxxx.xxx/0000-00-00/000000000.xxxx\\\">文文文</x>文文<x xxxx=\\\"xxxx://xxxx.xxxxxx.xxx\\\">文文文文</x>文文文文）\", \"ts\": 1785913260000, \"date\": \"2026/08/05\", \"time\": \"15:01\", \"type\": 0, \"urlTitle\": \"\", \"attr\": 0}})"
+      }
+    }
+  ]
+}

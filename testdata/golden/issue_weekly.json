@@ -1,0 +1,422 @@
+{
+  "_untrusted": true,
+  "annual_issue": 30,
+  "articles_count": 29,
+  "cover_image": "https://img.caixin.com/2026-08-01/178554850217164.jpg",
+  "directory_only": true,
+  "issue_number": 1217,
+  "issue_title": "《财新周刊》总第1217期",
+  "magazine_id": 16889,
+  "ok": true,
+  "publication": "weekly",
+  "published_at": "2026-08-03",
+  "sections": [
+    {
+      "articles": [
+        {
+          "access": "directory_visible",
+          "article_id": null,
+          "byline": null,
+          "details": [
+            "电费结构变了，电价波动加剧，电力现货成为定价枢纽，这对企业意味着什么？"
+          ],
+          "summary": "电费结构变了，电价波动加剧，电力现货成为定价枢纽，这对企业意味着什么？",
+          "title": "电力现货市场元年突进",
+          "url": "https://weekly.caixin.com/2026-07-31/102469823.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": null,
+          "byline": null,
+          "details": [],
+          "summary": null,
+          "title": "新能源全面入市之后",
+          "url": "https://weekly.caixin.com/2026-08-01/102470343.html"
+        }
+      ],
+      "column": "cover",
+      "kind": "cover",
+      "label": "封面报道Cover Story",
+      "name": "封面报道"
+    },
+    {
+      "articles": [
+        {
+          "access": "directory_visible",
+          "article_id": "35429",
+          "byline": null,
+          "details": [
+            "要持续营造尊重知识、尊重人才、尊重创造的社会氛围，保持对原创性、基础性研究的重视，不断激励创新创造，为广大科学家取得更多研究成果提供良好条件"
+          ],
+          "summary": "要持续营造尊重知识、尊重人才、尊重创造的社会氛围，保持对原创性、基础性研究的重视，不断激励创新创造，为广大科学家取得更多研究成果提供良好条件",
+          "title": "菲尔兹奖对中国基础研究的启示",
+          "url": "https://weekly.caixin.com/2026-08-01/102470352.html"
+        }
+      ],
+      "column": "left",
+      "kind": "section",
+      "label": "财新观察Opinion",
+      "name": "财新观察"
+    },
+    {
+      "articles": [
+        {
+          "access": "directory_visible",
+          "article_id": "35457",
+          "byline": null,
+          "details": [],
+          "summary": null,
+          "title": "{{周刊导播｜电力现货元年突进、“崩老头”围猎中年男性、女童基因编辑死亡追问",
+          "url": "https://weekly.caixin.com/2026-08-02/102470563.html"
+        }
+      ],
+      "column": "left",
+      "kind": "section",
+      "label": "周刊导播",
+      "name": "周刊导播"
+    },
+    {
+      "articles": [
+        {
+          "access": "directory_visible",
+          "article_id": "35432",
+          "byline": "文｜财新周刊 覃建行，蔡欣佁（实习）",
+          "details": [
+            "文｜财新周刊 覃建行，蔡欣佁（实习）",
+            "“0x0文文文文xxx”文文“文文文、文文文”文文，文文文文文文文文文，文文文文文文文文文文文文文文。文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文文"
+          ],
+          "summary": "“0x0文文文文xxx”文文“文文文、文文文”文文，文文文文文文文文文，文文文文文文文文文文文文文文。文文文文文文文文文文文文，文文文文文文文文文文文文文文文文文文文文文文",
+          "title": "交友App作局“崩老头”",
+          "url": "https://weekly.caixin.com/2026-08-01/102470345.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": "35433",
+          "byline": "文｜财新周刊 单玉晓，陈诗雨（实习）",
+          "details": [
+            "文｜财新周刊 单玉晓，陈诗雨（实习）",
+            "票贩子造假与多家银行业务违规乱象叠加，酿成一起票据诈骗大案。涉案人员已领刑，相关银行终审裁定无罪"
+          ],
+          "summary": "票贩子造假与多家银行业务违规乱象叠加，酿成一起票据诈骗大案。涉案人员已领刑，相关银行终审裁定无罪",
+          "title": "11亿元票据诈骗案里的单位犯罪争议",
+          "url": "https://weekly.caixin.com/2026-08-01/102470346.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": "35434",
+          "byline": "文｜财新周刊 路尘",
+          "details": [
+            "文｜财新周刊 路尘",
+            "国防部长与乌军总司令相继去职，这场意外风波已发酵成泽连斯基政府最为严重的一场政治震荡"
+          ],
+          "summary": "国防部长与乌军总司令相继去职，这场意外风波已发酵成泽连斯基政府最为严重的一场政治震荡",
+          "title": "乌克兰：当国防部成为风暴眼",
+          "url": "https://weekly.caixin.com/2026-08-01/102470347.html"
+        }
+      ],
+      "column": "left",
+      "kind": "section",
+      "label": "时事Current Affairs",
+      "name": "时事"
+    },
+    {
+      "articles": [
+        {
+          "access": "directory_visible",
+          "article_id": "35435",
+          "byline": "文｜魏尚进",
+          "details": [
+            "文｜魏尚进",
+            "美国在建国之初就采用了混合模式，过去250年美国经济成功的真正秘诀，并非对市场或国家力量的教条式承诺，而是务实的两者兼顾"
+          ],
+          "summary": "美国在建国之初就采用了混合模式，过去250年美国经济成功的真正秘诀，并非对市场或国家力量的教条式承诺，而是务实的两者兼顾",
+          "title": "专栏｜美国正在背离自由放任的传统？",
+          "url": "https://weekly.caixin.com/2026-08-01/102470349.html"
+        }
+      ],
+      "column": "left",
+      "kind": "section",
+      "label": "经济Economy",
+      "name": "经济"
+    },
+    {
+      "articles": [
+        {
+          "access": "directory_visible",
+          "article_id": "35436",
+          "byline": "文｜财新周刊 王石玉 范浅蝉",
+          "details": [
+            "文｜财新周刊 王石玉 范浅蝉",
+            "贷款利率定价的基准从央行直接定价到主要银行报价，再到尝试直接用市场交易利率，是市场化程度逐步深化的过程"
+          ],
+          "summary": "贷款利率定价的基准从央行直接定价到主要银行报价，再到尝试直接用市场交易利率，是市场化程度逐步深化的过程",
+          "title": "贷款定价添新“锚”",
+          "url": "https://weekly.caixin.com/2026-08-01/102470353.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": "35437",
+          "byline": "文｜石磊",
+          "details": [
+            "文｜石磊",
+            "市场价格可能越来越难以作为价值路标，因为市场早不是那个井然有序的状态了"
+          ],
+          "summary": "市场价格可能越来越难以作为价值路标，因为市场早不是那个井然有序的状态了",
+          "title": "专栏｜浅滩乱流中如何渡至彼岸？",
+          "url": "https://weekly.caixin.com/2026-08-01/102470354.html"
+        }
+      ],
+      "column": "center",
+      "kind": "section",
+      "label": "金融Finance",
+      "name": "金融"
+    },
+    {
+      "articles": [
+        {
+          "access": "directory_visible",
+          "article_id": "35455",
+          "byline": null,
+          "details": [],
+          "summary": null,
+          "title": "回溯｜一周回溯（《财新周刊》2026年第30期）",
+          "url": "https://weekly.caixin.com/2026-08-01/102470488.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": "35446",
+          "byline": "文｜财新周刊 侯吴婷",
+          "details": [
+            "文｜财新周刊 侯吴婷"
+          ],
+          "summary": null,
+          "title": "前瞻｜巴西大选将进入竞选阶段",
+          "url": "https://weekly.caixin.com/2026-08-01/102470333.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": "35447",
+          "byline": "文｜财新周刊 周信达",
+          "details": [
+            "文｜财新周刊 周信达"
+          ],
+          "summary": null,
+          "title": "国风｜多地发钱鼓励结婚",
+          "url": "https://weekly.caixin.com/2026-08-01/102470341.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": "35449",
+          "byline": "文｜蓝玲",
+          "details": [
+            "文｜蓝玲"
+          ],
+          "summary": null,
+          "title": "心智｜道德优越感的错觉",
+          "url": "https://weekly.caixin.com/2026-08-01/102470344.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": "35448",
+          "byline": "图｜视觉中国",
+          "details": [
+            "图｜视觉中国"
+          ],
+          "summary": null,
+          "title": "天眼｜熊本强震",
+          "url": "https://weekly.caixin.com/2026-08-01/102470342.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": "35452",
+          "byline": null,
+          "details": [],
+          "summary": null,
+          "title": "回声（《财新周刊》2026年第29期）",
+          "url": "https://weekly.caixin.com/2026-08-01/102470482.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": "35453",
+          "byline": null,
+          "details": [],
+          "summary": null,
+          "title": "读周刊 看视频（《财新周刊》2026年第30期）",
+          "url": "https://weekly.caixin.com/2026-08-01/102470483.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": "35454",
+          "byline": null,
+          "details": [],
+          "summary": null,
+          "title": "融媒精选（《财新周刊》2026年第30期）",
+          "url": "https://weekly.caixin.com/2026-08-01/102470484.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": "35451",
+          "byline": null,
+          "details": [],
+          "summary": null,
+          "title": "答疑（《财新周刊》2026年第30期）",
+          "url": "https://weekly.caixin.com/2026-08-01/102470481.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": "35450",
+          "byline": null,
+          "details": [],
+          "summary": null,
+          "title": "编辑更正（《财新周刊》2026年第30期）",
+          "url": "https://weekly.caixin.com/2026-08-01/102470479.html"
+        }
+      ],
+      "column": "center",
+      "kind": "section",
+      "label": "开卷First Page",
+      "name": "开卷"
+    },
+    {
+      "articles": [
+        {
+          "access": "directory_visible",
+          "article_id": "35458",
+          "byline": null,
+          "details": [],
+          "summary": null,
+          "title": "为科技企业信用找到新“锚点”：农业银行的科技金融探索前路",
+          "url": "https://weekly.caixin.com/2026-08-03/102470724.html"
+        }
+      ],
+      "column": "center",
+      "kind": "section",
+      "label": "[市场企划]Marketing Planning",
+      "name": "[市场企划]"
+    },
+    {
+      "articles": [
+        {
+          "access": "directory_visible",
+          "article_id": "35440",
+          "byline": "文｜财新周刊 崔笑天",
+          "details": [
+            "文｜财新周刊 崔笑天",
+            "研究者发起的临床研究再一次走上风口浪尖，下一步怎么走？"
+          ],
+          "summary": "研究者发起的临床研究再一次走上风口浪尖，下一步怎么走？",
+          "title": "透视女童基因编辑死亡事件",
+          "url": "https://weekly.caixin.com/2026-08-01/102470348.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": "35456",
+          "byline": "摄影/撰稿｜财新周刊 郑海鹏",
+          "details": [
+            "摄影/撰稿｜财新周刊 郑海鹏",
+            "气候异动，供需失衡，集中上市的河南西瓜遭遇低价滞销"
+          ],
+          "summary": "气候异动，供需失衡，集中上市的河南西瓜遭遇低价滞销",
+          "title": "显影｜瓜农的漫长等待",
+          "url": "https://weekly.caixin.com/2026-07-31/102469828.html"
+        }
+      ],
+      "column": "right",
+      "kind": "section",
+      "label": "民生Society",
+      "name": "民生"
+    },
+    {
+      "articles": [
+        {
+          "access": "directory_visible",
+          "article_id": "35438",
+          "byline": "文｜财新周刊 关聪",
+          "details": [
+            "文｜财新周刊 关聪",
+            "相比真人短剧时代，海外AI短剧呈现与国内更强的同步效应，国内新剧和内容趋势会在一个季度内迅速外溢，变化更快、竞争更激烈"
+          ],
+          "summary": "相比真人短剧时代，海外AI短剧呈现与国内更强的同步效应，国内新剧和内容趋势会在一个季度内迅速外溢，变化更快、竞争更激烈",
+          "title": "AI短剧涌向海外",
+          "url": "https://weekly.caixin.com/2026-08-01/102470339.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": "35439",
+          "byline": "文｜财新周刊 方祖望",
+          "details": [
+            "文｜财新周刊 方祖望",
+            "行业呼吁“以检代废”"
+          ],
+          "summary": "行业呼吁“以检代废”",
+          "title": "优化摩托车报废制度",
+          "url": "https://weekly.caixin.com/2026-08-01/102470340.html"
+        }
+      ],
+      "column": "right",
+      "kind": "section",
+      "label": "商业Business",
+      "name": "商业"
+    },
+    {
+      "articles": [
+        {
+          "access": "directory_visible",
+          "article_id": "35442",
+          "byline": "文｜刘宗坤",
+          "details": [
+            "文｜刘宗坤",
+            "如果从头开始，回到20岁，我会做三件事：一、用功学好数学；二、细读哲学和文学经典；三、学习“草根”生活智慧"
+          ],
+          "summary": "如果从头开始，回到20岁，我会做三件事：一、用功学好数学；二、细读哲学和文学经典；三、学习“草根”生活智慧",
+          "title": "随笔｜底层能力永远不会过时",
+          "url": "https://weekly.caixin.com/2026-08-01/102470334.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": "35443",
+          "byline": "文｜仲树",
+          "details": [
+            "文｜仲树",
+            "一旦成绩可以由机器批量制造——课堂成为教育的表演，考试成为评价的表演，文凭成为能力的表演，大学最终只剩下一套昂贵而体面的仪式"
+          ],
+          "summary": "一旦成绩可以由机器批量制造——课堂成为教育的表演，考试成为评价的表演，文凭成为能力的表演，大学最终只剩下一套昂贵而体面的仪式",
+          "title": "专栏｜大学怎样对抗AI作弊",
+          "url": "https://weekly.caixin.com/2026-08-01/102470335.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": "35444",
+          "byline": "文｜严飞",
+          "details": [
+            "文｜严飞",
+            "问题或许从来不是介入还是不介入，而是如何在不剥夺他人主体性的前提下，参与到他人的生命之中"
+          ],
+          "summary": "问题或许从来不是介入还是不介入，而是如何在不剥夺他人主体性的前提下，参与到他人的生命之中",
+          "title": "专栏｜当我们试图为他人指路",
+          "url": "https://weekly.caixin.com/2026-08-01/102470336.html"
+        },
+        {
+          "access": "directory_visible",
+          "article_id": "35445",
+          "byline": "文｜姜建强",
+          "details": [
+            "文｜姜建强",
+            "东野圭吾（1958—2026），日本推理小说家"
+          ],
+          "summary": "东野圭吾（1958—2026），日本推理小说家",
+          "title": "逝者｜东野圭吾：用一生编织谜题与善意",
+          "url": "https://weekly.caixin.com/2026-08-01/102470337.html"
+        }
+      ],
+      "column": "right",
+      "kind": "section",
+      "label": "副刊Supplement",
+      "name": "副刊"
+    }
+  ],
+  "source_label": "本文来源于《财新周刊》 2026年第30期 出版日期：2026-08-03",
+  "title": "《财新周刊》第1217期",
+  "total_issue": 1217,
+  "url": "https://weekly.caixin.com/2026/cw1217/"
+}

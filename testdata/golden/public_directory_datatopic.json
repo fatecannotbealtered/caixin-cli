@@ -1,0 +1,2069 @@
+{
+  "_untrusted": true,
+  "article_details_not_fetched": true,
+  "complete_listing_verified": false,
+  "directory_only": true,
+  "external_stylesheets_applied": false,
+  "interactive_projects_not_fetched": true,
+  "items_count": 78,
+  "javascript_executed": false,
+  "kind": "datanews_topics",
+  "latest_article_date": "2018-06-08",
+  "modules": [
+    {
+      "items": [
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2020/us-president-election/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2020/us-president-election/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2020/us-president-election/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "2020美国大选民调实时动态",
+          "url": "https://datanews.caixin.com/interactive/2020/us-president-election/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2020/smokefree-digital-map/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2020/smokefree-digital-map/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2020/smokefree-digital-map/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "健康中国无烟立法进行时",
+          "url": "https://datanews.caixin.com/interactive/2020/smokefree-digital-map/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2020/calculation/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2020/calculation/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2020/calculation/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "北京购车摇号家庭积分计算器：中签概率有多高",
+          "url": "https://datanews.caixin.com/interactive/2020/calculation/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2020/chronic/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2020/chronic/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2020/chronic/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "慢病防未然 莫待入膏肓",
+          "url": "https://datanews.caixin.com/interactive/2020/chronic/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2020/THREEJS/blossom/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2020/THREEJS/blossom/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2020/THREEJS/blossom/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "新冠逝者：献给疫情中离去的生命",
+          "url": "https://datanews.caixin.com/interactive/2020/THREEJS/blossom/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2020/covidinput/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2020/covidinput/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2020/covidinput/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "追踪境外输入病例30天：归来之路几多曲折？",
+          "url": "https://datanews.caixin.com/interactive/2020/covidinput/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2020/fever/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2020/fever/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2020/fever/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "了解你附近的“新冠肺炎”定点医院",
+          "url": "https://datanews.caixin.com/interactive/2020/fever/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2019/covers/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2019/covers/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2019/covers/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "分析了500期《财新周刊》封面，我们发现……",
+          "url": "https://datanews.caixin.com/interactive/2019/covers/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/interactive/2019/lxzj/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/interactive/2019/lxzj/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/interactive/2019/lxzj/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "通向留学Offer的54条路",
+          "url": "https://datanews.caixin.com/mobile/interactive/2019/lxzj/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2019/liuxuesheng/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2019/liuxuesheng/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2019/liuxuesheng/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "留学在中国",
+          "url": "https://datanews.caixin.com/interactive/2019/liuxuesheng/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/interactive/2019/breast-cancer/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/interactive/2019/breast-cancer/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/interactive/2019/breast-cancer/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "直面乳腺癌 在致命之前",
+          "url": "https://datanews.caixin.com/mobile/interactive/2019/breast-cancer/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/interactive/2019/70/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/interactive/2019/70/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/interactive/2019/70/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "新中国70年经济简史",
+          "url": "https://datanews.caixin.com/mobile/interactive/2019/70/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2019/guangboticao/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2019/guangboticao/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2019/guangboticao/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "那些年我们做过的广播体操",
+          "url": "https://datanews.caixin.com/interactive/2019/guangboticao/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/interactive/2019/mj/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/interactive/2019/mj/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/interactive/2019/mj/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "九个icon纪念MJ诞辰六十一周年",
+          "url": "https://datanews.caixin.com/mobile/interactive/2019/mj/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/interactive/2019/brownfield/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/interactive/2019/brownfield/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/interactive/2019/brownfield/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "这地有毒",
+          "url": "https://datanews.caixin.com/mobile/interactive/2019/brownfield/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/interactive/2019/zuowen/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/interactive/2019/zuowen/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/interactive/2019/zuowen/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "43年，355个题目，高考作文越来越关注“国家情怀”了吗？",
+          "url": "https://datanews.caixin.com/mobile/interactive/2019/zuowen/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/interactive/2019/copyright/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/interactive/2019/copyright/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/interactive/2019/copyright/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "知识产权日特别策划 | 版权改\"盗\"归\"正\"年代记",
+          "url": "https://datanews.caixin.com/mobile/interactive/2019/copyright/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/interactive/2019/plastic_ocean/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/interactive/2019/plastic_ocean/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/interactive/2019/plastic_ocean/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "地球日特别策划 | 你向大海丢弃的塑料哪儿去了？",
+          "url": "https://datanews.caixin.com/mobile/interactive/2019/plastic_ocean/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/interactive/2019/cancer/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/interactive/2019/cancer/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/interactive/2019/cancer/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "0-100岁，看看哪些高发癌症值得关注？",
+          "url": "https://datanews.caixin.com/mobile/interactive/2019/cancer/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/interactive/2019/ecig/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/interactive/2019/ecig/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/interactive/2019/ecig/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "电子烟正成为青少年的“流行病”",
+          "url": "https://datanews.caixin.com/mobile/interactive/2019/ecig/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2019/wetland/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2019/wetland/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2019/wetland/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "来自“地球之肾”的警报",
+          "url": "https://datanews.caixin.com/interactive/2019/wetland/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/interactive/2019/gaoxiao/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/interactive/2019/gaoxiao/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/interactive/2019/gaoxiao/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "我们调查了384名高校学生与老师的相处状况，他们说......",
+          "url": "https://datanews.caixin.com/mobile/interactive/2019/gaoxiao/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2019/tax-deduction/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2019/tax-deduction/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2019/tax-deduction/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "个税专项附加扣除有最优解吗？有！点此计算",
+          "url": "https://datanews.caixin.com/interactive/2019/tax-deduction/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/interactive/2018/jiabao/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/interactive/2018/jiabao/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/interactive/2018/jiabao/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "家庭暴力 从来不是“家务事”",
+          "url": "https://datanews.caixin.com/mobile/interactive/2018/jiabao/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2018/Chinese-Glaciers/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2018/Chinese-Glaciers/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2018/Chinese-Glaciers/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "冰川消融威胁：洪水猛兽与水源短缺",
+          "url": "https://datanews.caixin.com/interactive/2018/Chinese-Glaciers/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2018/aids/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2018/aids/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2018/aids/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "艾滋病日特别策划：性教育缺位 中国防治形势不容乐观",
+          "url": "https://datanews.caixin.com/interactive/2018/aids/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2018/Alzheimer/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2018/Alzheimer/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2018/Alzheimer/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "水平面下的阿尔茨海默病",
+          "url": "https://datanews.caixin.com/interactive/2018/Alzheimer/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/interactive/2018/gaotiezhan/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/interactive/2018/gaotiezhan/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/interactive/2018/gaotiezhan/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "高铁站离你有多远？①",
+          "url": "https://datanews.caixin.com/mobile/interactive/2018/gaotiezhan/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/interactive/2018/gaotiezhan2/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/interactive/2018/gaotiezhan2/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/interactive/2018/gaotiezhan2/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "高铁站离你有多远？②",
+          "url": "https://datanews.caixin.com/mobile/interactive/2018/gaotiezhan2/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2018/hk-sz/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2018/hk-sz/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2018/hk-sz/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "深港双城生活",
+          "url": "https://datanews.caixin.com/interactive/2018/hk-sz/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2018/olympics0808/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2018/olympics0808/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2018/olympics0808/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "北京奥运十年：场馆们的后奥运时代",
+          "url": "https://datanews.caixin.com/interactive/2018/olympics0808/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2018/patent-drug/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2018/patent-drug/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2018/patent-drug/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "专利药为什么这么贵？",
+          "url": "https://datanews.caixin.com/interactive/2018/patent-drug/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2018-06-08/101267043.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2018-06-08/101267043.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2018-06-08/101267043.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "财新获2018全球最佳数据新闻团队奖 视频回顾颁奖礼精彩瞬间",
+          "url": "https://video.caixin.com/2018-06-08/101267043.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/interactive/2018/sight-day/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/interactive/2018/sight-day/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/interactive/2018/sight-day/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "爱眼日特别策划：“眼镜大国”养成记",
+          "url": "https://datanews.caixin.com/mobile/interactive/2018/sight-day/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2018/antiques/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2018/antiques/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2018/antiques/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "2133家博物馆，235万件文物，我们画出了“国家宝藏”的画像",
+          "url": "https://datanews.caixin.com/interactive/2018/antiques/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2018/wenchuan/index.html",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2018/wenchuan/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2018/wenchuan/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "你的十年一晃而过，他们的十年很漫长",
+          "url": "https://datanews.caixin.com/interactive/2018/wenchuan/index.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2018/water_resources",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2018/water_resources"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2018/water_resources",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "世界水日特别策划：水都不够用，何以写“物语”？",
+          "url": "https://datanews.caixin.com/interactive/2018/water_resources"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2018/tb2018",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2018/tb2018"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2018/tb2018",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "熟悉又陌生的“白色瘟疫”，它从未走远",
+          "url": "https://datanews.caixin.com/interactive/2018/tb2018"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2018/scientist/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2018/scientist/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2018/scientist/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "科学家不是怪蜀黍 他们只是更爱漂泊",
+          "url": "https://datanews.caixin.com/interactive/2018/scientist/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2018/from-city-to-city/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2018/from-city-to-city/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2018/from-city-to-city/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "你的城市有多大？",
+          "url": "https://datanews.caixin.com/interactive/2018/from-city-to-city/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2018/56ring/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2018/56ring/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2018/56ring/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "五环以外",
+          "url": "https://datanews.caixin.com/interactive/2018/56ring/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/Interactive2017/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/Interactive2017/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/Interactive2017/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "财新数据新闻中心的2017年",
+          "url": "https://datanews.caixin.com/mobile/Interactive2017/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/2017bjrk/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/2017bjrk/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/2017bjrk/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "北京人口",
+          "url": "https://datanews.caixin.com/mobile/2017bjrk/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/interactive/2020/ab/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/interactive/2020/ab/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/interactive/2020/ab/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "穿透安邦循环注资真相",
+          "url": "https://datanews.caixin.com/interactive/2020/ab/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/india/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/india/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/india/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "数说印度经济：隔壁这个国家你到底了解多少？",
+          "url": "https://datanews.caixin.com/mobile/india/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/CongoPeatland/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/CongoPeatland/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/CongoPeatland/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "互动｜走进雨林深处 探寻神秘泥炭地",
+          "url": "https://datanews.caixin.com/mobile/CongoPeatland/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/AntiCorruption/pc/#/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/AntiCorruption/pc/#/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/AntiCorruption/pc/#/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "反腐·187张面孔",
+          "url": "https://datanews.caixin.com/mobile/AntiCorruption/pc/#/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/gaotie/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/gaotie/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/gaotie/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "高铁三小时能到的地方，你想去哪个？",
+          "url": "https://datanews.caixin.com/mobile/gaotie/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/yimin/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/yimin/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/yimin/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "移民去远方",
+          "url": "https://datanews.caixin.com/mobile/yimin/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://file.caixin.com/datanews_mobile/notobacco/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://file.caixin.com/datanews_mobile/notobacco/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://file.caixin.com/datanews_mobile/notobacco/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "世界无烟日特别策划 | 非平装烟盒",
+          "url": "https://file.caixin.com/datanews_mobile/notobacco/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/obesity/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/obesity/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/obesity/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "世界防治肥胖日|日益变胖的地球人",
+          "url": "https://datanews.caixin.com/mobile/obesity/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/europe",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/europe"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/europe",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "欧洲还有几个特朗普",
+          "url": "https://datanews.caixin.com/mobile/europe"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/museum/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/museum/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/museum/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "中国的博物馆300000:1",
+          "url": "https://datanews.caixin.com/mobile/museum/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/2016/fang",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/2016/fang"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/2016/fang",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "年终策划：2016年的楼市",
+          "url": "https://datanews.caixin.com/2016/fang"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/mobile/flood/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/mobile/flood/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/mobile/flood/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "2016年终策划：那一场不能被忘记的洪水",
+          "url": "https://datanews.caixin.com/mobile/flood/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/2016/memory/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/2016/memory/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/2016/memory/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "2016，告别前的重温",
+          "url": "https://datanews.caixin.com/2016/memory/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2016-08-03/100973893.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2016-08-03/100973893.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2016-08-03/100973893.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "【视频】动画带你看百年奥运变迁",
+          "url": "https://video.caixin.com/2016-08-03/100973893.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://video.caixin.com/2016-06-07/100952187.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://video.caixin.com/2016-06-07/100952187.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://video.caixin.com/2016-06-07/100952187.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "高考又来了，数说40年高考那些事儿",
+          "url": "https://video.caixin.com/2016-06-07/100952187.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/2016/home/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/2016/home/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/2016/home/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "楼市十年",
+          "url": "https://datanews.caixin.com/2016/home/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/2015/tower/index.html",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/2015/tower/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/2015/tower/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "政府大楼",
+          "url": "https://datanews.caixin.com/2015/tower/index.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/2015/mideast/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/2015/mideast/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/2015/mideast/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "情仇中东",
+          "url": "https://datanews.caixin.com/2015/mideast/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://china.caixin.com/2015/hstjl/index.html",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://china.caixin.com/2015/hstjl/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://china.caixin.com/2015/hstjl/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "“红色通缉令”众生相",
+          "url": "https://china.caixin.com/2015/hstjl/index.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/2015/cnrise2015/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/2015/cnrise2015/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/2015/cnrise2015/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "速度与激情：中国品牌崛起2015",
+          "url": "https://datanews.caixin.com/2015/cnrise2015/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://datanews.caixin.com/2015-03-23/100792461.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://datanews.caixin.com/2015-03-23/100792461.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://datanews.caixin.com/2015-03-23/100792461.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "光耀人生",
+          "url": "https://datanews.caixin.com/2015-03-23/100792461.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/2015/kantar/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/2015/kantar/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/2015/kantar/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "2015中国社交媒体影响报告",
+          "url": "https://datanews.caixin.com/2015/kantar/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/2014/aliipo/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/2014/aliipo/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/2014/aliipo/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "阿里巴巴IPO风云录",
+          "url": "https://datanews.caixin.com/2014/aliipo/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/2014/zhoushicailu/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/2014/zhoushicailu/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/2014/zhoushicailu/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "周永康的人与财",
+          "url": "https://datanews.caixin.com/2014/zhoushicailu/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/2014/zhongjiwei/",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/2014/zhongjiwei/"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/2014/zhongjiwei/",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "中央纪委巡视风暴",
+          "url": "https://datanews.caixin.com/2014/zhongjiwei/"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://datanews.caixin.com/2014-08-08/100714251.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://datanews.caixin.com/2014-08-08/100714251.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://datanews.caixin.com/2014-08-08/100714251.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "财新记者赴鲁甸震中实拍图集",
+          "url": "https://datanews.caixin.com/2014-08-08/100714251.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://datanews.caixin.com/2014-08-06/100713319.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://datanews.caixin.com/2014-08-06/100713319.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://datanews.caixin.com/2014-08-06/100713319.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "震后72小时——鲁甸地震灾后救援记录",
+          "url": "https://datanews.caixin.com/2014-08-06/100713319.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://datanews.caixin.com/2014-03-17/100652406.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://datanews.caixin.com/2014-03-17/100652406.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://datanews.caixin.com/2014-03-17/100652406.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "在线教育投资升温 融资挺进亿元量级",
+          "url": "https://datanews.caixin.com/2014-03-17/100652406.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://datanews.caixin.com/2014-03-24/100655842.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://datanews.caixin.com/2014-03-24/100655842.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://datanews.caixin.com/2014-03-24/100655842.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "北京污水处理藏猫腻 污泥偷排达数年",
+          "url": "https://datanews.caixin.com/2014-03-24/100655842.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://datanews.caixin.com/2014-01-17/100630174.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://datanews.caixin.com/2014-01-17/100630174.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://datanews.caixin.com/2014-01-17/100630174.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "从“将军府”到“兵工厂”—濮阳的谷家产业",
+          "url": "https://datanews.caixin.com/2014-01-17/100630174.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/2013/biange2013/index.html",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/2013/biange2013/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/2013/biange2013/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "变革2013",
+          "url": "https://datanews.caixin.com/2013/biange2013/index.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://international.caixin.com/2013-09-06/100579154.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://international.caixin.com/2013-09-06/100579154.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://international.caixin.com/2013-09-06/100579154.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "【互动图】中东地区的敌友关系",
+          "url": "https://international.caixin.com/2013-09-06/100579154.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "article",
+            "canonical_url": "https://datanews.caixin.com/2013-11-24/100608929.html",
+            "command": [
+              "caixin-cli",
+              "article",
+              "https://datanews.caixin.com/2013-11-24/100608929.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": false,
+            "input_url": "https://datanews.caixin.com/2013-11-24/100608929.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "article",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "青岛中石化管道爆炸事故——财新记者实拍图集",
+          "url": "https://datanews.caixin.com/2013-11-24/100608929.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/2013/nobel/index.html",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/2013/nobel/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/2013/nobel/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "星空彩绘诺贝尔奖",
+          "url": "https://datanews.caixin.com/2013/nobel/index.html"
+        },
+        {
+          "access": "ssr_directory_candidate",
+          "badges": [],
+          "consumer": {
+            "_untrusted": true,
+            "adapter": "datanews-interactive",
+            "canonical_url": "https://datanews.caixin.com/2014/jindaoming/index.html",
+            "command": [
+              "caixin-cli",
+              "datanews-interactive",
+              "https://datanews.caixin.com/2014/jindaoming/index.html"
+            ],
+            "content_access_not_implied": true,
+            "discovery_required": true,
+            "input_url": "https://datanews.caixin.com/2014/jindaoming/index.html",
+            "ok": true,
+            "supported": true
+          },
+          "content_not_fetched": true,
+          "image": null,
+          "item_kind": "interactive_directory",
+          "rendered_visibility_not_verified": true,
+          "summary": null,
+          "title": "金道铭的红颜白手套",
+          "url": "https://datanews.caixin.com/2014/jindaoming/index.html"
+        }
+      ],
+      "key": "public-directory.datanews-topics",
+      "lane": "main",
+      "name": "数字专题",
+      "order": 0,
+      "state": "server_rendered"
+    }
+  ],
+  "modules_count": 1,
+  "ok": true,
+  "page": 1,
+  "rendered_visibility_not_verified": true,
+  "rendered_visibility_verified": false,
+  "schema_version": 1,
+  "scripts_not_executed": true,
+  "session_used": false,
+  "source": {
+    "canonical_url": "https://datanews.caixin.com/datatopic/",
+    "fetched_at": "2026-08-06T14:33:04+00:00",
+    "final_url": "https://datanews.caixin.com/datatopic/",
+    "requested_url": "https://datanews.caixin.com/datatopic/"
+  },
+  "source_mode": "server_html",
+  "stale_content": true,
+  "title": "数字专题_数字说频道_财新网",
+  "unique_urls_count": 78
+}
