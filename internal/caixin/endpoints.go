@@ -16,6 +16,18 @@ import (
 // by the output layer from each command's declared schema, so this package
 // returns plain payloads.
 
+func addPageMetadata(result map[string]any, page, size, count int, total any) {
+	result["count"] = count
+	hasMore := count == size
+	if parsed, ok := safeInt(total); ok {
+		hasMore = page*size < parsed
+	}
+	result["has_more"] = hasMore
+	if hasMore {
+		result["next_page"] = page + 1
+	}
+}
+
 // Channels lists the scroll-news channel menu.
 func (c *Client) Channels(ctx context.Context) (map[string]any, error) {
 	value, err := c.requestJSON(ctx, requestSpec{Method: "GET", URL: ChannelsUrl})
@@ -56,13 +68,15 @@ func (c *Client) Latest(ctx context.Context, page, size int, date string, channe
 			}
 		}
 	}
-	return map[string]any{
+	result := map[string]any{
 		"page":           data["currentPage"],
 		"page_size":      data["pageSize"],
 		"total":          data["totalRecords"],
 		"session_loaded": c.Authenticated(),
 		"articles":       articles,
-	}, nil
+	}
+	addPageMetadata(result, page, size, len(articles), data["totalRecords"])
+	return result, nil
 }
 
 // searchCategories fetches one of the two scope menus.
@@ -203,7 +217,7 @@ func (c *Client) Search(ctx context.Context, options SearchOptions) (map[string]
 			}
 		}
 	}
-	return map[string]any{
+	result := map[string]any{
 		// The resolved menu entries are echoed back, not just the codes the
 		// caller passed: an agent can then see which scope and sort the search
 		// actually ran under without a second round trip.
@@ -219,7 +233,9 @@ func (c *Client) Search(ctx context.Context, options SearchOptions) (map[string]
 		"end_time":    emptyToNil(options.EndTime),
 		"filter_code": options.FilterCode,
 		"articles":    articles,
-	}, nil
+	}
+	addPageMetadata(result, options.Page, options.Size, len(articles), data["totalRecords"])
+	return result, nil
 }
 
 func findCategory(categories []any, code string) (map[string]any, []any) {
@@ -313,7 +329,7 @@ func (c *Client) Newscroll(ctx context.Context, page int, date, categoryCode str
 		}
 	}
 	total, _ := safeInt(data["totalRecords"])
-	return map[string]any{
+	result := map[string]any{
 		"listing_only": true,
 		"session_used": false,
 		"category":     category,
@@ -322,9 +338,11 @@ func (c *Client) Newscroll(ctx context.Context, page int, date, categoryCode str
 		"page_size":    data["pageSize"],
 		"total":        data["totalRecords"],
 		"returned":     len(articles),
-		"has_more":     page*NewscrollPageSize < total,
 		"articles":     articles,
-	}, nil
+	}
+	addPageMetadata(result, page, NewscrollPageSize, len(articles), total)
+	result["returned"] = len(articles)
+	return result, nil
 }
 
 // CXDataFeedItems reads one of the nine public Caixin Data feeds.
@@ -402,10 +420,14 @@ func (c *Client) CXDataFeedItems(ctx context.Context, category string, page, siz
 	}
 	result["items"] = items
 	result["returned"] = len(items)
+	result["count"] = len(items)
 	if total, ok := result["total"].(int); ok {
 		result["has_more"] = page*size < total
 	} else {
 		result["has_more"] = len(items) == size
+	}
+	if hasMore, _ := result["has_more"].(bool); hasMore {
+		result["next_page"] = page + 1
 	}
 	return result, nil
 }
@@ -449,7 +471,7 @@ func (c *Client) EntitiesPreview(ctx context.Context, category string) (map[stri
 		}
 		items = append(items, item)
 	}
-	return map[string]any{
+	result := map[string]any{
 		"listing_only": true, "session_used": false,
 		"category": category, "name": contract.Name,
 		"returned":       len(items),
@@ -458,7 +480,8 @@ func (c *Client) EntitiesPreview(ctx context.Context, category string) (map[stri
 		"is_cxt_upgrade": value["isCxtUpgrade"],
 		"access":         "preview_or_unknown",
 		"items":          items,
-	}, nil
+	}
+	return result, nil
 }
 
 // Topics lists one of the six topic-directory entry points. The url is checked
@@ -502,7 +525,7 @@ func (c *Client) Topics(ctx context.Context, entry string, page, size int) (map[
 	if hasTotal {
 		hasMore = start+len(rows) < total
 	}
-	return map[string]any{
+	result := map[string]any{
 		"directory_only": true,
 		"url":            entry,
 		"category":       contract.Category,
@@ -515,7 +538,12 @@ func (c *Client) Topics(ctx context.Context, entry string, page, size int) (map[
 		"returned":       len(items),
 		"has_more":       hasMore,
 		"items":          items,
-	}, nil
+	}
+	result["count"] = len(items)
+	if hasMore {
+		result["next_page"] = page + 1
+	}
+	return result, nil
 }
 
 // frontlineJSONP calls one of the JSONP endpoints and unwraps the envelope.
@@ -567,11 +595,16 @@ func (c *Client) Frontline(ctx context.Context, page, size int) (map[string]any,
 			items = append(items, item)
 		}
 	}
-	return map[string]any{
+	result := map[string]any{
 		"page": page, "page_size": size,
 		"has_more": len(rows) == size,
 		"items":    items,
-	}, nil
+	}
+	result["count"] = len(items)
+	if hasMore, _ := result["has_more"].(bool); hasMore {
+		result["next_page"] = page + 1
+	}
+	return result, nil
 }
 
 // FrontlineDetail reads one flash-news item by its 32-hex code.
@@ -728,7 +761,7 @@ func bloggersDirectoryItem(record map[string]any) map[string]any {
 		"url":                 canonical,
 		"image":               emptyToNil(blogImageURL(BloggersDirectoryUrl, plainText(record["avatar"]))),
 		"summary":             emptyToNil(plainText(record["introduce2"])),
-		"published_at_ms":     published,
+		"published_at":        isoTimestamp(published),
 		"badges":              []any{},
 		"item_kind":           "author",
 		"content_not_fetched": true,

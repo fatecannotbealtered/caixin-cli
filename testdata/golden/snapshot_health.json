@@ -25,7 +25,7 @@
             "supported": true
           },
           "image": "https://img.caixin.com/2025-03-22/174260826404395_840_560.jpg",
-          "published_at": "文｜财新 周信达 08月05日 07:10",
+          "published_label": "文｜财新 周信达 08月05日 07:10",
           "source_state": "visible",
           "summary": "集采中标率提高，叠加以中选价定额报销政策试水，原研药可能进入一段降价区间",
           "title": "10款原研药中标集采 患者用药有何变化？",
@@ -439,7 +439,7 @@
   "schema_version": 1,
   "session_used": false,
   "source": {
-    "fetched_at": "2026-08-08T08:49:35+00:00",
+    "fetched_at": "2026-08-08T08:49:35Z",
     "final_url": "https://www.caixin.com/health/",
     "requested_url": "https://www.caixin.com/health/"
   },

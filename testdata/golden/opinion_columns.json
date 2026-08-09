@@ -74,7 +74,7 @@
             "supported": true
           },
           "image_click_url": "https://opinion.caixin.com/wujinduo_mjxx/",
-          "published_at": "08月08日 14:09",
+          "published_label": "08月08日 14:09",
           "summary": "美日联合干预日元汇率，叠加弱于预期的美国劳动力数据，显著提振了国际黄金价格",
           "title": "美日联合干预汇率，为何影响了黄金",
           "url": "https://opinion.caixin.com/2026-08-08/102472616.html"
@@ -140,7 +140,7 @@
             "supported": true
           },
           "image_click_url": "https://opinion.caixin.com/luozhiheng_zssc/",
-          "published_at": "08月07日 19:51",
+          "published_label": "08月07日 19:51",
           "summary": "0000文文文，文文文文文文文文文文文文文文文文文文文文文，文文文文文文文文文文文文文文。文文文文文文文文文xx文文文文文文文文文文文文文文文文，文文文文文文文文文文",
           "title": "7月进出口增速高位放缓，价格驱动还能持续多久",
           "url": "https://opinion.caixin.com/2026-08-07/102472406.html"
@@ -206,7 +206,7 @@
             "supported": true
           },
           "image_click_url": "https://opinion.caixin.com/yexiang_zssc/",
-          "published_at": "08月07日 16:44",
+          "published_label": "08月07日 16:44",
           "summary": "如果美国的AI产业不能在一段时间内显示出足够的商业价值，资本市场不再忍受，AI的发展可能会停滞，并引起美国经济增长大幅放缓，甚至衰退，失业率提高，企业盈利下降",
           "title": "美国的AI投资、利率与经济",
           "url": "https://opinion.caixin.com/2026-08-07/102472259.html"
@@ -272,7 +272,7 @@
             "supported": true
           },
           "image_click_url": "https://opinion.caixin.com/wuxuchu_mjxx/",
-          "published_at": "08月07日 15:21",
+          "published_label": "08月07日 15:21",
           "summary": "AI把归纳伪装成演绎，把概率伪装成必然，把“很可能是这样”伪装成“必然是这样”。那人的价值在哪里？在那些反常的东西里",
           "title": "AI不是镜子，是蒸馏器",
           "url": "https://opinion.caixin.com/2026-08-07/102472226.html"
@@ -338,7 +338,7 @@
             "supported": true
           },
           "image_click_url": "https://opinion.caixin.com/baote_mjxx/",
-          "published_at": "08月07日 11:56",
+          "published_label": "08月07日 11:56",
           "summary": "终身教职真正保护的，也许不是教授的一份工作，而是大学作为一种组织存在的理由",
           "title": "当大学教授变临时工，大学还是大学吗",
           "url": "https://opinion.caixin.com/2026-08-07/102472168.html"
@@ -404,7 +404,7 @@
             "supported": true
           },
           "image_click_url": "https://opinion.caixin.com/yangqinghong_mjxx/",
-          "published_at": "08月07日 10:53",
+          "published_label": "08月07日 10:53",
           "summary": "金融杠杆放大的不只是收益，也包括路径上的每一次颠簸。用高杠杆支持长期投资策略，无异于穿着短跑钉鞋去跑马拉松，短期加速再猛，也难以坚持到最后",
           "title": "439%之后的6天：被硅谷和华尔街追捧的天才，为何走入杠杆误区",
           "url": "https://opinion.caixin.com/2026-08-07/102472144.html"
@@ -470,7 +470,7 @@
             "supported": true
           },
           "image_click_url": "https://opinion.caixin.com/chenlong_zssc/",
-          "published_at": "08月07日 10:07",
+          "published_label": "08月07日 10:07",
           "summary": "未来市场不会是简单的单向替代，而是会演化出由高性价比模型与前沿高端模型协同构成的模型矩阵与智能路由体系；在未来，超级大企业和超级个体，这两类组织形态将会长期并存",
           "title": "陈龙：Token时代的商业与组织",
           "url": "https://opinion.caixin.com/2026-08-07/102472138.html"
@@ -510,7 +510,7 @@
   "source": {
     "canonical_url": "https://opinion.caixin.com/columns/",
     "discovered_from": "https://opinion.caixin.com/",
-    "fetched_at": "2026-08-08T08:47:16+00:00",
+    "fetched_at": "2026-08-08T08:47:16Z",
     "final_url": "https://opinion.caixin.com/columns/",
     "requested_url": "https://opinion.caixin.com/columns/"
   },

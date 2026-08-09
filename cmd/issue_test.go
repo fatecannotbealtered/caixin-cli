@@ -52,8 +52,8 @@ func TestIssue_ReadsContentsAndMetadata(t *testing.T) {
 		"issue_number":   float64(1217),
 		"total_issue":    float64(1217),
 		"annual_issue":   float64(1),
-		"published_at":   "2026-01-05",
-		"magazine_id":    float64(4242),
+		"published_at":   "2026-01-05T00:00:00Z",
+		"magazine_id":    "4242",
 		"articles_count": float64(2),
 	} {
 		if data[field] != want {

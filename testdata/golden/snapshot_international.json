@@ -100,7 +100,7 @@
             "supported": true
           },
           "image": null,
-          "published_at": "文｜财新 曾佳 发自美国华盛顿 08月07日 07:43",
+          "published_label": "文｜财新 曾佳 发自美国华盛顿 08月07日 07:43",
           "source_state": "visible",
           "summary": "根据这份行政令，美国国务卿和国土安全部可以通过拒绝发放签证、禁止入境、驱逐出境等手段，对参与生育旅游的外国人进行打击",
           "title": "特朗普再签两份行政令限制出生公民权 意图打击生育旅游产业(含视频)",
@@ -515,7 +515,7 @@
   "schema_version": 1,
   "session_used": false,
   "source": {
-    "fetched_at": "2026-08-08T08:49:16+00:00",
+    "fetched_at": "2026-08-08T08:49:16Z",
     "final_url": "https://international.caixin.com/",
     "requested_url": "https://international.caixin.com/"
   },

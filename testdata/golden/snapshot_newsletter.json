@@ -263,7 +263,7 @@
   "schema_version": 1,
   "session_used": false,
   "source": {
-    "fetched_at": "2026-08-08T08:49:01+00:00",
+    "fetched_at": "2026-08-08T08:49:01Z",
     "final_url": "https://other.caixin.com/jx_newsletter/",
     "requested_url": "https://other.caixin.com/jx_newsletter/"
   },

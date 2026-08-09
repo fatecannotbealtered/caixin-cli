@@ -1615,7 +1615,7 @@
   "schema_version": 1,
   "session_used": false,
   "source": {
-    "fetched_at": "2026-08-06T14:32:35+00:00",
+    "fetched_at": "2026-08-06T14:32:35Z",
     "final_url": "https://opinion.caixin.com/",
     "requested_url": "https://opinion.caixin.com/"
   },

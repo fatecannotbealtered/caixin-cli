@@ -10,6 +10,8 @@ import (
 	"errors"
 	"fmt"
 	"io"
+	"regexp"
+	"strconv"
 	"strings"
 	"time"
 
@@ -164,7 +166,12 @@ func (p *Printer) Success(data any) error {
 	if p.options.Format == FormatRaw {
 		return errors.New("raw output requires Raw()")
 	}
-	annotated, err := annotateUntrusted(data, p.options.Untrusted)
+	normalized, err := normalizeIDFields(data)
+	if err != nil {
+		return err
+	}
+	normalized = normalizeSemanticTimes(normalized)
+	annotated, err := annotateUntrusted(normalized, p.options.Untrusted)
 	if err != nil {
 		return err
 	}
@@ -191,17 +198,183 @@ func (p *Printer) Failure(cliErr *CLIError) error {
 		_, err := fmt.Fprintf(p.out, "%s: %s\n", cliErr.Code, cliErr.Message)
 		return err
 	}
+	normalized, err := normalizeIDFields(cliErr.Details)
+	if err != nil {
+		return err
+	}
+	normalized = normalizeSemanticTimes(normalized)
+	details, _ := normalized.(map[string]any)
 	return p.writeJSON(errorEnvelope{
 		OK:            false,
 		SchemaVersion: contract.SchemaVersion,
 		Error: errorObject{
 			Code:      cliErr.Code,
 			Message:   cliErr.Message,
-			Details:   cliErr.Details,
+			Details:   details,
 			Retryable: contract.Retryable(cliErr.Code),
 		},
 		Meta: p.commandMeta(),
 	})
+}
+
+func normalizeIDFields(data any) (any, error) {
+	raw, err := json.Marshal(data)
+	if err != nil {
+		return nil, err
+	}
+	decoder := json.NewDecoder(strings.NewReader(string(raw)))
+	decoder.UseNumber()
+	var value any
+	if err := decoder.Decode(&value); err != nil {
+		return nil, err
+	}
+	return normalizeIDValue(value), nil
+}
+
+func normalizeIDValue(value any) any {
+	switch current := value.(type) {
+	case map[string]any:
+		for key, child := range current {
+			if isIDField(key) {
+				child = stringifyIDValue(child)
+			}
+			current[key] = normalizeIDValue(child)
+		}
+	case []any:
+		for index, child := range current {
+			current[index] = normalizeIDValue(child)
+		}
+	}
+	return value
+}
+
+func isIDField(key string) bool {
+	switch key {
+	case "id", "enid", "uid", "pid", "sid", "uuid":
+		return true
+	}
+	return strings.HasSuffix(key, "_id") || strings.HasSuffix(key, "_enid") ||
+		strings.HasSuffix(key, "_ids") || strings.HasSuffix(key, "Id") || strings.HasSuffix(key, "ID")
+}
+
+func stringifyIDValue(value any) any {
+	switch current := value.(type) {
+	case json.Number:
+		return current.String()
+	case []any:
+		for index, item := range current {
+			current[index] = stringifyIDValue(item)
+		}
+		return current
+	default:
+		return value
+	}
+}
+
+var (
+	fullChineseTime = regexp.MustCompile(`\d{4}年\d{2}月\d{2}日(?: \d{2}:\d{2}(?::\d{2})?)?`)
+	fullPlainTime   = regexp.MustCompile(`\d{4}-\d{2}-\d{2}(?: \d{2}:\d{2}(?::\d{2})?)?`)
+)
+
+// normalizeSemanticTimes keeps machine timestamp fields unambiguous. Complete
+// timestamps become RFC3339 UTC; partial labels without a year or date are
+// retained under a non-time key instead of pretending to be timestamps.
+func normalizeSemanticTimes(value any) any {
+	switch current := value.(type) {
+	case map[string]any:
+		keys := make([]string, 0, len(current))
+		for key := range current {
+			keys = append(keys, key)
+		}
+		for _, key := range keys {
+			current[key] = normalizeSemanticTimes(current[key])
+		}
+		for _, key := range keys {
+			canonical, label, ok := semanticTimeField(key)
+			if !ok {
+				continue
+			}
+			raw := current[key]
+			delete(current, key)
+			if raw == nil {
+				current[canonical] = nil
+				continue
+			}
+			if timestamp, ok := semanticTimestamp(raw); ok {
+				current[canonical] = timestamp
+				continue
+			}
+			if _, exists := current[label]; !exists {
+				current[label] = raw
+			}
+		}
+	case []any:
+		for index, child := range current {
+			current[index] = normalizeSemanticTimes(child)
+		}
+	}
+	return value
+}
+
+func semanticTimeField(key string) (canonical, label string, ok bool) {
+	switch {
+	case strings.HasSuffix(key, "_at_ms"):
+		canonical = strings.TrimSuffix(key, "_ms")
+	case strings.HasSuffix(key, "_at_unix"):
+		canonical = strings.TrimSuffix(key, "_unix")
+	case strings.HasSuffix(key, "_at"):
+		canonical = key
+	case key == "start_time" || key == "end_time":
+		canonical = key
+		return canonical, strings.TrimSuffix(key, "_time") + "_label", true
+	default:
+		return "", "", false
+	}
+	return canonical, strings.TrimSuffix(canonical, "_at") + "_label", true
+}
+
+func semanticTimestamp(value any) (string, bool) {
+	text := strings.TrimSpace(fmt.Sprint(value))
+	if number, ok := value.(json.Number); ok {
+		text = number.String()
+	}
+	if len(text) >= 10 && len(text) <= 13 {
+		if epoch, err := strconv.ParseInt(text, 10, 64); err == nil && epoch > 0 {
+			if len(text) == 13 {
+				return time.UnixMilli(epoch).UTC().Format(time.RFC3339), true
+			}
+			if len(text) == 10 {
+				return time.Unix(epoch, 0).UTC().Format(time.RFC3339), true
+			}
+		}
+	}
+	if parsed, err := time.Parse(time.RFC3339Nano, text); err == nil {
+		return parsed.UTC().Format(time.RFC3339), true
+	}
+
+	candidate := text
+	if matched := fullChineseTime.FindString(text); matched != "" {
+		candidate = matched
+	} else if matched := fullPlainTime.FindString(text); matched != "" {
+		candidate = matched
+	}
+	for _, layout := range []string{"2006-01-02", "2006年01月02日"} {
+		if parsed, err := time.Parse(layout, candidate); err == nil {
+			return parsed.UTC().Format(time.RFC3339), true
+		}
+	}
+	china := time.FixedZone("China Standard Time", 8*60*60)
+	for _, layout := range []string{
+		"2006-01-02 15:04:05",
+		"2006-01-02 15:04",
+		"2006年01月02日 15:04:05",
+		"2006年01月02日 15:04",
+	} {
+		if parsed, err := time.ParseInLocation(layout, candidate, china); err == nil {
+			return parsed.UTC().Format(time.RFC3339), true
+		}
+	}
+	return "", false
 }
 
 func (p *Printer) Raw(data []byte) error {
@@ -278,6 +451,23 @@ func projectFields(data any, fields []string) (any, error) {
 			return nil, fmt.Errorf("unknown output field %q", field)
 		}
 		projected[field] = value
+	}
+	if marked, ok := object["_untrusted"].([]any); ok {
+		kept := make([]any, 0, len(marked))
+		for _, value := range marked {
+			field, ok := value.(string)
+			if !ok {
+				continue
+			}
+			if _, present := projected[field]; present {
+				kept = append(kept, field)
+			}
+		}
+		if len(kept) > 0 {
+			projected["_untrusted"] = kept
+		} else {
+			delete(projected, "_untrusted")
+		}
 	}
 	return projected, nil
 }

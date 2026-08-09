@@ -4917,7 +4917,7 @@
   "schema_version": 1,
   "session_used": false,
   "source": {
-    "fetched_at": "2026-08-06T14:32:38+00:00",
+    "fetched_at": "2026-08-06T14:32:38Z",
     "final_url": "https://culture.caixin.com/",
     "requested_url": "https://culture.caixin.com/"
   },

@@ -54,7 +54,7 @@ func TestBlogAuthor_ReadsProfileAndServerRenderedPosts(t *testing.T) {
 	if count, _ := data["items_count"].(float64); count != 1 {
 		t.Errorf("items_count = %v, want 1", data["items_count"])
 	}
-	if id, _ := data["reported_author_id"].(float64); id != 12345 {
+	if id, _ := data["reported_author_id"].(string); id != "12345" {
 		t.Errorf("reported_author_id = %v", data["reported_author_id"])
 	}
 	profile, _ := data["directory_profile"].(map[string]any)

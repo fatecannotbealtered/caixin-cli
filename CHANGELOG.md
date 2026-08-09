@@ -7,6 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-08-09
+
+### Changed
+
+- Semantic timestamp fields are normalized recursively to RFC3339 UTC. Partial
+  display text without enough date information now uses a `*_label` field.
+
+### Fixed
+
+- `newscroll`, `bloggers-directory`, the three opinion directories,
+  `opinion-author`, and `video-section` now support positive `--limit` values
+  and report `count`, `has_more`, `next_page`, and `truncated` when applicable.
+
 ### Security
 
 - `doctor` gained a `plaintext_credentials` check, and `logout` now removes
@@ -245,7 +258,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Copy the block below for each release. Newest version first.
 Keep the link references at the bottom of the file in sync.
 
-## [0.1.0] - YYYY-MM-DD
+## [1.0.0] - YYYY-MM-DD
 
 ### Added
 
@@ -261,6 +274,6 @@ Keep the link references at the bottom of the file in sync.
 
 ### Security
 
-[Unreleased]: https://github.com/fatecannotbealtered/caixin-cli/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/fatecannotbealtered/caixin-cli/releases/tag/v0.1.0
+[Unreleased]: https://github.com/fatecannotbealtered/caixin-cli/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/fatecannotbealtered/caixin-cli/releases/tag/v1.0.0
 -->

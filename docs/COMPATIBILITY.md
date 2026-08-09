@@ -35,9 +35,9 @@ consequences worth stating plainly:
 
 ## Re-verifying
 
-There is no automated live gate — that is exactly why `release_readiness.level`
-is `beta` rather than `stable` (see the `reason` in `caixin-cli reference`). To
-re-verify by hand, run each command against the live upstream and compare the
+There is no automated live gate, and command-level FCC is not yet a reproducible
+release gate, so `release_readiness.level` is `unpublishable` (see the `reason`
+in `caixin-cli reference`). To re-verify by hand, run each command against the live upstream and compare the
 top-level keys of `data` against the command's `output_schema.fields` from
 `reference`. A mismatch in either direction is a finding.
 

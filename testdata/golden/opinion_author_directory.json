@@ -661,7 +661,7 @@
     "api_url": "https://gateway.caixin.com/api/data//cms-data/columnAuthorList",
     "canonical_url": "https://opinion.caixin.com/columns-test/",
     "discovered_from": "https://opinion.caixin.com/",
-    "fetched_at": "2026-08-08T08:46:08+00:00",
+    "fetched_at": "2026-08-08T08:46:08Z",
     "final_url": "https://opinion.caixin.com/columns-test/",
     "requested_url": "https://opinion.caixin.com/columns-test/",
     "script_url": "https://file.caixin.com/webchannel/newBlog/writerlist/index.js"

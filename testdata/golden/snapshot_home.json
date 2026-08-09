@@ -1061,7 +1061,7 @@
             "https://img.caixin.com/2026-08-06/178600537466724_266_177.jpg"
           ],
           "item_kind": "gallery",
-          "published_at": "08月06日 16:37",
+          "published_label": "08月06日 16:37",
           "source_state": "visible",
           "summary": null,
           "title": "湖北宜昌局部短时降雨128毫米 紧急转移近4000人",
@@ -1224,7 +1224,7 @@
             "https://img.caixin.com/2026-08-06/178599312835291_266_177.jpg"
           ],
           "item_kind": "gallery",
-          "published_at": "08月06日 13:15",
+          "published_label": "08月06日 13:15",
           "source_state": "visible",
           "summary": null,
           "title": "哈尔滨遭遇短时极端强降雨 3小时累计雨量超80毫米",
@@ -1387,7 +1387,7 @@
             "https://img.caixin.com/2026-08-03/178575494925234_266_177.jpg"
           ],
           "item_kind": "gallery",
-          "published_at": "08月03日 19:17",
+          "published_label": "08月03日 19:17",
           "source_state": "visible",
           "summary": null,
           "title": "加沙上百万流离失所者困于“塑料烤箱” 高温引发健康危机",
@@ -1550,7 +1550,7 @@
             "https://img.caixin.com/2026-08-03/178575459371923_266_177.jpg"
           ],
           "item_kind": "gallery",
-          "published_at": "08月03日 19:00",
+          "published_label": "08月03日 19:00",
           "source_state": "visible",
           "summary": null,
           "title": "印尼一渡轮起火 5人遇难41人失踪",
@@ -3122,7 +3122,7 @@
   "schema_version": 1,
   "session_used": false,
   "source": {
-    "fetched_at": "2026-08-06T14:32:15+00:00",
+    "fetched_at": "2026-08-06T14:32:15Z",
     "final_url": "https://www.caixin.com/",
     "requested_url": "https://www.caixin.com/"
   },

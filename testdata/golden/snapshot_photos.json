@@ -814,7 +814,7 @@
   "schema_version": 1,
   "session_used": false,
   "source": {
-    "fetched_at": "2026-08-06T14:32:36+00:00",
+    "fetched_at": "2026-08-06T14:32:36Z",
     "final_url": "https://photos.caixin.com/",
     "requested_url": "https://photos.caixin.com/"
   },

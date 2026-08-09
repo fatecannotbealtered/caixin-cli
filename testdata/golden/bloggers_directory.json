@@ -14,7 +14,7 @@
       "items": [
         {
           "access": "public_author_directory",
-          "author_id": 684410,
+          "author_id": "684410",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -34,7 +34,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/000/68/44/10_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785997408,
+          "published_at": "2026-08-06T06:23:28Z",
           "rendered_visibility_not_verified": true,
           "summary": "新媒体观察者，上海交通大学媒体与设计学院教师",
           "title": "魏武挥",
@@ -42,7 +42,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 6840669,
+          "author_id": "6840669",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -62,7 +62,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/006/84/06/69_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785984938,
+          "published_at": "2026-08-06T02:55:38Z",
           "rendered_visibility_not_verified": true,
           "summary": "盘古智库高级研究员，哈尔滨商业大学金融学硕士生导师",
           "title": "江瀚",
@@ -70,7 +70,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 6809432,
+          "author_id": "6809432",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -90,7 +90,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/006/80/94/32_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785983400,
+          "published_at": "2026-08-06T02:30:00Z",
           "rendered_visibility_not_verified": true,
           "summary": "由饶毅、鲁白、谢宇三位学者创办的移动新媒体平台，现任主编为周忠和、毛淑德、夏志宏。",
           "title": "知识分子",
@@ -98,7 +98,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 168199,
+          "author_id": "168199",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -118,7 +118,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/000/16/81/99_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785980481,
+          "published_at": "2026-08-06T01:41:21Z",
           "rendered_visibility_not_verified": true,
           "summary": "上海律师",
           "title": "丁金坤",
@@ -126,7 +126,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 8247671,
+          "author_id": "8247671",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -146,7 +146,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/008/24/76/71_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785976447,
+          "published_at": "2026-08-06T00:34:07Z",
           "rendered_visibility_not_verified": true,
           "summary": "科学新媒体“返朴”，科普中国子品牌，倡导“溯源守拙，问学求新”。",
           "title": "返朴",
@@ -154,7 +154,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 6766333,
+          "author_id": "6766333",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -174,7 +174,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/006/76/63/33_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785972600,
+          "published_at": "2026-08-05T23:30:00Z",
           "rendered_visibility_not_verified": true,
           "summary": "由中国社科院、哈佛大学、多伦多大学等国内外青年经济学者发起",
           "title": "香樟经济学术圈",
@@ -182,7 +182,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 7051744,
+          "author_id": "7051744",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -202,7 +202,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/007/05/17/44_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785972600,
+          "published_at": "2026-08-05T23:30:00Z",
           "rendered_visibility_not_verified": true,
           "summary": "互联网从业者，前媒体人",
           "title": "元淦恭",
@@ -210,7 +210,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 10199999,
+          "author_id": "10199999",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -230,7 +230,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/010/19/99/99_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785969900,
+          "published_at": "2026-08-05T22:45:00Z",
           "rendered_visibility_not_verified": true,
           "summary": "思想的碰撞，民声的回鸣。理性思考，感性文字。",
           "title": "二湘的十一维空间",
@@ -238,7 +238,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 666709,
+          "author_id": "666709",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -258,7 +258,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/000/66/67/09_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785924000,
+          "published_at": "2026-08-05T10:00:00Z",
           "rendered_visibility_not_verified": true,
           "summary": "资深投资管理人",
           "title": "黄凡",
@@ -266,7 +266,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 6754224,
+          "author_id": "6754224",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -286,7 +286,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/006/75/42/24_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785913539,
+          "published_at": "2026-08-05T07:05:39Z",
           "rendered_visibility_not_verified": true,
           "summary": "饶毅、鲁白、谢宇三位学者主编，与科学同行",
           "title": "赛先生",
@@ -294,7 +294,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 6810189,
+          "author_id": "6810189",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -314,7 +314,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/006/81/01/89_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785906205,
+          "published_at": "2026-08-05T05:03:25Z",
           "rendered_visibility_not_verified": true,
           "summary": "赛格大道：关注数字时代，提供靠谱分析",
           "title": "赛格大道",
@@ -322,7 +322,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 14385,
+          "author_id": "14385",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -342,7 +342,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/000/01/43/85_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785898204,
+          "published_at": "2026-08-05T02:50:04Z",
           "rendered_visibility_not_verified": true,
           "summary": "北京大学新闻与传播学院教授",
           "title": "胡泳",
@@ -350,7 +350,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 6802322,
+          "author_id": "6802322",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -370,7 +370,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/006/80/23/22_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785816000,
+          "published_at": "2026-08-04T04:00:00Z",
           "rendered_visibility_not_verified": true,
           "summary": "博士、金融学者，香帅数字经济工作室创始人，香帅的金融江湖公众号主理人，香帅的北大金融学课主理人，年度财富报告主理人，曾任北京大学金融学副教授、博士生导师。",
           "title": "唐涯",
@@ -378,7 +378,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 672530,
+          "author_id": "672530",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -398,7 +398,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/000/67/25/30_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785808922,
+          "published_at": "2026-08-04T02:02:02Z",
           "rendered_visibility_not_verified": true,
           "summary": "金融法、信托法及财富管理领域专家",
           "title": "杨祥",
@@ -406,7 +406,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 6648798,
+          "author_id": "6648798",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -426,7 +426,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/006/64/87/98_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785808258,
+          "published_at": "2026-08-04T01:50:58Z",
           "rendered_visibility_not_verified": true,
           "summary": "中国社会科学院金融研究所副所长、国家金融与发展实验室副主任、研究员、博士生导师",
           "title": "张明",
@@ -434,7 +434,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 7410630,
+          "author_id": "7410630",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -454,7 +454,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/007/41/06/30_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785804796,
+          "published_at": "2026-08-04T00:53:16Z",
           "rendered_visibility_not_verified": true,
           "summary": "上海新金融研究院副院长、上海金融数字化研究中心主任",
           "title": "刘晓春",
@@ -462,7 +462,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 6974704,
+          "author_id": "6974704",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -482,7 +482,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/006/97/47/04_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785746494,
+          "published_at": "2026-08-03T08:41:34Z",
           "rendered_visibility_not_verified": true,
           "summary": "未名，江南布衣，下过乡，上过学，教过书，写过小说……",
           "title": "蔡未名",
@@ -490,7 +490,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 6687672,
+          "author_id": "6687672",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -510,7 +510,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/006/68/76/72_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785743800,
+          "published_at": "2026-08-03T07:56:40Z",
           "rendered_visibility_not_verified": true,
           "summary": "研究员，岂能尽如人意，但求无愧我心",
           "title": "刘亭",
@@ -518,7 +518,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 679540,
+          "author_id": "679540",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -538,7 +538,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/000/67/95/40_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785733796,
+          "published_at": "2026-08-03T05:09:56Z",
           "rendered_visibility_not_verified": true,
           "summary": "文化学者",
           "title": "杨早",
@@ -546,7 +546,7 @@
         },
         {
           "access": "public_author_directory",
-          "author_id": 7253774,
+          "author_id": "7253774",
           "badges": [],
           "consumer": {
             "_untrusted": true,
@@ -566,7 +566,7 @@
           "content_not_fetched": true,
           "image": "https://getavatar.caixin.com/007/25/37/74_real_avatar_middle.jpg",
           "item_kind": "author",
-          "published_at_ms": 1785728525,
+          "published_at": "2026-08-03T03:42:05Z",
           "rendered_visibility_not_verified": true,
           "summary": "曾从事金融控股集团研究部门工作，现侨居日本",
           "title": "谷有芳",
@@ -603,7 +603,7 @@
   "source": {
     "api_url": "https://blog.caixin.com/json/blogger-date-1.json",
     "directory_url": "https://blog.caixin.com/archive/bloggers",
-    "fetched_at": "2026-08-06T14:33:00+00:00"
+    "fetched_at": "2026-08-06T14:33:00Z"
   },
   "source_mode": "server_html_discovery_plus_json_api",
   "stale_content": false,

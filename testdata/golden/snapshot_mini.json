@@ -4808,7 +4808,7 @@
   "schema_version": 1,
   "session_used": false,
   "source": {
-    "fetched_at": "2026-08-08T08:48:56+00:00",
+    "fetched_at": "2026-08-08T08:48:56Z",
     "final_url": "https://mini.caixin.com/",
     "requested_url": "https://mini.caixin.com/"
   },

@@ -17,20 +17,29 @@ func (a *application) opinionDirectoryCommand(
 	use, short string,
 	read func(context.Context, string, int) (map[string]any, error),
 ) *cobra.Command {
-	var page int
+	var page, limit int
 	command := &cobra.Command{
 		Use:   use + " <url>",
 		Short: short,
 		Args:  cobra.ExactArgs(1),
 		RunE: func(cmd *cobra.Command, args []string) error {
+			if err := validateClientSideLimit(cmd, limit); err != nil {
+				return err
+			}
 			result, err := read(cmd.Context(), args[0], page)
 			if err != nil {
 				return err
+			}
+			if cmd.Flags().Changed("limit") {
+				if err := limitListResult(result, limit); err != nil {
+					return err
+				}
 			}
 			return a.success(result)
 		},
 	}
 	command.Flags().IntVar(&page, "page", 1, "Page to read; page 1 is the server-rendered screen")
+	command.Flags().IntVar(&limit, "limit", 0, "Limit returned items")
 	return command
 }
 

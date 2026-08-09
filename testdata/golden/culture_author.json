@@ -36,7 +36,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "06月13日",
+          "published_label": "06月13日",
           "summary": "我希望能在年轻的时候，更年轻的时候，便有机会知道自己位于人类生活的哪一区域里，历史进程的哪一种方向上",
           "title": "闲人闲谈｜我希望",
           "url": "https://weekly.caixin.com/2020-06-13/101566768.html"
@@ -62,7 +62,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "04月03日",
+          "published_label": "04月03日",
           "summary": "在我所形容的社会里，幸运是生存的基础，我必须相信我是幸运的，不会轮到各种倒霉的事情，遇到麻烦，我便认命",
           "title": "刀尔登|哑巴会被卖掉吗？",
           "url": "https://culture.caixin.com/2020-04-03/101538123.html"
@@ -88,7 +88,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "02月01日",
+          "published_label": "02月01日",
           "summary": "对权力来说，爱戴一钱不值，服从才是真谛。假笑比真笑要有价值得多，因为后者是连三流的喜剧演员也能做到的，要得到前者，至少也得是四流政客",
           "title": "随笔·闲人闲谈｜自由的价格",
           "url": "https://weekly.caixin.com/2020-02-01/101510318.html"
@@ -114,7 +114,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "12月21日",
+          "published_label": "12月21日",
           "summary": "理解一本古书，最用不着的就是乞灵于一些宏大而空洞的字眼，并不是它们不曾表达什么，而是它们长期以来被人们用来假装成对纷繁事物的理解",
           "title": "老庄拾题｜读与不读，懂与不懂",
           "url": "https://weekly.caixin.com/2019-12-21/101496608.html"
@@ -140,7 +140,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "10月26日",
+          "published_label": "10月26日",
           "summary": "庄子的基本政治态度，用最通俗的话说是：一切权力政治，无论古今，都是黑暗的。能躲则躲，如躲不开，则虚与委蛇，反正好也好不到哪里，坏也无法更坏",
           "title": "老庄拾题｜逸民与遗民",
           "url": "https://weekly.caixin.com/2019-10-26/101475662.html"
@@ -166,7 +166,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "06月15日",
+          "published_label": "06月15日",
           "summary": "是什么力量总能冲破这一切，将人带回到庸俗而康健的日用之中？也许就是因为米糠和蚊虫，任何美妙的设计也不能预防吧",
           "title": "老庄拾题|问题与解答",
           "url": "https://weekly.caixin.com/2019-06-15/101427224.html"
@@ -192,7 +192,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "05月11日",
+          "published_label": "05月11日",
           "summary": "庄子对实际世界的态度越是高妙，越是告诉我们他是一个生活在实际世界中的人。他的很多篇章也许更应该当成诗作来阅读，当作一批精神挣扎的诗歌",
           "title": "老庄拾题|从《胠箧》说起",
           "url": "https://weekly.caixin.com/2019-05-11/101414299.html"
@@ -218,7 +218,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "04月05日",
+          "published_label": "04月05日",
           "summary": "保身，全生，养亲，尽年，庄子将其奉为最高生活目标。然后呢？然后人是要死的。作为哲学家，庄子对死亡有自己的立场。庄子的态度是视死如归",
           "title": "老庄拾题｜生不如死？",
           "url": "https://weekly.caixin.com/2019-04-05/101401305.html"
@@ -244,7 +244,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "03月09日",
+          "published_label": "03月09日",
           "summary": "庄子告诉弟子，世面上的事情是没有希望的可悲，不存在一种合理的生活或生存方式，惟一的出路，是活在自己的精神王国里",
           "title": "老庄拾题|庄子的起点",
           "url": "https://weekly.caixin.com/2019-03-09/101389778.html"
@@ -270,7 +270,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "01月19日",
+          "published_label": "01月19日",
           "summary": "从《老子》书看，这位老人家给自己找到了一种精神力量，使外界的荣辱顺逆，对内心的影响最小，其间甘苦自知，但确也是一种抵抗的样板",
           "title": "老庄拾题｜世界的起点，还是思维的终点？",
           "url": "https://weekly.caixin.com/2019-01-19/101371912.html"
@@ -296,7 +296,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "12月22日",
+          "published_label": "12月22日",
           "summary": "在人类永远不可能解决也不需要解决的问题上，《论语》有些很好的处理建议，但对一些人类必须解决以获得进步的问题，遥远的孔子没有回答的责任",
           "title": "论语拾题|不妨读之",
           "url": "https://weekly.caixin.com/2018-12-22/101362311.html"
@@ -322,7 +322,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "11月24日",
+          "published_label": "11月24日",
           "summary": "文学的价值或力量何在？在我来看，在人类的多种叙述方式中，它是最难使之“纯正”的一种，它天生需要细节，需要变化，需要异常",
           "title": "论语拾题|无邪不成诗",
           "url": "https://weekly.caixin.com/2018-11-24/101351513.html"
@@ -348,7 +348,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "10月27日",
+          "published_label": "10月27日",
           "summary": "政治生活的压制性如此强烈，孔子去世前哀叹的，仍是这个社会仍然不怎么样啊，而不是我的书还没编完啊",
           "title": "论语拾题|不仕无义？",
           "url": "https://weekly.caixin.com/2018-10-27/101339682.html"
@@ -374,7 +374,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "09月15日",
+          "published_label": "09月15日",
           "summary": "至善作为观念竟然可能是危险的，如果没有人知道如何达到至善，它便是一个没有说明书的利器，只有恶人才知道如何利用它",
           "title": "论语拾题|走出森林",
           "url": "https://weekly.caixin.com/2018-09-15/101326411.html"
@@ -400,7 +400,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "08月10日",
+          "published_label": "08月10日",
           "summary": "趁着少年尚未被种种理论束缚住，趁着快乐或阴险的高明之士尚未发现你的孩子，让他读一本生动有趣的小说、奇思异想的诗篇吧",
           "title": "要不要让孩子读《论语》",
           "url": "https://weekly.caixin.com/2018-08-10/101313863.html"
@@ -426,7 +426,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "07月14日",
+          "published_label": "07月14日",
           "summary": "在形而上的探索中，人类所得良多，然而，这种思维方式拥有忽视“万殊”的内在倾向，使之可以用来畅快而粗暴地解释、裁决、禁止不合己意的纷繁意见",
           "title": "论语拾题|一以贯之",
           "url": "https://weekly.caixin.com/2018-07-14/101302935.html"
@@ -452,7 +452,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "06月15日",
+          "published_label": "06月15日",
           "summary": "我们看到了三种态度，分别主张立辄、立蒯聩、立郢，说这样才是正名。每一种主张都宣称得到了孔子的真意，每一种又都将他种意见斥为离经叛道",
           "title": "卫国故事",
           "url": "https://weekly.caixin.com/2018-06-15/101271947.html"
@@ -478,7 +478,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "05月19日",
+          "published_label": "05月19日",
           "summary": "在当时的风俗中，孔子不太谈及家事是正常的，像今人这样自家里的什么一点儿事都到处讲，反倒奇怪了。这也是《论语》可信的直觉来源之一",
           "title": "论语拾题|世有孔子",
           "url": "https://weekly.caixin.com/2018-05-19/101252687.html"
@@ -504,7 +504,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "03月24日",
+          "published_label": "03月24日",
           "summary": "孔子成功了吗？看来是。他享受自己的成功吗？不好说。孔子一生，一大遗憾当是无人可与砥砺切磋。没有精神上的对手，来迫使他处于自我辩驳之外的境地",
           "title": "论语拾题｜知识的重负",
           "url": "https://weekly.caixin.com/2018-03-24/101225716.html"
@@ -530,7 +530,7 @@
           "content_not_fetched": true,
           "image": null,
           "item_kind": "article",
-          "published_at": "02月03日",
+          "published_label": "02月03日",
           "summary": "简单的不一定是深刻的，思想不一定是知识，想象永远不是推演。我愿意打一个赌，向儿童解释“一生二，二生三”云，要比向成年人解释容易",
           "title": "论语拾题 | 未闻之道",
           "url": "https://culture.caixin.com/2018-02-03/101207070.html"
@@ -1356,7 +1356,7 @@
   "scripts_not_executed": true,
   "session_used": false,
   "source": {
-    "fetched_at": "2026-08-06T14:32:59+00:00",
+    "fetched_at": "2026-08-06T14:32:59Z",
     "final_url": "https://culture.caixin.com/daoerdeng/",
     "requested_url": "https://culture.caixin.com/daoerdeng/"
   },

@@ -55,7 +55,7 @@ func TestArticle_ParsesMetadataAndExcerpt(t *testing.T) {
 	for field, want := range map[string]string{
 		"author":       "作者：某记者",
 		"editor":       "责任编辑：某编辑",
-		"published_at": "2026-08-07 08:51:49",
+		"published_at": "2026-08-07T00:51:49Z",
 	} {
 		if got, _ := data[field].(string); got != want {
 			t.Errorf("%s = %q, want %q", field, got, want)

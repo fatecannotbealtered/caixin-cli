@@ -25,7 +25,7 @@
             "supported": true
           },
           "image": "https://img.caixin.com/2026-08-06/178600573004956_840_560.jpg",
-          "published_at": "文｜财新 单玉晓 08月06日 16:42",
+          "published_label": "文｜财新 单玉晓 08月06日 16:42",
           "source_state": "visible",
           "summary": "最高法院发布《关于适用生态环境法典时间效力的若干规定》，为新旧法律衔接适用提供指引，其中多个条文引导行为人主动修复受损生态环境或者承担损害赔偿责任",
           "title": "生态环境法典将施行 最高法明确新旧法衔接与追责规则",
@@ -515,7 +515,7 @@
   "schema_version": 1,
   "session_used": false,
   "source": {
-    "fetched_at": "2026-08-08T08:49:19+00:00",
+    "fetched_at": "2026-08-08T08:49:19Z",
     "final_url": "https://science.caixin.com/",
     "requested_url": "https://science.caixin.com/"
   },

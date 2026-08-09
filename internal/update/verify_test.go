@@ -1,11 +1,16 @@
 package update
 
 import (
+	"context"
 	"crypto/sha256"
 	"encoding/hex"
 	"errors"
 	"strings"
 	"testing"
+	"time"
+
+	"github.com/sigstore/sigstore-go/pkg/root"
+	"github.com/sigstore/sigstore-go/pkg/tuf"
 )
 
 // The checksum link binds the bytes on disk to the signed manifest. Every way
@@ -50,7 +55,7 @@ func TestChecksumFor_AcceptsBinaryModeEntries(t *testing.T) {
 // There is no "unsigned but probably fine" path. A release with no bundle must
 // fail closed before any network fetch of the archive.
 func TestVerifyChecksums_MissingBundleIsTerminal(t *testing.T) {
-	err := VerifyChecksums("owner/repo", []byte("abc  x.tar.gz\n"), nil)
+	err := VerifyChecksums(context.Background(), "owner/repo", "v1.2.3", []byte("abc  x.tar.gz\n"), nil)
 	if err == nil {
 		t.Fatal("a release with no signature bundle was accepted")
 	}
@@ -63,7 +68,7 @@ func TestVerifyChecksums_MissingBundleIsTerminal(t *testing.T) {
 // cosign format the spec explicitly does not accept -- must be rejected without
 // reaching the network for trust material.
 func TestVerifyChecksums_RejectsNonBundleInput(t *testing.T) {
-	err := VerifyChecksums("owner/repo", []byte("abc  x.tar.gz\n"), []byte(`{"not":"a bundle"}`))
+	err := VerifyChecksums(context.Background(), "owner/repo", "v1.2.3", []byte("abc  x.tar.gz\n"), []byte(`{"not":"a bundle"}`))
 	if err == nil {
 		t.Fatal("a malformed bundle was accepted")
 	}
@@ -75,7 +80,7 @@ func TestVerifyChecksums_RejectsNonBundleInput(t *testing.T) {
 // The signer identity has to be pinned to this repo's release workflow;
 // otherwise any keyless signature from any workflow would satisfy the check.
 func TestCertificateIdentity_PinsTheReleaseWorkflow(t *testing.T) {
-	identity, err := certificateIdentity("owner/caixin-cli")
+	identity, err := certificateIdentity("owner/caixin-cli", "v1.2.3")
 	if err != nil {
 		t.Fatalf("building the identity policy failed: %v", err)
 	}
@@ -87,6 +92,12 @@ func TestCertificateIdentity_PinsTheReleaseWorkflow(t *testing.T) {
 	if !strings.Contains(san, `release\.yml`) {
 		t.Errorf("the identity does not pin the release workflow: %s", san)
 	}
+	if !strings.Contains(san, `refs/tags/v1\.2\.3`) {
+		t.Errorf("the identity does not pin the exact release tag: %s", san)
+	}
+	if strings.Contains(san, ".+") {
+		t.Errorf("the identity accepts tags other than the target release: %s", san)
+	}
 	// Anchored on both ends, or a crafted SAN could carry the expected value as
 	// a prefix and still match.
 	if !strings.HasPrefix(san, "^") || !strings.HasSuffix(san, "$") {
@@ -94,5 +105,34 @@ func TestCertificateIdentity_PinsTheReleaseWorkflow(t *testing.T) {
 	}
 	if issuer := identity.Issuer.Issuer; !strings.Contains(issuer, "token.actions.githubusercontent.com") {
 		t.Errorf("issuer = %q, want GitHub's OIDC provider", issuer)
+	}
+}
+
+func TestTrustedRootOptionsUseCommandContext(t *testing.T) {
+	ctx, cancel := context.WithCancel(context.Background())
+	defer cancel()
+	if got := trustedRootOptions(ctx).Context; got != ctx {
+		t.Fatal("Sigstore TUF options do not carry the command context")
+	}
+}
+
+func TestTrustedRootPreservesContextCause(t *testing.T) {
+	original := newLiveTrustedRoot
+	newLiveTrustedRoot = func(*tuf.Options) (*root.LiveTrustedRoot, error) {
+		return nil, errors.New("trust bootstrap failed")
+	}
+	t.Cleanup(func() { newLiveTrustedRoot = original })
+
+	cancelled, cancel := context.WithCancel(context.Background())
+	cancel()
+	deadline, deadlineCancel := context.WithDeadline(context.Background(), time.Now().Add(-time.Second))
+	defer deadlineCancel()
+	for name, ctx := range map[string]context.Context{"cancelled": cancelled, "deadline": deadline} {
+		t.Run(name, func(t *testing.T) {
+			_, err := trustedRoot(ctx)
+			if !errors.Is(err, ctx.Err()) {
+				t.Errorf("trustedRoot error = %v, want cause %v", err, ctx.Err())
+			}
+		})
 	}
 }

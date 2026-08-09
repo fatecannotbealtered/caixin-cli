@@ -592,7 +592,7 @@
   "schema_version": 1,
   "session_used": false,
   "source": {
-    "fetched_at": "2026-08-08T08:48:59+00:00",
+    "fetched_at": "2026-08-08T08:48:59Z",
     "final_url": "https://topics.caixin.com/",
     "requested_url": "https://topics.caixin.com/"
   },

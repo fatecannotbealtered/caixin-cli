@@ -6,10 +6,10 @@ Caixin has no sandbox, no test tenant, and no way to create disposable data. The
 only environment is the live site, read with a real subscription. That shapes
 everything below.
 
-The good news is that the blast radius is nil: every upstream command is
-read-only, and the tool has no write commands at all. An E2E run cannot mutate
-anything at Caixin. The risk is entirely on the other side — rate limiting, and
-exposing the account session.
+Every upstream command is read-only, so an E2E run cannot mutate anything at
+Caixin. `logout` is the one local credential write and requires the standard
+dry-run/confirm pair. Live testing still risks rate limiting and exposure of the
+account session.
 
 ## Layers
 
@@ -17,12 +17,12 @@ exposing the account session.
 |---|---|---|---|
 | Unit | parsing, routing, signature construction, schema guards | none | yes |
 | Mock upstream | every command's success, bad-args, auth-failure, and upstream-failure paths against an in-process HTTP server | none | yes |
-| Fixture replay | twelve commands replayed against a recorded cassette corpus and compared byte-for-byte with the reference implementation | none | yes |
-| Live smoke | every declared command against the real site with a signed-in account | yes | **no** |
+| Fixture replay | the recorded cassette corpus replayed against declared commands and compared with the reference implementation | none | yes |
+| Live smoke | declared commands against the real site with a signed-in account | yes | **no** |
 
-Only the last one needs a real account, and it is the reason
-`release_readiness.level` is `beta`. The `reason` field in `caixin-cli
-reference` says so in the same words.
+Only the last one needs a real account. Until command-level FCC is a reproducible
+release gate and current live-smoke evidence exists, `release_readiness.level`
+is `unpublishable`; `fcc_status` and `live_smoke_status` are both `missing`.
 
 ## Running the live smoke
 
@@ -34,7 +34,7 @@ caixin-cli doctor --compact          # confirm signing_key if --full is in scope
 
 # Then, per command, compare the payload keys against the declared schema:
 caixin-cli reference --compact       # read output_schema.fields per command
-caixin-cli latest --size 2 --compact
+caixin-cli latest --limit 2 --compact
 caixin-cli article <url> --full --compact
 ```
 
@@ -46,7 +46,7 @@ and record the date in [COMPATIBILITY.md](COMPATIBILITY.md).
 
 - **Never in CI.** It would need the account session as a secret, and would turn
   a third party's uptime into this repo's build status.
-- **Keep it small.** A handful of items per command with `--size 2`. This is a
+- **Keep it small.** A handful of items per command with `--limit 2`. This is a
   compatibility check, not a crawl; bulk archival is out of bounds.
 - **Never paste output into an issue or a transcript.** Payloads carry article
   text and, in `context`, account-shaped fields. Sanitize before sharing.

@@ -35,7 +35,7 @@
           "content_not_fetched": true,
           "image": "https://img.caixin.com/2026-01-16/176854520525270_266_177.jpg",
           "item_kind": "video_article",
-          "published_at": "2026-01-18 10:00",
+          "published_at": "2026-01-18T02:00:00Z",
           "summary": null,
           "title": "财新峰会最敢说的提问：代价到底是什么？",
           "url": "https://video.caixin.com/2026-01-18/102404397.html"
@@ -62,7 +62,7 @@
           "content_not_fetched": true,
           "image": "https://img.caixin.com/2026-01-16/176854520525270_266_177.jpg",
           "item_kind": "article",
-          "published_at": "2025-11-14 21:15",
+          "published_at": "2025-11-14T13:15:00Z",
           "summary": null,
           "title": "第十六届财新峰会闭幕 以“韧性与耐心”应对未来挑战",
           "url": "https://www.caixin.com/2025-11-14/102383211.html"
@@ -89,7 +89,7 @@
           "content_not_fetched": true,
           "image": "https://img.caixin.com/2026-01-16/176854520525270_266_177.jpg",
           "item_kind": "article",
-          "published_at": "2025-11-13 23:06",
+          "published_at": "2025-11-13T15:06:00Z",
           "summary": null,
           "title": "第十六届财新峰会开幕 嘉宾齐聚呼唤“韧性与耐心”",
           "url": "https://www.caixin.com/2025-11-13/102382562.html"
@@ -116,7 +116,7 @@
           "content_not_fetched": true,
           "image": "https://img.caixin.com/2026-01-16/176854488902245_266_177.jpg",
           "item_kind": "video_article",
-          "published_at": "2026-01-17 10:00",
+          "published_at": "2026-01-17T02:00:00Z",
           "summary": null,
           "title": "【抖音独家】现场直击财新亚洲愿景论坛！大佬都怎么看中国经济",
           "url": "https://video.caixin.com/2026-01-17/102404395.html"
@@ -143,7 +143,7 @@
           "content_not_fetched": true,
           "image": "https://img.caixin.com/2026-01-16/176854488902245_266_177.jpg",
           "item_kind": "video_article",
-          "published_at": "2025-10-23 15:31",
+          "published_at": "2025-10-23T07:31:00Z",
           "summary": null,
           "title": "【回顾】亚洲愿景论坛2025",
           "url": "https://video.caixin.com/2025-10-23/102374795.html"
@@ -170,7 +170,7 @@
           "content_not_fetched": true,
           "image": "https://img.caixin.com/2026-01-16/176854488902245_266_177.jpg",
           "item_kind": "video_article",
-          "published_at": "2025-10-13 11:15",
+          "published_at": "2025-10-13T03:15:00Z",
           "summary": null,
           "title": "【特别呈现】亚洲愿景论坛2025圆满闭幕",
           "url": "https://video.caixin.com/2025-10-13/102370997.html"
@@ -197,7 +197,7 @@
           "content_not_fetched": true,
           "image": "https://img.caixin.com/2026-01-15/176846499212999_266_177.jpg",
           "item_kind": "video_article",
-          "published_at": "2026-01-15 16:17",
+          "published_at": "2026-01-15T08:17:00Z",
           "summary": null,
           "title": "【小狮子｜财经评论的作品】如何一个人做号？",
           "url": "https://video.caixin.com/2026-01-16/102404037.html"
@@ -224,7 +224,7 @@
           "content_not_fetched": true,
           "image": "https://img.caixin.com/2026-01-15/176846499212999_266_177.jpg",
           "item_kind": "video_article",
-          "published_at": "2026-01-15 16:05",
+          "published_at": "2026-01-15T08:05:00Z",
           "summary": null,
           "title": "【小狮子｜财经评论的作品】诚惶诚恐，最终我还是写了“十五五”",
           "url": "https://video.caixin.com/2026-01-15/102404030.html"
@@ -253,7 +253,7 @@
           "content_not_fetched": true,
           "image": "https://img.caixin.com/2026-01-15/176846499212999_266_177.jpg",
           "item_kind": "article",
-          "published_at": "2026-01-15 07:12",
+          "published_at": "2026-01-14T23:12:00Z",
           "summary": null,
           "title": "财经早知道｜A股融资保证金比例上调，政策指向要“慢牛”",
           "url": "https://finance.caixin.com/2026-01-15/102403792.html"
@@ -282,7 +282,7 @@
           "content_not_fetched": true,
           "image": "https://img.caixin.com/2026-01-15/176846425430198_266_177.jpg",
           "item_kind": "article",
-          "published_at": "2026-01-15 09:04",
+          "published_at": "2026-01-15T01:04:00Z",
           "summary": null,
           "title": "财新闻｜“棋圣”聂卫平病逝",
           "url": "https://mini.caixin.com/2026-01-15/102403834.html"
@@ -311,7 +311,7 @@
           "content_not_fetched": true,
           "image": "https://img.caixin.com/2026-01-15/176846425430198_266_177.jpg",
           "item_kind": "article",
-          "published_at": "2026-01-14 09:42",
+          "published_at": "2026-01-14T01:42:00Z",
           "summary": null,
           "title": "财新闻｜美国政府批准向中国出口英伟达H200芯片",
           "url": "https://mini.caixin.com/2026-01-14/102403488.html"
@@ -342,7 +342,7 @@
   "source": {
     "canonical_url": "https://video.caixin.com/dr/",
     "discovery_source_url": "https://video.caixin.com/",
-    "fetched_at": "2026-08-08T08:45:17+00:00",
+    "fetched_at": "2026-08-08T08:45:17Z",
     "final_url": "https://video.caixin.com/dr/",
     "requested_url": "https://video.caixin.com/dr/"
   },

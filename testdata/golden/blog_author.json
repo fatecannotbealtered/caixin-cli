@@ -300,19 +300,19 @@
   },
   "rendered_visibility_verified": false,
   "reported_articles_count": 1012,
-  "reported_author_id": 6802322,
-  "reported_last_published_at": "2026-08-04T04:00:00+00:00",
-  "reported_last_published_at_ms": 1785816000000,
+  "reported_author_id": "6802322",
+  "reported_last_published_at": "2026-08-04T04:00:00Z",
   "schema_version": 1,
   "scripts_not_executed": true,
   "session_used": false,
   "source": {
     "discovered_from": "https://blog.caixin.com/",
-    "fetched_at": "2026-08-06T14:33:03+00:00",
+    "fetched_at": "2026-08-06T14:33:03Z",
     "final_url": "https://tangya.blog.caixin.com/",
     "requested_url": "https://tangya.blog.caixin.com/"
   },
   "stale_content": false,
   "title": "唐涯的财新博客-财新网",
-  "unique_urls_count": 10
+  "unique_urls_count": 10,
+  "source_mode": "server_html"
 }

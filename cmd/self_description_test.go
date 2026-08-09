@@ -4,6 +4,8 @@ import (
 	"slices"
 	"strings"
 	"testing"
+
+	caixincli "github.com/fatecannotbealtered/caixin-cli"
 )
 
 func TestReference_DescribesEveryCommandUsably(t *testing.T) {
@@ -15,7 +17,7 @@ func TestReference_DescribesEveryCommandUsably(t *testing.T) {
 
 	for _, key := range []string{
 		"tool", "version", "schema_version", "risk_tier", "minimum_skill_version",
-		"release_readiness", "commands", "schemas", "exit_codes", "global_options", "security", "output",
+		"release_readiness", "commands", "schemas", "error_codes", "exit_codes", "global_options", "authentication", "security", "output",
 	} {
 		if _, ok := data[key]; !ok {
 			t.Errorf("reference is missing %q", key)
@@ -86,6 +88,9 @@ func TestReference_ReleaseReadinessIsHonest(t *testing.T) {
 		if _, ok := readiness[key]; !ok {
 			t.Errorf("release_readiness is missing %q", key)
 		}
+	}
+	if level != "unpublishable" || readiness["fcc_status"] != "missing" || readiness["live_smoke_status"] != "missing" {
+		t.Errorf("release readiness overclaims incomplete evidence: %#v", readiness)
 	}
 }
 
@@ -170,15 +175,11 @@ func TestChangelog_ParsesEmbeddedSource(t *testing.T) {
 		t.Errorf("current_version = %v, want %v", data["current_version"], version)
 	}
 	entries, _ := data["entries"].([]any)
-	if len(entries) == 0 {
-		t.Fatal("changelog produced no entries; the embed or the parser is broken")
-	}
-	first, _ := entries[0].(map[string]any)
-	if _, ok := first["version"]; !ok {
-		t.Error("entry is missing version")
-	}
-	if _, ok := first["changes"]; !ok {
-		t.Error("entry is missing changes")
+	for _, raw := range entries {
+		entry, _ := raw.(map[string]any)
+		if entry["version"] == "1.0.0" && entry["date"] == "YYYY-MM-DD" {
+			t.Error("changelog parsed the commented release template as a shipped release")
+		}
 	}
 }
 
@@ -211,7 +212,18 @@ func TestChangelog_ParserSkipsUnreleased(t *testing.T) {
 	}
 }
 
+func TestChangelog_ParserIgnoresHTMLComments(t *testing.T) {
+	markdown := "<!--\n## [9.9.9] - YYYY-MM-DD\n\n### Added\n- template\n-->\n\n## [1.0.0] - 2026-01-01\n\n### Added\n- shipped\n"
+	entries := parseChangelog(markdown)
+	if len(entries) != 1 || entries[0].Version != "1.0.0" {
+		t.Fatalf("entries = %#v, want only the uncommented 1.0.0 release", entries)
+	}
+}
+
 func TestVersionFlag_ReportsToolVersion(t *testing.T) {
+	if version != caixincli.Version || SkillMinVersion != caixincli.Version {
+		t.Fatalf("runtime versions = %q/%q, manifest version = %q", version, SkillMinVersion, caixincli.Version)
+	}
 	got := runCLI(t, nil, "--version")
 	if got.Exit != 0 {
 		t.Fatalf("exit = %d", got.Exit)
@@ -219,6 +231,25 @@ func TestVersionFlag_ReportsToolVersion(t *testing.T) {
 	if !strings.Contains(got.Stdout, version) {
 		t.Errorf("--version output %q does not contain %q", got.Stdout, version)
 	}
+	if got := runCLI(t, nil, "context", "--state-dir", t.TempDir(), "--compact").Data(t)["version"]; got != caixincli.Version {
+		t.Errorf("context.data.version = %v, want %q", got, caixincli.Version)
+	}
+	if got := runCLI(t, nil, "changelog", "--compact").Data(t)["current_version"]; got != caixincli.Version {
+		t.Errorf("changelog.data.current_version = %v, want %q", got, caixincli.Version)
+	}
+	checks, _ := runCLI(t, nil, "doctor", "--state-dir", t.TempDir(), "--compact").Data(t)["checks"].([]any)
+	for _, raw := range checks {
+		check, _ := raw.(map[string]any)
+		if check["check"] != "version" {
+			continue
+		}
+		details, _ := check["details"].(map[string]any)
+		if details["current_version"] != caixincli.Version {
+			t.Errorf("doctor current_version = %v, want %q", details["current_version"], caixincli.Version)
+		}
+		return
+	}
+	t.Error("doctor returned no version check")
 }
 
 // The `_untrusted` marker on a payload is generated from the command's declared

@@ -15,9 +15,9 @@
     "expected": "Runs caixin-cli route, which makes no network request, then executes the returned command array verbatim. Does not concatenate the argv into a shell string."
   },
   {
-    "id": "unimplemented-target-is-reported-not-substituted",
-    "prompt": "Open https://weekly.caixin.com/2026/cw1217/ and read it to me.",
-    "expected": "Routes the url, then reports that the resulting command (issue) is not implemented in this build. Does not substitute another command, scrape the page, or claim the content was read."
+    "id": "logout-requires-preview-and-confirmation",
+    "prompt": "Log me out of Caixin.",
+    "expected": "Runs logout --dry-run first, shows the local credential deletion preview, and stops for confirmation. Only after approval runs logout --confirm with that exact token. Never fabricates or reuses a token."
   },
   {
     "id": "qr-login-is-relayed-not-polled",
@@ -37,7 +37,7 @@
   {
     "id": "validation-errors-are-not-retried",
     "prompt": "Get me 99 Caixin search results per page.",
-    "expected": "Receives E_VALIDATION (exit 2, retryable false), corrects --size to at most 20, and does not back off and retry the invalid call."
+    "expected": "Receives E_VALIDATION (exit 2, retryable false), corrects --limit to at most 20, and does not back off and retry the invalid call."
   },
   {
     "id": "retryable-errors-back-off",

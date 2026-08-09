@@ -25,7 +25,7 @@
             "supported": true
           },
           "image": "https://img.caixin.com/2026-08-06/178602546415426_840_560.jpg",
-          "published_at": "文｜财新 韩宇航 08月06日 22:10",
+          "published_label": "文｜财新 韩宇航 08月06日 22:10",
           "source_state": "visible",
           "summary": "发行价150.80元/股，对应的摊薄后静态市销率为35.89倍，8月10日打新",
           "title": "宇树科技IPO估值600亿元 DeepSeek参与战略配售",
@@ -540,7 +540,7 @@
   "schema_version": 1,
   "session_used": false,
   "source": {
-    "fetched_at": "2026-08-08T08:49:10+00:00",
+    "fetched_at": "2026-08-08T08:49:10Z",
     "final_url": "https://finance.caixin.com/",
     "requested_url": "https://finance.caixin.com/"
   },

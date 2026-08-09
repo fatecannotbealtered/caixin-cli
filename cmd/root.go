@@ -8,20 +8,23 @@ import (
 	"io"
 	"net"
 	"os"
+	"os/signal"
 	"strings"
+	"syscall"
 	"time"
 
+	caixincli "github.com/fatecannotbealtered/caixin-cli"
 	"github.com/fatecannotbealtered/caixin-cli/internal/caixin"
 	"github.com/fatecannotbealtered/caixin-cli/internal/output"
 	"github.com/spf13/cobra"
 )
 
-var version = "0.1.0"
+var version = caixincli.Version
 
 // SkillMinVersion is the tool version the bundled Skill was written against.
 // `doctor` compares it so a Skill that expects newer commands fails loudly
 // rather than calling something that does not exist (CLI-SPEC §14).
-const SkillMinVersion = "0.1.0"
+var SkillMinVersion = caixincli.Version
 
 type application struct {
 	in  io.Reader
@@ -43,7 +46,10 @@ type application struct {
 
 // Execute is the process entry point.
 func Execute() {
-	os.Exit(ExecuteArgs(context.Background(), os.Args[1:], os.Stdin, os.Stdout, os.Stderr))
+	ctx, stop := signal.NotifyContext(context.Background(), os.Interrupt, syscall.SIGTERM)
+	exit := ExecuteArgs(ctx, os.Args[1:], os.Stdin, os.Stdout, os.Stderr)
+	stop()
+	os.Exit(exit)
 }
 
 // ExecuteArgs runs one isolated invocation and returns its process exit code.

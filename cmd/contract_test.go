@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"os"
 	"path/filepath"
+	"reflect"
 	"runtime"
 	"sort"
 	"strings"
@@ -115,6 +116,22 @@ func TestContract_CoreErrorCodesMatchCanonical(t *testing.T) {
 		if got.Retryable != wantRetryable {
 			t.Errorf("%s retryable = %v, want %v", name, got.Retryable, wantRetryable)
 		}
+	}
+}
+
+func TestReference_ExitCodesMatchCanonicalTable(t *testing.T) {
+	canonical := canonicalContract(t)
+	exitSpec, _ := canonical["exit_codes"].(map[string]any)
+	want, _ := exitSpec["table"].(map[string]any)
+	data := runCLI(t, nil, "reference", "--compact").Data(t)
+	got, _ := data["exit_codes"].(map[string]any)
+	if !reflect.DeepEqual(got, want) {
+		t.Errorf("reference.exit_codes = %#v, want canonical table %#v", got, want)
+	}
+	errorCodes, _ := data["error_codes"].(map[string]any)
+	usage, _ := errorCodes["E_USAGE"].(map[string]any)
+	if usage["exit"] != float64(2) || usage["retryable"] != false {
+		t.Errorf("reference.error_codes.E_USAGE lost its binding: %#v", usage)
 	}
 }
 

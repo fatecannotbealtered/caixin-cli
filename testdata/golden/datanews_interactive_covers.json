@@ -34,7 +34,7 @@
   "source": {
     "canonical_url": "https://datanews.caixin.com/interactive/2019/covers/",
     "discovered_from": "https://datanews.caixin.com/datatopic/",
-    "fetched_at": "2026-08-08T08:48:44+00:00",
+    "fetched_at": "2026-08-08T08:48:44Z",
     "final_url": "https://datanews.caixin.com/interactive/2019/covers/",
     "normalized_target_url": "https://datanews.caixin.com/interactive/2019/covers/",
     "requested_url": "https://datanews.caixin.com/interactive/2019/covers/"

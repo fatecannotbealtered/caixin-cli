@@ -518,7 +518,7 @@
   "schema_version": 1,
   "session_used": false,
   "source": {
-    "fetched_at": "2026-08-08T08:49:03+00:00",
+    "fetched_at": "2026-08-08T08:49:03Z",
     "final_url": "https://wenews.caixin.com/",
     "requested_url": "https://wenews.caixin.com/"
   },

@@ -1,11 +1,14 @@
 package cmd
 
 import (
+	"encoding/json"
 	"net/http"
 	"os"
 	"path/filepath"
 	"strings"
 	"testing"
+
+	"github.com/fatecannotbealtered/caixin-cli/internal/secret"
 )
 
 // mountAll registers every endpoint the command surface touches, so a single
@@ -172,6 +175,87 @@ func TestQueryCommands_EmptyResultStillSucceeds(t *testing.T) {
 	}
 }
 
+func TestListCommands_LimitMapsUpstreamAndReturnsPagination(t *testing.T) {
+	cases := []struct {
+		name   string
+		path   string
+		args   []string
+		verify func(*http.Request) bool
+	}{
+		{"latest", "/api/dataplatform/scroll/index", []string{"latest", "--limit", "1"}, func(r *http.Request) bool { return r.URL.Query().Get("size") == "1" }},
+		{"search", "/api/dataplatform/common/search", []string{"search", "经济", "--limit", "1"}, func(r *http.Request) bool {
+			var body map[string]any
+			return json.NewDecoder(r.Body).Decode(&body) == nil && body["pageSize"] == float64(1)
+		}},
+		{"cxdata-feed", "/api/dataplus/sjtPc/news", []string{"cxdata-feed", "latest", "--limit", "1"}, func(r *http.Request) bool { return r.URL.Query().Get("pageSize") == "1" }},
+		{"topics", "/api/extapi/homeInterface.jsp", []string{"topics", "https://topics.caixin.com/economy/", "--limit", "1"}, func(r *http.Request) bool { return r.URL.Query().Get("count") == "1" }},
+		{"frontline", "/app/v1/list", []string{"frontline", "--limit", "1"}, func(r *http.Request) bool { return r.URL.Query().Get("c") == "1" }},
+	}
+	for _, testCase := range cases {
+		t.Run(testCase.name, func(t *testing.T) {
+			mock := mountAll(t)
+			original := mock.handlers[testCase.path]
+			mapped := false
+			mock.handlers[testCase.path] = func(w http.ResponseWriter, r *http.Request) {
+				mapped = testCase.verify(r)
+				original(w, r)
+			}
+			got := run(t, mock, testCase.args...)
+			if got.Exit != 0 {
+				t.Fatalf("exit = %d: %s", got.Exit, got.Stdout)
+			}
+			if !mapped {
+				t.Error("--limit was not mapped to the upstream page-size parameter")
+			}
+			data := got.Data(t)
+			if _, ok := data["count"]; !ok {
+				t.Error("list result is missing count")
+			}
+			if _, ok := data["has_more"].(bool); !ok {
+				t.Error("list result is missing boolean has_more")
+			}
+		})
+	}
+}
+
+func TestLatest_ReturnsNextPageAndISOTimestamps(t *testing.T) {
+	mock := newMockUpstream(t)
+	mock.OK("/api/dataplatform/scroll/index", map[string]any{
+		"currentPage": 1, "pageSize": 1, "totalRecords": 3,
+		"articleList": []any{map[string]any{
+			"contentId": "1", "title": "t", "url": "https://www.caixin.com/a.html",
+			"time": 1785981475000, "updateTime": "1786026261000",
+		}},
+	})
+	data := run(t, mock, "latest", "--limit", "1").Data(t)
+	if data["next_page"] != float64(2) {
+		t.Errorf("next_page = %v, want 2", data["next_page"])
+	}
+	articles, _ := data["articles"].([]any)
+	article, _ := articles[0].(map[string]any)
+	if article["published_at"] != "2026-08-06T01:57:55Z" || article["updated_at"] != "2026-08-06T14:24:21Z" {
+		t.Errorf("article timestamps = %v/%v, want ISO-8601 UTC", article["published_at"], article["updated_at"])
+	}
+	if _, ok := article["published_at_ms"]; ok {
+		t.Error("article still exposes published_at_ms")
+	}
+}
+
+func TestListCommands_RejectSizeAndLimitTogether(t *testing.T) {
+	for _, args := range [][]string{
+		{"latest", "--size", "1", "--limit", "1"},
+		{"search", "经济", "--size", "1", "--limit", "1"},
+		{"cxdata-feed", "latest", "--size", "1", "--limit", "1"},
+		{"topics", "https://topics.caixin.com/economy/", "--size", "1", "--limit", "1"},
+		{"frontline", "--size", "1", "--limit", "1"},
+	} {
+		got := run(t, mountAll(t), args...)
+		if got.Exit != 2 || got.ErrorCode(t) != "E_USAGE" {
+			t.Errorf("%v = exit %d/code %s, want 2/E_USAGE", args, got.Exit, got.ErrorCode(t))
+		}
+	}
+}
+
 // Arguments are validated before any request: a bad scope must be a usage error,
 // never a request that quietly returns the wrong scope's results.
 func TestQueryCommands_InvalidArguments(t *testing.T) {
@@ -254,17 +338,105 @@ func TestStatus_ReportsSessionWithoutImplyingEntitlement(t *testing.T) {
 	}
 }
 
-func TestLogout_IsIdempotent(t *testing.T) {
+func TestLogout_RequiresDryRunAndConfirm(t *testing.T) {
 	dir := t.TempDir()
-	first := runCLI(t, nil, "logout", "--state-dir", dir, "--compact")
+	if err := os.WriteFile(filepath.Join(dir, "cookies.json"), []byte(`[{"name":"session","value":"test","domain":"www.caixin.com","path":"/"}]`), 0o600); err != nil {
+		t.Fatalf("seed session: %v", err)
+	}
+
+	bare := runCLI(t, nil, "logout", "--state-dir", dir, "--compact")
+	if bare.Exit != 5 || bare.ErrorCode(t) != "E_CONFIRMATION_REQUIRED" {
+		t.Fatalf("bare logout = exit %d, code %s; want exit 5/E_CONFIRMATION_REQUIRED",
+			bare.Exit, bare.ErrorCode(t))
+	}
+	fabricated := runCLI(t, nil, "logout", "--confirm", "ct_fabricated_0000", "--state-dir", dir, "--compact")
+	if fabricated.Exit != 6 || fabricated.ErrorCode(t) != "E_CONFLICT" {
+		t.Fatalf("fabricated confirm = exit %d, code %s; want exit 6/E_CONFLICT",
+			fabricated.Exit, fabricated.ErrorCode(t))
+	}
+
+	preview := runCLI(t, nil, "logout", "--dry-run", "--state-dir", dir, "--compact")
+	if preview.Exit != 0 {
+		t.Fatalf("dry-run exit = %d: %s", preview.Exit, preview.Stdout)
+	}
+	token, _ := preview.Data(t)["confirm_token"].(string)
+	if token == "" {
+		t.Fatal("dry-run returned no confirm_token")
+	}
+	changes, _ := preview.Data(t)["preview"].(map[string]any)["changes"].([]any)
+	first, _ := changes[0].(map[string]any)
+	before, _ := first["before"].(map[string]any)
+	if configured, _ := before["configured"].(bool); !configured {
+		t.Fatal("bare/fabricated/dry-run logout removed the configured session")
+	}
+
+	confirmed := runCLI(t, nil, "logout", "--confirm", token, "--state-dir", dir, "--compact")
+	if confirmed.Exit != 0 {
+		t.Fatalf("confirmed logout exit = %d: %s", confirmed.Exit, confirmed.Stdout)
+	}
+	if cleared, _ := confirmed.Data(t)["logged_out"].(bool); !cleared {
+		t.Error("confirmed logout did not report logged_out=true")
+	}
+	after := runCLI(t, nil, "logout", "--dry-run", "--state-dir", dir, "--compact")
+	afterChanges, _ := after.Data(t)["preview"].(map[string]any)["changes"].([]any)
+	afterFirst, _ := afterChanges[0].(map[string]any)
+	afterBefore, _ := afterFirst["before"].(map[string]any)
+	if configured, _ := afterBefore["configured"].(bool); configured {
+		t.Fatal("confirmed logout left the configured session behind")
+	}
+}
+
+func TestLogout_ConfirmTokenIsSingleUse(t *testing.T) {
+	dir := t.TempDir()
+	preview := runCLI(t, nil, "logout", "--dry-run", "--state-dir", dir, "--compact")
+	token, _ := preview.Data(t)["confirm_token"].(string)
+	first := runCLI(t, nil, "logout", "--confirm", token, "--state-dir", dir, "--compact")
 	if first.Exit != 0 {
-		t.Fatalf("exit = %d: %s", first.Exit, first.Stdout)
+		t.Fatalf("first confirm exit = %d: %s", first.Exit, first.Stdout)
 	}
-	if cleared, _ := first.Data(t)["logged_out"].(bool); !cleared {
-		t.Error("logged_out = false")
+	replay := runCLI(t, nil, "logout", "--confirm", token, "--state-dir", dir, "--compact")
+	if replay.Exit != 6 || replay.ErrorCode(t) != "E_CONFLICT" {
+		t.Fatalf("replayed confirm = exit %d/code %s, want 6/E_CONFLICT",
+			replay.Exit, replay.ErrorCode(t))
 	}
-	if second := runCLI(t, nil, "logout", "--state-dir", dir, "--compact"); second.Exit != 0 {
-		t.Errorf("repeat logout should be idempotent, got exit %d", second.Exit)
+}
+
+func TestLogout_RejectsTokenAfterCredentialChanges(t *testing.T) {
+	dir := t.TempDir()
+	initial := []byte(`[{"name":"session","value":"first","domain":"www.caixin.com","path":"/"}]`)
+	if err := os.WriteFile(filepath.Join(dir, "cookies.json"), initial, 0o600); err != nil {
+		t.Fatalf("seed session: %v", err)
+	}
+	preview := runCLI(t, nil, "logout", "--dry-run", "--state-dir", dir, "--compact")
+	token, _ := preview.Data(t)["confirm_token"].(string)
+
+	changed := []byte(`[{"name":"session","value":"second","domain":"www.caixin.com","path":"/"}]`)
+	if err := secret.New(dir).Save("session", changed); err != nil {
+		t.Fatalf("replace session: %v", err)
+	}
+	confirmed := runCLI(t, nil, "logout", "--confirm", token, "--state-dir", dir, "--compact")
+	if confirmed.Exit != 6 || confirmed.ErrorCode(t) != "E_CONFLICT" {
+		t.Fatalf("confirm after credential change = exit %d/code %s, want 6/E_CONFLICT",
+			confirmed.Exit, confirmed.ErrorCode(t))
+	}
+	if authenticated, _ := runCLI(t, nil, "status", "--state-dir", dir, "--compact").Data(t)["authenticated"].(bool); !authenticated {
+		t.Fatal("rejected stale token removed the replacement session")
+	}
+}
+
+func TestLogout_LedgerPersistenceFailureIsFailOpen(t *testing.T) {
+	dir := t.TempDir()
+	if err := os.WriteFile(filepath.Join(dir, "cookies.json"), []byte(`[{"name":"session","value":"test","domain":"www.caixin.com","path":"/"}]`), 0o600); err != nil {
+		t.Fatalf("seed session: %v", err)
+	}
+	preview := runCLI(t, nil, "logout", "--dry-run", "--state-dir", dir, "--compact")
+	token, _ := preview.Data(t)["confirm_token"].(string)
+	if err := os.WriteFile(filepath.Join(dir, "confirm-consumed"), []byte("not a directory"), 0o600); err != nil {
+		t.Fatalf("block ledger directory: %v", err)
+	}
+	confirmed := runCLI(t, nil, "logout", "--confirm", token, "--state-dir", dir, "--compact")
+	if confirmed.Exit != 0 {
+		t.Fatalf("ledger failure blocked confirmed logout: exit %d: %s", confirmed.Exit, confirmed.Stdout)
 	}
 }
 

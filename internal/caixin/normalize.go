@@ -7,6 +7,7 @@ import (
 	"regexp"
 	"strconv"
 	"strings"
+	"time"
 )
 
 var whitespaceRun = regexp.MustCompile(`\s+`)
@@ -55,6 +56,20 @@ func intOrNil(value any) any {
 		return parsed
 	}
 	return nil
+}
+
+// isoTimestamp accepts the millisecond values used by the JSON feeds (and the
+// occasional second-valued or string-encoded timestamp) and emits one stable
+// ISO-8601 UTC representation.
+func isoTimestamp(value any) any {
+	parsed, ok := safeInt(value)
+	if !ok || parsed <= 0 {
+		return nil
+	}
+	if parsed < 1_000_000_000_000 {
+		return time.Unix(int64(parsed), 0).UTC().Format(time.RFC3339)
+	}
+	return time.UnixMilli(int64(parsed)).UTC().Format(time.RFC3339)
 }
 
 // plainText unescapes entities, strips tags, and collapses whitespace. Caixin
@@ -133,17 +148,17 @@ func NormalizeArticle(item map[string]any) map[string]any {
 		channelName = item["cornerMark"]
 	}
 	return map[string]any{
-		"content_id":      contentID,
-		"title":           plainText(title),
-		"summary":         plainText(item["summary"]),
-		"snippet":         plainText(item["text"]),
-		"author":          plainText(item["author"]),
-		"channel":         item["channel"],
-		"channel_name":    channelName,
-		"url":             item["url"],
-		"picture":         emptyToNil(asString(item["picture"])),
-		"published_at_ms": item["time"],
-		"updated_at_ms":   item["updateTime"],
+		"content_id":   contentID,
+		"title":        plainText(title),
+		"summary":      plainText(item["summary"]),
+		"snippet":      plainText(item["text"]),
+		"author":       plainText(item["author"]),
+		"channel":      item["channel"],
+		"channel_name": channelName,
+		"url":          item["url"],
+		"picture":      emptyToNil(asString(item["picture"])),
+		"published_at": isoTimestamp(item["time"]),
+		"updated_at":   isoTimestamp(item["updateTime"]),
 	}
 }
 
@@ -199,9 +214,9 @@ func NormalizeFrontlineItem(value any) map[string]any {
 		"detail_url":        "https://k.caixin.com/web/detail_" + code,
 		"title":             plainText(item["title"]),
 		"text":              plainText(item["text"]),
-		"published_at_ms":   intOrNil(item["ts"]),
-		"date":              plainText(item["date"]),
-		"time":              plainText(item["time"]),
+		"published_at":      isoTimestamp(item["ts"]),
+		"date_label":        plainText(item["date"]),
+		"time_label":        plainText(item["time"]),
 		"type":              intOrNil(item["type"]),
 		"highlighted":       truthy(item["attr"]),
 		"audio_title":       plainText(item["audio_title"]),
@@ -346,8 +361,8 @@ func relatedNews(item map[string]any) map[string]any {
 	if image := outputURL("https://entities.caixin.com/", entry["picture"]); image != "" {
 		news["image"] = image
 	}
-	if published := intOrNil(entry["time"]); published != nil {
-		news["published_at_ms"] = published
+	if published := isoTimestamp(entry["time"]); published != nil {
+		news["published_at"] = published
 	}
 	return news
 }
@@ -402,8 +417,8 @@ func NormalizeCXDataItem(value any, category string) map[string]any {
 		result["published_at"] = published
 	}
 	for _, pair := range []struct{ upstream, output string }{
-		{"tag", "tag"}, {"tagColor", "tag_color"}, {"date", "date"},
-		{"time", "display_time"}, {"intervalTime", "interval_time"},
+		{"tag", "tag"}, {"tagColor", "tag_color"}, {"date", "date_label"},
+		{"intervalTime", "interval_label"},
 		{"createTime", "created_at"}, {"updateTime", "updated_at"},
 		{"type", "kind"}, {"flag", "flag"},
 	} {

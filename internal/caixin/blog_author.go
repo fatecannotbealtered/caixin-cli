@@ -226,13 +226,7 @@ func blogAuthorDocument(doc *xhtml.Node, pageURL, authorKey string) (map[string]
 	result["profile"] = profile
 	result["reported_author_id"] = authorID
 	result["reported_articles_count"] = reportedCount
-	result["reported_last_published_at_ms"] = lastTime
-	if value, ok := lastTime.(int); ok {
-		result["reported_last_published_at"] =
-			time.UnixMilli(int64(value)).UTC().Format("2006-01-02T15:04:05+00:00")
-	} else {
-		result["reported_last_published_at"] = nil
-	}
+	result["reported_last_published_at"] = isoTimestamp(lastTime)
 	// The page renders only the newest posts; the rest is behind a button this
 	// client does not press.
 	result["pagination"] = "ssr_sidebar_latest_only"

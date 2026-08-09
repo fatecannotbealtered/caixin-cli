@@ -25,7 +25,7 @@
             "supported": true
           },
           "image": "https://img.caixin.com/2026-08-07/178608602445485_840_560.jpg",
-          "published_at": "文｜财新 罗国平 08月07日 14:40",
+          "published_label": "文｜财新 罗国平 08月07日 14:40",
           "source_state": "visible",
           "summary": "该国铜、钴精矿出口极为有限，实质影响不大；这一举措或更具政策信号意义",
           "title": "刚果（金）铜钴精矿禁令扰动市场 多家企业称暂无影响 | 出海·政策",
@@ -518,7 +518,7 @@
   "schema_version": 1,
   "session_used": false,
   "source": {
-    "fetched_at": "2026-08-08T08:49:13+00:00",
+    "fetched_at": "2026-08-08T08:49:13Z",
     "final_url": "https://companies.caixin.com/",
     "requested_url": "https://companies.caixin.com/"
   },

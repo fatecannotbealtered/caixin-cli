@@ -22,10 +22,9 @@ func TestGlobalFlags_FieldsProjectsData(t *testing.T) {
 	if _, ok := data["data"]; !ok {
 		t.Error("--fields data dropped the requested field")
 	}
-	for _, dropped := range []string{"_untrusted"} {
-		if _, present := data[dropped]; present {
-			t.Errorf("--fields data should have dropped %q", dropped)
-		}
+	marked, ok := data["_untrusted"].([]any)
+	if !ok || len(marked) != 1 || marked[0] != "data" {
+		t.Errorf("--fields data must preserve _untrusted=[data], got %#v", data["_untrusted"])
 	}
 }
 

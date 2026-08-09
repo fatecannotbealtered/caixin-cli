@@ -2058,7 +2058,7 @@
   "session_used": false,
   "source": {
     "canonical_url": "https://datanews.caixin.com/datatopic/",
-    "fetched_at": "2026-08-06T14:33:04+00:00",
+    "fetched_at": "2026-08-06T14:33:04Z",
     "final_url": "https://datanews.caixin.com/datatopic/",
     "requested_url": "https://datanews.caixin.com/datatopic/"
   },
