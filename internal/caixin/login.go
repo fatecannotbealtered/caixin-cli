@@ -5,6 +5,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
+	"github.com/fatecannotbealtered/caixin-cli/internal/secret"
 	"net/http"
 	"net/url"
 	"os"
@@ -36,6 +37,53 @@ type pendingLogin struct {
 
 func pendingLoginPath(stateDir string) string {
 	return filepath.Join(stateDir, pendingLoginFile)
+}
+
+// pendingLoginSecret is the name the handshake is sealed under.
+//
+// The code in it is a credential for the length of the handshake -- it is what
+// `login-resume` presents to claim the session -- so it belongs in the same
+// sealed store as the session, not in a plaintext file beside it. The old
+// plaintext file is removed on sight, because leaving a credential behind after
+// a build stops reading it is pure exposure.
+const pendingLoginSecret = "login-pending"
+
+func savePendingLogin(stateDir string, pending pendingLogin) error {
+	encoded, err := json.Marshal(pending)
+	if err != nil {
+		return err
+	}
+	if err := os.MkdirAll(stateDir, 0o700); err != nil {
+		return err
+	}
+	if err := secret.New(stateDir).Save(pendingLoginSecret, encoded); err != nil {
+		return err
+	}
+	_ = os.Remove(pendingLoginPath(stateDir))
+	return nil
+}
+
+func loadPendingLogin(stateDir string) (pendingLogin, bool) {
+	var pending pendingLogin
+	raw, err := secret.New(stateDir).Load(pendingLoginSecret)
+	if err == nil && json.Unmarshal(raw, &pending) == nil && pending.QRCode != "" {
+		return pending, true
+	}
+	// A handshake started by an older build is still usable; it is migrated by
+	// being consumed, and the plaintext file goes with it.
+	legacy, err := os.ReadFile(pendingLoginPath(stateDir))
+	if err != nil {
+		return pendingLogin{}, false
+	}
+	if json.Unmarshal(legacy, &pending) != nil || pending.QRCode == "" {
+		return pendingLogin{}, false
+	}
+	return pending, true
+}
+
+func clearPendingLogin(stateDir string) {
+	_ = secret.New(stateDir).Delete(pendingLoginSecret)
+	_ = os.Remove(pendingLoginPath(stateDir))
 }
 
 // LoginStart mints a QR code and returns where the image was written.
@@ -85,30 +133,61 @@ func (c *Client) LoginStart(ctx context.Context, imagePath string) (map[string]a
 		return nil, err
 	}
 
-	// The code itself is a credential for the duration of the handshake: it is
-	// what `login-resume` presents to claim the session.
-	if err := os.MkdirAll(c.stateDir, 0o700); err != nil {
-		return nil, err
-	}
-	encoded, err := json.Marshal(pendingLogin{
+	if err := savePendingLogin(c.stateDir, pendingLogin{
 		QRCode:    qrCode,
 		CreatedAt: time.Now().Unix(),
 		ImagePath: written,
-	})
-	if err != nil {
-		return nil, err
-	}
-	if err := os.WriteFile(pendingLoginPath(c.stateDir), encoded, 0o600); err != nil {
+	}); err != nil {
 		return nil, err
 	}
 
-	return map[string]any{
+	result := map[string]any{
 		"status":       "NEW",
 		"qr_image":     written,
 		"action":       "open the Caixin app, tap 我的 → 扫一扫, and scan this image",
 		"resume":       "caixin-cli login-resume",
 		"human_action": true,
-	}, nil
+	}
+	// The code is good for about a minute, which is short enough that a caller
+	// pacing itself normally will miss the window and read the expiry as a bug.
+	// The deadline is read from the service rather than hardcoded, so a change
+	// upstream does not turn this field into a confident lie.
+	if expires, ok := c.qrExpiry(ctx, qrCode); ok {
+		result["expires_at"] = expires.UTC().Format(time.RFC3339)
+		result["expires_in_seconds"] = int(time.Until(expires).Seconds())
+	}
+	return result, nil
+}
+
+// qrExpiry asks the status endpoint when this code dies. A failure here is not
+// worth failing `login` over: the code still works, the caller just does not
+// learn the deadline.
+func (c *Client) qrExpiry(ctx context.Context, qrCode string) (time.Time, bool) {
+	raw, err := c.do(ctx, requestSpec{
+		Method: http.MethodGet,
+		URL:    QRStatusURL,
+		Query:  url.Values{"qrCode": {qrCode}, "_t": {strconv.FormatInt(time.Now().UnixMilli(), 10)}},
+		Headers: map[string]string{
+			"Referer": "https://u.caixin.com/web/login",
+			"Cookie":  "LOGIN_QR_CODE=" + qrCode,
+		},
+		Anonymous: true,
+	})
+	if err != nil {
+		return time.Time{}, false
+	}
+	value, err := decodeJSONObject(raw)
+	if err != nil {
+		return time.Time{}, false
+	}
+	data, _ := value["data"].(map[string]any)
+	// A millisecond epoch is ~1.8e12, far below the 2^53 where a JSON number
+	// would start losing precision, so the shared int reader is safe here.
+	milliseconds, ok := safeInt(data["expireTime"])
+	if !ok || milliseconds <= 0 {
+		return time.Time{}, false
+	}
+	return time.UnixMilli(int64(milliseconds)), true
 }
 
 // saveQRImage writes the QR bitmap, accepting either a data URI or a Caixin url.
@@ -181,12 +260,8 @@ var ErrNoPendingLogin = fmt.Errorf("no login is in progress; run `caixin-cli log
 
 // LoginResume checks the outstanding code exactly once.
 func (c *Client) LoginResume(ctx context.Context) (map[string]any, string, error) {
-	raw, err := os.ReadFile(pendingLoginPath(c.stateDir))
-	if err != nil {
-		return nil, "", ErrNoPendingLogin
-	}
-	var pending pendingLogin
-	if err := json.Unmarshal(raw, &pending); err != nil || pending.QRCode == "" {
+	pending, ok := loadPendingLogin(c.stateDir)
+	if !ok {
 		return nil, "", ErrNoPendingLogin
 	}
 
@@ -244,7 +319,7 @@ func (c *Client) LoginResume(ctx context.Context) (map[string]any, string, error
 		}
 		// The handshake is finished; the code must not linger where a later run
 		// could replay it.
-		_ = os.Remove(pendingLoginPath(c.stateDir))
+		clearPendingLogin(c.stateDir)
 		if pending.ImagePath != "" {
 			_ = os.Remove(pending.ImagePath)
 		}
@@ -255,7 +330,7 @@ func (c *Client) LoginResume(ctx context.Context) (map[string]any, string, error
 		}, status, nil
 
 	case "EXPIRED", "CANCELED":
-		_ = os.Remove(pendingLoginPath(c.stateDir))
+		clearPendingLogin(c.stateDir)
 		if pending.ImagePath != "" {
 			_ = os.Remove(pending.ImagePath)
 		}

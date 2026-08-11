@@ -9,6 +9,7 @@ import (
 	"net"
 	"os"
 	"os/signal"
+	"strconv"
 	"strings"
 	"syscall"
 	"time"
@@ -286,7 +287,7 @@ func asCLIError(err error) *output.CLIError {
 			code = output.CodeForStatus(apiErr.StatusCode)
 		} else if apiErr.Code != nil {
 			details["business_code"] = apiErr.Code
-			code = "E_SERVER"
+			code = businessCode(apiErr.Code)
 		}
 		return output.WrapError(code, apiErr.Error(), err, details)
 	}
@@ -299,4 +300,43 @@ func asCLIError(err error) *output.CLIError {
 		return output.WrapError("E_NETWORK", "upstream network request failed", err, nil)
 	}
 	return output.WrapError("E_USAGE", err.Error(), err, nil)
+}
+
+// businessCode classifies Caixin's in-band codes.
+//
+// Everything used to fall through to E_SERVER, which is retryable, so a
+// permanent answer read as "try again later" and an agent would loop on it.
+// Both codes below were observed directly: 1001 is what the QR status endpoint
+// answers for a code that has expired or was never minted, and 600 is what the
+// account APIs answer when the session is not accepted. Classified by code
+// rather than by message, because 1001's own text ("二维码不存在") and 600's
+// ("未登录，请先登录") are the kind of prose that changes without warning.
+func businessCode(value any) string {
+	switch asBusinessInt(value) {
+	case 1001:
+		return "E_NOT_FOUND"
+	case 600:
+		return "E_AUTH"
+	}
+	return "E_SERVER"
+}
+
+func asBusinessInt(value any) int {
+	switch typed := value.(type) {
+	case int:
+		return typed
+	case int64:
+		return int(typed)
+	case float64:
+		return int(typed)
+	case json.Number:
+		if parsed, err := typed.Int64(); err == nil {
+			return int(parsed)
+		}
+	case string:
+		if parsed, err := strconv.Atoi(strings.TrimSpace(typed)); err == nil {
+			return parsed
+		}
+	}
+	return 0
 }

@@ -21,6 +21,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+- Every in-band business code fell through to `E_SERVER`, which is retryable, so
+  permanent answers read as "try again later". Code 1001 -- the QR status
+  endpoint's "this code does not exist" -- is now `E_NOT_FOUND`, and 600, which
+  the account APIs answer when the session is not accepted, is now `E_AUTH`.
+  Both were observed directly and are classified by code, not by message text.
+- `login` reports when the code dies. It is good for about a minute, which is
+  short enough that a caller pacing itself normally misses the window and reads
+  the expiry as a fault; `expires_at` and `expires_in_seconds` are read from the
+  service rather than hardcoded.
+- The handshake between `login` and `login-resume` is sealed in the credential
+  store instead of written to `login-pending.json` in the clear. The code in it
+  is what `login-resume` presents to claim a session, which the file's own
+  comment already called a credential. A handshake left by an older build is
+  still honoured, and consuming it removes the plaintext file.
+
+### Fixed
+
 - The account's own APIs were unreachable while signed in. `entitlements` and
   the signed full-text endpoint live on `gateway.caixin.com`, while the login
   cookies are issued for `www.caixin.com`, so a cookie jar sent nothing across
