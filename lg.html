@@ -1,0 +1,43 @@
+<!DOCTYPE html><html lang="zh_cn"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover"><script crossorigin="anonymous" src="//file.caixin.com/monitor/cxMonitor.js"></script><link href="//file.caixin.com/pkg/cx-user-center/web/static/css/app.css" rel="preload" as="style"><link href="//file.caixin.com/pkg/cx-user-center/web/static/css/chunk-libs.css" rel="preload" as="style"><link href="//file.caixin.com/pkg/cx-user-center/web/static/js/app.js" rel="preload" as="script"><link href="//file.caixin.com/pkg/cx-user-center/web/static/js/chunk-elementUI.js" rel="preload" as="script"><link href="//file.caixin.com/pkg/cx-user-center/web/static/js/chunk-libs.js" rel="preload" as="script"><link href="//file.caixin.com/pkg/cx-user-center/web/static/js/runtime.js" rel="preload" as="script"><link href="//file.caixin.com/pkg/cx-user-center/web/static/css/chunk-libs.css" rel="stylesheet"><link href="//file.caixin.com/pkg/cx-user-center/web/static/css/app.css" rel="stylesheet"></head><body><noscript><strong>We're sorry but web doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"></div><script crossorigin="anonymous" src="//file.caixin.com/pkg/cx-user-center/web/static/js/runtime.js"></script><script crossorigin="anonymous" src="//file.caixin.com/pkg/cx-user-center/web/static/js/chunk-elementUI.js"></script><script crossorigin="anonymous" src="//file.caixin.com/pkg/cx-user-center/web/static/js/chunk-libs.js"></script><script crossorigin="anonymous" src="//file.caixin.com/pkg/cx-user-center/web/static/js/app.js"></script></body><script crossorigin="anonymous" src="//files.caixin.com/webjs/common/caixinlog.js"></script><script>(function (win, export_obj) {
+    win['LogAnalyticsObject'] = export_obj;
+    if (!win[export_obj]) {
+      var _collect = function () {
+        _collect.q.push(arguments);
+      }
+      _collect.q = _collect.q || [];
+      win[export_obj] = _collect;
+    }
+    win[export_obj].l = +new Date();
+  })(window, 'collectEvent');
+
+  //迁移gio
+  (function (win) {
+    var cxname = getCookie("SA_USER_NICK_NAME");
+    var cxuid = getCookie("SA_USER_UID");
+
+    if (cxuid && cxname) {
+      window.collectEvent('setUserId', {
+        user_unique_id: cxuid,
+      })
+      window.collectEvent('config', {
+        user_unique_id: cxuid
+      });
+    }
+
+  })(window);</script><script crossorigin="anonymous" async src="https://lf3-data.volccdn.com/obj/data-static/log-sdk/collect/5.0/collect-rangers-v5.2.1.js"></script><script>window.collectEvent('init', {
+    app_id: 20006079, // 参考2.1节获取，注意类型是number而非字符串
+    channel_domain: 'https://gator.volces.com', // 设置数据上送地址
+    log: true, // true:开启日志，false:关闭日志
+    autotrack: true, // 全埋点开关，true开启，false关闭
+  });
+  // 此处可添加设置uuid、设置公共属性等代码
+  window.collectEvent('start'); // 通知SDK设置完毕，可以真正开始发送事件了</script><script>//艾瑞统计代码 add 20191216
+  var irs_ua = 'UA-caixin-190003'; //客户项目编号,由系统生成
+  (function () {
+    var ra = document.createElement('script');
+    ra.type = 'text/javascript';
+    ra.async = true;
+    ra.src = '//file.caixin.com/webjs/common/iwt-min.js'; //iwt_1.0.3.js的URL位置，请客户自行托管JS文件，修改此值
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ra, s);
+  })();</script></html>

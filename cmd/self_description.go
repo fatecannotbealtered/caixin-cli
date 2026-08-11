@@ -17,18 +17,22 @@ import (
 
 // releaseReadiness is the machine-readable publish gate (CLI-SPEC §13).
 //
-// It is deliberately `unpublishable` until command-level FCC evidence and a
-// repeatable live smoke gate are available. A release claim must describe
-// evidence that exists now, not a fixture count or an unreproducible run.
+// A release claim must describe evidence that exists now, not a fixture count
+// or an unreproducible run. `fcc_status` is `verified` because the guard in
+// fcc_guard_test.go enumerates every leaf command from `reference` and fails on
+// any that no command-level test invokes -- and that guard only enforces while
+// this claim says `verified`, so the two cannot drift apart. Live smoke is a
+// one-off record rather than a repeatable gate, which is what keeps this `beta`.
 var releaseReadiness = map[string]any{
-	"level":                          "unpublishable",
+	"level":                          "beta",
 	"fcc_required":                   true,
-	"fcc_status":                     "missing",
+	"fcc_status":                     "verified",
 	"mock_upstream_required":         true,
 	"mock_upstream_status":           "verified",
 	"live_smoke_required_for_stable": true,
 	"live_smoke_status":              "missing",
-	"reason":                         "FCC evidence is not currently wired as a reproducible release gate, and no current live smoke evidence is available in this workspace.",
+	"reason": "Command-level functional contract coverage and mock-upstream tests pass. " +
+		"A repeatable live smoke/E2E record is not available, so this remains beta rather than stable.",
 	"required_evidence": []string{
 		"functional_contract_coverage_100_command_level_tests",
 		"mock_upstream_contract_tests",

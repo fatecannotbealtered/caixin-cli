@@ -197,7 +197,15 @@ func (c *Client) LoginResume(ctx context.Context) (map[string]any, string, error
 			"qrCode": {pending.QRCode},
 			"_t":     {strconv.FormatInt(time.Now().UnixMilli(), 10)},
 		},
-		Headers:   map[string]string{"Referer": "https://u.caixin.com/web/login"},
+		Headers: map[string]string{
+			"Referer": "https://u.caixin.com/web/login",
+			// The status endpoint will not find a code it is not also handed as a
+			// cookie: the login page sets `LOGIN_QR_CODE` the moment it mints one,
+			// and the query parameter alone answers "二维码不存在" every time,
+			// however fresh the code is. Verified against the endpoint directly --
+			// same code, one request with the cookie and one without.
+			"Cookie": "LOGIN_QR_CODE=" + pending.QRCode,
+		},
 		Anonymous: true,
 	})
 	if err != nil {

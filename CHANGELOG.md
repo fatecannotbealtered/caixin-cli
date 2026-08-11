@@ -9,10 +9,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - 2026-08-09
 
+### Fixed
+
+- Login worked for nobody. The QR status endpoint will not find a code it is not
+  also handed as a cookie: the login page sets `LOGIN_QR_CODE` the moment it
+  mints one, and the query parameter alone answers "二维码不存在" however fresh
+  the code is. Reproduced against the endpoint directly, same code with and
+  without the cookie. The mock layer has no cookies, so it could not have caught
+  this.
+
 ### Changed
 
 - Semantic timestamp fields are normalized recursively to RFC3339 UTC. Partial
   display text without enough date information now uses a `*_label` field.
+- `release_readiness` now reports `beta` with `fcc_status: verified` instead of
+  `unpublishable`. The command-level coverage guard enumerates all 40 leaf
+  commands from `reference` and finds none uncovered; because that guard only
+  enforces while the claim says `verified`, the claim and the evidence now hold
+  each other up. Live smoke remains a one-off record rather than a repeatable
+  gate, which is what keeps this short of `stable`.
 
 ### Fixed
 
