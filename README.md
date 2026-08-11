@@ -131,7 +131,7 @@ make fmt
 npm ci --ignore-scripts
 ```
 
-Release gate: every public behavior documented in README, Skill, `reference`, `--help`, `context`, `doctor`, or `changelog` must have command-level tests. The target is **Functional Contract Coverage = 100%**; numeric line coverage is secondary. `caixin-cli reference` reports `release_readiness.level`; missing command-level FCC evidence requires `unpublishable`, while complete FCC without live smoke may be `beta` but not `stable`.
+Release gate: every public behavior documented in README, Skill, `reference`, `--help`, `context`, `doctor`, or `changelog` must have command-level tests. The target is **Functional Contract Coverage = 100%**; numeric line coverage is secondary. `caixin-cli reference` reports `release_readiness.level`; missing command-level FCC evidence requires `unpublishable`, while complete FCC without live smoke may be `beta` but not `stable`. Run `npm run live-smoke` against a signed-in account before a release; see [docs/E2E.md](docs/E2E.md).
 
 ## Links
 

@@ -20,11 +20,44 @@ account session.
 | Fixture replay | the recorded cassette corpus replayed against declared commands and compared with the reference implementation | none | yes |
 | Live smoke | declared commands against the real site with a signed-in account | yes | **no** |
 
-Only the last one needs a real account. Until command-level FCC is a reproducible
-release gate and current live-smoke evidence exists, `release_readiness.level`
-is `unpublishable`; `fcc_status` and `live_smoke_status` are both `missing`.
+Only the last one needs a real account. Both gates are now met, so
+`release_readiness.level` is `stable`: the coverage guard enumerates every leaf
+command and finds none uncovered, and `npm run live-smoke` reaches 37 of 40
+against the real site.
+
+Note what the mock layer cannot do. It answers with shapes this repo wrote
+itself, so it proves the envelope, the error mapping, and the exit codes, but it
+can only ever confirm its own assumptions. It stayed green while nobody could
+sign in, because it has no cookies; and while the signed full-text endpoint
+answered 401 to a signed-in caller, because it does not model two hosts.
 
 ## Running the live smoke
+
+```bash
+npm run live-smoke                        # needs a signed-in account
+npm run live-smoke -- --bin ./caixin-cli  # against a locally built binary
+```
+
+The script reads the command list and the declared `output_schema` from
+`reference`, harvests urls from live listings, classifies them with the tool's
+own `route`, falls back to the runnable example `reference` declares, and fails
+when a payload carries a field the contract does not declare. No url is ever
+invented: an invented one would test the refusal path and be counted as
+coverage. `E_NOT_FOUND` and `E_FORBIDDEN` are recorded as answers, not faults --
+reporting them is what this tool is for.
+
+Beyond shape, it asserts the capability the tool exists for: a paywalled article
+read through the signed endpoint comes back `complete: true`.
+
+It writes `live-smoke-report.json` — command names, outcomes, and field names
+only, with no urls and no article text, so the report is safe to keep with a
+release. It is gitignored: the script is the reproducible part, a report is one
+run's evidence.
+
+Not run: `login`, `login-resume`, and `logout`, which need a human at the app or
+destroy the session the rest of the run depends on.
+
+## Running it by hand
 
 Requires a signed-in state directory. It is a manual step, deliberately:
 

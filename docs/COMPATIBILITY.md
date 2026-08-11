@@ -35,11 +35,15 @@ consequences worth stating plainly:
 
 ## Re-verifying
 
-There is no automated live gate, and command-level FCC is not yet a reproducible
-release gate, so `release_readiness.level` is `unpublishable` (see the `reason`
-in `caixin-cli reference`). To re-verify by hand, run each command against the live upstream and compare the
-top-level keys of `data` against the command's `output_schema.fields` from
-`reference`. A mismatch in either direction is a finding.
+`npm run live-smoke` is the automated live gate: it runs every command that does
+not need a human against the real site and fails on any payload carrying a field
+the contract does not declare. Command-level FCC is enforced by a guard that
+enumerates the same command list, so `release_readiness.level` is `stable` (see
+the `reason` in `caixin-cli reference` for exactly what that covers).
+
+To re-verify by hand instead, run each command against the live upstream and
+compare the top-level keys of `data` against the command's `output_schema.fields`
+from `reference`. A mismatch in either direction is a finding.
 
 ## Platform support
 
