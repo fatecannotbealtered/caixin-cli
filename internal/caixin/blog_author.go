@@ -148,7 +148,13 @@ func (c *Client) blogDirectoryProfile(ctx context.Context, directoryURL, canonic
 	}
 	return nil, &APIError{
 		StatusCode: 404,
-		Message:    "that blogger is not listed in " + directoryURL + " right now",
+		// The wider directory is 87 pages deep, and this check reads only the
+		// index page, so "not listed" here means "not on the front of the blog
+		// index" -- not "not a Caixin blogger". Saying the first while meaning
+		// the second sent callers looking for a mistake in their url.
+		Message: "that blogger is not on the front of " + directoryURL +
+			" right now; `bloggers-directory` lists the full roster, which this " +
+			"check does not walk",
 	}
 }
 

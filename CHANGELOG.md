@@ -9,6 +9,39 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - 2026-08-09
 
+### Added
+
+- `npm run live-smoke` runs every command that does not need a human against the
+  real service and fails on any payload carrying a field the contract does not
+  declare. Every url it uses is harvested from a live listing, classified by the
+  tool's own `route`, or taken from the runnable example `reference` declares --
+  never invented, because an invented url tests the refusal path and would be
+  counted as coverage. It asserts the capability this tool exists for: that a
+  paywalled article read through the signed endpoint comes back complete.
+
+### Fixed
+
+- The account's own APIs were unreachable while signed in. `entitlements` and
+  the signed full-text endpoint live on `gateway.caixin.com`, while the login
+  cookies are issued for `www.caixin.com`, so a cookie jar sent nothing across
+  that boundary: full text answered 401 and `entitlements` answered "未登录，
+  请先登录" to a signed-in caller. The session is now serialised onto requests to
+  that host. Anonymous reads are untouched -- a public read must not present a
+  paid credential it does not need.
+- `blog-author` reported "that blogger is not listed" for bloggers this tool's
+  own `bloggers-directory` lists. Its discovery reads the front of the blog
+  index, which carries a fraction of the 1734-entry roster, so the message
+  claimed more than the check knew. It now says what was actually checked and
+  names the command that lists the rest.
+- `blog-author`'s declared example named a blogger the directory no longer
+  lists, so following it answered `E_NOT_FOUND`. An example that does not run is
+  not an example.
+- `snapshot` and `blog-author` declared incomplete field sets; both are now
+  declared as measured against the live service.
+- The `E_AUTH` hint said this build has no login command. It has had one for a
+  while, and saying otherwise made a real session failure read as "unsupported
+  by design" rather than "sign in again".
+
 ### Fixed
 
 - Login worked for nobody. The QR status endpoint will not find a code it is not

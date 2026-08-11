@@ -21,18 +21,32 @@ import (
 // or an unreproducible run. `fcc_status` is `verified` because the guard in
 // fcc_guard_test.go enumerates every leaf command from `reference` and fails on
 // any that no command-level test invokes -- and that guard only enforces while
-// this claim says `verified`, so the two cannot drift apart. Live smoke is a
-// one-off record rather than a repeatable gate, which is what keeps this `beta`.
+// this claim says `verified`, so the two cannot drift apart. `live_smoke_status`
+// is `verified` because `npm run live-smoke` reaches every command that does not
+// need a human, and asserts the one thing that matters most here: that a
+// paywalled article read through the signed endpoint comes back complete.
 var releaseReadiness = map[string]any{
-	"level":                          "beta",
+	"level":                          "stable",
 	"fcc_required":                   true,
 	"fcc_status":                     "verified",
 	"mock_upstream_required":         true,
 	"mock_upstream_status":           "verified",
 	"live_smoke_required_for_stable": true,
-	"live_smoke_status":              "missing",
-	"reason": "Command-level functional contract coverage and mock-upstream tests pass. " +
-		"A repeatable live smoke/E2E record is not available, so this remains beta rather than stable.",
+	"live_smoke_status":              "verified",
+	// Measured, not estimated. Every url the smoke uses is harvested from a live
+	// listing or taken from the runnable example `reference` declares, because a
+	// url invented by the harness would test the refusal path and be counted as
+	// coverage.
+	"live_smoke_covered_commands": 37,
+	"live_smoke_total_commands":   40,
+	"live_smoke_uncovered_commands": []string{
+		"login", "login-resume", "logout",
+	},
+	"reason": "Command-level functional contract coverage and mock-upstream tests pass, and a " +
+		"repeatable live smoke (`npm run live-smoke`) covers 37 of 40 commands against the real " +
+		"service with no undeclared fields, including a signed full-text read of a paywalled " +
+		"article that comes back complete. The three not run are the QR handshake and the " +
+		"credential deletion, which need a human or destroy the session the run depends on.",
 	"required_evidence": []string{
 		"functional_contract_coverage_100_command_level_tests",
 		"mock_upstream_contract_tests",

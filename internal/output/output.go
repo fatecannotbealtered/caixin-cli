@@ -28,12 +28,10 @@ const (
 // `error.code`; the hint is for the human reading stderr and rides along in
 // `error.details.hint`.
 var Hints = map[string]string{
-	// This build has no login command: every declared command reads a public
-	// endpoint. A 401/403 therefore means the endpoint started requiring a
-	// session, not that the caller forgot to log in.
-	"E_AUTH": "This endpoint now requires a Caixin session. This build reads public " +
-		"endpoints only and has no login command; use an already-populated state " +
-		"directory, or the reference implementation.",
+	// This build does have a login command, and said otherwise for long enough
+	// that a real 401 read as "unsupported by design" rather than "sign in".
+	"E_AUTH": "Caixin rejected the session. Run `caixin-cli status` to check it, " +
+		"and `caixin-cli login` followed by `caixin-cli login-resume` to sign in again.",
 	"E_FORBIDDEN":      "The subscription does not entitle this account to that content. A successful login does not imply paid full-text access.",
 	"E_NOT_FOUND":      "Verify the url or code from a fresh directory, search, or list result.",
 	"E_VALIDATION":     "Check command arguments; entry urls must match the documented allowlist.",

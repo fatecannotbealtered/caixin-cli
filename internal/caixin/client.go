@@ -259,6 +259,17 @@ func (c *Client) do(ctx context.Context, spec requestSpec) ([]byte, error) {
 	for key, value := range spec.Headers {
 		request.Header.Set(key, value)
 	}
+	// The account's cookies are issued for `www.caixin.com`, but the account's
+	// own APIs -- entitlements, the signed body -- live on `gateway.caixin.com`.
+	// A cookie jar sends nothing across that boundary, so those endpoints
+	// answered "not logged in" to a signed-in caller for as long as they have
+	// existed. Anonymous requests are left alone: a public read must not present
+	// a paid credential it does not need.
+	if !spec.Anonymous && request.Header.Get("Cookie") == "" && needsExplicitSession(target) {
+		if header := sessionCookieHeader(c.SessionCookies()); header != "" {
+			request.Header.Set("Cookie", header)
+		}
+	}
 
 	client := c.http
 	if spec.Anonymous {
@@ -337,4 +348,23 @@ func apiSuccess(value map[string]any, action string) (map[string]any, error) {
 		message = fmt.Sprintf("%s failed with code %v", action, code)
 	}
 	return nil, &APIError{Message: fmt.Sprintf("%s: %s", action, message), Code: code}
+}
+
+// needsExplicitSession reports whether a target is a Caixin host the cookie jar
+// will not cover on its own.
+func needsExplicitSession(target string) bool {
+	parsed, err := url.Parse(target)
+	if err != nil {
+		return false
+	}
+	return parsed.Hostname() == "gateway.caixin.com"
+}
+
+// sessionCookieHeader serialises the stored session for one request.
+func sessionCookieHeader(cookies []*http.Cookie) string {
+	parts := make([]string, 0, len(cookies))
+	for _, cookie := range cookies {
+		parts = append(parts, cookie.Name+"="+cookie.Value)
+	}
+	return strings.Join(parts, "; ")
 }
