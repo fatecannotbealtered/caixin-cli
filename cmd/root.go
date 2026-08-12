@@ -22,9 +22,14 @@ import (
 
 var version = caixincli.Version
 
-// SkillMinVersion is the tool version the bundled Skill was written against.
-// `doctor` compares it so a Skill that expects newer commands fails loudly
-// rather than calling something that does not exist (CLI-SPEC §14).
+// SkillMinVersion is the tool version the bundled Skill is paired with,
+// published as `reference.minimum_skill_version` and
+// `context.skill.minimum_version`. Within one binary it aliases the running
+// version, so the comparison `doctor` performs can never fail here; the value
+// exists as reference data. Cross-version drift -- a Skill synced ahead of a
+// stale binary -- is detected agent-side, by comparing the installed Skill's
+// frontmatter `min_version` against the live version `doctor`/`context` report
+// (see SKILL.md, "First step").
 var SkillMinVersion = caixincli.Version
 
 type application struct {

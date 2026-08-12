@@ -18,11 +18,20 @@ func TestUpdateCheck_ReportsInstallMethodAndContract(t *testing.T) {
 	if got.Exit == 0 {
 		data := got.Data(t)
 		for _, field := range []string{
-			"current_version", "install_method", "update_available", "skill_sync_supported",
+			"status", "current_version", "install_method", "update_available",
+			"target_version", "skill_sync_supported",
 		} {
 			if _, ok := data[field]; !ok {
 				t.Errorf("update --check omitted %q", field)
 			}
+		}
+		if _, ok := data["latest_version"]; ok {
+			t.Error("update --check still emits latest_version; target_version replaced it")
+		}
+		available, _ := data["update_available"].(bool)
+		want := map[bool]string{false: "current", true: "available"}[available]
+		if status, _ := data["status"].(string); status != want {
+			t.Errorf("status = %q, want %q when update_available is %v", status, want, available)
 		}
 		return
 	}

@@ -7,6 +7,49 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-08-12
+
+### Added
+
+- `reference` declares a top-level `pagination` block: the list commands
+  paginate with page-style keys (`count`, `page`, `page_size`, `next_page`,
+  `has_more`, `truncated`), collections default to `items`, and the exceptions
+  (`articles` on the three feeds, `modules` on the directory surfaces) are
+  enumerated command by command instead of left for an agent to infer.
+- The Skill now tells an agent to compare its own frontmatter `min_version`
+  against the live version `context`/`doctor` report and stop for an update
+  when the binary is older — the binary itself cannot see a Skill synced ahead
+  of it. It also states the permission-tier boundaries (every upstream command
+  is read-tier, the only write-tier actions are local and gated, no dangerous
+  tier, no self-escalation) and tells retryable failures (`E_NETWORK`,
+  `E_TIMEOUT`) to back off and give up after a couple of attempts.
+- A guard test pins `release_readiness.live_smoke_total_commands` to the leaf
+  count `reference` actually enumerates, and the covered/uncovered split to the
+  total, so the smoke coverage claim cannot drift from the command surface.
+- `scripts/check-clean.sh` fails the build when a tracked file sits at the
+  repository root outside the declared skeleton — the guard that would have
+  caught the scraped page assets below. CI and the release workflow already run
+  it when present.
+- CI runs `govulncheck ./...` in the lint job.
+- `SECURITY.md` / `SECURITY_zh.md` spell out that `.enc` files in the state
+  directory alongside `storage: "keyring"` are the design, not a keyring
+  bypass: the keyring holds only the 32-byte data key, and the payload is
+  always the AES-256-GCM file that key unlocks.
+
+### Changed
+
+- `update --check` reports `status` (`current` / `available`, the same
+  vocabulary a real run's result uses) and `target_version`; the undeclared
+  `latest_version` key is removed.
+
+### Removed
+
+- Seven scraped Caixin page assets committed at the repository root (`app.js`,
+  `chunk-elementUI.js`, `chunk-libs.js`, `login.js`, `runtime.js`, `lg.html`,
+  `r.json`). They were debug captures nothing referenced, and their removal
+  makes NOTICE.md's "does not redistribute Caixin code or assets" statement
+  true.
+
 ## [1.0.0] - 2026-08-09
 
 ### Added
@@ -339,6 +382,10 @@ Keep the link references at the bottom of the file in sync.
 
 ### Security
 
-[Unreleased]: https://github.com/fatecannotbealtered/caixin-cli/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/fatecannotbealtered/caixin-cli/releases/tag/v1.0.0
+[Unreleased]: https://github.com/fatecannotbealtered/caixin-cli/compare/vX.Y.Z...HEAD
+[X.Y.Z]: https://github.com/fatecannotbealtered/caixin-cli/releases/tag/vX.Y.Z
 -->
+
+[Unreleased]: https://github.com/fatecannotbealtered/caixin-cli/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/fatecannotbealtered/caixin-cli/releases/tag/v1.0.1
+[1.0.0]: https://github.com/fatecannotbealtered/caixin-cli/releases/tag/v1.0.0

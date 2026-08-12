@@ -228,6 +228,27 @@ func (a *application) referenceCommand() *cobra.Command {
 				"--format json|text|raw", "--json", "--fields <a,b,c>", "--compact",
 				"--quiet", "--state-dir <path>", "--timeout <duration>",
 			},
+			// The list commands paginate with page-style keys, not the
+			// contract's cursor vocabulary, and not every collection is named
+			// `items`: three feeds answer with `articles` and the directory
+			// surfaces with `modules`. Declared here so an agent learns the
+			// convention once instead of inferring it per command.
+			"pagination": map[string]any{
+				"style":          "page",
+				"keys":           []string{"count", "page", "page_size", "next_page", "has_more", "truncated"},
+				"collection_key": "items",
+				"collection_key_exceptions": map[string]string{
+					"latest":                   "articles",
+					"newscroll":                "articles",
+					"search":                   "articles",
+					"bloggers-directory":       "modules",
+					"opinion-columns":          "modules",
+					"opinion-upfront":          "modules",
+					"opinion-author-directory": "modules",
+					"opinion-author":           "modules",
+					"video-section":            "modules",
+				},
+			},
 			// Stated up front so an agent does not look for a login it will not
 			// find, or assume paid content is reachable.
 			"authentication": map[string]any{
@@ -339,6 +360,11 @@ func (a *application) doctorCommand() *cobra.Command {
 		RunE: func(cmd *cobra.Command, _ []string) error {
 			checks := []map[string]any{}
 
+			// `version` and `SkillMinVersion` are the same constant within one
+			// binary, so this check cannot fail here. It publishes the pair so
+			// an agent can compare the installed Skill's frontmatter
+			// `min_version` against `current_version` and catch a Skill synced
+			// ahead of a stale binary -- the drift this process cannot see.
 			compatible := versionAtLeast(version, SkillMinVersion)
 			checks = append(checks, map[string]any{
 				"check":   "version",

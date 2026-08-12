@@ -10,7 +10,7 @@ Security fixes are applied to the **latest minor release** on the default branch
 
 | Version | Supported |
 |---------|-----------|
-| latest `1.0.0` minor | Yes |
+| latest `1.0.x` minor | Yes |
 | older minors | No |
 
 ## Reporting a Vulnerability
@@ -44,7 +44,7 @@ Worst-case blast radius is bounded by the permissions of the configured credenti
 
 - **Storage location**: the only credential this tool holds is a Caixin web session (cookies), plus the `article --full` signing key. It lives under `~/.caixin-fetch/`, overridable with `CAIXIN_STATE_DIR` or `--state-dir`. There is no config file and no `profiles.json`: the config surface holds zero secrets (SEC-SPEC §4).
 - **Encryption at rest**: secrets are sealed with **AES-256-GCM** and never written in the clear. The 32-byte data key comes from the **OS keyring** (Windows Credential Manager / macOS Keychain / Linux Secret Service) when one is available; where none exists — a container, a headless server, CI — it is derived instead from machine-bound factors with PBKDF2-SHA256 (200,000 iterations) over a random per-file salt.
-- **Why the keyring holds a key rather than the session**: a Windows credential blob is capped at 2560 bytes and a cookie jar is larger than that, so storing the session directly would fail on the platform most likely to have a keyring. Keeping only the key in the keyring sidesteps the limit and leaves one encryption path for both backends.
+- **Why the keyring holds a key rather than the session**: a Windows credential blob is capped at 2560 bytes and the Caixin cookie jar is larger than that, so storing the session directly would fail on the platform most likely to have a keyring. Keeping only the random 32-byte data key in the keyring sidesteps the limit and leaves one encryption path for both backends. The visible consequence: `.enc` files in the state directory alongside `storage: "keyring"` are the design, not a keyring bypass — the payload is always the AES-256-GCM file on disk that key unlocks (see the design note in `internal/secret/secret.go`). The spec's intent is preserved: the decryption key is OS-held, the config surface holds zero secrets, and the active backend is reported by `context` and `doctor`.
 - **The fallback is visible, not silent**: `context.data.credentials.storage` and the `doctor` `credentials` check report `keyring` or `encrypted-file`, so a degraded install is legible to an agent. Its honest limit: machine-bound factors are enumerable by anything already running as you, so it defeats a state directory copied to another machine, not local code running as your user. `CAIXIN_SECRET_BACKEND=file` forces the fallback (used by the test suite so `go test` never touches a real credential store).
 - **Legacy plaintext is migrated, not tolerated**: a session written by an earlier build is sealed on first read and the plaintext original deleted. Assume any copy that left the machine before that upgrade is compromised.
 - **File permissions**: files are written `0600` in a `0700` directory. That is a POSIX statement only: on Windows those mode bits are not ACLs, and protection there comes from the user-profile ACL plus the encryption above.

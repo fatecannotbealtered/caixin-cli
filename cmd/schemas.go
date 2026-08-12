@@ -132,7 +132,8 @@ var outputSchemas = map[string]outputSchema{
 	"reference_document": {
 		Shape: "object",
 		Fields: []string{"tool", "version", "schema_version", "risk_tier", "minimum_skill_version",
-			"release_readiness", "commands", "schemas", "error_codes", "exit_codes", "global_options", "authentication", "security", "output"},
+			"release_readiness", "commands", "schemas", "error_codes", "exit_codes", "global_options",
+			"pagination", "authentication", "security", "output"},
 	},
 	"context_document": {
 		Shape: "object",

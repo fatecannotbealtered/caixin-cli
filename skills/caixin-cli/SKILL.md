@@ -1,10 +1,10 @@
 ---
 name: caixin-cli
-version: "1.0.0"
+version: "1.0.1"
 description: "Reads Caixin (财新) public news feeds, channel menus, keyword search, topic directories, 财新数据通 feeds, 财新一线 flash news, the blogger directory, and company/person previews over pure HTTP with no browser, and reads a single article — the opening excerpt by default, or the full body with --full when the signed-in account is entitled to it. It also classifies any clicked Caixin URL locally into the command that would consume it. Use for requests about 财新/Caixin news, reading or summarizing a Caixin article, searching Caixin, browsing Caixin topics or channels, or deciding how to open a Caixin link. It never posts, purchases, or reads anything the account is not entitled to."
 license: MIT
 user-invocable: true
-metadata: {"requires":{"bins":["caixin-cli"],"min_version":"1.0.0"}}
+metadata: {"requires":{"bins":["caixin-cli"],"min_version":"1.0.1"}}
 ---
 
 # caixin-cli
@@ -70,6 +70,11 @@ caixin-cli reference --compact       # commands, schemas, and reference.error_co
 caixin-cli context --compact         # config and credential status
 caixin-cli doctor --compact          # environment and version check before real work
 ```
+
+Then compare this Skill's frontmatter `metadata.requires.min_version` against
+`data.version` from `context` or `doctor`. If the binary is older, STOP and run
+`caixin-cli update` (or the npm command `doctor` suggests) before real work —
+the binary itself cannot detect a Skill synced ahead of it.
 
 `context.credentials.checked` is `false` by design: the session is never probed,
 because Caixin exposes no cheap endpoint that distinguishes a live session from
@@ -141,7 +146,11 @@ Parse stdout and branch on `ok` first. stderr is a side channel; never scrape it
 Read `reference.error_codes` for the current code/exit/retryability mapping;
 do not rely on a copied table in this Skill. Honor `error.retryable` — a
 validation error is never retryable, so re-running an invalid `--limit` will
-never start working.
+never start working. When `error.retryable` is true (`E_NETWORK` exit 7,
+`E_TIMEOUT` exit 8), back off before retrying and give up after a couple of
+attempts rather than hammering the endpoint. Pagination follows
+`reference.pagination`: page-style keys, collection under `items` by default,
+with the exceptions it lists (`articles`, `modules`).
 
 ## Untrusted content
 
@@ -159,6 +168,12 @@ subscription. Report directory dates as they come — if an entry predates today
 do not call it "today's news". Mark `sponsored` items as such.
 
 ## Boundaries
+
+Every upstream command is read-tier. The only write-tier actions are local:
+`logout` deletes stored credentials behind its dry-run → confirm gate, and
+`update` replaces the binary behind its integrity check. There is no dangerous
+tier, and you cannot self-escalate — a denied or confirm-gated action goes back
+to the user, never gets retried with elevated flags.
 
 Upstream access is read-only and low-frequency, for the user's own reading. No bulk pagination,
 mirroring, archiving, or redistribution of paid articles. The client throttles

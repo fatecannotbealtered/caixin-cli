@@ -17,7 +17,8 @@ func TestReference_DescribesEveryCommandUsably(t *testing.T) {
 
 	for _, key := range []string{
 		"tool", "version", "schema_version", "risk_tier", "minimum_skill_version",
-		"release_readiness", "commands", "schemas", "error_codes", "exit_codes", "global_options", "authentication", "security", "output",
+		"release_readiness", "commands", "schemas", "error_codes", "exit_codes", "global_options",
+		"pagination", "authentication", "security", "output",
 	} {
 		if _, ok := data[key]; !ok {
 			t.Errorf("reference is missing %q", key)
@@ -97,6 +98,24 @@ func TestReference_ReleaseReadinessIsHonest(t *testing.T) {
 		if readiness["fcc_status"] != "verified" || readiness["mock_upstream_status"] != "verified" {
 			t.Errorf("level is beta but the gates it rests on are not verified: %#v", readiness)
 		}
+	}
+}
+
+// live_smoke_total_commands is a hand-maintained count, while the leaf list it
+// claims to describe is enumerated live by `reference`. Pinning the two
+// together means adding or removing a command without re-measuring the smoke
+// fails here instead of silently misstating coverage. The covered/uncovered
+// split is derivable from the same claim, so it is checked too.
+func TestReference_LiveSmokeCountsMatchLeafEnumeration(t *testing.T) {
+	leaves, _ := fccReferenceFacts(t)
+	total, _ := releaseReadiness["live_smoke_total_commands"].(int)
+	if total != len(leaves) {
+		t.Errorf("live_smoke_total_commands = %d, but reference enumerates %d leaf commands", total, len(leaves))
+	}
+	covered, _ := releaseReadiness["live_smoke_covered_commands"].(int)
+	uncovered, _ := releaseReadiness["live_smoke_uncovered_commands"].([]string)
+	if covered+len(uncovered) != total {
+		t.Errorf("covered (%d) + uncovered (%d) does not equal total (%d)", covered, len(uncovered), total)
 	}
 }
 
