@@ -1,6 +1,6 @@
 module github.com/fatecannotbealtered/caixin-cli
 
-go 1.26.2
+go 1.26.5
 
 require (
 	github.com/antchfx/htmlquery v1.3.6
