@@ -6,7 +6,6 @@ import (
 	"net/url"
 	"regexp"
 	"strings"
-	"time"
 
 	"github.com/antchfx/htmlquery"
 	xhtml "golang.org/x/net/html"
@@ -384,7 +383,7 @@ func extractItem(node *xhtml.Node, pageURL string, options itemOptions) map[stri
 	}
 	if parsed, err := url.Parse(link); err == nil {
 		if match := historicalPattern.FindStringSubmatch(parsed.Path); match != nil {
-			if year := match[1]; year < fmt.Sprintf("%d", time.Now().Year()) {
+			if year := match[1]; year < fmt.Sprintf("%d", timeNow().Year()) {
 				item["historical_fallback"] = true
 			}
 		}

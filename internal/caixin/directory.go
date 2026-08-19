@@ -54,7 +54,7 @@ func directoryResult(modules []snapshotModule) map[string]any {
 		}
 		latest = newest
 		if parsed, err := time.Parse("2006-01-02", newest); err == nil {
-			stale = time.Since(parsed) > 30*24*time.Hour
+			stale = timeNow().Sub(parsed) > 30*24*time.Hour
 		}
 	}
 

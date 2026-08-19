@@ -125,7 +125,7 @@ func (c *Client) CultureSection(ctx context.Context, pageURL string) (map[string
 	if newest := laneLatestDate(modules, "main"); newest != nil {
 		result["latest_article_date"] = newest
 		if parsed, err := time.Parse("2006-01-02", newest.(string)); err == nil {
-			result["stale_content"] = time.Since(parsed) > 30*24*time.Hour
+			result["stale_content"] = timeNow().Sub(parsed) > 30*24*time.Hour
 		}
 	}
 	result["sidebar_latest_article_date"] = laneLatestDate(modules, "sidebar")

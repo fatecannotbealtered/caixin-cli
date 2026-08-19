@@ -446,7 +446,7 @@ func newsletterModules(doc *xhtml.Node, pageURL string) (map[string]any, error) 
 	}
 	stale := false
 	if parsed, err := time.Parse("2006-01-02", newest); err == nil {
-		stale = time.Since(parsed) > 30*24*time.Hour
+		stale = timeNow().Sub(parsed) > 30*24*time.Hour
 	}
 	return map[string]any{
 		"modules":             modulesAsList(modules),

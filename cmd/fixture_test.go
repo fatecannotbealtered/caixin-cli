@@ -15,6 +15,9 @@ import (
 	"sort"
 	"strings"
 	"testing"
+	"time"
+
+	"github.com/fatecannotbealtered/caixin-cli/internal/caixin"
 )
 
 // Fixture replay is the safety net for the Python -> Go port.
@@ -241,7 +244,28 @@ var pendingCases = map[string]string{
 		"resolves to a different node than the reference's did -- fix that and it converges",
 }
 
+// fixturesRecordedAt is when the corpus under testdata/ was recorded. It landed
+// in one batch; `git log --format=%cs -- testdata/cassettes` is the source of
+// this date, and re-recording the corpus means moving it.
+//
+// Replay has to answer calendar questions as of that moment. A cassette returns
+// the same bytes forever, but `stale_content` is not in those bytes — it is
+// derived by comparing the newest article date against now with a 30-day
+// window. Judged against the wall clock, a golden recorded as false flips to
+// true once the article ages past the window, and the suite starts failing on
+// the passage of time rather than on a code change. Two cases had already
+// crossed that line before the clock was pinned.
+var fixturesRecordedAt = time.Date(2026, 8, 8, 0, 0, 0, 0, time.UTC)
+
+// pinFixtureClock freezes the extraction clock at fixturesRecordedAt for the
+// duration of the test, so replay reproduces the goldens on any calendar day.
+func pinFixtureClock(t *testing.T) {
+	t.Helper()
+	t.Cleanup(caixin.SetNow(func() time.Time { return fixturesRecordedAt }))
+}
+
 func TestFixtures_GoPortMatchesRecordedGoldens(t *testing.T) {
+	pinFixtureClock(t)
 	for _, name := range convergedCases {
 		t.Run(name, func(t *testing.T) {
 			recorded := loadCassette(t, name)
@@ -348,6 +372,7 @@ func compactJSON(value any) string {
 // must still be pending. If one starts matching, this fails and tells you to
 // promote it -- so the gap list cannot silently rot.
 func TestFixtures_PendingCasesStillReplay(t *testing.T) {
+	pinFixtureClock(t)
 	for name, reason := range pendingCases {
 		t.Run(name, func(t *testing.T) {
 			recorded := loadCassette(t, name)

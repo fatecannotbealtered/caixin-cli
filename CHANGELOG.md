@@ -7,6 +7,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Security
+
+- Raise the Go toolchain to 1.26.6 to clear four reachable Go standard-library
+  vulnerabilities reported by `govulncheck`: GO-2026-6218 (`net/url`),
+  GO-2026-6090 (`crypto/tls`), GO-2026-5972 (`encoding/asn1`), and
+  GO-2026-5026 (`net/http`).
+
+### Fixed
+
+- **Fixture replay no longer rots on the calendar.** `stale_content` is derived
+  by comparing a surface's newest article date against now with a 30-day
+  window, so a cassette that replays identical bytes still produced a different
+  answer as its articles aged — two goldens recorded as `false` had already
+  flipped to `true`, and eleven more were due to follow within three weeks.
+  Extraction now reads a package clock (`internal/caixin.SetNow`) that the
+  fixture tests pin to when the corpus was recorded, so the goldens assert
+  parser behaviour instead of today's date. The dated-URL `historical_fallback`
+  check reads the same clock, which would otherwise have flipped on New Year's
+  Day. Production behaviour is unchanged: the clock is `time.Now`.
+
 ## [1.0.1] - 2026-08-12
 
 ### Added
