@@ -230,19 +230,11 @@ var pendingCases = map[string]string{
 	// parser bug -- these two goldens are wrong, the extraction is not.
 	"snapshot_mini": "the golden's parser drops four sidebar rows; the CLI matches the browser",
 	"snapshot_en":   "the golden's parser drops four sidebar rows; the CLI matches the browser",
-	"bloggers_directory": "the golden is the directory-module shape the HTML layer builds " +
-		"(modules, pagination, visibility flags), and that layer is not implemented; the JSON " +
-		"half of the command works, but its envelope shape belongs there",
 
-	// The remaining editorial surface. Each entry names the page template that
-	// still needs an extractor; the shared core (item extraction, url and image
-	// allowlists, server visibility, navigation, click consumers) is in place and
-	// `snapshot_datanews` proves it converges, so what is left per case is the
-	// page-specific module layout.
-	"public_directory_promote": "the item set matches the golden exactly (nothing extra, " +
-		"nothing missing) and every consumer agrees; only the module traversal order " +
-		"differs, so items land in a different sequence. The `tuijian` root selector " +
-		"resolves to a different node than the golden's did -- fix that and it converges",
+	// bloggers_directory and public_directory_promote used to be listed here AND
+	// in convergedCases at the same time. They had converged, the promotion check
+	// could not report it, and the duplicate went unnoticed -- which is the exact
+	// rot this list was meant to prevent. Removed once the check started working.
 }
 
 // fixturesRecordedAt is when the corpus under testdata/ was recorded. It landed
@@ -297,15 +289,27 @@ func TestFixtures_MatchRecordedGoldens(t *testing.T) {
 	}
 }
 
+// normalizeForComparison puts a document into the shape both fixture tests
+// compare in: whole-document first, because stripRouteArgv decides what to drop
+// from a route verdict by looking at its sibling `adapter` key and handing it an
+// isolated value would leave the argv in place.
+//
+// It is one function on purpose. The converged assertion and the pending-case
+// promotion check MUST agree on what "matches its golden" means; when they
+// drifted apart, the promotion check silently stopped working (it omitted
+// stripFetchedAt, and a live timestamp never equals a recorded one, so nothing
+// could ever be reported as ready to promote).
+func normalizeForComparison(document map[string]any) map[string]any {
+	normalized, _ := stripReason(stripFetchedAt(stripUntrusted(stripRouteArgv(normalizeJSON(document))))).(map[string]any)
+	return normalized
+}
+
 // compareGolden reports the first differing keys rather than dumping two blobs,
 // so a mismatch names the field that drifted.
 func compareGolden(t *testing.T, name string, golden, actual map[string]any) {
 	t.Helper()
-	// Normalize whole documents first. stripRouteArgv decides what to drop from
-	// a route verdict by looking at its sibling `adapter` key, so handing it an
-	// isolated value would leave the argv in place.
-	golden, _ = stripReason(stripFetchedAt(stripUntrusted(stripRouteArgv(normalizeJSON(golden))))).(map[string]any)
-	actual, _ = stripReason(stripFetchedAt(stripUntrusted(stripRouteArgv(normalizeJSON(actual))))).(map[string]any)
+	golden = normalizeForComparison(golden)
+	actual = normalizeForComparison(actual)
 
 	missing, differing := []string{}, []string{}
 	for key, want := range golden {
@@ -399,8 +403,8 @@ func TestFixtures_PendingCasesStillReplay(t *testing.T) {
 				t.Fatalf("%s: stdout is not JSON: %v", name, err)
 			}
 			data, _ := envelope["data"].(map[string]any)
-			normalizedGolden, _ := stripRouteArgv(normalizeJSON(golden)).(map[string]any)
-			normalizedData, _ := stripRouteArgv(normalizeJSON(data)).(map[string]any)
+			normalizedGolden := normalizeForComparison(golden)
+			normalizedData := normalizeForComparison(data)
 
 			identical := true
 			for key, want := range normalizedGolden {
