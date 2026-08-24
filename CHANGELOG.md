@@ -27,6 +27,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   check reads the same clock, which would otherwise have flipped on New Year's
   Day. Production behaviour is unchanged: the clock is `time.Now`.
 
+### Changed
+
+- Sync the vendored spec to `ai-native-cli-spec@v1.6.0`. SEC-SPEC §5 now names
+  `govulncheck` as the Go half of the per-ecosystem dependency audit, which this
+  repo's Lint job already ran; CLI-SPEC §14 states the `update` final-state
+  contract explicitly (no-op check before any package-manager command, and both
+  successful and no-op results report `current_version == target_version` with
+  `update_available: false`).
+
 ## [1.0.1] - 2026-08-12
 
 ### Added
