@@ -324,7 +324,7 @@ func (r Route) asMap(embedded bool) map[string]any {
 		"content_access_not_implied": r.ContentAccessNotImplied,
 	}
 	// Omitted when empty: an absent reason and an empty-string reason are
-	// different claims, and the reference emits neither key nor value.
+	// different claims, so an absent one emits neither key nor value.
 	if r.Reason != "" {
 		fields["reason"] = r.Reason
 	}

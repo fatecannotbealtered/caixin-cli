@@ -20,18 +20,18 @@ import (
 	"github.com/fatecannotbealtered/caixin-cli/internal/caixin"
 )
 
-// Fixture replay is the safety net for the Python -> Go port.
+// Fixture replay is the offline regression net for the extraction layer.
 //
 // Each cassette holds the real request/response pairs one command made against
-// Caixin, with long prose masked. The golden beside it is what the reference
-// Python implementation produced *from that same masked cassette*, so the pair
-// is self-consistent and carries no copyrighted body text. A Go command replays
-// the cassette offline and must land on the same payload.
+// Caixin, with long prose masked. The golden beside it is the payload that
+// command is expected to produce from that same masked cassette, so the pair is
+// self-consistent and carries no copyrighted body text. A command replays the
+// cassette offline and must land on the golden.
 //
-// One documented difference: the reference implementation put `ok` and
-// `schema_version` inside the payload, while the Go port carries them in the
-// envelope where CLI-SPEC §3 puts them. Those two keys are therefore dropped
-// from the golden before comparing; everything else must match exactly.
+// The goldens predate the envelope settling: they carry `ok` and
+// `schema_version` inside the payload, while CLI-SPEC §3 puts both in the
+// envelope. Those two keys are therefore dropped from the golden before
+// comparing; everything else must match exactly.
 
 type interaction struct {
 	Request struct {
@@ -146,8 +146,8 @@ func replayServer(t *testing.T, recorded cassette) *httptest.Server {
 	return server
 }
 
-// convergedCases have byte-for-byte parity with the reference implementation
-// and are asserted on every run. A regression here fails the build.
+// convergedCases match their golden byte for byte and are asserted on every
+// run. A regression here fails the build.
 var convergedCases = []string{
 	"channels",
 	"search_menu",
@@ -221,16 +221,17 @@ var convergedCases = []string{
 // re-diagnosis.
 var pendingCases = map[string]string{
 	// Both goldens under-report one sidebar list. The page leaves an <a> open
-	// inside the first <li>; libxml2 (the reference's parser) then nests the
-	// following rows inside that anchor, so `./ul/li` finds one row where the
-	// markup has five. Measured directly against the recorded page: libxml2
-	// returns 1 row, Go's HTML5 parser returns 5, and the four it recovers each
-	// carry a distinct article. Go matches what a browser shows, so converging
-	// here would mean reproducing a parser bug.
-	"snapshot_mini": "reference parser drops four sidebar rows; Go matches the browser",
-	"snapshot_en":   "reference parser drops four sidebar rows; Go matches the browser",
+	// inside the first <li>; the libxml2-based parser these goldens were
+	// recorded with then nests the following rows inside that anchor, so
+	// `./ul/li` finds one row where the markup has five. Measured directly
+	// against the recorded page: libxml2 returns 1 row, Go's HTML5 parser
+	// returns 5, and the four it recovers each carry a distinct article. The CLI
+	// matches what a browser shows, so converging here would mean reproducing a
+	// parser bug -- these two goldens are wrong, the extraction is not.
+	"snapshot_mini": "the golden's parser drops four sidebar rows; the CLI matches the browser",
+	"snapshot_en":   "the golden's parser drops four sidebar rows; the CLI matches the browser",
 	"bloggers_directory": "the golden is the directory-module shape the HTML layer builds " +
-		"(modules, pagination, visibility flags), and that layer is not ported; the JSON " +
+		"(modules, pagination, visibility flags), and that layer is not implemented; the JSON " +
 		"half of the command works, but its envelope shape belongs there",
 
 	// The remaining editorial surface. Each entry names the page template that
@@ -241,7 +242,7 @@ var pendingCases = map[string]string{
 	"public_directory_promote": "the item set matches the golden exactly (nothing extra, " +
 		"nothing missing) and every consumer agrees; only the module traversal order " +
 		"differs, so items land in a different sequence. The `tuijian` root selector " +
-		"resolves to a different node than the reference's did -- fix that and it converges",
+		"resolves to a different node than the golden's did -- fix that and it converges",
 }
 
 // fixturesRecordedAt is when the corpus under testdata/ was recorded. It landed
@@ -264,7 +265,7 @@ func pinFixtureClock(t *testing.T) {
 	t.Cleanup(caixin.SetNow(func() time.Time { return fixturesRecordedAt }))
 }
 
-func TestFixtures_GoPortMatchesRecordedGoldens(t *testing.T) {
+func TestFixtures_MatchRecordedGoldens(t *testing.T) {
 	pinFixtureClock(t)
 	for _, name := range convergedCases {
 		t.Run(name, func(t *testing.T) {
@@ -338,7 +339,7 @@ func compareGolden(t *testing.T, name string, golden, actual map[string]any) {
 		}
 	}
 	if len(extra) > 0 {
-		t.Logf("%s: Go output adds keys the reference did not emit: %v", name, extra)
+		t.Logf("%s: output adds keys the golden does not carry: %v", name, extra)
 	}
 }
 
@@ -418,22 +419,15 @@ func TestFixtures_PendingCasesStillReplay(t *testing.T) {
 	}
 }
 
-// stripRouteArgv removes the argv from any embedded route verdict before a
-// golden comparison.
-//
-// The reference implementation records the command as its own python
-// invocation, interpreter path and all. A Go binary cannot reproduce that and
-// should not try: the verdict -- which adapter, which canonical url, whether
-// discovery is required -- is the contract, and that is still compared in full.
-// stripUntrusted removes the `_untrusted` marker from both sides of a parity
+// stripUntrusted removes the `_untrusted` marker from both sides of a golden
 // comparison.
 //
-// This is a deliberate, single divergence from the reference implementation: it
-// emitted `_untrusted: true`, while SEC-SPEC §2 requires the marker to *name*
-// the externally-controlled fields so an agent knows which values to quarantine.
-// The Go port emits that array. Content parity is what these fixtures exist to
-// prove, so the marker is compared by TestFixtures_UntrustedMatchesDeclaredSchema
-// against the declared schema instead of against the old goldens.
+// The goldens carry a bare `_untrusted: true`, while SEC-SPEC §2 requires the
+// marker to *name* the externally-controlled fields so an agent knows which
+// values to quarantine. The CLI emits that array. Payload content is what these
+// fixtures exist to prove, so the marker is checked by
+// TestFixtures_UntrustedMatchesDeclaredSchema against the declared schema
+// instead of against the goldens.
 func stripUntrusted(value any) any {
 	switch typed := value.(type) {
 	case map[string]any:
@@ -456,12 +450,12 @@ func stripUntrusted(value any) any {
 	}
 }
 
-// stripReason drops human prose from both sides of a parity comparison.
+// stripReason drops human prose from both sides of a golden comparison.
 //
-// `reason` explains a routing verdict to a person; the Go port writes it in
-// English while the reference implementation wrote Chinese. The machine-readable
-// half of that verdict -- `boundary`, `adapter`, `supported`, `command` -- is
-// still compared exactly, which is what an agent actually branches on.
+// `reason` explains a routing verdict to a person; the CLI writes it in English
+// while the goldens recorded it in Chinese. The machine-readable half of that
+// verdict -- `boundary`, `adapter`, `supported`, `command` -- is still compared
+// exactly, which is what an agent actually branches on.
 func stripReason(value any) any {
 	switch typed := value.(type) {
 	case map[string]any:
@@ -511,6 +505,13 @@ func stripFetchedAt(value any) any {
 	}
 }
 
+// stripRouteArgv removes the argv from any embedded route verdict before a
+// golden comparison.
+//
+// The goldens record the command as the argv of whatever recorded them,
+// interpreter path and all. The binary cannot reproduce that and should not
+// try: the verdict -- which adapter, which canonical url, whether discovery is
+// required -- is the contract, and that is still compared in full.
 func stripRouteArgv(value any) any {
 	switch typed := value.(type) {
 	case map[string]any:

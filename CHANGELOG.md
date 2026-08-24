@@ -26,6 +26,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   parser behaviour instead of today's date. The dated-URL `historical_fallback`
   check reads the same clock, which would otherwise have flipped on New Year's
   Day. Production behaviour is unchanged: the clock is `time.Now`.
+- `stripRouteArgv`'s doc comment sat above `stripUntrusted`'s instead of above
+  its own function, so godoc attached nothing to `stripRouteArgv` and showed the
+  two comments merged on `stripUntrusted`. Moved to the function it documents.
 
 ### Changed
 
@@ -35,6 +38,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   contract explicitly (no-op check before any package-manager command, and both
   successful and no-op results report `current_version == target_version` with
   `update_available: false`).
+- **Dropped the "port of a Python reference implementation" framing from the
+  code comments.** It described a throwaway demo, not this tool's history — the
+  first release was Go — and it read as if some other implementation were the
+  authority on correct behaviour. Seventeen comments across `cmd/` and
+  `internal/caixin/` now describe what things actually are: the fixture goldens
+  are recorded expectations, the endpoint tables are generated from the measured
+  endpoint inventory, and the design notes give their own reasons instead of
+  citing a predecessor. `TestFixtures_GoPortMatchesRecordedGoldens` is renamed
+  `TestFixtures_MatchRecordedGoldens`. Comments and one test name; no behaviour
+  change.
+- **`CONTRIBUTING.md` now documents the build this repo actually has.** The
+  Development setup told contributors to run `pip install -e ".[dev]"`,
+  `python build.py` and `pytest tests/ -v` — none of which exist here. It was
+  template boilerplate whose Go block was never swapped in, right down to the
+  leftover "keep ONE block below, delete the others" instruction. Replaced with
+  the real `make build` / `make test` flow and a Go-only command table.
 
 ## [1.0.1] - 2026-08-12
 
@@ -244,10 +263,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   call for different agent behaviour.
 - `login` / `login-resume` — QR sign-in. `login` writes the QR image and stops
   with `E_HUMAN_REQUIRED` (exit 9); `login-resume` checks once. Neither polls:
-  the reference implementation's `qr-wait` looped on a deadline, which blocks an
-  agent on a human's schedule and makes the timeout the tool's choice rather
-  than the caller's (CLI-SPEC §16.3). This closes the gap where a fresh install
-  had no way to obtain a session at all.
+  a command that loops on a deadline waiting for a scan blocks an agent on a
+  human's schedule and makes the timeout the tool's choice rather than the
+  caller's (CLI-SPEC §16.3). This closes the gap where a fresh install had no
+  way to obtain a session at all.
 - `entitlements` — what the signed-in account may actually read, from the
   account service rather than inferred from a fetch succeeding. It reads the
   main subscription, the per-feature grant catalog, and the single-article

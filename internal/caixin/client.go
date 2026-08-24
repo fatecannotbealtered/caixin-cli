@@ -90,11 +90,11 @@ type Client struct {
 
 // nextCallback yields a deterministic JSONP callback id.
 //
-// The reference implementation derived it from the wall clock, which upstream
-// echoes back and the client then matches exactly -- meaning two identical
-// invocations produced different requests and no recorded response could ever
-// be replayed. A per-client counter keeps the handshake unique per call while
-// staying reproducible.
+// Deriving it from the wall clock is the obvious choice and the wrong one:
+// upstream echoes the id back and the client then matches it exactly, so two
+// identical invocations would produce different requests and no recorded
+// response could ever be replayed. A per-client counter keeps the handshake
+// unique per call while staying reproducible.
 func (c *Client) nextCallback() int {
 	c.callbackMu.Lock()
 	defer c.callbackMu.Unlock()

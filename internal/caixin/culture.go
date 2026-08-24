@@ -26,7 +26,7 @@ type cultureSection struct {
 	Subject int
 }
 
-// CultureSections is the exact set of measured sections, ported verbatim.
+// CultureSections is the exact set of measured sections.
 var CultureSections = map[string]cultureSection{
 	"zhuanlan":      {"专栏", 100798791},
 	"novel":         {"文学", 100226579},

@@ -21,9 +21,7 @@ import (
 //
 // Neither polls. A command that sat in a loop waiting for a scan would block an
 // agent for minutes, hide the human action behind a spinner, and make the
-// timeout the tool's decision rather than the caller's. The reference
-// implementation's `qr-wait` did poll with a deadline; that is the behaviour
-// this deliberately does not port.
+// timeout the tool's decision rather than the caller's.
 
 // pendingLoginFile holds the handshake between the two commands.
 const pendingLoginFile = "login-pending.json"

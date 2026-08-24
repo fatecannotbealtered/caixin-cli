@@ -12,8 +12,8 @@ import (
 
 var whitespaceRun = regexp.MustCompile(`\s+`)
 
-// asString renders a decoded JSON scalar the way the reference implementation
-// does, so ids compare equal whether upstream sent 12 or "12".
+// asString renders a decoded JSON scalar as text, so ids compare equal whether
+// upstream sent 12 or "12".
 func asString(value any) string {
 	switch typed := value.(type) {
 	case nil:
@@ -76,8 +76,8 @@ func isoTimestamp(value any) any {
 // embeds markup in title and summary fields.
 //
 // Non-string scalars are stringified rather than discarded: upstream sends some
-// fields (timestamps, ids) as numbers, and dropping them silently loses data the
-// reference implementation emits.
+// fields (timestamps, ids) as numbers, and dropping them would silently lose
+// data the caller asked for.
 func plainText(value any) string {
 	if value == nil {
 		return ""
@@ -228,8 +228,9 @@ func NormalizeFrontlineItem(value any) map[string]any {
 	}
 }
 
-// emptyToNil renders an absent value as JSON null rather than "". The reference
-// implementation distinguishes the two and agents branch on null.
+// emptyToNil renders an absent value as JSON null rather than "". The two are
+// different claims -- missing versus present-and-empty -- and agents branch on
+// null.
 func emptyToNil(value string) any {
 	if value == "" {
 		return nil
@@ -367,8 +368,8 @@ func relatedNews(item map[string]any) map[string]any {
 	return news
 }
 
-// NormalizeCXDataItem maps one Caixin Data feed row, keeping the reference
-// implementation's full field set rather than a lossy subset.
+// NormalizeCXDataItem maps one Caixin Data feed row, keeping the feed's full
+// field set rather than a lossy subset.
 func NormalizeCXDataItem(value any, category string) map[string]any {
 	item, ok := value.(map[string]any)
 	if !ok || strings.EqualFold(asString(item["flag"]), "ad") {

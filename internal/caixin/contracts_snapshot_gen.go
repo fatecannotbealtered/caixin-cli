@@ -1,6 +1,6 @@
 package caixin
 
-// Snapshot entry points, ported verbatim from the reference contract module.
+// Snapshot entry points, generated from the measured endpoint inventory.
 //
 // This is an allowlist, not a pattern: `snapshot` accepts only the exact page
 // entries whose markup has actually been measured. A page shaped differently
@@ -107,7 +107,7 @@ var PublicDirectoryAliases = map[string]string{
 	"https://promote.caixin.com/topic#list_more":   "https://promote.caixin.com/topic/",
 }
 
-// Login endpoints, ported verbatim from the reference contract module.
+// Login endpoints, generated from the measured endpoint inventory.
 const (
 	QRStartURL  = "https://gateway.caixin.com/api/ucenter/scan/v1/genQRCode"
 	QRStatusURL = "https://gateway.caixin.com/api/ucenter/scan/v1/checkQRCodeStatus"
@@ -115,7 +115,7 @@ const (
 )
 
 // loginCookieFields maps a session cookie to the login response field that
-// fills it. Ported verbatim so the set cannot drift.
+// fills it. Generated, not hand-maintained, so the set cannot drift.
 var loginCookieFields = map[string]string{
 	"SA_USER_auth":        "userAuth",
 	"UID":                 "uid",
@@ -127,7 +127,7 @@ var loginCookieFields = map[string]string{
 	"SA_AUTH_TYPE":        "authType",
 }
 
-// Entitlement endpoints, ported verbatim from the reference contract module.
+// Entitlement endpoints, generated from the measured endpoint inventory.
 const (
 	EntitlementsURL    = "https://gateway.caixin.com/api/app-api/userAuth/getUserUseGoodsTypeV2"
 	PowerCatalogURL    = "https://gateway.caixin.com/api/app-api/auth/findPowerByReq"

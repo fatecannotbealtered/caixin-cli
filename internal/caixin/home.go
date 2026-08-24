@@ -102,8 +102,7 @@ func homeModules(doc *xhtml.Node, pageURL string) ([]snapshotModule, error) {
 }
 
 // homeSidebarLabels name the sidebar blocks the front page is known to carry.
-// The order is fixed because the labels overlap: the first match wins, exactly
-// as in the reference.
+// The order is fixed because the labels overlap: the first match wins.
 var homeSidebarLabels = []struct{ label, key string }{
 	{"热选", "home.hot"},
 	{"观点", "home.opinion"},

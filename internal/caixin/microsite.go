@@ -21,7 +21,7 @@ import (
 // Nothing here reads prose. `arbitrary_text_not_extracted` says so on the way
 // out, and the only text kept is the label on a link.
 
-// micrositeEntrypoints is the exact set of measured microsites, ported verbatim.
+// micrositeEntrypoints is the exact set of measured microsites.
 var micrositeEntrypoints = buildMicrositeEntrypoints()
 
 func buildMicrositeEntrypoints() map[string]string {

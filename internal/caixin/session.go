@@ -129,14 +129,14 @@ func clearCookies(stateDir string) error {
 }
 
 // legacyPlaintextNames are the files that have ever held this account's
-// credentials in the clear. The Python-era names are included because a state
-// directory carried over from that implementation still has them, and nothing
-// reads them any more -- so they are pure exposure.
+// credentials in the clear. Names from older local tooling are included because
+// a state directory carried over from it still has them, and nothing reads any
+// of these any more -- so they are pure exposure.
 var legacyPlaintextNames = []string{
-	"cookies.json",    // the Go build's own pre-encryption session
-	"signing-key.pem", // the Go build's own pre-encryption signing key
+	"cookies.json",    // this tool's own pre-encryption session
+	"signing-key.pem", // this tool's own pre-encryption signing key
 	"pw-state.json",   // browser storage state, with the full cookie jar
-	"session.dat",     // the reference implementation's session
+	"session.dat",     // a session file older local tooling left behind
 	"qr-state.dat",    // a pending QR login, which carries a login token
 }
 

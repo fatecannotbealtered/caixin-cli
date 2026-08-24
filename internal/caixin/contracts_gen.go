@@ -1,8 +1,8 @@
 // Package caixin implements the read-only Caixin web API client.
 //
-// The endpoint tables below are ported verbatim from the reference Python
-// implementation's contract module. They were generated mechanically rather
-// than retyped so the allowlists and display names cannot drift.
+// The endpoint tables below are generated from the measured endpoint
+// inventory rather than retyped, so the allowlists and display names cannot
+// drift.
 
 package caixin
 
