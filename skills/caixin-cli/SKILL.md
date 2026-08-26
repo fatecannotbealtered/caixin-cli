@@ -1,10 +1,10 @@
 ---
 name: caixin-cli
-version: "1.0.1"
+version: "1.0.2"
 description: "Reads Caixin (财新) public news feeds, channel menus, keyword search, topic directories, 财新数据通 feeds, 财新一线 flash news, the blogger directory, and company/person previews over pure HTTP with no browser, and reads a single article — the opening excerpt by default, or the full body with --full when the signed-in account is entitled to it. It also classifies any clicked Caixin URL locally into the command that would consume it. Use for requests about 财新/Caixin news, reading or summarizing a Caixin article, searching Caixin, browsing Caixin topics or channels, or deciding how to open a Caixin link. It never posts, purchases, or reads anything the account is not entitled to."
 license: MIT
 user-invocable: true
-metadata: {"requires":{"bins":["caixin-cli"],"min_version":"1.0.1"}}
+metadata: {"requires":{"bins":["caixin-cli"],"min_version":"1.0.2"}}
 ---
 
 # caixin-cli

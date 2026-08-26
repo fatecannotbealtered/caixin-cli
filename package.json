@@ -1,6 +1,6 @@
 {
   "name": "@fateforge/caixin-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Caixin (财新) CLI for AI Agents - read-only access to the homepage, channels, directories, search, topics, magazine issues, and articles the subscription entitles the user to",
   "license": "MIT",
   "author": "Sean Guo",
@@ -21,12 +21,12 @@
     "live-smoke": "node scripts/live-smoke.js"
   },
   "optionalDependencies": {
-    "@fateforge/caixin-cli-darwin-arm64": "1.0.1",
-    "@fateforge/caixin-cli-darwin-x64": "1.0.1",
-    "@fateforge/caixin-cli-linux-arm64": "1.0.1",
-    "@fateforge/caixin-cli-linux-x64": "1.0.1",
-    "@fateforge/caixin-cli-win32-arm64": "1.0.1",
-    "@fateforge/caixin-cli-win32-x64": "1.0.1"
+    "@fateforge/caixin-cli-darwin-arm64": "1.0.2",
+    "@fateforge/caixin-cli-darwin-x64": "1.0.2",
+    "@fateforge/caixin-cli-linux-arm64": "1.0.2",
+    "@fateforge/caixin-cli-linux-x64": "1.0.2",
+    "@fateforge/caixin-cli-win32-arm64": "1.0.2",
+    "@fateforge/caixin-cli-win32-x64": "1.0.2"
   },
   "files": [
     "scripts/run.js",
