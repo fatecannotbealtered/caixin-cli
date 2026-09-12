@@ -3,7 +3,7 @@ module github.com/fatecannotbealtered/caixin-cli
 go 1.26.6
 
 require (
-	github.com/andybalholm/cascadia v1.3.4
+	github.com/andybalholm/cascadia v1.3.5
 	github.com/antchfx/htmlquery v1.3.6
 	github.com/chromedp/cdproto v0.0.0-20260714215040-dc233986426f
 	github.com/chromedp/chromedp v0.16.0
